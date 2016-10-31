@@ -1,0 +1,160 @@
+{
+    "created_at": "Thu Oct 27 01:44:55 +0000 2016",
+    "hashtags": [
+        {
+            "text": "PortStrike"
+        }
+    ],
+    "id": 791455605370200064,
+    "id_str": "791455605370200064",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Wed Oct 26 13:25:52 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "PortStrike"
+            }
+        ],
+        "id": 791269619063324672,
+        "id_str": "791269619063324672",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FWsKyr9SJ1",
+                "expanded_url": "https://twitter.com/PortDriverUnion/status/791269619063324672/photo/1",
+                "id": 791268291561914368,
+                "media_url": "http://pbs.twimg.com/media/CvsmUaCUAAAcb8q.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CvsmUaCUAAAcb8q.jpg",
+                "type": "photo",
+                "url": "https://t.co/FWsKyr9SJ1"
+            },
+            {
+                "display_url": "pic.twitter.com/FWsKyr9SJ1",
+                "expanded_url": "https://twitter.com/PortDriverUnion/status/791269619063324672/photo/1",
+                "id": 791269014718730241,
+                "media_url": "http://pbs.twimg.com/media/Cvsm-gAVUAEKC-_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cvsm-gAVUAEKC-_.jpg",
+                "type": "photo",
+                "url": "https://t.co/FWsKyr9SJ1"
+            },
+            {
+                "display_url": "pic.twitter.com/FWsKyr9SJ1",
+                "expanded_url": "https://twitter.com/PortDriverUnion/status/791269619063324672/photo/1",
+                "id": 791269379933515776,
+                "media_url": "http://pbs.twimg.com/media/CvsnTwiUsAAOV2L.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CvsnTwiUsAAOV2L.jpg",
+                "type": "photo",
+                "url": "https://t.co/FWsKyr9SJ1"
+            }
+        ],
+        "retweet_count": 9,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Shout out to @JoeBuscaino @lenagonzalezlb @Jeannine4D2 @RobertoUranga for your support of the #PortStrike https://t.co/FWsKyr9SJ1",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Aug 12 22:16:47 +0000 2013",
+            "description": "Port truck drivers across the country are fighting employee misclassification and organizing for dignity and respect. #Teamsters #Justice4PortDrivers",
+            "favourites_count": 477,
+            "followers_count": 1845,
+            "friends_count": 2128,
+            "geo_enabled": true,
+            "id": 1666171921,
+            "lang": "en",
+            "listed_count": 59,
+            "location": "U.S.A.",
+            "name": "Justice4PortDrivers!",
+            "profile_background_color": "11DBC0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116751405/95213b4f62db2a169bef105aa38f7542.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1666171921/1405130964",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/687396617377464321/IIuET18C_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "PortDriverUnion",
+            "statuses_count": 3732,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/TFmOcqMGDt",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 341250146,
+                "name": "Joe Buscaino",
+                "screen_name": "JoeBuscaino"
+            },
+            {
+                "id": 55487106,
+                "name": "Lena A. Gonzalez",
+                "screen_name": "lenagonzalezlb"
+            },
+            {
+                "id": 4127559133,
+                "name": "Jeannine Pearce",
+                "screen_name": "Jeannine4D2"
+            },
+            {
+                "id": 1946157084,
+                "name": "Roberto Uranga",
+                "screen_name": "RobertoUranga"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PortDriverUnion: Shout out to @JoeBuscaino @lenagonzalezlb @Jeannine4D2 @RobertoUranga for your support of the #PortStrike https://t.co…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Oct 08 08:12:15 +0000 2013",
+        "default_profile": true,
+        "description": "Councilmember for Long Beach's Seventh Council District with an extensive record of community service in Long Beach and nationally. #LBCD7",
+        "favourites_count": 212,
+        "followers_count": 1349,
+        "friends_count": 697,
+        "geo_enabled": true,
+        "id": 1946157084,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "Long Beach, CA",
+        "name": "Roberto Uranga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946157084/1457045376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626124091058098177/0DIuXOTc_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertoUranga",
+        "statuses_count": 1706,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DatliYapBe",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 1666171921,
+            "name": "Justice4PortDrivers!",
+            "screen_name": "PortDriverUnion"
+        },
+        {
+            "id": 341250146,
+            "name": "Joe Buscaino",
+            "screen_name": "JoeBuscaino"
+        },
+        {
+            "id": 55487106,
+            "name": "Lena A. Gonzalez",
+            "screen_name": "lenagonzalezlb"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        },
+        {
+            "id": 1946157084,
+            "name": "Roberto Uranga",
+            "screen_name": "RobertoUranga"
+        }
+    ]
+}

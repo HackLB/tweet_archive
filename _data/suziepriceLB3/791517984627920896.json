@@ -1,0 +1,140 @@
+{
+    "created_at": "Thu Oct 27 05:52:47 +0000 2016",
+    "hashtags": [
+        {
+            "text": "longbeach"
+        }
+    ],
+    "id": 791517984627920896,
+    "id_str": "791517984627920896",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Oct 25 16:11:43 +0000 2016",
+        "hashtags": [
+            {
+                "text": "longbeach"
+            },
+            {
+                "text": "communitymatters"
+            }
+        ],
+        "id": 790948968125509632,
+        "id_str": "790948968125509632",
+        "in_reply_to_screen_name": "suziepriceLB3",
+        "in_reply_to_status_id": 790745106403893248,
+        "in_reply_to_user_id": 2317854206,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@suziepriceLB3 Thank you for taking every night this week to meet with your District. It all matters. #longbeach #communitymatters",
+        "urls": [],
+        "user": {
+            "created_at": "Fri May 22 02:14:57 +0000 2009",
+            "description": "Realtor, Leading with the heart, living as if everyday is a miracle, trying to make the world just a little better than I found it.",
+            "favourites_count": 1477,
+            "followers_count": 207,
+            "friends_count": 247,
+            "geo_enabled": true,
+            "id": 41730090,
+            "lang": "en",
+            "listed_count": 22,
+            "location": "Long Beach, CA",
+            "name": "Katie Kimbell Larson",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/14673262/Twitter_and_tripadvisor.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41730090/1418030730",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/696527000270340096/5By2WU0k_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "CAKatie",
+            "statuses_count": 2429,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/lFGjvTGtqI",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 2317854206,
+                "name": "Suzie Price",
+                "screen_name": "suziepriceLB3"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CAKatie: @suziepriceLB3 Thank you for taking every night this week to meet with your District. It all matters. #longbeach #communitymat…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 61,
+        "followers_count": 1787,
+        "friends_count": 1956,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1471647160",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1164,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 41730090,
+            "name": "Katie Kimbell Larson",
+            "screen_name": "CAKatie"
+        },
+        {
+            "id": 2317854206,
+            "name": "Suzie Price",
+            "screen_name": "suziepriceLB3"
+        }
+    ]
+}

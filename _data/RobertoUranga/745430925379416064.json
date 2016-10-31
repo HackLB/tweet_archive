@@ -1,0 +1,92 @@
+{
+    "created_at": "Wed Jun 22 01:39:16 +0000 2016",
+    "hashtags": [],
+    "id": 745430925379416064,
+    "id_str": "745430925379416064",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jun 22 01:39:02 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 745430866193584128,
+        "id_str": "745430866193584128",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Councilman @RobertoUranga says the voters have spoken, to the tune of 32,000 signatures currently being verified by city clerk.",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 04 06:49:22 +0000 2012",
+            "description": "Reporter for the Long Beach Post, adventurer and dog enthusiast.",
+            "favourites_count": 2188,
+            "followers_count": 604,
+            "friends_count": 410,
+            "id": 544902812,
+            "lang": "en",
+            "listed_count": 17,
+            "location": "Long Beach, CA",
+            "name": "Jason Ruiz",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/544902812/1421870133",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/765893538525569028/0V_Rvwev_normal.jpg",
+            "profile_link_color": "2C83CF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "JasonRuiz_LB",
+            "statuses_count": 2623,
+            "time_zone": "Arizona",
+            "url": "https://t.co/tvC0tIszhD",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 1946157084,
+                "name": "Roberto Uranga",
+                "screen_name": "RobertoUranga"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JasonRuiz_LB: Councilman @RobertoUranga says the voters have spoken, to the tune of 32,000 signatures currently being verified by city…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Oct 08 08:12:15 +0000 2013",
+        "default_profile": true,
+        "description": "Councilmember for Long Beach's Seventh Council District with an extensive record of community service in Long Beach and nationally. #LBCD7",
+        "favourites_count": 212,
+        "followers_count": 1349,
+        "friends_count": 697,
+        "geo_enabled": true,
+        "id": 1946157084,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "Long Beach, CA",
+        "name": "Roberto Uranga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946157084/1457045376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626124091058098177/0DIuXOTc_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertoUranga",
+        "statuses_count": 1706,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DatliYapBe",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 544902812,
+            "name": "Jason Ruiz",
+            "screen_name": "JasonRuiz_LB"
+        },
+        {
+            "id": 1946157084,
+            "name": "Roberto Uranga",
+            "screen_name": "RobertoUranga"
+        }
+    ]
+}

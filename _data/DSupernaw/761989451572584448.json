@@ -1,0 +1,135 @@
+{
+    "created_at": "Sat Aug 06 18:16:56 +0000 2016",
+    "hashtags": [
+        {
+            "text": "MondayMotivation"
+        },
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 761989451572584448,
+    "id_str": "761989451572584448",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/QHZR7h1HKF",
+            "expanded_url": "https://twitter.com/LongBeachPW/status/757645486048149506/photo/1",
+            "id": 757639433411624961,
+            "media_url": "http://pbs.twimg.com/media/CoOtDPBUAAEmxJG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CoOtDPBUAAEmxJG.jpg",
+            "type": "photo",
+            "url": "https://t.co/QHZR7h1HKF"
+        },
+        {
+            "display_url": "pic.twitter.com/QHZR7h1HKF",
+            "expanded_url": "https://twitter.com/LongBeachPW/status/757645486048149506/photo/1",
+            "id": 757639451900153858,
+            "media_url": "http://pbs.twimg.com/media/CoOtET5UkAIZnHu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CoOtET5UkAIZnHu.jpg",
+            "type": "photo",
+            "url": "https://t.co/QHZR7h1HKF"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Jul 25 18:35:34 +0000 2016",
+        "favorite_count": 19,
+        "hashtags": [
+            {
+                "text": "MondayMotivation"
+            },
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 757645486048149506,
+        "id_str": "757645486048149506",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QHZR7h1HKF",
+                "expanded_url": "https://twitter.com/LongBeachPW/status/757645486048149506/photo/1",
+                "id": 757639433411624961,
+                "media_url": "http://pbs.twimg.com/media/CoOtDPBUAAEmxJG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CoOtDPBUAAEmxJG.jpg",
+                "type": "photo",
+                "url": "https://t.co/QHZR7h1HKF"
+            },
+            {
+                "display_url": "pic.twitter.com/QHZR7h1HKF",
+                "expanded_url": "https://twitter.com/LongBeachPW/status/757645486048149506/photo/1",
+                "id": 757639451900153858,
+                "media_url": "http://pbs.twimg.com/media/CoOtET5UkAIZnHu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CoOtET5UkAIZnHu.jpg",
+                "type": "photo",
+                "url": "https://t.co/QHZR7h1HKF"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#MondayMotivation another successful street rehab complete! Park btwn PCH &amp; Atherton #LongBeach https://t.co/QHZR7h1HKF",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+            "default_profile": true,
+            "description": "Long Beach Public Works Department",
+            "favourites_count": 196,
+            "followers_count": 636,
+            "friends_count": 214,
+            "id": 3298654412,
+            "lang": "en",
+            "listed_count": 30,
+            "location": "Long Beach, CA",
+            "name": "Long Beach PW",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachPW",
+            "statuses_count": 1143,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/SoQaC9cS7M",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "text": "RT @LongBeachPW: #MondayMotivation another successful street rehab complete! Park btwn PCH &amp; Atherton #LongBeach https://t.co/QHZR7h1HKF",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Mar 21 09:11:35 +0000 2010",
+        "default_profile": true,
+        "description": "Councilman, Fourth District",
+        "favourites_count": 12,
+        "followers_count": 51,
+        "friends_count": 43,
+        "geo_enabled": true,
+        "id": 124994539,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Long Beach, CA",
+        "name": "Daryl Supernaw",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124994539/1470059945",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716478598333341697/CbX5MtqH_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "DSupernaw",
+        "statuses_count": 29,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/AP5Yd7ROhC",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 3298654412,
+            "name": "Long Beach PW",
+            "screen_name": "LongBeachPW"
+        }
+    ]
+}
