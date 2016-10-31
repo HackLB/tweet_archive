@@ -26,7 +26,7 @@ def get_user_directory(user):
     Gets the root directory where a given user's Tweets should be saved.
     Creates the directory automatically if it doesn't exist.
     """
-    user_path = os.path.join(data_path, user)
+    user_path = os.path.join(data_path, user.lower())
     os.makedirs(user_path, exist_ok=True)
     return user_path
 
