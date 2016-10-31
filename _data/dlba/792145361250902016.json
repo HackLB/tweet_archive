@@ -1,0 +1,140 @@
+{
+    "created_at": "Fri Oct 28 23:25:46 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Cemetery"
+        }
+    ],
+    "id": 792145361250902016,
+    "id_str": "792145361250902016",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Oct 28 23:16:53 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "Cemetery"
+            }
+        ],
+        "id": 792143127477792769,
+        "id_str": "792143127477792769",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/myCQvEFGS4",
+                "expanded_url": "https://twitter.com/historylbc/status/792143127477792769/photo/1",
+                "id": 792142003567898624,
+                "media_url": "http://pbs.twimg.com/media/Cv5A9I5UsAA93Un.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cv5A9I5UsAA93Un.jpg",
+                "type": "photo",
+                "url": "https://t.co/myCQvEFGS4"
+            },
+            {
+                "display_url": "pic.twitter.com/myCQvEFGS4",
+                "expanded_url": "https://twitter.com/historylbc/status/792143127477792769/photo/1",
+                "id": 792142077958029313,
+                "media_url": "http://pbs.twimg.com/media/Cv5BBeBUAAEmWbf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cv5BBeBUAAEmWbf.jpg",
+                "type": "photo",
+                "url": "https://t.co/myCQvEFGS4"
+            },
+            {
+                "display_url": "pic.twitter.com/myCQvEFGS4",
+                "expanded_url": "https://twitter.com/historylbc/status/792143127477792769/photo/1",
+                "id": 792142976935792641,
+                "media_url": "http://pbs.twimg.com/media/Cv5B1y-UEAEiYv3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cv5B1y-UEAEiYv3.jpg",
+                "type": "photo",
+                "url": "https://t.co/myCQvEFGS4"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Ready for #Cemetery tour. Great weather, great actors and costumes from @LB_Playhouse \nhttps://t.co/Xl60649vFB https://t.co/myCQvEFGS4",
+        "urls": [
+            {
+                "expanded_url": "http://hslb.org/historical-cemetery-tour",
+                "url": "https://t.co/Xl60649vFB"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 26 17:28:53 +0000 2014",
+            "description": "The Historical Society of Long Beach (HSLB) is a 501 © 3 non-profit organization in Long Beach, CA. The HSLB collects, preserves, and presents local history.",
+            "favourites_count": 40,
+            "followers_count": 342,
+            "friends_count": 222,
+            "geo_enabled": true,
+            "id": 2911167397,
+            "lang": "en",
+            "listed_count": 6,
+            "location": "Long Beach, CA",
+            "name": "HSLB",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2911167397/1417024754",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/542447914262360065/rnayL2SQ_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "historylbc",
+            "statuses_count": 170,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/6jGeXxTyod",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 35643596,
+                "name": "Long Beach Playhouse",
+                "screen_name": "LB_Playhouse"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @historylbc: Ready for #Cemetery tour. Great weather, great actors and costumes from @LB_Playhouse \nhttps://t.co/Xl60649vFB https://t.co…",
+    "urls": [
+        {
+            "expanded_url": "http://hslb.org/historical-cemetery-tour",
+            "url": "https://t.co/Xl60649vFB"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2046,
+        "followers_count": 12701,
+        "friends_count": 703,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4119,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2911167397,
+            "name": "HSLB",
+            "screen_name": "historylbc"
+        },
+        {
+            "id": 35643596,
+            "name": "Long Beach Playhouse",
+            "screen_name": "LB_Playhouse"
+        }
+    ]
+}

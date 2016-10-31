@@ -1,0 +1,127 @@
+{
+    "created_at": "Mon Oct 31 18:55:20 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 793164468880498688,
+    "id_str": "793164468880498688",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Oct 28 20:32:24 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 792101732994027520,
+        "id_str": "792101732994027520",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -117.834663,
+                            34.0182828
+                        ],
+                        [
+                            -117.7111706,
+                            34.0182828
+                        ],
+                        [
+                            -117.7111706,
+                            34.1126181
+                        ],
+                        [
+                            -117.834663,
+                            34.1126181
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Pomona, CA",
+            "id": "6f24e28976abe656",
+            "name": "Pomona",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/6f24e28976abe656.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Congrats to #LongBeach Fire Chief Mike DuRee on being named the new president of the CA Fire Chiefs Association! https://t.co/MXNaPi93Q3",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2dPEiOZ",
+                "url": "https://t.co/MXNaPi93Q3"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 21 23:02:46 +0000 2015",
+            "description": "Assemblymember, #AD70. Father, husband, teacher & Chair of Assembly #Education Committee, Select Committee on #Ports & Select Committee on #Aerospace.",
+            "favourites_count": 466,
+            "followers_count": 1514,
+            "friends_count": 1002,
+            "geo_enabled": true,
+            "id": 3222696132,
+            "lang": "en",
+            "listed_count": 69,
+            "location": "Long Beach, CA",
+            "name": "Patrick O'Donnell",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3222696132/1433224628",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/601525679121805312/EP49xbP8_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AsmPatODonnell",
+            "statuses_count": 1000,
+            "url": "https://t.co/GAh95s1MtB"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AsmPatODonnell: Congrats to #LongBeach Fire Chief Mike DuRee on being named the new president of the CA Fire Chiefs Association! https:…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "Many Unique Neighborhoods, One Great City. Follow us to get the scoop straight from the Long Beach City Manager's Office.   Also at https://t.co/cahGxgDjPQ.",
+        "favourites_count": 180,
+        "followers_count": 62431,
+        "friends_count": 1223,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 445,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6337,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3222696132,
+            "name": "Patrick O'Donnell",
+            "screen_name": "AsmPatODonnell"
+        }
+    ]
+}

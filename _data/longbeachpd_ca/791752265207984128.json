@@ -1,0 +1,102 @@
+{
+    "created_at": "Thu Oct 27 21:23:44 +0000 2016",
+    "hashtags": [],
+    "id": 791752265207984128,
+    "id_str": "791752265207984128",
+    "lang": "en",
+    "retweet_count": 23,
+    "retweeted_status": {
+        "created_at": "Thu Oct 27 20:55:36 +0000 2016",
+        "favorite_count": 43,
+        "hashtags": [],
+        "id": 791745185898045440,
+        "id_str": "791745185898045440",
+        "lang": "en",
+        "retweet_count": 23,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@lblifeguard rescue a live owl caught in fishing line hanging off the 2nd St. bridge. The owl was released to .… https://t.co/UtpEaqctDE",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/791745185898045440",
+                "url": "https://t.co/UtpEaqctDE"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+            "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+            "favourites_count": 556,
+            "followers_count": 4804,
+            "friends_count": 185,
+            "geo_enabled": true,
+            "id": 18952042,
+            "lang": "en",
+            "listed_count": 182,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Fire",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "lbfd",
+            "statuses_count": 2233,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/y8zfCjTY2R",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 481374287,
+                "name": "Long Beach Lifeguard",
+                "screen_name": "lblifeguard"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @lbfd: .@lblifeguard rescue a live owl caught in fishing line hanging off the 2nd St. bridge. The owl was released to .@LBAnimalCare for…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4244,
+        "followers_count": 8523,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 231,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5949,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 481374287,
+            "name": "Long Beach Lifeguard",
+            "screen_name": "lblifeguard"
+        },
+        {
+            "id": 124383621,
+            "name": "Animal Care Services",
+            "screen_name": "LBAnimalCare"
+        }
+    ]
+}

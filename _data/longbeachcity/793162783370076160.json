@@ -1,0 +1,49 @@
+{
+    "created_at": "Mon Oct 31 18:48:38 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 793162783370076160,
+    "id_str": "793162783370076160",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "How @LongBeachPD_CA officers are building positive relationships, one doughnut at a time: https://t.co/Tj9INkeTPx",
+    "urls": [
+        {
+            "expanded_url": "http://www.gazettes.com/entertainment/long-beach-program-builds-police-relationships-with-doughnuts/article_1b2793a2-9bae-11e6-b3c6-3fc9942fbcdb.html",
+            "url": "https://t.co/Tj9INkeTPx"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "Many Unique Neighborhoods, One Great City. Follow us to get the scoop straight from the Long Beach City Manager's Office.   Also at https://t.co/cahGxgDjPQ.",
+        "favourites_count": 180,
+        "followers_count": 62431,
+        "friends_count": 1223,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 445,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6337,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        }
+    ]
+}

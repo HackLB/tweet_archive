@@ -1,0 +1,139 @@
+{
+    "created_at": "Fri Oct 07 07:05:43 +0000 2016",
+    "hashtags": [
+        {
+            "text": "VinceStapes"
+        },
+        {
+            "text": "VinceIsForTheKids"
+        }
+    ],
+    "id": 784288579014897664,
+    "id_str": "784288579014897664",
+    "lang": "en",
+    "retweet_count": 242,
+    "retweeted_status": {
+        "created_at": "Wed Oct 05 15:56:17 +0000 2016",
+        "favorite_count": 562,
+        "hashtags": [
+            {
+                "text": "VinceStapes"
+            },
+            {
+                "text": "VinceIsForTheKids"
+            }
+        ],
+        "id": 783697326288334848,
+        "id_str": "783697326288334848",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/VaZqqPwnQB",
+                "expanded_url": "https://twitter.com/DefJamRecords/status/783697326288334848/photo/1",
+                "id": 783697322085613572,
+                "media_url": "http://pbs.twimg.com/media/CuBAj-5WgAQvDS8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CuBAj-5WgAQvDS8.jpg",
+                "type": "photo",
+                "url": "https://t.co/VaZqqPwnQB"
+            }
+        ],
+        "retweet_count": 242,
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "text": ".@vincestaples x @LEVIS Watch #VinceStapes empower his community: https://t.co/AhT3fmPGlb #VinceIsForTheKids https://t.co/VaZqqPwnQB",
+        "urls": [
+            {
+                "expanded_url": "http://www.levi.com/US/en_US/features/liveinlevis-vincestaples/?ab=LiveinLevis_LP_main_watch_story_tile_Vince_092616",
+                "url": "https://t.co/AhT3fmPGlb"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 27 00:26:15 +0000 2009",
+            "description": "Def Jam Recordings. Respecting DJs Since 1984.",
+            "favourites_count": 4639,
+            "followers_count": 842351,
+            "friends_count": 189093,
+            "geo_enabled": true,
+            "id": 22085184,
+            "lang": "en",
+            "listed_count": 6733,
+            "location": "New York",
+            "name": "Def Jam Recordings",
+            "profile_background_color": "990000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550443024799395840/djxFDUMa.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22085184/1447471782",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/661190188396343296/VnMqmGTY_normal.png",
+            "profile_link_color": "990000",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "screen_name": "DefJamRecords",
+            "statuses_count": 64834,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/XrdbmIMrxN",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 45090120,
+                "name": "Vince Staples",
+                "screen_name": "vincestaples"
+            },
+            {
+                "id": 203144854,
+                "name": "Levi's®",
+                "screen_name": "LEVIS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @DefJamRecords: .@vincestaples x @LEVIS Watch #VinceStapes empower his community: https://t.co/AhT3fmPGlb #VinceIsForTheKids https://t.c…",
+    "urls": [
+        {
+            "expanded_url": "http://www.levi.com/US/en_US/features/liveinlevis-vincestaples/?ab=LiveinLevis_LP_main_watch_story_tile_Vince_092616",
+            "url": "https://t.co/AhT3fmPGlb"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1291,
+        "followers_count": 2289,
+        "friends_count": 1227,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2084,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 22085184,
+            "name": "Def Jam Recordings",
+            "screen_name": "DefJamRecords"
+        },
+        {
+            "id": 45090120,
+            "name": "Vince Staples",
+            "screen_name": "vincestaples"
+        },
+        {
+            "id": 203144854,
+            "name": "Levi's®",
+            "screen_name": "LEVIS"
+        }
+    ]
+}

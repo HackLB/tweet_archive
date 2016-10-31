@@ -1,0 +1,133 @@
+{
+    "created_at": "Mon Jun 27 00:14:22 +0000 2016",
+    "hashtags": [
+        {
+            "text": "PlayInTheBay"
+        }
+    ],
+    "id": 747221496766947328,
+    "id_str": "747221496766947328",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sun Jun 26 22:49:00 +0000 2016",
+        "favorite_count": 17,
+        "hashtags": [
+            {
+                "text": "PlayInTheBay"
+            }
+        ],
+        "id": 747200013810339840,
+        "id_str": "747200013810339840",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/D95C8BeeBS",
+                "expanded_url": "https://twitter.com/LongBeachCity/status/747200013810339840/photo/1",
+                "id": 747200002368249856,
+                "media_url": "http://pbs.twimg.com/media/Cl6WcX1UoAAJ-iI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cl6WcX1UoAAJ-iI.jpg",
+                "type": "photo",
+                "url": "https://t.co/D95C8BeeBS"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Council @suziepriceLB3 @RobertoUranga &amp; Vice Mayor @SujaLowenthal arrive on watercraft to kick off #PlayInTheBay https://t.co/D95C8BeeBS",
+        "urls": [],
+        "user": {
+            "created_at": "Sat May 09 05:52:27 +0000 2009",
+            "description": "Many Unique Neighborhoods, One Great City. Follow us to get the scoop straight from the Long Beach City Manager's Office.   Also at https://t.co/cahGxgDjPQ.",
+            "favourites_count": 180,
+            "followers_count": 62431,
+            "friends_count": 1223,
+            "geo_enabled": true,
+            "id": 38808088,
+            "lang": "en",
+            "listed_count": 445,
+            "location": "Long Beach, Calif.",
+            "name": "City of Long Beach",
+            "profile_background_color": "00497C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+            "profile_link_color": "00497C",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachCity",
+            "statuses_count": 6337,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/pbU79Tlp",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2317854206,
+                "name": "Suzie Price",
+                "screen_name": "suziepriceLB3"
+            },
+            {
+                "id": 1946157084,
+                "name": "Roberto Uranga",
+                "screen_name": "RobertoUranga"
+            },
+            {
+                "id": 627917634,
+                "name": "Suja Lowenthal",
+                "screen_name": "SujaLowenthal"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachCity: Council @suziepriceLB3 @RobertoUranga &amp; Vice Mayor @SujaLowenthal arrive on watercraft to kick off #PlayInTheBay https:/…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Oct 08 08:12:15 +0000 2013",
+        "default_profile": true,
+        "description": "Councilmember for Long Beach's Seventh Council District with an extensive record of community service in Long Beach and nationally. #LBCD7",
+        "favourites_count": 212,
+        "followers_count": 1349,
+        "friends_count": 697,
+        "geo_enabled": true,
+        "id": 1946157084,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "Long Beach, CA",
+        "name": "Roberto Uranga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946157084/1457045376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626124091058098177/0DIuXOTc_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertoUranga",
+        "statuses_count": 1706,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DatliYapBe",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 2317854206,
+            "name": "Suzie Price",
+            "screen_name": "suziepriceLB3"
+        },
+        {
+            "id": 1946157084,
+            "name": "Roberto Uranga",
+            "screen_name": "RobertoUranga"
+        },
+        {
+            "id": 627917634,
+            "name": "Suja Lowenthal",
+            "screen_name": "SujaLowenthal"
+        }
+    ]
+}

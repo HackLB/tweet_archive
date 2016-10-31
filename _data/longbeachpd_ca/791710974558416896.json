@@ -1,0 +1,139 @@
+{
+    "created_at": "Thu Oct 27 18:39:40 +0000 2016",
+    "hashtags": [
+        {
+            "text": "joinlbpd"
+        },
+        {
+            "text": "lbpd"
+        }
+    ],
+    "id": 791710974558416896,
+    "id_str": "791710974558416896",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/WpKtAGk7IV",
+            "expanded_url": "https://twitter.com/joinlbpd/status/791709720125902848/photo/1",
+            "id": 791709705802350592,
+            "media_url": "http://pbs.twimg.com/media/Cvy3yGOUAAA0LFu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cvy3yGOUAAA0LFu.jpg",
+            "type": "photo",
+            "url": "https://t.co/WpKtAGk7IV"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Oct 27 18:34:41 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "joinlbpd"
+            },
+            {
+                "text": "lbpd"
+            }
+        ],
+        "id": 791709720125902848,
+        "id_str": "791709720125902848",
+        "in_reply_to_screen_name": "calpolypomona",
+        "in_reply_to_user_id": 23019297,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/WpKtAGk7IV",
+                "expanded_url": "https://twitter.com/joinlbpd/status/791709720125902848/photo/1",
+                "id": 791709705802350592,
+                "media_url": "http://pbs.twimg.com/media/Cvy3yGOUAAA0LFu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cvy3yGOUAAA0LFu.jpg",
+                "type": "photo",
+                "url": "https://t.co/WpKtAGk7IV"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@calpolypomona recruiting \"Broncos\" to #joinlbpd. Stop by our booth. #lbpd @CPPCareerCenter https://t.co/WpKtAGk7IV",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Nov 19 01:31:57 +0000 2008",
+            "description": "Law Enforcement",
+            "favourites_count": 11,
+            "followers_count": 79,
+            "friends_count": 107,
+            "geo_enabled": true,
+            "id": 17476888,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Long Beach, CA",
+            "name": "joinlbpd",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17476888/1471538587",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738150542405292032/paW5y04E_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "joinlbpd",
+            "statuses_count": 175,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/HMbSp21lv7",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 23019297,
+                "name": "Cal Poly Pomona",
+                "screen_name": "calpolypomona"
+            },
+            {
+                "id": 94666155,
+                "name": "CPP Career Center",
+                "screen_name": "CPPCareerCenter"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @joinlbpd: @calpolypomona recruiting \"Broncos\" to #joinlbpd. Stop by our booth. #lbpd @CPPCareerCenter https://t.co/WpKtAGk7IV",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4244,
+        "followers_count": 8523,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 231,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5949,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 17476888,
+            "name": "joinlbpd",
+            "screen_name": "joinlbpd"
+        },
+        {
+            "id": 23019297,
+            "name": "Cal Poly Pomona",
+            "screen_name": "calpolypomona"
+        },
+        {
+            "id": 94666155,
+            "name": "CPP Career Center",
+            "screen_name": "CPPCareerCenter"
+        }
+    ]
+}

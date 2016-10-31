@@ -1,0 +1,48 @@
+{
+    "created_at": "Wed Oct 26 01:41:35 +0000 2016",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 791092378236956672,
+    "id_str": "791092378236956672",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/lFbt1e5ZAy",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/791092378236956672/photo/1",
+            "id": 791092350852280320,
+            "media_url": "http://pbs.twimg.com/media/CvqGTT0UMAATjcg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CvqGTT0UMAATjcg.jpg",
+            "type": "photo",
+            "url": "https://t.co/lFbt1e5ZAy"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Ocean Blvd. Road Diet community meeting starting at Fire Station14 at Colorado &amp; Eliot. Come hear about the project. https://t.co/lFbt1e5ZAy",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 61,
+        "followers_count": 1787,
+        "friends_count": 1956,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1471647160",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1164,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}

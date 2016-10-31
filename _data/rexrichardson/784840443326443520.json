@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Oct 08 19:38:37 +0000 2016",
+    "hashtags": [
+        {
+            "text": "BMOC"
+        }
+    ],
+    "id": 784840443326443520,
+    "id_str": "784840443326443520",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Sat Oct 08 19:37:41 +0000 2016",
+        "favorite_count": 14,
+        "hashtags": [
+            {
+                "text": "BMOC"
+            }
+        ],
+        "id": 784840208143429633,
+        "id_str": "784840208143429633",
+        "in_reply_to_screen_name": "Rendon63rd",
+        "in_reply_to_status_id": 783361146900197376,
+        "in_reply_to_user_id": 1200043633,
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to the young men who joined our #BMOC town hall in Long Beach to share perspectives on empowering our youth… https://t.co/7CbdjyoZjH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/784840208143429633",
+                "url": "https://t.co/7CbdjyoZjH"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 20 08:12:33 +0000 2013",
+            "default_profile": true,
+            "description": "California Assembly Speaker. Proud to represent 63rd Assembly District & Southeast L.A. County. Underdog soccer fan.",
+            "favourites_count": 1746,
+            "followers_count": 6545,
+            "friends_count": 1004,
+            "id": 1200043633,
+            "lang": "en",
+            "listed_count": 212,
+            "location": "Paramount, CA",
+            "name": "Anthony Rendon",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200043633/1438100891",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/625820568319717376/jMcCMfXK_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Rendon63rd",
+            "statuses_count": 2313,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/vmye6KDKsn",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Rendon63rd: Thanks to the young men who joined our #BMOC town hall in Long Beach to share perspectives on empowering our youth &amp; commun…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1291,
+        "followers_count": 2289,
+        "friends_count": 1227,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2084,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 1200043633,
+            "name": "Anthony Rendon",
+            "screen_name": "Rendon63rd"
+        }
+    ]
+}

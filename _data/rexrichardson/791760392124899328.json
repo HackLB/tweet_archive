@@ -1,0 +1,159 @@
+{
+    "created_at": "Thu Oct 27 21:56:02 +0000 2016",
+    "hashtags": [],
+    "id": 791760392124899328,
+    "id_str": "791760392124899328",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NdKJCkkqxa",
+            "expanded_url": "https://twitter.com/StacyMungo/status/791755118756626436/photo/1",
+            "id": 791755111148228642,
+            "media_url": "http://pbs.twimg.com/media/CvzhFCUXECIGvt_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CvzhFCUXECIGvt_.jpg",
+            "type": "photo",
+            "url": "https://t.co/NdKJCkkqxa"
+        }
+    ],
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Thu Oct 27 21:35:05 +0000 2016",
+        "favorite_count": 22,
+        "hashtags": [],
+        "id": 791755118756626436,
+        "id_str": "791755118756626436",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/NdKJCkkqxa",
+                "expanded_url": "https://twitter.com/StacyMungo/status/791755118756626436/photo/1",
+                "id": 791755111148228642,
+                "media_url": "http://pbs.twimg.com/media/CvzhFCUXECIGvt_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CvzhFCUXECIGvt_.jpg",
+                "type": "photo",
+                "url": "https://t.co/NdKJCkkqxa"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Join me, @VisitLB &amp; @LBAirport for a fun festival for the whole family! https://t.co/NdKJCkkqxa",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+            "default_profile": true,
+            "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+            "favourites_count": 507,
+            "followers_count": 3872,
+            "friends_count": 1790,
+            "geo_enabled": true,
+            "id": 189649184,
+            "lang": "en",
+            "listed_count": 62,
+            "location": "Long Beach, CA",
+            "name": "Councilwoman Mungo",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "StacyMungo",
+            "statuses_count": 1946,
+            "time_zone": "Arizona",
+            "url": "https://t.co/0uKlcXvO5A",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 14209619,
+                "name": "Long Beach CVB",
+                "screen_name": "VisitLB"
+            },
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @StacyMungo: Join me, @VisitLB &amp; @LBAirport for a fun festival for the whole family! https://t.co/NdKJCkkqxa",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1291,
+        "followers_count": 2289,
+        "friends_count": 1227,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2084,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 189649184,
+            "name": "Councilwoman Mungo",
+            "screen_name": "StacyMungo"
+        },
+        {
+            "id": 14209619,
+            "name": "Long Beach CVB",
+            "screen_name": "VisitLB"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        }
+    ]
+}

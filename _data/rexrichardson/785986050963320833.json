@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue Oct 11 23:30:52 +0000 2016",
+    "hashtags": [],
+    "id": 785986050963320833,
+    "id_str": "785986050963320833",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Oct 11 23:30:29 +0000 2016",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 785985954108481536,
+        "id_str": "785985954108481536",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Take A Closer Look @ Michelle Obama Branch Library! https://t.co/Zlsb4mLqBE\n\n@lbpl_librarian @LBPLFoundation… https://t.co/1l1gW6xeo6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2dJY6ES",
+                "url": "https://t.co/Zlsb4mLqBE"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/785985954108481536",
+                "url": "https://t.co/1l1gW6xeo6"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 13 17:52:18 +0000 2014",
+            "default_profile": true,
+            "description": "The Voice of Business in Long Beach since 1987",
+            "favourites_count": 24,
+            "followers_count": 939,
+            "friends_count": 51,
+            "id": 2565667038,
+            "lang": "en",
+            "listed_count": 32,
+            "location": "Long Beach, CA",
+            "name": "LB Business Journal",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2565667038/1472511298",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770401180631470081/FxloVBg5_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBBizJourn",
+            "statuses_count": 823,
+            "url": "http://t.co/7UveCwR8uj"
+        },
+        "user_mentions": [
+            {
+                "id": 130570597,
+                "name": "LB Public Library",
+                "screen_name": "lbpl_librarian"
+            },
+            {
+                "id": 277576519,
+                "name": "LBPLFoundation",
+                "screen_name": "LBPLFoundation"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBBizJourn: Take A Closer Look @ Michelle Obama Branch Library! https://t.co/Zlsb4mLqBE\n\n@lbpl_librarian @LBPLFoundation @rexrichardson…",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2dJY6ES",
+            "url": "https://t.co/Zlsb4mLqBE"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1291,
+        "followers_count": 2289,
+        "friends_count": 1227,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2084,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2565667038,
+            "name": "LB Business Journal",
+            "screen_name": "LBBizJourn"
+        },
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "lbpl_librarian"
+        },
+        {
+            "id": 277576519,
+            "name": "LBPLFoundation",
+            "screen_name": "LBPLFoundation"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}

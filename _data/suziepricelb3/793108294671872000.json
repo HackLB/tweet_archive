@@ -1,0 +1,99 @@
+{
+    "created_at": "Mon Oct 31 15:12:07 +0000 2016",
+    "hashtags": [],
+    "id": 793108294671872000,
+    "id_str": "793108294671872000",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Oct 31 15:10:41 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 793107934607663104,
+        "id_str": "793107934607663104",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2GSZOaHvhf",
+                "expanded_url": "https://twitter.com/longBeachCaRR/status/793107934607663104/photo/1",
+                "id": 793107931365462017,
+                "media_url": "http://pbs.twimg.com/media/CwGvdiWVUAEM_pE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwGvdiWVUAEM_pE.jpg",
+                "type": "photo",
+                "url": "https://t.co/2GSZOaHvhf"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://rightrelevance.com/?q=tab_type%3D1%26value%3Dlong%2520beach%2520ca%26searchType%3Dexperts%26start%3D0%26rows%3D10%26locat\" rel=\"nofollow\">Long Beach Ca RR</a>",
+        "text": "LBFD Chief Mike DuRee Elected President of California Fire Chiefs Association https://t.co/FhJpE5QueT https://t.co/2GSZOaHvhf",
+        "urls": [
+            {
+                "expanded_url": "http://www.rightrelevance.com/search/articles/hero?article=4bda919eccbd04fc095549f08d2ccdb758b9efe3&query=long%20beach%20ca&taccount=longbeachcarr",
+                "url": "https://t.co/FhJpE5QueT"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 31 09:50:14 +0000 2014",
+            "default_profile": true,
+            "description": "Live Content curated by Top Long Beach CA Influencers\nLogo:https://t.co/JBeoUlGHNk",
+            "followers_count": 3369,
+            "friends_count": 2340,
+            "id": 2953400414,
+            "lang": "en",
+            "listed_count": 31,
+            "name": "Long Beach CA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/748500403818373121/pKsY_AO8_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "longBeachCaRR",
+            "statuses_count": 16778,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/0YKCCmtNGy",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @longBeachCaRR: LBFD Chief Mike DuRee Elected President of California Fire Chiefs Association https://t.co/FhJpE5QueT https://t.co/2GSZO…",
+    "urls": [
+        {
+            "expanded_url": "http://www.rightrelevance.com/search/articles/hero?article=4bda919eccbd04fc095549f08d2ccdb758b9efe3&query=long%20beach%20ca&taccount=longbeachcarr",
+            "url": "https://t.co/FhJpE5QueT"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 61,
+        "followers_count": 1787,
+        "friends_count": 1956,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1471647160",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1164,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2953400414,
+            "name": "Long Beach CA",
+            "screen_name": "longBeachCaRR"
+        }
+    ]
+}

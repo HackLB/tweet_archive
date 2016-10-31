@@ -1,0 +1,90 @@
+{
+    "created_at": "Wed Oct 26 18:15:27 +0000 2016",
+    "hashtags": [],
+    "id": 791342493291851777,
+    "id_str": "791342493291851777",
+    "lang": "en",
+    "retweet_count": 22,
+    "retweeted_status": {
+        "created_at": "Wed Oct 26 17:31:04 +0000 2016",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 791331324074352646,
+        "id_str": "791331324074352646",
+        "lang": "en",
+        "retweet_count": 22,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "Preventing Home Fires: 2 Super Simple Things You Can Do Today https://t.co/mmcAQL85LO",
+        "urls": [
+            {
+                "expanded_url": "http://ow.ly/yzrQ305wKjn",
+                "url": "https://t.co/mmcAQL85LO"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 04 14:30:00 +0000 2008",
+            "description": "The official Twitter profile for the National Fire Protection Association (NFPA). Follow us for the latest news on fire and life safety, code info and research.",
+            "favourites_count": 96,
+            "followers_count": 52551,
+            "friends_count": 3116,
+            "geo_enabled": true,
+            "id": 15722647,
+            "lang": "en",
+            "listed_count": 961,
+            "name": "NFPA",
+            "profile_background_color": "AAA38E",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/123458159/Twitter_back_blue.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15722647/1429623220",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/591585391460909058/ZkRktLgT_normal.png",
+            "profile_link_color": "565A5C",
+            "profile_sidebar_fill_color": "C9DAF5",
+            "profile_text_color": "333333",
+            "screen_name": "NFPA",
+            "statuses_count": 12328,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/VpCwlIFDrY",
+            "utc_offset": -14400
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NFPA: Preventing Home Fires: 2 Super Simple Things You Can Do Today https://t.co/mmcAQL85LO",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/yzrQ305wKjn",
+            "url": "https://t.co/mmcAQL85LO"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 556,
+        "followers_count": 4804,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 182,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2233,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 15722647,
+            "name": "NFPA",
+            "screen_name": "NFPA"
+        }
+    ]
+}

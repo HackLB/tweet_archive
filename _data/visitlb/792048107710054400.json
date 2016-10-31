@@ -1,0 +1,117 @@
+{
+    "created_at": "Fri Oct 28 16:59:19 +0000 2016",
+    "hashtags": [],
+    "id": 792048107710054400,
+    "id_str": "792048107710054400",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Oct 28 16:27:35 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 792040121751130112,
+        "id_str": "792040121751130112",
+        "in_reply_to_screen_name": "LBAirport",
+        "in_reply_to_user_id": 106872943,
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@LBAirport ranked 7th Best in America by @CNTraveler https://t.co/lhrtdNq7hM",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/visitlb/status/791712385140678656",
+                "url": "https://t.co/lhrtdNq7hM"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+            "default_profile": true,
+            "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+            "favourites_count": 4778,
+            "followers_count": 11132,
+            "friends_count": 2019,
+            "geo_enabled": true,
+            "id": 18120497,
+            "lang": "en",
+            "listed_count": 219,
+            "location": "Long Beach",
+            "name": "Robert Garcia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RobertGarciaLB",
+            "statuses_count": 9404,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FYG8w5WQQa",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            },
+            {
+                "id": 17219108,
+                "name": "Condé Nast Traveler",
+                "screen_name": "CNTraveler"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RobertGarciaLB: @LBAirport ranked 7th Best in America by @CNTraveler https://t.co/lhrtdNq7hM",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/visitlb/status/791712385140678656",
+            "url": "https://t.co/lhrtdNq7hM"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1002,
+        "followers_count": 13010,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 519,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13183,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        },
+        {
+            "id": 17219108,
+            "name": "Condé Nast Traveler",
+            "screen_name": "CNTraveler"
+        }
+    ]
+}
