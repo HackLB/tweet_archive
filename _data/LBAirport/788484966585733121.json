@@ -1,0 +1,91 @@
+{
+    "created_at": "Tue Oct 18 21:00:40 +0000 2016",
+    "hashtags": [],
+    "id": 788484966585733121,
+    "id_str": "788484966585733121",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Tue Oct 18 19:30:46 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "metroplex"
+            }
+        ],
+        "id": 788462345035079680,
+        "id_str": "788462345035079680",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "FAA webinar tonight on Nov. 2016 SoCal Metroplex project changes. For webinar times and airports covered https://t.co/FJRzmwmZsA #metroplex",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2ez3OZw",
+                "url": "https://t.co/FJRzmwmZsA"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 29 15:04:53 +0000 2010",
+            "description": "News updates from the Federal Aviation Administration. Following or RT does not mean endorsement.",
+            "favourites_count": 275,
+            "followers_count": 168688,
+            "friends_count": 186,
+            "geo_enabled": true,
+            "id": 160946337,
+            "lang": "en",
+            "listed_count": 2731,
+            "location": "Washington, D.C.",
+            "name": "The FAA",
+            "profile_background_color": "0097D7",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/123759016/twitter.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/160946337/1401551477",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/775690421309739009/004I2jDO_normal.jpg",
+            "profile_link_color": "006FB9",
+            "profile_sidebar_fill_color": "E2E4E4",
+            "profile_text_color": "37424A",
+            "screen_name": "FAANews",
+            "statuses_count": 3676,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/HuqwyE3E36",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @FAANews: FAA webinar tonight on Nov. 2016 SoCal Metroplex project changes. For webinar times and airports covered https://t.co/FJRzmwmZ…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2782,
+        "followers_count": 8989,
+        "friends_count": 565,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 362,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6176,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/cXM6mauVtE",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 160946337,
+            "name": "The FAA",
+            "screen_name": "FAANews"
+        }
+    ]
+}

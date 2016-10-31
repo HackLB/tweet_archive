@@ -1,0 +1,100 @@
+{
+    "coordinates": {
+        "coordinates": [
+            -118.39955509,
+            33.94136231
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 26 19:35:38 +0000 2016",
+    "favorite_count": 5,
+    "geo": {
+        "coordinates": [
+            33.94136231,
+            -118.39955509
+        ],
+        "type": "Point"
+    },
+    "hashtags": [
+        {
+            "text": "Shaghai"
+        },
+        {
+            "text": "longbeach"
+        },
+        {
+            "text": "SCAG"
+        }
+    ],
+    "id": 791362671543214080,
+    "id_str": "791362671543214080",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "On the way to #Shaghai for #longbeach and #SCAG with Vice Mayor… https://t.co/eoiKDAXcb2",
+    "urls": [
+        {
+            "expanded_url": "https://www.instagram.com/p/BMCb8OnDqe4T83GcXOsR-bJYFH5hEVpxINVpY00/",
+            "url": "https://t.co/eoiKDAXcb2"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Tech employed. MBA student. Long Beach lover",
+        "favourites_count": 295,
+        "followers_count": 1563,
+        "friends_count": 1397,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1473007975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 721,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}

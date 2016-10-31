@@ -1,0 +1,121 @@
+{
+    "created_at": "Mon Oct 31 18:55:32 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "TravelSkills"
+        }
+    ],
+    "id": 793164518973018112,
+    "id_str": "793164518973018112",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Fri Oct 28 16:24:24 +0000 2016",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 792039323893846017,
+        "id_str": "792039323893846017",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "A1: Extending a biz trip come to #LongBeach! Head down to @ShorelineVillag or @shorelongbeach for some fun!… https://t.co/uPUKFKJ5IG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/792039323893846017",
+                "url": "https://t.co/uPUKFKJ5IG"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+            "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+            "favourites_count": 1002,
+            "followers_count": 13011,
+            "friends_count": 1798,
+            "geo_enabled": true,
+            "id": 14209619,
+            "lang": "en",
+            "listed_count": 519,
+            "location": "Long Beach, CA",
+            "name": "Long Beach CVB",
+            "profile_background_color": "E2EFFC",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "VisitLB",
+            "statuses_count": 13183,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/Vb5DqthpaC",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 115199280,
+                "name": "Shoreline Village",
+                "screen_name": "ShorelineVillag"
+            },
+            {
+                "id": 191868700,
+                "name": "Belmont Shore",
+                "screen_name": "shorelongbeach"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @VisitLB: A1: Extending a biz trip come to #LongBeach! Head down to @ShorelineVillag or @shorelongbeach for some fun! #TravelSkills #Bea…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "Many Unique Neighborhoods, One Great City. Follow us to get the scoop straight from the Long Beach City Manager's Office.   Also at https://t.co/cahGxgDjPQ.",
+        "favourites_count": 180,
+        "followers_count": 62431,
+        "friends_count": 1223,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 445,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6337,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14209619,
+            "name": "Long Beach CVB",
+            "screen_name": "VisitLB"
+        },
+        {
+            "id": 115199280,
+            "name": "Shoreline Village",
+            "screen_name": "ShorelineVillag"
+        },
+        {
+            "id": 191868700,
+            "name": "Belmont Shore",
+            "screen_name": "shorelongbeach"
+        }
+    ]
+}

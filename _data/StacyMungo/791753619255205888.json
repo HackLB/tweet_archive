@@ -1,0 +1,102 @@
+{
+    "created_at": "Thu Oct 27 21:29:07 +0000 2016",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "LACounty"
+        },
+        {
+            "text": "NewEra"
+        }
+    ],
+    "id": 791753619255205888,
+    "id_str": "791753619255205888",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.18851464685058,
+                        33.76711345251544
+                    ],
+                    [
+                        -118.18851464685058,
+                        33.76711345251544
+                    ],
+                    [
+                        -118.18851464685058,
+                        33.76711345251544
+                    ],
+                    [
+                        -118.18851464685058,
+                        33.76711345251544
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "The Westin Long Beach",
+        "id": "07d9c943d5480004",
+        "name": "The Westin Long Beach",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9c943d5480004.json"
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Enlightening afternoon panel with #LACounty department heads @lacountyparks @LACoSmallBiz @LACountyCSS #NewEra… https://t.co/PIvozHqkj0",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/791753619255205888",
+            "url": "https://t.co/PIvozHqkj0"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 507,
+        "followers_count": 3872,
+        "friends_count": 1790,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 62,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1946,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 21255863,
+            "name": "Parks and Recreation",
+            "screen_name": "lacountyparks"
+        },
+        {
+            "id": 1077806605,
+            "name": "DCBA Small Business",
+            "screen_name": "LACoSmallBiz"
+        },
+        {
+            "id": 762656257,
+            "name": "LACo Comm&SeniorSrvs",
+            "screen_name": "LACountyCSS"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "created_at": "Sat Oct 29 00:48:30 +0000 2016",
+    "hashtags": [
+        {
+            "text": "humour"
+        }
+    ],
+    "id": 792166184976166912,
+    "id_str": "792166184976166912",
+    "lang": "en",
+    "retweet_count": 592,
+    "retweeted": true,
+    "retweeted_status": {
+        "created_at": "Fri Oct 31 12:49:24 +0000 2014",
+        "favorite_count": 342,
+        "hashtags": [
+            {
+                "text": "humour"
+            }
+        ],
+        "id": 528166851017068547,
+        "id_str": "528166851017068547",
+        "lang": "en",
+        "retweet_count": 592,
+        "retweeted": true,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "I was dressed up as an UDP packet for the Halloween. I don’t think anyone got it, but I couldn’t tell. #humour \n\nHave a great Halloween :)",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Nov 19 12:12:37 +0000 2008",
+            "description": "Enjoy Linux & Unix-like systems? Open source software and programming? Sysadmin & DevOps work? Follow us to make the most of sysadmin-hood.",
+            "favourites_count": 17465,
+            "followers_count": 64782,
+            "friends_count": 406,
+            "id": 17484680,
+            "lang": "en",
+            "listed_count": 2153,
+            "location": "Rootland",
+            "name": "nixCraft #",
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17484680/1474568728",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/425700361488195584/oCfrAusL_normal.png",
+            "profile_link_color": "038543",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "nixcraft",
+            "statuses_count": 15483,
+            "time_zone": "New Delhi",
+            "url": "https://t.co/mQHyVaJ6NM",
+            "utc_offset": 19800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "RT @nixcraft: I was dressed up as an UDP packet for the Halloween. I don’t think anyone got it, but I couldn’t tell. #humour \n\nHave a great…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Apr 13 02:46:12 +0000 2008",
+        "description": "CTO with passion for culture, Python, motorcycles, panography, avoiding corporate sloth. Aspiring father, founder, mentor. Former Getty, Blizzard, Playboy.",
+        "favourites_count": 1290,
+        "followers_count": 830,
+        "friends_count": 1376,
+        "id": 14372508,
+        "lang": "en",
+        "listed_count": 151,
+        "location": "37.391197,-121.977639",
+        "name": "Roger Howard",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12898711/gnome.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649748124240494592/hEYqdDZL_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "screen_name": "rogerhoward",
+        "statuses_count": 6485,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/4uGN5iDoV3",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 17484680,
+            "name": "nixCraft #",
+            "screen_name": "nixcraft"
+        }
+    ]
+}

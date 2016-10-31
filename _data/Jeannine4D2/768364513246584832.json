@@ -1,0 +1,111 @@
+{
+    "created_at": "Wed Aug 24 08:29:10 +0000 2016",
+    "hashtags": [],
+    "id": 768364513246584832,
+    "id_str": "768364513246584832",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Aug 22 00:23:43 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 767517572845543424,
+        "id_str": "767517572845543424",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QevdQbIrnw",
+                "expanded_url": "https://twitter.com/MarySim98679234/status/767517572845543424/photo/1",
+                "id": 767517564800860164,
+                "media_url": "http://pbs.twimg.com/media/CqbFKKDUAAQdPfr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CqbFKKDUAAQdPfr.jpg",
+                "type": "photo",
+                "url": "https://t.co/QevdQbIrnw"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Yay! AOC7 was recognized by Councilmember Pearce @Jeannine4D2 at our neighborhood clean up yesterday! @LongBeachDS https://t.co/QevdQbIrnw",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Mar 03 05:51:31 +0000 2015",
+            "default_profile": true,
+            "description": "AOC7 Neighborhood Association. AOC7 stands for Anaheim, Orange, Cherry & 7th St. We are committed to improving the overall quality of life within our community",
+            "favourites_count": 5714,
+            "followers_count": 406,
+            "friends_count": 1261,
+            "geo_enabled": true,
+            "id": 3059303389,
+            "lang": "en",
+            "listed_count": 17,
+            "location": "Long Beach, CA",
+            "name": "AOC7",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3059303389/1465177052",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/737502025047384065/ePc8GjoJ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MarySim98679234",
+            "statuses_count": 1223,
+            "url": "https://t.co/YxZtGLi8Ug"
+        },
+        "user_mentions": [
+            {
+                "id": 4127559133,
+                "name": "Jeannine Pearce",
+                "screen_name": "Jeannine4D2"
+            },
+            {
+                "id": 18194366,
+                "name": "Long Beach DS",
+                "screen_name": "LongBeachDS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MarySim98679234: Yay! AOC7 was recognized by Councilmember Pearce @Jeannine4D2 at our neighborhood clean up yesterday! @LongBeachDS htt…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 223,
+        "followers_count": 386,
+        "friends_count": 759,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 185,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 3059303389,
+            "name": "AOC7",
+            "screen_name": "MarySim98679234"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        },
+        {
+            "id": 18194366,
+            "name": "Long Beach DS",
+            "screen_name": "LongBeachDS"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "created_at": "Mon Oct 24 20:20:03 +0000 2016",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "motivationmonday"
+        }
+    ],
+    "id": 790649074055806977,
+    "id_str": "790649074055806977",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "Functional fashion? Say no more! Thanks to @zac_posen, @Delta staff will rock a fresh, new look. #motivationmonday… https://t.co/I4JTReWIea",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/790649074055806977",
+            "url": "https://t.co/I4JTReWIea"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2782,
+        "followers_count": 8989,
+        "friends_count": 565,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 362,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6176,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/cXM6mauVtE",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 173988421,
+            "name": "Zac Posen",
+            "screen_name": "Zac_Posen"
+        },
+        {
+            "id": 5920532,
+            "name": "Delta",
+            "screen_name": "Delta"
+        }
+    ]
+}

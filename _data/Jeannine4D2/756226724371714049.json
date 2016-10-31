@@ -1,0 +1,139 @@
+{
+    "created_at": "Thu Jul 21 20:37:55 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBPD"
+        },
+        {
+            "text": "SafeLongBeach"
+        }
+    ],
+    "id": 756226724371714049,
+    "id_str": "756226724371714049",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Jul 21 18:38:02 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "LBPD"
+            },
+            {
+                "text": "SafeLongBeach"
+            }
+        ],
+        "id": 756196555493736449,
+        "id_str": "756196555493736449",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/aD3usvYOb9",
+                "expanded_url": "http://twitter.com/wendelyn/status/756196555493736449/photo/1",
+                "id": 756196544798334976,
+                "media_url": "http://pbs.twimg.com/media/Cn6MwEEVIAAgLH2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cn6MwEEVIAAgLH2.jpg",
+                "type": "photo",
+                "url": "https://t.co/aD3usvYOb9"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -121.576613,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.6855236
+                        ],
+                        [
+                            -121.576613,
+                            38.6855236
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Sacramento, CA",
+            "id": "b71fac2ee9792cbe",
+            "name": "Sacramento",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm excited to work with #LBPD &amp; #SafeLongBeach to find real solutions that work for police &amp; communities! https://t.co/aD3usvYOb9",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 28 03:19:23 +0000 2008",
+            "description": "Advocate for human rights, civil rights, peace and justice. Mom, poet, mountain climber. Views are my own.",
+            "favourites_count": 859,
+            "followers_count": 627,
+            "friends_count": 1684,
+            "geo_enabled": true,
+            "id": 14564907,
+            "lang": "en",
+            "listed_count": 17,
+            "location": "Los Angeles, CA",
+            "name": "Wende Nichols-Julien",
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14564907/1365363426",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/715677625784471552/nGBpur2G_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "wendelyn",
+            "statuses_count": 1009,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/ZtVwcDIu5l",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @wendelyn: I'm excited to work with #LBPD &amp; #SafeLongBeach to find real solutions that work for police &amp; communities! https://t.co/aD3us…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 223,
+        "followers_count": 386,
+        "friends_count": 759,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 185,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 14564907,
+            "name": "Wende Nichols-Julien",
+            "screen_name": "wendelyn"
+        }
+    ]
+}

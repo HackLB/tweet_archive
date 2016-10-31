@@ -1,0 +1,106 @@
+{
+    "created_at": "Mon Oct 31 18:06:09 +0000 2016",
+    "hashtags": [],
+    "id": 793152090734407680,
+    "id_str": "793152090734407680",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/UHxNVG0BzH",
+            "expanded_url": "https://twitter.com/TheGRAMMYs/status/793111801672019970/photo/1",
+            "id": 793111798253817856,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CwGy-noXEAAdbqN.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwGy-noXEAAdbqN.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/UHxNVG0BzH"
+        }
+    ],
+    "retweet_count": 291,
+    "retweeted_status": {
+        "created_at": "Mon Oct 31 15:26:03 +0000 2016",
+        "favorite_count": 478,
+        "hashtags": [],
+        "id": 793111801672019970,
+        "id_str": "793111801672019970",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/UHxNVG0BzH",
+                "expanded_url": "https://twitter.com/TheGRAMMYs/status/793111801672019970/photo/1",
+                "id": 793111798253817856,
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/CwGy-noXEAAdbqN.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwGy-noXEAAdbqN.jpg",
+                "type": "animated_gif",
+                "url": "https://t.co/UHxNVG0BzH"
+            }
+        ],
+        "retweet_count": 291,
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "Cause this is thriller! 💀 https://t.co/UHxNVG0BzH",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Nov 08 02:03:24 +0000 2008",
+            "description": "Celebrating music through the #GRAMMYs for more than 50 years. The Recording Academy honors achievements in the recording arts & supports the music community.",
+            "favourites_count": 993,
+            "followers_count": 2817464,
+            "friends_count": 19755,
+            "geo_enabled": true,
+            "id": 17243213,
+            "lang": "en",
+            "listed_count": 9252,
+            "location": "Santa Monica",
+            "name": "The GRAMMYs",
+            "profile_background_color": "B39F4F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000138508396/3pGwAo8U.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17243213/1476750068",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/671821478090825728/iuvzUOOw_normal.jpg",
+            "profile_link_color": "5C1142",
+            "profile_sidebar_fill_color": "6F646C",
+            "profile_text_color": "31233E",
+            "screen_name": "TheGRAMMYs",
+            "statuses_count": 26196,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/r5DQ7byBmN",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @TheGRAMMYs: Cause this is thriller! 💀 https://t.co/UHxNVG0BzH",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2046,
+        "followers_count": 12699,
+        "friends_count": 703,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4119,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 17243213,
+            "name": "The GRAMMYs",
+            "screen_name": "TheGRAMMYs"
+        }
+    ]
+}

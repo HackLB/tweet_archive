@@ -1,0 +1,92 @@
+{
+    "created_at": "Thu Oct 27 00:58:52 +0000 2016",
+    "hashtags": [],
+    "id": 791444014499233792,
+    "id_str": "791444014499233792",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Oct 27 00:48:33 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 791441419760197632,
+        "id_str": "791441419760197632",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://bloxcms.com/\" rel=\"nofollow\">BLOX CMS</a>",
+        "text": "It’s about the barbeque and the beer at Beachwood BBQ on The Promenade downtown. https://t.co/0FypHIIQYp",
+        "urls": [
+            {
+                "expanded_url": "http://www.gazettes.com/entertainment/dining-profile-beachwood-bbq/article_5c47f454-9bda-11e6-b131-1b99a5b80a5c.html",
+                "url": "https://t.co/0FypHIIQYp"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 09 18:45:54 +0000 2010",
+            "description": "Gazettes Newspapers is the favorite community news source for #LongBeach. We have daily coverage online. Also, see @PTGazettesSports.",
+            "favourites_count": 506,
+            "followers_count": 6254,
+            "friends_count": 431,
+            "geo_enabled": true,
+            "id": 176509198,
+            "lang": "en",
+            "listed_count": 148,
+            "location": "Long Beach, CA",
+            "name": "Gazette Newspapers",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753875098/137be037fd3a43e0dc57e11d956b8b16.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/176509198/1358447800",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/451485553288957952/tCryBR0C_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "GrunionGazette",
+            "statuses_count": 10326,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/aPeOY9XzD9",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GrunionGazette: It’s about the barbeque and the beer at Beachwood BBQ on The Promenade downtown. https://t.co/0FypHIIQYp",
+    "urls": [
+        {
+            "expanded_url": "http://www.gazettes.com/entertainment/dining-profile-beachwood-bbq/article_5c47f454-9bda-11e6-b131-1b99a5b80a5c.html",
+            "url": "https://t.co/0FypHIIQYp"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2046,
+        "followers_count": 12699,
+        "friends_count": 703,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4119,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 176509198,
+            "name": "Gazette Newspapers",
+            "screen_name": "GrunionGazette"
+        }
+    ]
+}

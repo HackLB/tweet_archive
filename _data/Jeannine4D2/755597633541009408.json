@@ -1,0 +1,120 @@
+{
+    "created_at": "Wed Jul 20 02:58:08 +0000 2016",
+    "hashtags": [],
+    "id": 755597633541009408,
+    "id_str": "755597633541009408",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jul 20 02:36:21 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 755592149412876288,
+        "id_str": "755592149412876288",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Nlt6rrrVyx",
+                "expanded_url": "http://twitter.com/christineepetit/status/755592149412876288/photo/1",
+                "id": 755592136125407232,
+                "media_url": "http://pbs.twimg.com/media/CnxnC2TVYAAgxQG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CnxnC2TVYAAgxQG.jpg",
+                "type": "photo",
+                "url": "https://t.co/Nlt6rrrVyx"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Current @BHCLongBeach steering committee member @MarySim98679234 w/ former SC mbr Councilmember @Jeannine4D2 Yay! https://t.co/Nlt6rrrVyx",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Dec 28 17:58:25 +0000 2011",
+            "default_profile": true,
+            "description": "Engaging my whole self and the humanity of others for positive change. Blending social justice, creativity, and mindfulness. ED @BHCLongBeach. Views my own.",
+            "favourites_count": 895,
+            "followers_count": 330,
+            "friends_count": 346,
+            "geo_enabled": true,
+            "id": 449060582,
+            "lang": "en",
+            "listed_count": 7,
+            "location": "Long Beach, Calif.",
+            "name": "Christine Petit",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/449060582/1429073196",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/585176869332357120/WyuBa7uI_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "christineepetit",
+            "statuses_count": 338
+        },
+        "user_mentions": [
+            {
+                "id": 259381632,
+                "name": "BHC Long Beach",
+                "screen_name": "BHCLongBeach"
+            },
+            {
+                "id": 3059303389,
+                "name": "AOC7",
+                "screen_name": "MarySim98679234"
+            },
+            {
+                "id": 4127559133,
+                "name": "Jeannine Pearce",
+                "screen_name": "Jeannine4D2"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @christineepetit: Current @BHCLongBeach steering committee member @MarySim98679234 w/ former SC mbr Councilmember @Jeannine4D2 Yay! http…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 223,
+        "followers_count": 386,
+        "friends_count": 759,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 185,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 449060582,
+            "name": "Christine Petit",
+            "screen_name": "christineepetit"
+        },
+        {
+            "id": 259381632,
+            "name": "BHC Long Beach",
+            "screen_name": "BHCLongBeach"
+        },
+        {
+            "id": 3059303389,
+            "name": "AOC7",
+            "screen_name": "MarySim98679234"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        }
+    ]
+}

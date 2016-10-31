@@ -1,0 +1,104 @@
+{
+    "created_at": "Fri Oct 28 02:40:10 +0000 2016",
+    "hashtags": [
+        {
+            "text": "RiseLBT"
+        }
+    ],
+    "id": 791831895323443200,
+    "id_str": "791831895323443200",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Oct 28 00:14:16 +0000 2016",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "RiseLBT"
+            }
+        ],
+        "id": 791795181364260865,
+        "id_str": "791795181364260865",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Beautiful shot by @ScoltockImaging!! USE OUR HASHTAG!! We love seeing pictures from around the city so #RiseLBT in… https://t.co/GoT7wVZewu",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/791795181364260865",
+                "url": "https://t.co/GoT7wVZewu"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 29 20:21:29 +0000 2016",
+            "default_profile": true,
+            "description": "Giving the talent of Long Beach CA a voice. IG: RiseLBC, Email: riselongbeach@gmail.com",
+            "favourites_count": 1152,
+            "followers_count": 324,
+            "friends_count": 231,
+            "id": 714910371056713729,
+            "lang": "en",
+            "listed_count": 7,
+            "location": "Long Beach, CA",
+            "name": "Rise Long Beach",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/714910371056713729/1470435868",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/768656955854381058/eRo2fci__normal.jpg",
+            "profile_link_color": "2B7BB9",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RiseLBC",
+            "statuses_count": 1321,
+            "url": "https://t.co/nStxcJb3cz"
+        },
+        "user_mentions": [
+            {
+                "id": 36530943,
+                "name": "Ryan Scoltock",
+                "screen_name": "ScoltockImaging"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RiseLBC: Beautiful shot by @ScoltockImaging!! USE OUR HASHTAG!! We love seeing pictures from around the city so #RiseLBT in your pics o…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2046,
+        "followers_count": 12699,
+        "friends_count": 703,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4119,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 714910371056713729,
+            "name": "Rise Long Beach",
+            "screen_name": "RiseLBC"
+        },
+        {
+            "id": 36530943,
+            "name": "Ryan Scoltock",
+            "screen_name": "ScoltockImaging"
+        }
+    ]
+}

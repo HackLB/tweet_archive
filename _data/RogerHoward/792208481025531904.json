@@ -1,0 +1,91 @@
+{
+    "created_at": "Sat Oct 29 03:36:35 +0000 2016",
+    "hashtags": [],
+    "id": 792208481025531904,
+    "id_str": "792208481025531904",
+    "lang": "en",
+    "retweet_count": 901,
+    "retweeted": true,
+    "retweeted_status": {
+        "created_at": "Mon Nov 09 00:54:58 +0000 2015",
+        "favorite_count": 1959,
+        "hashtags": [],
+        "id": 663520119675572224,
+        "id_str": "663520119675572224",
+        "lang": "en",
+        "retweet_count": 901,
+        "retweeted": true,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Work hard, make good shit, then try to make even better shit, and be nice to people. https://t.co/4PpVeSirUt",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/aryagovil/status/663519903996059648",
+                "url": "https://t.co/4PpVeSirUt"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 31 19:06:49 +0000 2007",
+            "description": "Pasta lover. I don't tweet much. My new Netflix series Master of None is now streaming on Netflix. I wrote a book called Modern Romance.",
+            "favourites_count": 423,
+            "followers_count": 10856019,
+            "id": 6480682,
+            "lang": "en",
+            "listed_count": 31587,
+            "location": "New York, NY",
+            "name": "Aziz Ansari",
+            "profile_background_color": "053285",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5581304/azizlittle2.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/6480682/1398398057",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/421377161/azizlittletwitter_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "screen_name": "azizansari",
+            "statuses_count": 7626,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/oCZN8Vs1rD",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "text": "RT @azizansari: Work hard, make good shit, then try to make even better shit, and be nice to people. https://t.co/4PpVeSirUt",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/aryagovil/status/663519903996059648",
+            "url": "https://t.co/4PpVeSirUt"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Apr 13 02:46:12 +0000 2008",
+        "description": "CTO with passion for culture, Python, motorcycles, panography, avoiding corporate sloth. Aspiring father, founder, mentor. Former Getty, Blizzard, Playboy.",
+        "favourites_count": 1290,
+        "followers_count": 830,
+        "friends_count": 1376,
+        "id": 14372508,
+        "lang": "en",
+        "listed_count": 151,
+        "location": "37.391197,-121.977639",
+        "name": "Roger Howard",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12898711/gnome.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649748124240494592/hEYqdDZL_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "screen_name": "rogerhoward",
+        "statuses_count": 6485,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/4uGN5iDoV3",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 6480682,
+            "name": "Aziz Ansari",
+            "screen_name": "azizansari"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "created_at": "Thu Oct 27 20:26:43 +0000 2016",
+    "hashtags": [
+        {
+            "text": "s"
+        }
+    ],
+    "id": 791737915835416577,
+    "id_str": "791737915835416577",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Oct 27 20:26:24 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "s"
+            }
+        ],
+        "id": 791737834826674176,
+        "id_str": "791737834826674176",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Truth: voting isn’t sexy (clearly given the voter turnout #s). But we can make it more fun. We can make it a party: https://t.co/rVCEFw0F5q",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2efOkVV",
+                "url": "https://t.co/rVCEFw0F5q"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 04 06:10:56 +0000 2010",
+            "favourites_count": 577,
+            "followers_count": 749,
+            "friends_count": 321,
+            "id": 186724210,
+            "lang": "en",
+            "listed_count": 32,
+            "location": "Long Beach,ca",
+            "name": "LONGBEACHIZE",
+            "profile_background_color": "3899C2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/144199332/x2a9be54c93e153fce9cd54a5e05163d.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1116990773/twitter_logo_normal.jpg",
+            "profile_link_color": "06894B",
+            "profile_sidebar_fill_color": "FDE349",
+            "profile_text_color": "75685D",
+            "screen_name": "LONGBEACHIZE",
+            "statuses_count": 1038,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/77pUyc0Xn5",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LONGBEACHIZE: Truth: voting isn’t sexy (clearly given the voter turnout #s). But we can make it more fun. We can make it a party: https…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2046,
+        "followers_count": 12699,
+        "friends_count": 703,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4119,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 186724210,
+            "name": "LONGBEACHIZE",
+            "screen_name": "LONGBEACHIZE"
+        }
+    ]
+}
