@@ -1,0 +1,97 @@
+{
+    "created_at": "Tue Nov 01 05:07:39 +0000 2016",
+    "hashtags": [],
+    "id": 793318562743975936,
+    "id_str": "793318562743975936",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Mon Oct 31 23:18:10 +0000 2016",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 793230613415288832,
+        "id_str": "793230613415288832",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Patients at @MillerChildrens today were handed the sweetest treat: the chance to do what other children do on 10/31 https://t.co/oZjhgdZNTG",
+        "urls": [
+            {
+                "expanded_url": "http://lbpo.st/2egdBlg",
+                "url": "https://t.co/oZjhgdZNTG"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 07:18:30 +0000 2009",
+            "description": "Covering Long Beach news, politics, business, life, sports, food, and LGBT issues online daily. \nhttp://t.co/Vv0AR1vL8f",
+            "favourites_count": 460,
+            "followers_count": 36550,
+            "friends_count": 437,
+            "geo_enabled": true,
+            "id": 20496846,
+            "lang": "en",
+            "listed_count": 480,
+            "location": "Long Beach, California",
+            "name": "Long Beach Post",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827465821/31c1beba2ccaa657384bf9322b2e0916.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20496846/1475880651",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3209512724/7703736e92ce694d2036f1524730546c_normal.png",
+            "profile_link_color": "005689",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachPost",
+            "statuses_count": 14792,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/jDNcL0FZOI",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 143903773,
+                "name": "Miller Children’s",
+                "screen_name": "MillerChildrens"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachPost: Patients at @MillerChildrens today were handed the sweetest treat: the chance to do what other children do on 10/31 http…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 557,
+        "followers_count": 4805,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 181,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2234,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 20496846,
+            "name": "Long Beach Post",
+            "screen_name": "LongBeachPost"
+        },
+        {
+            "id": 143903773,
+            "name": "Miller Children’s",
+            "screen_name": "MillerChildrens"
+        }
+    ]
+}
