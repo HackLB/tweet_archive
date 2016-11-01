@@ -1,0 +1,49 @@
+{
+    "created_at": "Tue Nov 01 18:05:32 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 793514324425707520,
+    "id_str": "793514324425707520",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "CA locals can win 100K pts, just tag a spooky pic w/ @SouthwestAir! Tweet or post on Instagram by 11:59pm w/… https://t.co/YYLDFP1lSD",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/793514324425707520",
+            "url": "https://t.co/YYLDFP1lSD"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2787,
+        "followers_count": 8994,
+        "friends_count": 565,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 362,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6181,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/cXM6mauVtE",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 7212562,
+            "name": "Southwest Airlines",
+            "screen_name": "SouthwestAir"
+        }
+    ]
+}
