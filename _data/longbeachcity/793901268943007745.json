@@ -1,0 +1,88 @@
+{
+    "created_at": "Wed Nov 02 19:43:07 +0000 2016",
+    "hashtags": [],
+    "id": 793901268943007745,
+    "id_str": "793901268943007745",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 01 00:38:44 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 793250889364451328,
+        "id_str": "793250889364451328",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Douglas Park continues to boom! Learn all about the next big development to come to the 238-acre multi-use destinat… https://t.co/GEY6AU0twY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793250889364451328",
+                "url": "https://t.co/GEY6AU0twY"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+            "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+            "favourites_count": 83,
+            "followers_count": 1565,
+            "friends_count": 210,
+            "geo_enabled": true,
+            "id": 18194366,
+            "lang": "en",
+            "listed_count": 56,
+            "location": "Long Beach, CA",
+            "name": "Long Beach DS",
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "0F0C0B",
+            "screen_name": "LongBeachDS",
+            "statuses_count": 1073,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/wis2kPqDF4",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachDS: Douglas Park continues to boom! Learn all about the next big development to come to the 238-acre multi-use destination in…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "Many Unique Neighborhoods, One Great City. Follow us to get the scoop straight from the Long Beach City Manager's Office.   Also at https://t.co/cahGxgDjPQ.",
+        "favourites_count": 180,
+        "followers_count": 62626,
+        "friends_count": 1223,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 447,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6347,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18194366,
+            "name": "Long Beach DS",
+            "screen_name": "LongBeachDS"
+        }
+    ]
+}

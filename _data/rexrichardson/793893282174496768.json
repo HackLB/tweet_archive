@@ -1,0 +1,131 @@
+{
+    "created_at": "Wed Nov 02 19:11:22 +0000 2016",
+    "hashtags": [],
+    "id": 793893282174496768,
+    "id_str": "793893282174496768",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 19:10:58 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 793893179472777217,
+        "id_str": "793893179472777217",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Michelle Obama neighborhood library",
+            "id": "0ae1743d83d68000",
+            "name": "Michelle Obama neighborhood library",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/0ae1743d83d68000.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Long Beach family-come out for \"State Of The 9th District\" with @rexrichardson at the new Michelle Obama Neighborho… https://t.co/Ud63wpP9O9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793893179472777217",
+                "url": "https://t.co/Ud63wpP9O9"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 16 21:23:32 +0000 2013",
+            "default_profile": true,
+            "description": "Reinvent Communications connects the dots to accelerate lasting social change. @citizenjones76 is Founding CEO + Chief Strategist",
+            "favourites_count": 1932,
+            "followers_count": 734,
+            "friends_count": 1443,
+            "geo_enabled": true,
+            "id": 1273340180,
+            "lang": "en",
+            "listed_count": 46,
+            "location": "LA, SFO, NYC, DC",
+            "name": "ReinventComm",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273340180/1465333248",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/415553177899917312/PT-8c0nW_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "reinventcomm",
+            "statuses_count": 3041,
+            "url": "https://t.co/0sOijo2N01"
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @reinventcomm: Long Beach family-come out for \"State Of The 9th District\" with @rexrichardson at the new Michelle Obama Neighborhood Lib…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1295,
+        "followers_count": 2289,
+        "friends_count": 1231,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2090,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 1273340180,
+            "name": "ReinventComm",
+            "screen_name": "reinventcomm"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
