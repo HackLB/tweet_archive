@@ -1,0 +1,132 @@
+{
+    "created_at": "Wed Nov 02 22:57:02 +0000 2016",
+    "hashtags": [],
+    "id": 793950069368111105,
+    "id_str": "793950069368111105",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 22:56:33 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 793949950308552704,
+        "id_str": "793949950308552704",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -79.76259,
+                            40.477383
+                        ],
+                        [
+                            -71.777492,
+                            40.477383
+                        ],
+                        [
+                            -71.777492,
+                            45.015851
+                        ],
+                        [
+                            -79.76259,
+                            45.015851
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "New York, USA",
+            "id": "94965b2c45386f87",
+            "name": "New York",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "I wouldn't expect any less, Long Beach: @LBAirport named one of the best airports... in the US. YES: https://t.co/i4mZHATkl2",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2eWabov",
+                "url": "https://t.co/i4mZHATkl2"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 08 00:57:12 +0000 2009",
+            "description": "Grab life by the Brian. Writer. Questioner. Eater. Photographer. Long Beach-er. *Free speech doesn’t pay the bills; tweets don’t represent my employer.*",
+            "favourites_count": 1331,
+            "followers_count": 1429,
+            "friends_count": 604,
+            "geo_enabled": true,
+            "id": 18747184,
+            "lang": "en",
+            "listed_count": 41,
+            "location": "Long Beach, CA",
+            "name": "Brian Addison",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21648551/Banksy2.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18747184/1442336910",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643833503700811777/nmZ1u8yP_normal.png",
+            "profile_link_color": "51C91E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "BrianAddisonLB",
+            "statuses_count": 3632,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @BrianAddisonLB: I wouldn't expect any less, Long Beach: @LBAirport named one of the best airports... in the US. YES: https://t.co/i4mZH…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2053,
+        "followers_count": 12699,
+        "friends_count": 704,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4126,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18747184,
+            "name": "Brian Addison",
+            "screen_name": "BrianAddisonLB"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        }
+    ]
+}

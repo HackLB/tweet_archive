@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Nov 02 22:57:23 +0000 2016",
+    "hashtags": [],
+    "id": 793950158903857152,
+    "id_str": "793950158903857152",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 18:45:14 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 793886702125260801,
+        "id_str": "793886702125260801",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@DLBA’s New Name (Downtown Long Beach Alliance) And Look Reflect Increasing Community Focus. Read more:… https://t.co/5zTGmwnyy2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793886702125260801",
+                "url": "https://t.co/5zTGmwnyy2"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 13 17:52:18 +0000 2014",
+            "default_profile": true,
+            "description": "The Voice of Business in Long Beach since 1987",
+            "favourites_count": 24,
+            "followers_count": 945,
+            "friends_count": 51,
+            "id": 2565667038,
+            "lang": "en",
+            "listed_count": 32,
+            "location": "Long Beach, CA",
+            "name": "LB Business Journal",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2565667038/1472511298",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770401180631470081/FxloVBg5_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBBizJourn",
+            "statuses_count": 830,
+            "url": "http://t.co/7UveCwR8uj"
+        },
+        "user_mentions": [
+            {
+                "id": 30287813,
+                "name": "Downtown Long Beach",
+                "screen_name": "DLBA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LBBizJourn: .@DLBA’s New Name (Downtown Long Beach Alliance) And Look Reflect Increasing Community Focus. Read more: https://t.co/VKAdT…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2053,
+        "followers_count": 12699,
+        "friends_count": 704,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4126,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2565667038,
+            "name": "LB Business Journal",
+            "screen_name": "LBBizJourn"
+        },
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        }
+    ]
+}
