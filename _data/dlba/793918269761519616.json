@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Nov 02 20:50:40 +0000 2016",
+    "hashtags": [],
+    "id": 793918269761519616,
+    "id_str": "793918269761519616",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 20:42:47 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 793916285734232065,
+        "id_str": "793916285734232065",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/yzwbAku8no",
+                "expanded_url": "https://twitter.com/CurbedLA/status/793916285734232065/photo/1",
+                "id": 793916283892957184,
+                "media_url": "http://pbs.twimg.com/media/CwSOp2LWgAAP5fr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwSOp2LWgAAP5fr.jpg",
+                "type": "photo",
+                "url": "https://t.co/yzwbAku8no"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+        "text": "216 upscale apartments rising next to historic Long Beach Ocean Center Building https://t.co/w8hjqwZhwF https://t.co/yzwbAku8no",
+        "urls": [
+            {
+                "expanded_url": "http://la.curbed.com/2016/11/2/13501230/apartments-long-beach-ocean-center-building-new?utm_campaign=la.curbed&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                "url": "https://t.co/w8hjqwZhwF"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 23 06:27:45 +0000 2008",
+            "description": "Every aspect of living in Los Angeles, for people who care about their city, their streets, and their homes.",
+            "favourites_count": 39,
+            "followers_count": 82580,
+            "friends_count": 138,
+            "id": 14878485,
+            "lang": "en",
+            "listed_count": 1512,
+            "location": "Los Angeles",
+            "name": "CurbedLA",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045051673/28882e135e32026b5a5b3943281466eb.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14878485/1464038448",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/734856673567879172/QyiTUF6l_normal.jpg",
+            "profile_link_color": "FF604A",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "CurbedLA",
+            "statuses_count": 18150,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZnGxfwWkq5",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CurbedLA: 216 upscale apartments rising next to historic Long Beach Ocean Center Building https://t.co/w8hjqwZhwF https://t.co/yzwbAku8…",
+    "urls": [
+        {
+            "expanded_url": "http://la.curbed.com/2016/11/2/13501230/apartments-long-beach-ocean-center-building-new?utm_campaign=la.curbed&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "url": "https://t.co/w8hjqwZhwF"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2050,
+        "followers_count": 12698,
+        "friends_count": 704,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4123,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 14878485,
+            "name": "CurbedLA",
+            "screen_name": "CurbedLA"
+        }
+    ]
+}
