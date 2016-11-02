@@ -1,0 +1,55 @@
+{
+    "created_at": "Wed Nov 02 21:15:26 +0000 2016",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "Didyouknow"
+        },
+        {
+            "text": "POLB"
+        },
+        {
+            "text": "Cargo"
+        }
+    ],
+    "id": 793924504166731776,
+    "id_str": "793924504166731776",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "#Didyouknow: #POLB and the @PortofLA combined port complex is the 10th-busiest  in the world? #Cargo",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 627,
+        "followers_count": 16927,
+        "friends_count": 3713,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 494,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7325,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 68448471,
+            "name": "Port of Los Angeles",
+            "screen_name": "PortofLA"
+        }
+    ]
+}

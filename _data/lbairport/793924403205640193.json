@@ -1,0 +1,47 @@
+{
+    "created_at": "Wed Nov 02 21:15:02 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBFestivalofFlight"
+        }
+    ],
+    "id": 793924403205640193,
+    "id_str": "793924403205640193",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "You can't have an event without refreshments! At #LBFestivalofFlight on 11/5, beer for guests over 21 and food will… https://t.co/bZ0NJpK1e3",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/793924403205640193",
+            "url": "https://t.co/bZ0NJpK1e3"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2793,
+        "followers_count": 9005,
+        "friends_count": 565,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 361,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6183,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/cXM6mauVtE",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
