@@ -1,0 +1,122 @@
+{
+    "created_at": "Wed Nov 02 16:00:25 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 793845227194687488,
+    "id_str": "793845227194687488",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Gj1ayRefpV",
+            "expanded_url": "https://twitter.com/UrbanizeLA/status/793845149168054272/photo/1",
+            "id": 793844948462211073,
+            "media_url": "http://pbs.twimg.com/media/CwRNxk_UEAEXSVz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwRNxk_UEAEXSVz.jpg",
+            "type": "photo",
+            "url": "https://t.co/Gj1ayRefpV"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 16:00:07 +0000 2016",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 793845149168054272,
+        "id_str": "793845149168054272",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Gj1ayRefpV",
+                "expanded_url": "https://twitter.com/UrbanizeLA/status/793845149168054272/photo/1",
+                "id": 793844948462211073,
+                "media_url": "http://pbs.twimg.com/media/CwRNxk_UEAEXSVz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwRNxk_UEAEXSVz.jpg",
+                "type": "photo",
+                "url": "https://t.co/Gj1ayRefpV"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Work begins for the Oceanaire development in Downtown #LongBeach https://t.co/BOW0dJjNw4 https://t.co/Gj1ayRefpV",
+        "urls": [
+            {
+                "expanded_url": "http://urbanize.la/post/oceanaire-development-begins-construction-long-beach",
+                "url": "https://t.co/BOW0dJjNw4"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Oct 04 16:39:28 +0000 2014",
+            "default_profile": true,
+            "description": "Covering real estate development, architecture and urban planning in the Greater Los Angeles Area.",
+            "favourites_count": 2065,
+            "followers_count": 2625,
+            "friends_count": 430,
+            "id": 2805696365,
+            "lang": "en",
+            "listed_count": 144,
+            "location": "Los Angeles",
+            "name": "Urbanize.LA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2805696365/1425857901",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/616304802029375488/cKsuaqJC_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "UrbanizeLA",
+            "statuses_count": 4675,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/LmNt4EMOdz",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @UrbanizeLA: Work begins for the Oceanaire development in Downtown #LongBeach https://t.co/BOW0dJjNw4 https://t.co/Gj1ayRefpV",
+    "urls": [
+        {
+            "expanded_url": "http://urbanize.la/post/oceanaire-development-begins-construction-long-beach",
+            "url": "https://t.co/BOW0dJjNw4"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2048,
+        "followers_count": 12700,
+        "friends_count": 704,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4121,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2805696365,
+            "name": "Urbanize.LA",
+            "screen_name": "UrbanizeLA"
+        }
+    ]
+}
