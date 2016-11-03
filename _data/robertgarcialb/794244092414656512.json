@@ -1,0 +1,67 @@
+{
+    "created_at": "Thu Nov 03 18:25:22 +0000 2016",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 794244092414656512,
+    "id_str": "794244092414656512",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Joined @metrolosangeles, @ericgarcetti, @DonKnabe, &amp; @AjaLBrown today to unveil safety upgrades to Blue Line - let'… https://t.co/fhtiSfRpMd",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/794244092414656512",
+            "url": "https://t.co/fhtiSfRpMd"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4822,
+        "followers_count": 11150,
+        "friends_count": 2022,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 222,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9423,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14631598,
+            "name": "Metro",
+            "screen_name": "metrolosangeles"
+        },
+        {
+            "id": 17358750,
+            "name": "Eric Garcetti",
+            "screen_name": "ericgarcetti"
+        },
+        {
+            "id": 154688160,
+            "name": "Don Knabe",
+            "screen_name": "DonKnabe"
+        },
+        {
+            "id": 1173297636,
+            "name": "Aja Brown",
+            "screen_name": "AjaLBrown"
+        }
+    ]
+}
