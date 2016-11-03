@@ -1,0 +1,85 @@
+{
+    "created_at": "Thu Nov 03 20:43:39 +0000 2016",
+    "hashtags": [],
+    "id": 794278891934232576,
+    "id_str": "794278891934232576",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Oct 31 17:56:22 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 793149629223141376,
+        "id_str": "793149629223141376",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "For info on hosting a neighborhood clean-up or tree planting, call Housing and Neighborhood Services (562) 570-6866. https://t.co/cmKaS4mWZJ",
+        "urls": [
+            {
+                "expanded_url": "http://www.lbds.info",
+                "url": "https://t.co/cmKaS4mWZJ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+            "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+            "favourites_count": 83,
+            "followers_count": 1565,
+            "friends_count": 210,
+            "geo_enabled": true,
+            "id": 18194366,
+            "lang": "en",
+            "listed_count": 56,
+            "location": "Long Beach, CA",
+            "name": "Long Beach DS",
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "0F0C0B",
+            "screen_name": "LongBeachDS",
+            "statuses_count": 1074,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/wis2kPqDF4",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachDS: For info on hosting a neighborhood clean-up or tree planting, call Housing and Neighborhood Services (562) 570-6866. https…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4262,
+        "followers_count": 8536,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5967,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18194366,
+            "name": "Long Beach DS",
+            "screen_name": "LongBeachDS"
+        }
+    ]
+}
