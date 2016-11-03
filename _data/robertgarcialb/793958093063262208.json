@@ -1,0 +1,62 @@
+{
+    "created_at": "Wed Nov 02 23:28:55 +0000 2016",
+    "hashtags": [],
+    "id": 793958093063262208,
+    "id_str": "793958093063262208",
+    "in_reply_to_screen_name": "rowingtosweden",
+    "in_reply_to_status_id": 793957760186449921,
+    "in_reply_to_user_id": 1514593999,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@rowingtosweden I consider the @presstelegram @GrunionGazette and @LBBizJourn all major",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4797,
+        "followers_count": 11143,
+        "friends_count": 2022,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 221,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9415,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1514593999,
+            "name": "twistedcister1",
+            "screen_name": "rowingtosweden"
+        },
+        {
+            "id": 163633469,
+            "name": "LB Press-Telegram",
+            "screen_name": "presstelegram"
+        },
+        {
+            "id": 176509198,
+            "name": "Gazette Newspapers",
+            "screen_name": "GrunionGazette"
+        },
+        {
+            "id": 2565667038,
+            "name": "LB Business Journal",
+            "screen_name": "LBBizJourn"
+        }
+    ]
+}

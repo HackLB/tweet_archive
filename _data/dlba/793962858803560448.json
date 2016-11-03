@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed Nov 02 23:47:51 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Dogs"
+        },
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "DTLB"
+        }
+    ],
+    "id": 793962858803560448,
+    "id_str": "793962858803560448",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 23:47:20 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "Dogs"
+            },
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "DTLB"
+            }
+        ],
+        "id": 793962728402497537,
+        "id_str": "793962728402497537",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We'll be at #Dogs of Downtown #LongBeach (@DLBA) Nov 19th! Hope to see all the great #DTLB peeps and furry friends!… https://t.co/cPX0bsCR9D",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793962728402497537",
+                "url": "https://t.co/cPX0bsCR9D"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 30 21:55:50 +0000 2016",
+            "description": "Kriddr is more than a pet app, it’s a local space for pet lovers to trust, connect, and share. Built by pet lovers for pet lovers!",
+            "favourites_count": 558,
+            "followers_count": 41,
+            "friends_count": 67,
+            "geo_enabled": true,
+            "id": 715296500645924865,
+            "lang": "en",
+            "listed_count": 7,
+            "location": "California, USA",
+            "name": "kriddr",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738084231134380033/Xq7P99ul_normal.jpg",
+            "profile_link_color": "FA450A",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "hello_kriddr",
+            "statuses_count": 416,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/46c8QDZNUo",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 30287813,
+                "name": "Downtown Long Beach",
+                "screen_name": "DLBA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @hello_kriddr: We'll be at #Dogs of Downtown #LongBeach (@DLBA) Nov 19th! Hope to see all the great #DTLB peeps and furry friends! https…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2060,
+        "followers_count": 12698,
+        "friends_count": 714,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4131,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 715296500645924865,
+            "name": "kriddr",
+            "screen_name": "hello_kriddr"
+        },
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        }
+    ]
+}
