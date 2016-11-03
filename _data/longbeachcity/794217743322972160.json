@@ -1,0 +1,95 @@
+{
+    "created_at": "Thu Nov 03 16:40:40 +0000 2016",
+    "hashtags": [
+        {
+            "text": "SafeYouthZone"
+        }
+    ],
+    "id": 794217743322972160,
+    "id_str": "794217743322972160",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 20:47:16 +0000 2016",
+        "favorite_count": 10,
+        "hashtags": [
+            {
+                "text": "SafeYouthZone"
+            }
+        ],
+        "id": 793917413884497920,
+        "id_str": "793917413884497920",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Chief Luna speaks about new #SafeYouthZone program which creates a network of safe places for child sex trafficking… https://t.co/68mKvrk08o",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793917413884497920",
+                "url": "https://t.co/68mKvrk08o"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+            "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+            "favourites_count": 4255,
+            "followers_count": 8537,
+            "friends_count": 423,
+            "id": 50097116,
+            "lang": "en",
+            "listed_count": 232,
+            "name": "Long Beach PD",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+            "profile_link_color": "63A5BD",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "LongBeachPD_CA",
+            "statuses_count": 5958,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/mv2Tul1Uz8",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachPD_CA: Chief Luna speaks about new #SafeYouthZone program which creates a network of safe places for child sex trafficking vic…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "Many Unique Neighborhoods, One Great City. Follow us to get the scoop straight from the Long Beach City Manager's Office.   Also at https://t.co/cahGxgDjPQ.",
+        "favourites_count": 180,
+        "followers_count": 62678,
+        "friends_count": 1223,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 447,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6354,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        }
+    ]
+}
