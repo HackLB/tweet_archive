@@ -1,0 +1,111 @@
+{
+    "created_at": "Thu Nov 03 22:34:39 +0000 2016",
+    "hashtags": [
+        {
+            "text": "CfASummit"
+        }
+    ],
+    "id": 794306827525623809,
+    "id_str": "794306827525623809",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Nov 03 21:38:41 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "CfASummit"
+            }
+        ],
+        "id": 794292741194690560,
+        "id_str": "794292741194690560",
+        "in_reply_to_screen_name": "RobertGarciaLB",
+        "in_reply_to_user_id": 18120497,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RobertGarciaLB speaking at #CfASummit about promoting entrepreneurs. FUSE is proud to partner with this great Mayo… https://t.co/KRVSktsmhF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794292741194690560",
+                "url": "https://t.co/KRVSktsmhF"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 13 03:26:06 +0000 2011",
+            "description": "FUSE Corps is a nonprofit organization that enables local government to more effectively address the biggest challenges facing urban communities.",
+            "favourites_count": 497,
+            "followers_count": 1491,
+            "friends_count": 1109,
+            "geo_enabled": true,
+            "id": 372624390,
+            "lang": "en",
+            "listed_count": 96,
+            "location": "San Francisco ",
+            "name": "FUSE Corps",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605829252001366016/-g1R85jx.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/372624390/1435117169",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/613751413995220992/o9zXdjYG_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "FUSECorps",
+            "statuses_count": 1964,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/Q4PV3nT0br",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @FUSECorps: @RobertGarciaLB speaking at #CfASummit about promoting entrepreneurs. FUSE is proud to partner with this great Mayor of this…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4830,
+        "followers_count": 11149,
+        "friends_count": 2023,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 221,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9428,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 372624390,
+            "name": "FUSE Corps",
+            "screen_name": "FUSECorps"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}

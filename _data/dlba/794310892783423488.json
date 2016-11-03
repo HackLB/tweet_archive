@@ -1,0 +1,122 @@
+{
+    "created_at": "Thu Nov 03 22:50:49 +0000 2016",
+    "hashtags": [
+        {
+            "text": "CfASummit"
+        }
+    ],
+    "id": 794310892783423488,
+    "id_str": "794310892783423488",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Nov 03 21:38:23 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "CfASummit"
+            }
+        ],
+        "id": 794292666221543424,
+        "id_str": "794292666221543424",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HbE9AmTeQE",
+                "expanded_url": "https://twitter.com/codeforamerica/status/794292666221543424/photo/1",
+                "id": 794292655119212545,
+                "media_url": "http://pbs.twimg.com/media/CwXk9iQVIAEFBAL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwXk9iQVIAEFBAL.jpg",
+                "type": "photo",
+                "url": "https://t.co/HbE9AmTeQE"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "We're making it easier for entrepreneurs to start a business in less time - @RobertGarciaLB @rossetti211 #CfASummit https://t.co/HbE9AmTeQE",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Aug 10 18:59:29 +0000 2009",
+            "description": "Government can work for the people, by the people, in the 21st century. Help us make it so.",
+            "favourites_count": 1737,
+            "followers_count": 43635,
+            "friends_count": 1382,
+            "id": 64482503,
+            "lang": "en",
+            "listed_count": 2529,
+            "location": "San Francisco, California",
+            "name": "Code for America",
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/64482503/1474049116",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/615534833645678592/iAO_Lytr_normal.jpg",
+            "profile_link_color": "CF1B41",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "screen_name": "codeforamerica",
+            "statuses_count": 13045,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/SdrDB6SXsQ",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 14709358,
+                "name": "Mark Rossetti",
+                "screen_name": "rossetti211"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @codeforamerica: We're making it easier for entrepreneurs to start a business in less time - @RobertGarciaLB @rossetti211 #CfASummit htt…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2063,
+        "followers_count": 12705,
+        "friends_count": 714,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4133,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 64482503,
+            "name": "Code for America",
+            "screen_name": "codeforamerica"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 14709358,
+            "name": "Mark Rossetti",
+            "screen_name": "rossetti211"
+        }
+    ]
+}

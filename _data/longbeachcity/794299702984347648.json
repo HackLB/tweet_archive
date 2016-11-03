@@ -1,0 +1,119 @@
+{
+    "created_at": "Thu Nov 03 22:06:21 +0000 2016",
+    "hashtags": [],
+    "id": 794299702984347648,
+    "id_str": "794299702984347648",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Nov 03 17:58:44 +0000 2016",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 794237388062982144,
+        "id_str": "794237388062982144",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks .@sandraendotv &amp; .@FOXLA for spending today with .@lblifeguard We train like our lives depend on it..because… https://t.co/WOrOAGF6Fx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794237388062982144",
+                "url": "https://t.co/WOrOAGF6Fx"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+            "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+            "favourites_count": 560,
+            "followers_count": 4809,
+            "friends_count": 186,
+            "geo_enabled": true,
+            "id": 18952042,
+            "lang": "en",
+            "listed_count": 181,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Fire",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "lbfd",
+            "statuses_count": 2239,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/y8zfCjTY2R",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 67051145,
+                "name": "Sandra Endo",
+                "screen_name": "sandraendotv"
+            },
+            {
+                "id": 9648652,
+                "name": "FOX 11 Los Angeles",
+                "screen_name": "FOXLA"
+            },
+            {
+                "id": 481374287,
+                "name": "Long Beach Lifeguard",
+                "screen_name": "lblifeguard"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @lbfd: Thanks .@sandraendotv &amp; .@FOXLA for spending today with .@lblifeguard We train like our lives depend on it..because it does! #Sem…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62695,
+        "friends_count": 1223,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 447,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6359,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 67051145,
+            "name": "Sandra Endo",
+            "screen_name": "sandraendotv"
+        },
+        {
+            "id": 9648652,
+            "name": "FOX 11 Los Angeles",
+            "screen_name": "FOXLA"
+        },
+        {
+            "id": 481374287,
+            "name": "Long Beach Lifeguard",
+            "screen_name": "lblifeguard"
+        }
+    ]
+}

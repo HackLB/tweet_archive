@@ -1,0 +1,189 @@
+{
+    "created_at": "Thu Nov 03 22:03:35 +0000 2016",
+    "hashtags": [
+        {
+            "text": "ThisisLB"
+        },
+        {
+            "text": "California"
+        },
+        {
+            "text": "BeachWithBenefits"
+        }
+    ],
+    "id": 794299006473994240,
+    "id_str": "794299006473994240",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Nov 03 19:14:26 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "ThisisLB"
+            },
+            {
+                "text": "California"
+            },
+            {
+                "text": "BeachWithBenefits"
+            }
+        ],
+        "id": 794256440567267328,
+        "id_str": "794256440567267328",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/r7HzwE6gRr",
+                "expanded_url": "https://twitter.com/eyadstudio/status/794256440567267328/photo/1",
+                "id": 794256433097228288,
+                "media_url": "http://pbs.twimg.com/media/CwXEBItUQAAkUlo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwXEBItUQAAkUlo.jpg",
+                "type": "photo",
+                "url": "https://t.co/r7HzwE6gRr"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Queen @LongBeachCity @LBAirport #ThisisLB  #California #BeachWithBenefits @california  @TheQueenMary https://t.co/r7HzwE6gRr",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 28 00:26:08 +0000 2009",
+            "description": "Motion Design | Editing | Digital Painting | Graphics | Photography. @eyadstudio on Vimeo / Instagram #Lakers Fan. [Available]",
+            "favourites_count": 45,
+            "followers_count": 206,
+            "friends_count": 436,
+            "geo_enabled": true,
+            "id": 35922108,
+            "lang": "en",
+            "listed_count": 15,
+            "location": "Long Beach, CA",
+            "name": "Eyad",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/35922108/1478191852",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2171613962/eyad1_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "eyadstudio",
+            "statuses_count": 203,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/gkTi93U1JA",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            },
+            {
+                "id": 26089017,
+                "name": "California",
+                "screen_name": "california"
+            },
+            {
+                "id": 19261737,
+                "name": "Queen Mary",
+                "screen_name": "TheQueenMary"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @eyadstudio: The Queen @LongBeachCity @LBAirport #ThisisLB  #California #BeachWithBenefits @california  @TheQueenMary https://t.co/r7Hzw…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62695,
+        "friends_count": 1223,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 447,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6359,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 35922108,
+            "name": "Eyad",
+            "screen_name": "eyadstudio"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        },
+        {
+            "id": 26089017,
+            "name": "California",
+            "screen_name": "california"
+        },
+        {
+            "id": 19261737,
+            "name": "Queen Mary",
+            "screen_name": "TheQueenMary"
+        }
+    ]
+}
