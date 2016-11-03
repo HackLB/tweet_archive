@@ -1,0 +1,137 @@
+{
+    "created_at": "Thu Nov 03 19:10:31 +0000 2016",
+    "hashtags": [
+        {
+            "text": "FestivalofFlight"
+        }
+    ],
+    "id": 794255453010083840,
+    "id_str": "794255453010083840",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Nov 03 17:56:35 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "FestivalofFlight"
+            }
+        ],
+        "id": 794236849355010048,
+        "id_str": "794236849355010048",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -117.834663,
+                            34.0182828
+                        ],
+                        [
+                            -117.7111706,
+                            34.0182828
+                        ],
+                        [
+                            -117.7111706,
+                            34.1126181
+                        ],
+                        [
+                            -117.834663,
+                            34.1126181
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Pomona, CA",
+            "id": "6f24e28976abe656",
+            "name": "Pomona",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/6f24e28976abe656.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Don't miss the #FestivalofFlight this Sat.@LBAirport featuring music, food trucks, beer gardens, surprise flyovers… https://t.co/D2iQXQHBwm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794236849355010048",
+                "url": "https://t.co/D2iQXQHBwm"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 21 23:02:46 +0000 2015",
+            "description": "Assemblymember, #AD70. Father, husband, teacher & Chair of Assembly #Education Committee, Select Committee on #Ports & Select Committee on #Aerospace.",
+            "favourites_count": 467,
+            "followers_count": 1521,
+            "friends_count": 1002,
+            "geo_enabled": true,
+            "id": 3222696132,
+            "lang": "en",
+            "listed_count": 70,
+            "location": "Long Beach, CA",
+            "name": "Patrick O'Donnell",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3222696132/1433224628",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/601525679121805312/EP49xbP8_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "AsmPatODonnell",
+            "statuses_count": 1003,
+            "url": "https://t.co/GAh95s1MtB"
+        },
+        "user_mentions": [
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AsmPatODonnell: Don't miss the #FestivalofFlight this Sat.@LBAirport featuring music, food trucks, beer gardens, surprise flyovers &amp; ev…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4256,
+        "followers_count": 8537,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5959,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 3222696132,
+            "name": "Patrick O'Donnell",
+            "screen_name": "AsmPatODonnell"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        }
+    ]
+}

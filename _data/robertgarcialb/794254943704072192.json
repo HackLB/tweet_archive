@@ -1,0 +1,61 @@
+{
+    "created_at": "Thu Nov 03 19:08:29 +0000 2016",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "WonderWoman"
+        }
+    ],
+    "id": 794254943704072192,
+    "id_str": "794254943704072192",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/U0kIExcYNX",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/794254943704072192/photo/1",
+            "id": 794254903845625856,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CwXCoHzUoAAes-8.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwXCoHzUoAAes-8.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/U0kIExcYNX"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My reaction to the @PattyJenks #WonderWoman trailer https://t.co/U0kIExcYNX",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4823,
+        "followers_count": 11148,
+        "friends_count": 2022,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 222,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9426,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 35990109,
+            "name": "Patty Jenkins",
+            "screen_name": "PattyJenks"
+        }
+    ]
+}
