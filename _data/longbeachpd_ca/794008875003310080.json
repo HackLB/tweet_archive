@@ -1,0 +1,131 @@
+{
+    "created_at": "Thu Nov 03 02:50:42 +0000 2016",
+    "hashtags": [],
+    "id": 794008875003310080,
+    "id_str": "794008875003310080",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 01 17:13:33 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 793501242714497024,
+        "id_str": "793501242714497024",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "There are currently two openings for a part-time Special Services Officer position with the @LongBeachPD_CA:… https://t.co/uvvvpnmIpY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793501242714497024",
+                "url": "https://t.co/uvvvpnmIpY"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+            "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+            "favourites_count": 554,
+            "followers_count": 1354,
+            "friends_count": 1059,
+            "geo_enabled": true,
+            "id": 158253547,
+            "lang": "en",
+            "listed_count": 29,
+            "location": "Long Beach, California USA",
+            "name": "City of L.B. Jobs",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LongBchCityJobs",
+            "statuses_count": 1766,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/BJr1SSBo00",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 50097116,
+                "name": "Long Beach PD",
+                "screen_name": "LongBeachPD_CA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBchCityJobs: There are currently two openings for a part-time Special Services Officer position with the @LongBeachPD_CA: https://t…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4255,
+        "followers_count": 8535,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5958,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 158253547,
+            "name": "City of L.B. Jobs",
+            "screen_name": "LongBchCityJobs"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        }
+    ]
+}

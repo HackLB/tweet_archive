@@ -1,0 +1,121 @@
+{
+    "created_at": "Thu Nov 03 02:49:55 +0000 2016",
+    "hashtags": [],
+    "id": 794008677631938560,
+    "id_str": "794008677631938560",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 21:13:36 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 793924039571951616,
+        "id_str": "793924039571951616",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.1651189,
+                            34.05998
+                        ],
+                        [
+                            -118.108233,
+                            34.05998
+                        ],
+                        [
+                            -118.108233,
+                            34.111213
+                        ],
+                        [
+                            -118.1651189,
+                            34.111213
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Alhambra, CA",
+            "id": "d563cf7307e4ba95",
+            "name": "Alhambra",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/d563cf7307e4ba95.json"
+        },
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today we launched a network of safe places for child sex trafficking victims to seek help and services… https://t.co/qle7UMJUm1",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793924039571951616",
+                "url": "https://t.co/qle7UMJUm1"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 11 23:16:48 +0000 2010",
+            "description": "@CountyofLA Supervisor serving the 4th District. #NoSuchThing as a child prostitute https://t.co/FiRiTFoyvA",
+            "favourites_count": 217,
+            "followers_count": 7051,
+            "friends_count": 3464,
+            "geo_enabled": true,
+            "id": 154688160,
+            "lang": "en",
+            "listed_count": 226,
+            "location": "Los Angeles, CA",
+            "name": "Don Knabe",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/154688160/1444753439",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/652530138664439808/pha-mipm_normal.jpg",
+            "profile_link_color": "990000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "DonKnabe",
+            "statuses_count": 6217,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/UQcZmP0TNt",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @DonKnabe: Today we launched a network of safe places for child sex trafficking victims to seek help and services https://t.co/V5GNysuLq…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4255,
+        "followers_count": 8535,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5958,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 154688160,
+            "name": "Don Knabe",
+            "screen_name": "DonKnabe"
+        }
+    ]
+}
