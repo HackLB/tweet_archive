@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Nov 04 22:18:07 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBConventionCtr"
+        }
+    ],
+    "id": 794665052930338817,
+    "id_str": "794665052930338817",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Nov 04 22:00:24 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "LBConventionCtr"
+            }
+        ],
+        "id": 794660596180512768,
+        "id_str": "794660596180512768",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "5 Things to do at @ComplexCon this weekend...Will you be checking all these off your list? #LBConventionCtr https://t.co/0YUrMsB8le",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2f2zNzW",
+                "url": "https://t.co/0YUrMsB8le"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 06 00:30:44 +0000 2010",
+            "description": "OFFICIAL Twitter for the Long Beach Convention & Entertainment Center. Bringing the best conventions and entertainment to #LongBeach.   IG: @lbconventionctr",
+            "favourites_count": 1155,
+            "followers_count": 3725,
+            "friends_count": 1202,
+            "geo_enabled": true,
+            "id": 111739030,
+            "lang": "en",
+            "listed_count": 128,
+            "location": "Long Beach, CA",
+            "name": "LB Convention Center",
+            "profile_background_color": "918E91",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438046820434841601/qftgjAha.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/111739030/1452544880",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/531969040252559360/tGxlQvA-_normal.jpeg",
+            "profile_link_color": "3B8686",
+            "profile_sidebar_fill_color": "0B486B",
+            "profile_text_color": "A8DBA8",
+            "screen_name": "LBConventionCtr",
+            "statuses_count": 4739,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/yVbwGJ7X1s",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 4919930273,
+                "name": "ComplexCon",
+                "screen_name": "ComplexCon"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBConventionCtr: 5 Things to do at @ComplexCon this weekend...Will you be checking all these off your list? #LBConventionCtr https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1010,
+        "followers_count": 13017,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13202,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 111739030,
+            "name": "LB Convention Center",
+            "screen_name": "LBConventionCtr"
+        },
+        {
+            "id": 4919930273,
+            "name": "ComplexCon",
+            "screen_name": "ComplexCon"
+        }
+    ]
+}
