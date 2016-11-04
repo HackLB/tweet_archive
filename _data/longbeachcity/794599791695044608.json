@@ -1,0 +1,101 @@
+{
+    "created_at": "Fri Nov 04 17:58:47 +0000 2016",
+    "hashtags": [],
+    "id": 794599791695044608,
+    "id_str": "794599791695044608",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Nov 03 22:40:59 +0000 2016",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 794308421759602688,
+        "id_str": "794308421759602688",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you @codeforamerica for partnering in Long Beach - we are looking forward to more innovation in government… https://t.co/tRkF34CJX2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794308421759602688",
+                "url": "https://t.co/tRkF34CJX2"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+            "default_profile": true,
+            "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+            "favourites_count": 4835,
+            "followers_count": 11153,
+            "friends_count": 2024,
+            "geo_enabled": true,
+            "id": 18120497,
+            "lang": "en",
+            "listed_count": 221,
+            "location": "Long Beach",
+            "name": "Robert Garcia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RobertGarciaLB",
+            "statuses_count": 9430,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FYG8w5WQQa",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 64482503,
+                "name": "Code for America",
+                "screen_name": "codeforamerica"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RobertGarciaLB: Thank you @codeforamerica for partnering in Long Beach - we are looking forward to more innovation in government #cfasu…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62763,
+        "friends_count": 1222,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 448,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6363,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 64482503,
+            "name": "Code for America",
+            "screen_name": "codeforamerica"
+        }
+    ]
+}
