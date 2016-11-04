@@ -1,0 +1,82 @@
+{
+    "created_at": "Fri Nov 04 01:43:51 +0000 2016",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "NorthIsNow"
+        }
+    ],
+    "id": 794354438513135616,
+    "id_str": "794354438513135616",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.184449,
+                        33.8602
+                    ],
+                    [
+                        -118.184449,
+                        33.8602
+                    ],
+                    [
+                        -118.184449,
+                        33.8602
+                    ],
+                    [
+                        -118.184449,
+                        33.8602
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Michelle Obama neighborhood library",
+        "id": "0ae1743d83d68000",
+        "name": "Michelle Obama neighborhood library",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/0ae1743d83d68000.json"
+    },
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Full house for our \"State Of The 9th District\" at the new Michelle Obama Neighborhood Library! #NorthIsNow… https://t.co/K1Ma9z3UG5",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/794354438513135616",
+            "url": "https://t.co/K1Ma9z3UG5"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1300,
+        "followers_count": 2296,
+        "friends_count": 1234,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2096,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}

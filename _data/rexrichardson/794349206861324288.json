@@ -1,0 +1,116 @@
+{
+    "created_at": "Fri Nov 04 01:23:03 +0000 2016",
+    "hashtags": [
+        {
+            "text": "vicemayor"
+        },
+        {
+            "text": "StateOfthe9thDistrict"
+        },
+        {
+            "text": "EmpowerUptown"
+        }
+    ],
+    "id": 794349206861324288,
+    "id_str": "794349206861324288",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Nov 04 01:22:11 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "vicemayor"
+            },
+            {
+                "text": "StateOfthe9thDistrict"
+            }
+        ],
+        "id": 794348987054637056,
+        "id_str": "794348987054637056",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Honored to be recognized by #vicemayor @rexrichardson during tonight's #StateOfthe9thDistrict address.… https://t.co/9M4eEIf8t5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794348987054637056",
+                "url": "https://t.co/9M4eEIf8t5"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 17 19:12:54 +0000 2011",
+            "default_profile": true,
+            "description": "Kaiser Permanente South Bay Medical Center provides high quality care and service to 230,000+ members in the South Bay, Harbor and Long Beach areas.",
+            "favourites_count": 523,
+            "followers_count": 1797,
+            "friends_count": 2056,
+            "geo_enabled": true,
+            "id": 253683287,
+            "lang": "en",
+            "listed_count": 70,
+            "location": "Harbor City, CA",
+            "name": "KP South Bay",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/253683287/1400043527",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/466101647047786496/a4USXUBx_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "KPSouthBay",
+            "statuses_count": 3783,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/BZwiO5Ct",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KPSouthBay: Honored to be recognized by #vicemayor @rexrichardson during tonight's #StateOfthe9thDistrict address. #EmpowerUptown https…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1300,
+        "followers_count": 2296,
+        "friends_count": 1234,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2096,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 253683287,
+            "name": "KP South Bay",
+            "screen_name": "KPSouthBay"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
