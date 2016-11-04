@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Nov 04 02:02:39 +0000 2016",
+    "hashtags": [
+        {
+            "text": "readwithrex"
+        }
+    ],
+    "id": 794359170174623744,
+    "id_str": "794359170174623744",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Nov 04 02:02:20 +0000 2016",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "readwithrex"
+            }
+        ],
+        "id": 794359090503745536,
+        "id_str": "794359090503745536",
+        "in_reply_to_screen_name": "rexrichardson",
+        "in_reply_to_user_id": 39073462,
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@rexrichardson's #readwithrex challenge is inspiring hundreds of community members to read thousands of books.… https://t.co/6CRgYy3peW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794359090503745536",
+                "url": "https://t.co/6CRgYy3peW"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Mar 16 21:23:32 +0000 2013",
+            "default_profile": true,
+            "description": "Reinvent Communications connects the dots to accelerate lasting social change. @citizenjones76 is Founding CEO + Chief Strategist",
+            "favourites_count": 1946,
+            "followers_count": 734,
+            "friends_count": 1443,
+            "geo_enabled": true,
+            "id": 1273340180,
+            "lang": "en",
+            "listed_count": 46,
+            "location": "LA, SFO, NYC, DC",
+            "name": "ReinventComm",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273340180/1465333248",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/415553177899917312/PT-8c0nW_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "reinventcomm",
+            "statuses_count": 3058,
+            "url": "https://t.co/0sOijo2N01"
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @reinventcomm: @rexrichardson's #readwithrex challenge is inspiring hundreds of community members to read thousands of books. #northisno…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dad, Millennial. Advocate for the #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1309,
+        "followers_count": 2301,
+        "friends_count": 1235,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2107,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 1273340180,
+            "name": "ReinventComm",
+            "screen_name": "reinventcomm"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
