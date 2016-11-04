@@ -1,0 +1,88 @@
+{
+    "created_at": "Fri Nov 04 20:30:11 +0000 2016",
+    "hashtags": [],
+    "id": 794637891125198848,
+    "id_str": "794637891125198848",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Fri Nov 04 14:55:07 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 794553569949065216,
+        "id_str": "794553569949065216",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+        "text": "Learn how to Use Your NetSmartz with Clicky, Nettie &amp; Webster in \"Bad Netiquette Stinks!\"  A lesson in digital citi… https://t.co/OcIHrff2BY",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794553569949065216",
+                "url": "https://t.co/OcIHrff2BY"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 31 18:53:05 +0000 2011",
+            "description": "Since 2001, NetSmartz has empowered generations of children to be safer online and become responsible digital citizens. A program of @MissingKids",
+            "favourites_count": 2981,
+            "followers_count": 15098,
+            "friends_count": 499,
+            "geo_enabled": true,
+            "id": 365617235,
+            "lang": "en",
+            "listed_count": 193,
+            "location": "Alexandria, VA",
+            "name": "NetSmartz",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/545616783676170240/oV6z1HDa.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/365617235/1477997790",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/793407606039674881/HcKvnFfJ_normal.jpg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "NetSmartz",
+            "statuses_count": 6639,
+            "time_zone": "Atlantic Time (Canada)",
+            "url": "https://t.co/h6sg5at06Z",
+            "utc_offset": -10800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NetSmartz: Learn how to Use Your NetSmartz with Clicky, Nettie &amp; Webster in \"Bad Netiquette Stinks!\"  A lesson in digital citizenship &amp;…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4266,
+        "followers_count": 8539,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5971,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 365617235,
+            "name": "NetSmartz",
+            "screen_name": "NetSmartz"
+        }
+    ]
+}
