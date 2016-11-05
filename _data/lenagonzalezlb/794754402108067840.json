@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Nov 05 04:13:09 +0000 2016",
+    "hashtags": [
+        {
+            "text": "GoLongBeach"
+        }
+    ],
+    "id": 794754402108067840,
+    "id_str": "794754402108067840",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Nov 03 00:11:27 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "GoLongBeach"
+            }
+        ],
+        "id": 793968798516723712,
+        "id_str": "793968798516723712",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5DiCwguyz2",
+                "expanded_url": "https://twitter.com/lb_independent/status/793968798516723712/photo/1",
+                "id": 793968794364354560,
+                "media_url": "http://pbs.twimg.com/media/CwS-aW7VIAAqx2Y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwS-aW7VIAAqx2Y.jpg",
+                "type": "photo",
+                "url": "https://t.co/5DiCwguyz2"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "The Smiths cover band Sweet and Tender Hooligans headlining this Saturday \n\nThank you @lenagonzalezlb #GoLongBeach https://t.co/5DiCwguyz2",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Jan 13 23:52:22 +0000 2012",
+            "description": "LBI is your source for Long Beach music related news, reviews, previews, artists, videos, and photos of the Long Beach music Scene.",
+            "favourites_count": 18,
+            "followers_count": 587,
+            "friends_count": 625,
+            "id": 463314940,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "Long Beach, Ca",
+            "name": "LB Independent",
+            "profile_background_color": "333333",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438794315/iPadBackgroundTexture-grey.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/463314940/1434123721",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1815870999/lbi_icon_square_normal.gif",
+            "profile_link_color": "57936E",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "lb_independent",
+            "statuses_count": 1666,
+            "url": "http://t.co/rbiJNfU4KL"
+        },
+        "user_mentions": [
+            {
+                "id": 55487106,
+                "name": "Lena A. Gonzalez",
+                "screen_name": "lenagonzalezlb"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @lb_independent: The Smiths cover band Sweet and Tender Hooligans headlining this Saturday \n\nThank you @lenagonzalezlb #GoLongBeach http…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Tech employed. MBA student. Long Beach lover",
+        "favourites_count": 304,
+        "followers_count": 1568,
+        "friends_count": 1398,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1473007975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 728,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 463314940,
+            "name": "LB Independent",
+            "screen_name": "lb_independent"
+        },
+        {
+            "id": 55487106,
+            "name": "Lena A. Gonzalez",
+            "screen_name": "lenagonzalezlb"
+        }
+    ]
+}
