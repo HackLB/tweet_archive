@@ -1,0 +1,161 @@
+{
+    "created_at": "Sat Nov 05 17:49:25 +0000 2016",
+    "hashtags": [],
+    "id": 794959820264570880,
+    "id_str": "794959820264570880",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/K8mDJxijkp",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/794950660407967744/photo/1",
+            "id": 794950643370688512,
+            "media_url": "http://pbs.twimg.com/media/Cwg7ZfgUAAAejEI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cwg7ZfgUAAAejEI.jpg",
+            "type": "photo",
+            "url": "https://t.co/K8mDJxijkp"
+        }
+    ],
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Sat Nov 05 17:13:01 +0000 2016",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 794950660407967744,
+        "id_str": "794950660407967744",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/K8mDJxijkp",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/794950660407967744/photo/1",
+                "id": 794950643370688512,
+                "media_url": "http://pbs.twimg.com/media/Cwg7ZfgUAAAejEI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cwg7ZfgUAAAejEI.jpg",
+                "type": "photo",
+                "url": "https://t.co/K8mDJxijkp"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mayor @RobertGarciaLB proud to honor those who served in @LongBeachCity Veterans Parade https://t.co/K8mDJxijkp",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1549,
+            "followers_count": 3874,
+            "friends_count": 1286,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 89,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2072,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: Mayor @RobertGarciaLB proud to honor those who served in @LongBeachCity Veterans Parade https://t.co/K8mDJxijkp",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4837,
+        "followers_count": 11161,
+        "friends_count": 2023,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 221,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9431,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "created_at": "Sat Nov 05 17:50:39 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBDistrict8"
+        }
+    ],
+    "id": 794960131976900608,
+    "id_str": "794960131976900608",
+    "lang": "en",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "Thank You Veterans! You can still come out and watch the 20th Veterans Parade. #LBDistrict8 https://t.co/yyMDD5K7uC",
+    "urls": [
+        {
+            "expanded_url": "http://fb.me/5hDdDTFC6",
+            "url": "https://t.co/yyMDD5K7uC"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Aug 20 22:17:59 +0000 2012",
+        "description": "Official Page for Councilmember Al Austin II, 8th District\nCity of Long Beach.",
+        "favourites_count": 584,
+        "followers_count": 1436,
+        "friends_count": 426,
+        "id": 770329639,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Long Beach, CA",
+        "name": "Councilman AL AUSTIN",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770329639/1433352265",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567749541173022720/RTtb2ulD_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "district8AUSTIN",
+        "statuses_count": 1764,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Ks1RXxuBga",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
