@@ -1,0 +1,95 @@
+{
+    "created_at": "Sat Nov 05 14:28:34 +0000 2016",
+    "hashtags": [
+        {
+            "text": "DaylightSavingTime"
+        }
+    ],
+    "id": 794909274845523968,
+    "id_str": "794909274845523968",
+    "lang": "en",
+    "retweet_count": 226,
+    "retweeted_status": {
+        "created_at": "Fri Nov 04 13:41:19 +0000 2016",
+        "favorite_count": 101,
+        "hashtags": [
+            {
+                "text": "DaylightSavingTime"
+            }
+        ],
+        "id": 794534996321206272,
+        "id_str": "794534996321206272",
+        "lang": "en",
+        "retweet_count": 226,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#DaylightSavingTime starts this weekend-&gt; test your smoke alarms 👆 &amp; change the batteries🔋according to the manufact… https://t.co/5f4d3agVmS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/794534996321206272",
+                "url": "https://t.co/5f4d3agVmS"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 28 15:33:16 +0000 2008",
+            "description": "Don't wait. Communicate. Start your emergency plan today.",
+            "favourites_count": 3906,
+            "followers_count": 128175,
+            "friends_count": 816,
+            "id": 16028241,
+            "lang": "en",
+            "listed_count": 3264,
+            "location": "U.S.A.",
+            "name": "Readygov",
+            "profile_background_color": "D6D5E5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163256552/Q9Y3LfHs.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16028241/1475421819",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/646417752811532288/D4M4w2f0_normal.jpg",
+            "profile_link_color": "549554",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333303",
+            "screen_name": "Readygov",
+            "statuses_count": 4778,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/kqF3aqx4QY",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Readygov: #DaylightSavingTime starts this weekend-&gt; test your smoke alarms 👆 &amp; change the batteries🔋according to the manufacturer's dir…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 560,
+        "followers_count": 4815,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 181,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2241,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 16028241,
+            "name": "Readygov",
+            "screen_name": "Readygov"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Nov 05 14:29:21 +0000 2016",
+    "hashtags": [
+        {
+            "text": "turnandtest"
+        },
+        {
+            "text": "DaylightSavingTime"
+        }
+    ],
+    "id": 794909472611147776,
+    "id_str": "794909472611147776",
+    "lang": "en",
+    "retweet_count": 268,
+    "retweeted_status": {
+        "created_at": "Fri Nov 04 14:17:21 +0000 2016",
+        "favorite_count": 212,
+        "hashtags": [
+            {
+                "text": "turnandtest"
+            },
+            {
+                "text": "DaylightSavingTime"
+            }
+        ],
+        "id": 794544063735275521,
+        "id_str": "794544063735275521",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/nZSoNxy0yJ",
+                "expanded_url": "https://twitter.com/RedCross/status/794544063735275521/photo/1",
+                "id": 794543643000500225,
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/CwbJO8-W8AEPOOC.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CwbJO8-W8AEPOOC.jpg",
+                "type": "animated_gif",
+                "url": "https://t.co/nZSoNxy0yJ"
+            }
+        ],
+        "retweet_count": 268,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "This weekend is #turnandtest! 1. Turn your clock back one hour. 2. Test your smoke alarms. #DaylightSavingTime https://t.co/nZSoNxy0yJ",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Jun 02 09:36:38 +0000 2007",
+            "description": "The official Twitter account for the American Red Cross.",
+            "favourites_count": 3518,
+            "followers_count": 3400501,
+            "friends_count": 40061,
+            "id": 6519522,
+            "lang": "en",
+            "listed_count": 17405,
+            "location": "Washington, DC",
+            "name": "American Red Cross",
+            "profile_background_color": "D7D7D8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488072/Twitterbkd.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/6519522/1475506775",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/723592437495685120/0EHwBNff_normal.jpg",
+            "profile_link_color": "F00000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "3D3D3D",
+            "screen_name": "RedCross",
+            "statuses_count": 4942,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/eezMJcHc",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RedCross: This weekend is #turnandtest! 1. Turn your clock back one hour. 2. Test your smoke alarms. #DaylightSavingTime https://t.co/n…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 560,
+        "followers_count": 4815,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 181,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2241,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 6519522,
+            "name": "American Red Cross",
+            "screen_name": "RedCross"
+        }
+    ]
+}
