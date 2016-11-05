@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Nov 05 22:41:51 +0000 2016",
+    "hashtags": [
+        {
+            "text": "MarthaAndSnoop"
+        }
+    ],
+    "id": 795033411861630976,
+    "id_str": "795033411861630976",
+    "lang": "en",
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Sat Nov 05 21:45:00 +0000 2016",
+        "favorite_count": 38,
+        "hashtags": [
+            {
+                "text": "MarthaAndSnoop"
+            }
+        ],
+        "id": 795019106877468672,
+        "id_str": "795019106877468672",
+        "lang": "en",
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Enjoy food &amp; culture with us this weekend at @ComplexCon! Follow the latest from #MarthaAndSnoop's Party Lounge on… https://t.co/27UOhIH1Qc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/795019106877468672",
+                "url": "https://t.co/27UOhIH1Qc"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 20 15:28:52 +0000 2009",
+            "description": "Official Twitter for @VH1! Catch the premiere of #MarthaAndSnoop's Potluck Dinner Party MON NOV 7 10/9c!",
+            "favourites_count": 6084,
+            "followers_count": 1318623,
+            "friends_count": 15669,
+            "geo_enabled": true,
+            "id": 33549858,
+            "lang": "en",
+            "listed_count": 6460,
+            "location": "IG + Snap: VH1",
+            "name": "VH1",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33549858/1478019012",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/793460184920227840/NKvzQsoI_normal.jpg",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "VH1",
+            "statuses_count": 74888,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/yYOJlP1ga3",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 4919930273,
+                "name": "ComplexCon",
+                "screen_name": "ComplexCon"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @VH1: Enjoy food &amp; culture with us this weekend at @ComplexCon! Follow the latest from #MarthaAndSnoop's Party Lounge on the VH1 Snapcha…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62832,
+        "friends_count": 1221,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 450,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6371,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 33549858,
+            "name": "VH1",
+            "screen_name": "VH1"
+        },
+        {
+            "id": 4919930273,
+            "name": "ComplexCon",
+            "screen_name": "ComplexCon"
+        }
+    ]
+}
