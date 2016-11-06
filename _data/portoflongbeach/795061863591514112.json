@@ -1,0 +1,91 @@
+{
+    "coordinates": {
+        "coordinates": [
+            -118.19234355,
+            33.7693013
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Nov 06 00:34:54 +0000 2016",
+    "geo": {
+        "coordinates": [
+            33.7693013,
+            -118.19234355
+        ],
+        "type": "Point"
+    },
+    "hashtags": [],
+    "id": 795061863591514112,
+    "id_str": "795061863591514112",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "Join the Port and the 1st District tonight on Pine Ave between 6th and 7th streets for a Dia de… https://t.co/WXFE19x9Ch",
+    "urls": [
+        {
+            "expanded_url": "https://www.instagram.com/p/BMcuI0xB6un/",
+            "url": "https://t.co/WXFE19x9Ch"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 627,
+        "followers_count": 16939,
+        "friends_count": 3713,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 497,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7341,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}

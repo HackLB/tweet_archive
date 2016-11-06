@@ -1,0 +1,141 @@
+{
+    "created_at": "Sun Nov 06 00:34:35 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBHC"
+        },
+        {
+            "text": "GoBeach"
+        },
+        {
+            "text": "GoLongBeach"
+        }
+    ],
+    "id": 795061781928390656,
+    "id_str": "795061781928390656",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat Nov 05 23:27:13 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LBHC"
+            },
+            {
+                "text": "GoBeach"
+            },
+            {
+                "text": "GoLongBeach"
+            }
+        ],
+        "id": 795044831026245634,
+        "id_str": "795044831026245634",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CRedWKEykM",
+                "expanded_url": "https://twitter.com/PresConoley/status/795044831026245634/photo/1",
+                "id": 795044822981558272,
+                "media_url": "http://pbs.twimg.com/media/CwiRDd5UQAAi6LH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwiRDd5UQAAi6LH.jpg",
+                "type": "photo",
+                "url": "https://t.co/CRedWKEykM"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Delighted to have @csulbalumni @suziepriceLB3 in the house to cheer on @LBSUhoops! #LBHC #GoBeach #GoLongBeach https://t.co/CRedWKEykM",
+        "urls": [],
+        "user": {
+            "created_at": "Tue May 06 21:19:34 +0000 2014",
+            "description": "CSULB President",
+            "favourites_count": 2083,
+            "followers_count": 2290,
+            "friends_count": 332,
+            "geo_enabled": true,
+            "id": 2480417754,
+            "lang": "en",
+            "listed_count": 92,
+            "location": "Long Beach, California",
+            "name": "Jane Close Conoley",
+            "profile_background_color": "B3B3B3",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2480417754/1401833782",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/522063698836213761/Fp7TFvvv_normal.jpeg",
+            "profile_link_color": "A89031",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "PresConoley",
+            "statuses_count": 4817,
+            "url": "http://t.co/Hpirk7DmTp"
+        },
+        "user_mentions": [
+            {
+                "id": 2321103738,
+                "name": "CSULB Alumni Assoc.",
+                "screen_name": "csulbalumni"
+            },
+            {
+                "id": 2317854206,
+                "name": "Suzie Price",
+                "screen_name": "suziepriceLB3"
+            },
+            {
+                "id": 600267986,
+                "name": "LBSU Mens Basketball",
+                "screen_name": "LBSUhoops"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PresConoley: Delighted to have @csulbalumni @suziepriceLB3 in the house to cheer on @LBSUhoops! #LBHC #GoBeach #GoLongBeach https://t.c…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 63,
+        "followers_count": 1788,
+        "friends_count": 1956,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1471647160",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1167,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2480417754,
+            "name": "Jane Close Conoley",
+            "screen_name": "PresConoley"
+        },
+        {
+            "id": 2321103738,
+            "name": "CSULB Alumni Assoc.",
+            "screen_name": "csulbalumni"
+        },
+        {
+            "id": 2317854206,
+            "name": "Suzie Price",
+            "screen_name": "suziepriceLB3"
+        },
+        {
+            "id": 600267986,
+            "name": "LBSU Mens Basketball",
+            "screen_name": "LBSUhoops"
+        }
+    ]
+}
