@@ -1,0 +1,70 @@
+{
+    "created_at": "Sun Nov 06 17:23:17 +0000 2016",
+    "hashtags": [],
+    "id": 795315630937255937,
+    "id_str": "795315630937255937",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Powerful story Cc: @MattyMendez @megankerr @JustinLBC @SportsQn @mwtaylor https://t.co/zyu5vZXlKZ",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/aodespair/status/795258447902216192",
+            "url": "https://t.co/zyu5vZXlKZ"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4843,
+        "followers_count": 11176,
+        "friends_count": 2026,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 220,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9436,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 339434241,
+            "name": "Matthew Mendez",
+            "screen_name": "MattyMendez"
+        },
+        {
+            "id": 18516432,
+            "name": "Megan Kerr",
+            "screen_name": "megankerr"
+        },
+        {
+            "id": 23988884,
+            "name": "Justin Ramirez",
+            "screen_name": "JustinLBC"
+        },
+        {
+            "id": 4884907795,
+            "name": "Herlinda Chico",
+            "screen_name": "SportsQn"
+        },
+        {
+            "id": 15947712,
+            "name": "Mark W. Taylor",
+            "screen_name": "mwtaylor"
+        }
+    ]
+}
