@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun Nov 06 18:07:43 +0000 2016",
+    "hashtags": [],
+    "id": 795326813681565696,
+    "id_str": "795326813681565696",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sun Nov 06 04:52:28 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 795126680729829376,
+        "id_str": "795126680729829376",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zgvcBztAGO",
+                "expanded_url": "https://twitter.com/RecreationalCof/status/795126680729829376/photo/1",
+                "id": 795126679006019584,
+                "media_url": "http://pbs.twimg.com/media/CwjbgHWXAAA2n_c.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwjbgHWXAAA2n_c.jpg",
+                "type": "photo",
+                "url": "https://t.co/zgvcBztAGO"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "Whoaaaaaaa! Trip out at the November issue of @sunsetmag featuring us and our local homies, calling us \"The Next Wa… https://t.co/zgvcBztAGO",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Feb 18 17:12:19 +0000 2014",
+            "description": "237 Long Beach Blvd Suite A || Currently serving coffee from Portola Coffee Lab & Case Coffee Roasters ll Mon-Fri 7pm-7pm, Sat-Sun 7am-8pm",
+            "favourites_count": 379,
+            "followers_count": 325,
+            "friends_count": 106,
+            "geo_enabled": true,
+            "id": 2350410354,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "Long Beach, CA",
+            "name": "Recreational Coffee",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2350410354/1413273520",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/600840268615536641/d0vJGrMy_normal.jpg",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "RecreationalCof",
+            "statuses_count": 911,
+            "url": "https://t.co/5if6WIQuV0"
+        },
+        "user_mentions": [
+            {
+                "id": 774276945819435008,
+                "name": "Sunset Publishing",
+                "screen_name": "sunsetmag"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RecreationalCof: Whoaaaaaaa! Trip out at the November issue of @sunsetmag featuring us and our local homies, calling us \"The Next Wa… h…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2067,
+        "followers_count": 12718,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4134,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2350410354,
+            "name": "Recreational Coffee",
+            "screen_name": "RecreationalCof"
+        },
+        {
+            "id": 774276945819435008,
+            "name": "Sunset Publishing",
+            "screen_name": "sunsetmag"
+        }
+    ]
+}
