@@ -1,0 +1,125 @@
+{
+    "created_at": "Sun Nov 06 03:59:15 +0000 2016",
+    "hashtags": [],
+    "id": 795113290120577024,
+    "id_str": "795113290120577024",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/rLKkh50Gy2",
+            "expanded_url": "https://twitter.com/ohmissangela/status/795058183731494912/photo/1",
+            "id": 795058176756355073,
+            "media_url": "http://pbs.twimg.com/media/CwidMwlVEAEhuaS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwidMwlVEAEhuaS.jpg",
+            "type": "photo",
+            "url": "https://t.co/rLKkh50Gy2"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sun Nov 06 00:20:17 +0000 2016",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 795058183731494912,
+        "id_str": "795058183731494912",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/rLKkh50Gy2",
+                "expanded_url": "https://twitter.com/ohmissangela/status/795058183731494912/photo/1",
+                "id": 795058176756355073,
+                "media_url": "http://pbs.twimg.com/media/CwidMwlVEAEhuaS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwidMwlVEAEhuaS.jpg",
+                "type": "photo",
+                "url": "https://t.co/rLKkh50Gy2"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Met @takashipom at @ComplexCon. https://t.co/rLKkh50Gy2",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Jan 28 19:39:03 +0000 2012",
+            "description": "Boarding a flight. // IG/Snapchat: @ohmissangela",
+            "favourites_count": 2368,
+            "followers_count": 260,
+            "friends_count": 50,
+            "geo_enabled": true,
+            "id": 477046338,
+            "lang": "en",
+            "listed_count": 6,
+            "location": "California, USA",
+            "name": "A.",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603221586/bgsj7xc69pdq6ya04fh6.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/477046338/1463147661",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/731120396976586752/xF8L1Ojk_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ohmissangela",
+            "statuses_count": 10257,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 116585717,
+                "name": "takashi murakami",
+                "screen_name": "takashipom"
+            },
+            {
+                "id": 4919930273,
+                "name": "ComplexCon",
+                "screen_name": "ComplexCon"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ohmissangela: Met @takashipom at @ComplexCon. https://t.co/rLKkh50Gy2",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62850,
+        "friends_count": 1221,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 450,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6378,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 477046338,
+            "name": "A.",
+            "screen_name": "ohmissangela"
+        },
+        {
+            "id": 116585717,
+            "name": "takashi murakami",
+            "screen_name": "takashipom"
+        },
+        {
+            "id": 4919930273,
+            "name": "ComplexCon",
+            "screen_name": "ComplexCon"
+        }
+    ]
+}

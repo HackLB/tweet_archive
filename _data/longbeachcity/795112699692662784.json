@@ -1,0 +1,146 @@
+{
+    "created_at": "Sun Nov 06 03:56:54 +0000 2016",
+    "hashtags": [],
+    "id": 795112699692662784,
+    "id_str": "795112699692662784",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/JP6R5sGrZo",
+            "expanded_url": "https://twitter.com/WhosTaylor/status/795084236055117825/photo/1",
+            "id": 795084228408975360,
+            "media_url": "http://pbs.twimg.com/media/Cwi05KjVIAAT5Qk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cwi05KjVIAAT5Qk.jpg",
+            "type": "photo",
+            "url": "https://t.co/JP6R5sGrZo"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sun Nov 06 02:03:48 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 795084236055117825,
+        "id_str": "795084236055117825",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JP6R5sGrZo",
+                "expanded_url": "https://twitter.com/WhosTaylor/status/795084236055117825/photo/1",
+                "id": 795084228408975360,
+                "media_url": "http://pbs.twimg.com/media/Cwi05KjVIAAT5Qk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cwi05KjVIAAT5Qk.jpg",
+                "type": "photo",
+                "url": "https://t.co/JP6R5sGrZo"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This was so cool!!! @owsla @skrillex @complexcon \n\nhttps://t.co/D0EADfzl1i https://t.co/JP6R5sGrZo",
+        "urls": [
+            {
+                "expanded_url": "https://instagram.com/p/BMc4Pvzl06q/",
+                "url": "https://t.co/D0EADfzl1i"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 05 05:05:40 +0000 2009",
+            "description": "TK-21808. I make music with my computer, and various other technology. I also engineer audio & create 3D art. Here lie my thoughts.",
+            "favourites_count": 29889,
+            "followers_count": 392,
+            "friends_count": 66,
+            "geo_enabled": true,
+            "id": 22883466,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "A galaxy far, far away. ",
+            "name": "Taylor",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583124010038222848/OXc4xRwh.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22883466/1467765723",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/672656898131292161/iKOb1Ly1_normal.jpg",
+            "profile_link_color": "00994C",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "WhosTaylor",
+            "statuses_count": 27210,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/7XebNYwRVk",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 351062478,
+                "name": "OWSLA",
+                "screen_name": "OWSLA"
+            },
+            {
+                "id": 18825961,
+                "name": "SKRILLEX",
+                "screen_name": "Skrillex"
+            },
+            {
+                "id": 4919930273,
+                "name": "ComplexCon",
+                "screen_name": "ComplexCon"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @WhosTaylor: This was so cool!!! @owsla @skrillex @complexcon \n\nhttps://t.co/D0EADfzl1i https://t.co/JP6R5sGrZo",
+    "urls": [
+        {
+            "expanded_url": "https://instagram.com/p/BMc4Pvzl06q/",
+            "url": "https://t.co/D0EADfzl1i"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62850,
+        "friends_count": 1221,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 450,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6378,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 22883466,
+            "name": "Taylor",
+            "screen_name": "WhosTaylor"
+        },
+        {
+            "id": 351062478,
+            "name": "OWSLA",
+            "screen_name": "OWSLA"
+        },
+        {
+            "id": 18825961,
+            "name": "SKRILLEX",
+            "screen_name": "Skrillex"
+        },
+        {
+            "id": 4919930273,
+            "name": "ComplexCon",
+            "screen_name": "ComplexCon"
+        }
+    ]
+}

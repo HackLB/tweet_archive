@@ -1,0 +1,125 @@
+{
+    "created_at": "Sun Nov 06 03:59:57 +0000 2016",
+    "hashtags": [
+        {
+            "text": "ComplexCon"
+        }
+    ],
+    "id": 795113467971715072,
+    "id_str": "795113467971715072",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/1XXuxBIe6J",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/795075698280919041/photo/1",
+            "id": 795075692597624833,
+            "media_url": "http://pbs.twimg.com/media/CwitIULUQAEpTMh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwitIULUQAEpTMh.jpg",
+            "type": "photo",
+            "url": "https://t.co/1XXuxBIe6J"
+        }
+    ],
+    "retweet_count": 14,
+    "retweeted_status": {
+        "created_at": "Sun Nov 06 01:29:52 +0000 2016",
+        "favorite_count": 83,
+        "hashtags": [
+            {
+                "text": "ComplexCon"
+            }
+        ],
+        "id": 795075698280919041,
+        "id_str": "795075698280919041",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1XXuxBIe6J",
+                "expanded_url": "https://twitter.com/RobertGarciaLB/status/795075698280919041/photo/1",
+                "id": 795075692597624833,
+                "media_url": "http://pbs.twimg.com/media/CwitIULUQAEpTMh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwitIULUQAEpTMh.jpg",
+                "type": "photo",
+                "url": "https://t.co/1XXuxBIe6J"
+            }
+        ],
+        "retweet_count": 14,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Good to see you @deray at #ComplexCon in Long Beach. Keep up the great social justice work ✊🏾 https://t.co/1XXuxBIe6J",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+            "default_profile": true,
+            "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+            "favourites_count": 4840,
+            "followers_count": 11172,
+            "friends_count": 2026,
+            "geo_enabled": true,
+            "id": 18120497,
+            "lang": "en",
+            "listed_count": 221,
+            "location": "Long Beach",
+            "name": "Robert Garcia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RobertGarciaLB",
+            "statuses_count": 9434,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FYG8w5WQQa",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "name": "deray mckesson",
+                "screen_name": "deray"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RobertGarciaLB: Good to see you @deray at #ComplexCon in Long Beach. Keep up the great social justice work ✊🏾 https://t.co/1XXuxBIe6J",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62850,
+        "friends_count": 1221,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 450,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6378,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 29417304,
+            "name": "deray mckesson",
+            "screen_name": "deray"
+        }
+    ]
+}
