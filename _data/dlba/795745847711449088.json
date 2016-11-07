@@ -1,0 +1,132 @@
+{
+    "created_at": "Mon Nov 07 21:52:48 +0000 2016",
+    "hashtags": [],
+    "id": 795745847711449088,
+    "id_str": "795745847711449088",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Nov 07 21:51:30 +0000 2016",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 795745516940247049,
+        "id_str": "795745516940247049",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Actually being kind when I wrote this but repeat: Long Beach voters think voting sucks. @PMTV2016 can change that: https://t.co/7HqlMM6btf",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2fwyFVR",
+                "url": "https://t.co/7HqlMM6btf"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 08 00:57:12 +0000 2009",
+            "description": "Grab life by the Brian. Writer. Questioner. Eater. Photographer. Long Beach-er. *Free speech doesn’t pay the bills; tweets don’t represent my employer.*",
+            "favourites_count": 1338,
+            "followers_count": 1436,
+            "friends_count": 604,
+            "geo_enabled": true,
+            "id": 18747184,
+            "lang": "en",
+            "listed_count": 41,
+            "location": "Long Beach, CA",
+            "name": "Brian Addison",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21648551/Banksy2.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18747184/1442336910",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643833503700811777/nmZ1u8yP_normal.png",
+            "profile_link_color": "51C91E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "BrianAddisonLB",
+            "statuses_count": 3634,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 784466547578253312,
+                "name": "placemakethevote",
+                "screen_name": "PMTV2016"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BrianAddisonLB: Actually being kind when I wrote this but repeat: Long Beach voters think voting sucks. @PMTV2016 can change that: http…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2076,
+        "followers_count": 12721,
+        "friends_count": 719,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4138,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 18747184,
+            "name": "Brian Addison",
+            "screen_name": "BrianAddisonLB"
+        },
+        {
+            "id": 784466547578253312,
+            "name": "placemakethevote",
+            "screen_name": "PMTV2016"
+        }
+    ]
+}
