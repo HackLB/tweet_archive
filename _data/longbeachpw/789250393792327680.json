@@ -1,0 +1,119 @@
+{
+    "created_at": "Thu Oct 20 23:42:12 +0000 2016",
+    "hashtags": [
+        {
+            "text": "EZparkLB"
+        },
+        {
+            "text": "ThursdayThoughts"
+        },
+        {
+            "text": "ParkSmarter"
+        }
+    ],
+    "id": 789250393792327680,
+    "id_str": "789250393792327680",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/iBfcODbZkm",
+            "expanded_url": "https://twitter.com/ezplb/status/789212767177756672/photo/1",
+            "id": 789212601729159168,
+            "media_url": "http://pbs.twimg.com/media/CvPYrgpUEAAoAAX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CvPYrgpUEAAoAAX.jpg",
+            "type": "photo",
+            "url": "https://t.co/iBfcODbZkm"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Oct 20 21:12:41 +0000 2016",
+        "hashtags": [
+            {
+                "text": "EZparkLB"
+            },
+            {
+                "text": "ThursdayThoughts"
+            },
+            {
+                "text": "ParkSmarter"
+            }
+        ],
+        "id": 789212767177756672,
+        "id_str": "789212767177756672",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iBfcODbZkm",
+                "expanded_url": "https://twitter.com/ezplb/status/789212767177756672/photo/1",
+                "id": 789212601729159168,
+                "media_url": "http://pbs.twimg.com/media/CvPYrgpUEAAoAAX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CvPYrgpUEAAoAAX.jpg",
+                "type": "photo",
+                "url": "https://t.co/iBfcODbZkm"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "When you realize people are still parking without #EZparkLB #ThursdayThoughts #ParkSmarter https://t.co/iBfcODbZkm",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 24 23:28:10 +0000 2016",
+            "default_profile": true,
+            "description": "As you probably know by now, I’m the face of EZparkLB. The free app that shows you—in real-time—all the open, available parking spots in Long Beach.",
+            "favourites_count": 21,
+            "followers_count": 38,
+            "friends_count": 197,
+            "geo_enabled": true,
+            "id": 768590752318238721,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "Long Beach, CA",
+            "name": "EZ-P",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/768590752318238721/1474675060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779082669539766272/syxb7id5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ezplb",
+            "statuses_count": 60,
+            "url": "https://t.co/Y0mSBH0QYR"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ezplb: When you realize people are still parking without #EZparkLB #ThursdayThoughts #ParkSmarter https://t.co/iBfcODbZkm",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 197,
+        "followers_count": 648,
+        "friends_count": 214,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1147,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 768590752318238721,
+            "name": "EZ-P",
+            "screen_name": "ezplb"
+        }
+    ]
+}

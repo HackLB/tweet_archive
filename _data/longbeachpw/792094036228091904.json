@@ -1,0 +1,108 @@
+{
+    "created_at": "Fri Oct 28 20:01:49 +0000 2016",
+    "hashtags": [],
+    "id": 792094036228091904,
+    "id_str": "792094036228091904",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Vx7huJhaRj",
+            "expanded_url": "https://twitter.com/pwart/status/792072831710429184/photo/1",
+            "id": 792072823313399808,
+            "media_url": "http://pbs.twimg.com/media/Cv4CCUXWAAA6g6L.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cv4CCUXWAAA6g6L.jpg",
+            "type": "photo",
+            "url": "https://t.co/Vx7huJhaRj"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Oct 28 18:37:33 +0000 2016",
+        "hashtags": [],
+        "id": 792072831710429184,
+        "id_str": "792072831710429184",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Vx7huJhaRj",
+                "expanded_url": "https://twitter.com/pwart/status/792072831710429184/photo/1",
+                "id": 792072823313399808,
+                "media_url": "http://pbs.twimg.com/media/Cv4CCUXWAAA6g6L.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cv4CCUXWAAA6g6L.jpg",
+                "type": "photo",
+                "url": "https://t.co/Vx7huJhaRj"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "A City catch basin getting a little pre rain TLC!💯@LongBeachPW https://t.co/Vx7huJhaRj",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 29 23:25:02 +0000 2010",
+            "default_profile": true,
+            "favourites_count": 48,
+            "followers_count": 38,
+            "friends_count": 58,
+            "geo_enabled": true,
+            "id": 161084459,
+            "lang": "en",
+            "location": "Long Beach, CA",
+            "name": "art cox",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/161084459/1427136169",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/580077241184342016/YUH-J3e0_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "pwart",
+            "statuses_count": 139
+        },
+        "user_mentions": [
+            {
+                "id": 3298654412,
+                "name": "Long Beach PW",
+                "screen_name": "LongBeachPW"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @pwart: A City catch basin getting a little pre rain TLC!💯@LongBeachPW https://t.co/Vx7huJhaRj",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 197,
+        "followers_count": 648,
+        "friends_count": 214,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1147,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 161084459,
+            "name": "art cox",
+            "screen_name": "pwart"
+        },
+        {
+            "id": 3298654412,
+            "name": "Long Beach PW",
+            "screen_name": "LongBeachPW"
+        }
+    ]
+}

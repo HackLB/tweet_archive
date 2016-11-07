@@ -1,0 +1,92 @@
+{
+    "created_at": "Sun Sep 18 18:43:26 +0000 2016",
+    "hashtags": [],
+    "id": 777578794953564160,
+    "id_str": "777578794953564160",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Sun Sep 18 14:12:36 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 777510638511718400,
+        "id_str": "777510638511718400",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "Water-wise, Long Beach setting a good example: Guest commentary https://t.co/NeXVhltYzS",
+        "urls": [
+            {
+                "expanded_url": "http://dlvr.it/MHVLdV",
+                "url": "https://t.co/NeXVhltYzS"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 06 22:41:41 +0000 2010",
+            "description": "Local. News. Matters. We cover the Greater Long Beach area. #LocalNewsMatters",
+            "favourites_count": 132,
+            "followers_count": 11889,
+            "friends_count": 620,
+            "id": 163633469,
+            "lang": "en",
+            "listed_count": 362,
+            "location": "Long Beach, CA",
+            "name": "LB Press-Telegram",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/163633469/1439745837",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/567814155080441856/L0XOSBUW_normal.jpeg",
+            "profile_link_color": "C91616",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "presstelegram",
+            "statuses_count": 43869,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/xTzKLXIZnH",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @presstelegram: Water-wise, Long Beach setting a good example: Guest commentary https://t.co/NeXVhltYzS",
+    "urls": [
+        {
+            "expanded_url": "http://dlvr.it/MHVLdV",
+            "url": "https://t.co/NeXVhltYzS"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Sep 12 20:24:04 +0000 2008",
+        "description": "The standard in water conservation and environmental stewardship",
+        "favourites_count": 97,
+        "followers_count": 6961,
+        "friends_count": 2414,
+        "geo_enabled": true,
+        "id": 16262993,
+        "lang": "en",
+        "listed_count": 245,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Water",
+        "profile_background_color": "455D85",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491123151/304754026240907.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16262993/1465925760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765693924681711617/j0lA2DjY_normal.jpg",
+        "profile_link_color": "0D0701",
+        "profile_sidebar_fill_color": "061127",
+        "profile_text_color": "52555C",
+        "screen_name": "LongBeachWater",
+        "statuses_count": 2379,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/21QJiCRYzt",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 163633469,
+            "name": "LB Press-Telegram",
+            "screen_name": "presstelegram"
+        }
+    ]
+}

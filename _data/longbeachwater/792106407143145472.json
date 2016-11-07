@@ -1,0 +1,52 @@
+{
+    "created_at": "Fri Oct 28 20:50:58 +0000 2016",
+    "hashtags": [
+        {
+            "text": "fbf"
+        }
+    ],
+    "id": 792106407143145472,
+    "id_str": "792106407143145472",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "A #fbf of our bldg. on Walnut &amp; Wardlow in 1920. Learn more at the @historylbc Tour tomorrow at Sunnyside &amp; Municip… https://t.co/e32LkUV246",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/792106407143145472",
+            "url": "https://t.co/e32LkUV246"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Sep 12 20:24:04 +0000 2008",
+        "description": "The standard in water conservation and environmental stewardship",
+        "favourites_count": 97,
+        "followers_count": 6961,
+        "friends_count": 2414,
+        "geo_enabled": true,
+        "id": 16262993,
+        "lang": "en",
+        "listed_count": 245,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Water",
+        "profile_background_color": "455D85",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491123151/304754026240907.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16262993/1465925760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765693924681711617/j0lA2DjY_normal.jpg",
+        "profile_link_color": "0D0701",
+        "profile_sidebar_fill_color": "061127",
+        "profile_text_color": "52555C",
+        "screen_name": "LongBeachWater",
+        "statuses_count": 2379,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/21QJiCRYzt",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2911167397,
+            "name": "HSLB",
+            "screen_name": "historylbc"
+        }
+    ]
+}

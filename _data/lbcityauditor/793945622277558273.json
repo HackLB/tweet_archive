@@ -1,0 +1,46 @@
+{
+    "created_at": "Wed Nov 02 22:39:21 +0000 2016",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "QualityControl"
+        }
+    ],
+    "id": 793945622277558273,
+    "id_str": "793945622277558273",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#QualityControl: a priority of our Office to ensure the highest level of work is performed in compliance w/ standar… https://t.co/IC6QobmkVA",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/793945622277558273",
+            "url": "https://t.co/IC6QobmkVA"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 02 22:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Independence you can rely on",
+        "favourites_count": 43,
+        "followers_count": 1013,
+        "friends_count": 71,
+        "id": 3527837897,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Long Beach, CA",
+        "name": "LongBeachCityAuditor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3527837897/1446766353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639210250747277312/cxBCMmTb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LBCityAuditor",
+        "statuses_count": 135,
+        "url": "http://t.co/DnuCB1NyXU"
+    },
+    "user_mentions": []
+}

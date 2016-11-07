@@ -1,0 +1,106 @@
+{
+    "created_at": "Tue Nov 01 19:40:16 +0000 2016",
+    "hashtags": [],
+    "id": 793538165973790721,
+    "id_str": "793538165973790721",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Tue Nov 01 16:38:48 +0000 2016",
+        "favorite_count": 23,
+        "hashtags": [],
+        "id": 793492498429587456,
+        "id_str": "793492498429587456",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "LB @LongBeachCity ranked #23 of Top 25 best cities to live in US-new study by SmartAsset out of NY! @VisitLB… https://t.co/NzslZNilJG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793492498429587456",
+                "url": "https://t.co/NzslZNilJG"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 11 22:16:22 +0000 2014",
+            "default_profile": true,
+            "description": "Long Beach, CA City Manager's Office, PR, Media and Crisis Communications Professional. Tweets & photos are my own.",
+            "favourites_count": 55,
+            "followers_count": 442,
+            "friends_count": 325,
+            "id": 2724756686,
+            "lang": "en",
+            "listed_count": 10,
+            "location": "Long Beach, CA",
+            "name": "Kerry Gerot",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2724756686/1438551315",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/498966559205765120/VrkDl98p_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "KerryGerotPIO",
+            "statuses_count": 923,
+            "url": "https://t.co/Qlpnlao82G"
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 14209619,
+                "name": "Long Beach CVB",
+                "screen_name": "VisitLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @KerryGerotPIO: LB @LongBeachCity ranked #23 of Top 25 best cities to live in US-new study by SmartAsset out of NY! @VisitLB @LBMayorsOf…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 89,
+        "followers_count": 1569,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1081,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2724756686,
+            "name": "Kerry Gerot",
+            "screen_name": "KerryGerotPIO"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 14209619,
+            "name": "Long Beach CVB",
+            "screen_name": "VisitLB"
+        }
+    ]
+}

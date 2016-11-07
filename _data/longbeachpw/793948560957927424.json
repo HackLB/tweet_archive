@@ -1,0 +1,59 @@
+{
+    "created_at": "Wed Nov 02 22:51:02 +0000 2016",
+    "hashtags": [],
+    "id": 793948560957927424,
+    "id_str": "793948560957927424",
+    "in_reply_to_screen_name": "tnewc_3",
+    "in_reply_to_status_id": 793664040975278080,
+    "in_reply_to_user_id": 756334356860243968,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@tnewc_3 @LBPDNorth_CA @LBMayorsOffice @presstelegram this is part of City LED retrofit - we plan to address this area in Spring, 2017",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 197,
+        "followers_count": 648,
+        "friends_count": 214,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1147,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 756334356860243968,
+            "name": "Tams New'Cromwell",
+            "screen_name": "tnewc_3"
+        },
+        {
+            "id": 773241105718521857,
+            "name": "LBPD North Division",
+            "screen_name": "LBPDNorth_CA"
+        },
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 163633469,
+            "name": "LB Press-Telegram",
+            "screen_name": "presstelegram"
+        }
+    ]
+}

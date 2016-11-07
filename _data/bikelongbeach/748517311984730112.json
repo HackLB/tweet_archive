@@ -1,0 +1,43 @@
+{
+    "created_at": "Thu Jun 30 14:03:28 +0000 2016",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 748517311984730112,
+    "id_str": "748517311984730112",
+    "lang": "en",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "LONG BEACH IS BIKE FRIENDLY!!! Have you checked out the bike and skate park at Houghton Park.  It is just one... https://t.co/wAAX5qCXj0",
+    "urls": [
+        {
+            "expanded_url": "http://fb.me/1aSJ5u0zN",
+            "url": "https://t.co/wAAX5qCXj0"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jun 24 22:24:41 +0000 2009",
+        "description": "Making Long Beach America's Most Bike Friendly City by providing an environment & culture where cycling is a safe, viable & preferred mode of transportation.",
+        "favourites_count": 10,
+        "followers_count": 3640,
+        "friends_count": 269,
+        "geo_enabled": true,
+        "id": 50462246,
+        "lang": "en",
+        "listed_count": 125,
+        "location": "Long Beach, Calif.",
+        "name": "BikeLongBeach.org",
+        "profile_background_color": "0E1212",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/365097095/DSC_0653.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50462246/1370020656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3736983175/d9e6dc72deb2e788017f20970fb01fdd_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "4C25B8",
+        "screen_name": "BikeLongBeach",
+        "statuses_count": 1514,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/0WWH9PXQDq",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

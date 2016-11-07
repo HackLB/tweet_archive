@@ -1,0 +1,59 @@
+{
+    "created_at": "Thu Nov 03 16:14:29 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "FREE"
+        },
+        {
+            "text": "LBPARKS"
+        },
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 794211154687950848,
+    "id_str": "794211154687950848",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/PGfoATJ72O",
+            "expanded_url": "https://twitter.com/LongBeachParks/status/794211154687950848/photo/1",
+            "id": 794210712172175360,
+            "media_url": "http://pbs.twimg.com/media/CwWab0_VIAAEX-v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwWab0_VIAAEX-v.jpg",
+            "type": "photo",
+            "url": "https://t.co/PGfoATJ72O"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Sign up for #FREE youth sports. Registration begins December 1. \n#LBPARKS #LongBeach https://t.co/PGfoATJ72O",
+    "urls": [],
+    "user": {
+        "created_at": "Thu May 27 22:06:22 +0000 2010",
+        "description": "Long Beach Parks, Recreation and Marine creates community ideals to enhance the quality of life through people, places, programs, and partnerships.",
+        "favourites_count": 190,
+        "followers_count": 3299,
+        "friends_count": 105,
+        "geo_enabled": true,
+        "id": 148893587,
+        "lang": "en",
+        "listed_count": 69,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Parks",
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/148893587/1456425332",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936353713/n255438180034_9838_1__normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachParks",
+        "statuses_count": 1879,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/sZg4LwOP8j",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

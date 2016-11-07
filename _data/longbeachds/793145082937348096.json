@@ -1,0 +1,95 @@
+{
+    "created_at": "Mon Oct 31 17:38:18 +0000 2016",
+    "hashtags": [
+        {
+            "text": "HalloweenParade"
+        }
+    ],
+    "id": 793145082937348096,
+    "id_str": "793145082937348096",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Mon Oct 31 16:41:13 +0000 2016",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "HalloweenParade"
+            }
+        ],
+        "id": 793130719207886849,
+        "id_str": "793130719207886849",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "A #HalloweenParade took over Main on Saturday! Thank you to all the families and kids who joined us for costumes, c… https://t.co/eSEtl75Kkm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793130719207886849",
+                "url": "https://t.co/eSEtl75Kkm"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 07 17:45:26 +0000 2010",
+            "description": "We are the Long Beach Public Library. Twelve locations in Long Beach, CA to serve you. Check out our free LBPL Mobile app.",
+            "favourites_count": 4768,
+            "followers_count": 2390,
+            "friends_count": 417,
+            "geo_enabled": true,
+            "id": 130570597,
+            "lang": "en",
+            "listed_count": 92,
+            "location": "Long Beach, California",
+            "name": "LB Public Library",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/130570597/1477937760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/758462733893246980/IYESgb-5_normal.jpg",
+            "profile_link_color": "282D2E",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "screen_name": "lbpl_librarian",
+            "statuses_count": 2941,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/wpef9MDn6j",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @lbpl_librarian: A #HalloweenParade took over Main on Saturday! Thank you to all the families and kids who joined us for costumes, candy…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 89,
+        "followers_count": 1569,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1081,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "lbpl_librarian"
+        }
+    ]
+}

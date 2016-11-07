@@ -1,0 +1,46 @@
+{
+    "created_at": "Sun Nov 06 18:27:32 +0000 2016",
+    "hashtags": [
+        {
+            "text": "JoinLBPD"
+        }
+    ],
+    "id": 795331800616665088,
+    "id_str": "795331800616665088",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Yesterday, we attended the Veteran's Career Fair to encourage vets to #JoinLBPD. We want to thank the… https://t.co/cZbHdgJTpP",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/795331800616665088",
+            "url": "https://t.co/cZbHdgJTpP"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+        "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+        "favourites_count": 557,
+        "followers_count": 1359,
+        "friends_count": 1058,
+        "geo_enabled": true,
+        "id": 158253547,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Long Beach, California USA",
+        "name": "City of L.B. Jobs",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "LongBchCityJobs",
+        "statuses_count": 1770,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/BJr1SSBo00",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,41 @@
+{
+    "created_at": "Sun Oct 30 03:00:04 +0000 2016",
+    "hashtags": [],
+    "id": 792561681360523264,
+    "id_str": "792561681360523264",
+    "lang": "en",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "Thank you to California Miniature Schnauzer Rescue for pulling Boogie AKA TJ! We wish him the best of luck as he... https://t.co/9qyuNc8juG",
+    "urls": [
+        {
+            "expanded_url": "http://fb.me/4YnYGmXkv",
+            "url": "https://t.co/9qyuNc8juG"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 19 06:37:28 +0000 2010",
+        "description": "ADOPT, DONATE, VOLUNTEER, LICENSE, SPAY/NEUTER",
+        "favourites_count": 2,
+        "followers_count": 296,
+        "friends_count": 7,
+        "geo_enabled": true,
+        "id": 124383621,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Animal Care Services",
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124383621/1375900110",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000256292700/bcf7160c6bc256e694f0cf6d24e85fb9_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "screen_name": "LBAnimalCare",
+        "statuses_count": 3621,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DJXq0pk0sA",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

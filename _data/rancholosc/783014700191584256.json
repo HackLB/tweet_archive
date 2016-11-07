@@ -1,0 +1,128 @@
+{
+    "created_at": "Mon Oct 03 18:43:46 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "MeetinLB"
+        }
+    ],
+    "id": 783014700191584256,
+    "id_str": "783014700191584256",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Sep 27 17:15:47 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "MeetinLB"
+            }
+        ],
+        "id": 780818230998949888,
+        "id_str": "780818230998949888",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/EPCEzeLpBf",
+                "expanded_url": "https://twitter.com/MeetinLongBeach/status/780818230998949888/photo/1",
+                "id": 780818229220478976,
+                "media_url": "http://pbs.twimg.com/media/CtYGCuLWEAAk_XC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CtYGCuLWEAAk_XC.jpg",
+                "type": "photo",
+                "url": "https://t.co/EPCEzeLpBf"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "#LongBeach was just named 1 of 15 Best Places to Live in the US by @newyorkpost! #MeetinLB https://t.co/XGb9ZsZKWG https://t.co/EPCEzeLpBf",
+        "urls": [
+            {
+                "expanded_url": "http://nyp.st/2cPTz2j",
+                "url": "https://t.co/XGb9ZsZKWG"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 11 19:12:46 +0000 2013",
+            "description": "Official Long Beach CVB social for all things meetings & events. Your resource for info on meeting venues, hotels, event inspiration and more! #MeetinLB",
+            "favourites_count": 2450,
+            "followers_count": 1342,
+            "friends_count": 825,
+            "geo_enabled": true,
+            "id": 1855171230,
+            "lang": "en",
+            "listed_count": 105,
+            "location": "Long Beach, CA",
+            "name": "Meet in Long Beach",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586309843201368065/Yqsw_nsF.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855171230/1466638198",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/633413161471750144/7XPnXacy_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MeetinLongBeach",
+            "statuses_count": 3553,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zYnCspL9UH",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 16497528,
+                "name": "New York Post",
+                "screen_name": "newyorkpost"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MeetinLongBeach: #LongBeach was just named 1 of 15 Best Places to Live in the US by @newyorkpost! #MeetinLB https://t.co/XGb9ZsZKWG htt…",
+    "urls": [
+        {
+            "expanded_url": "http://nyp.st/2cPTz2j",
+            "url": "https://t.co/XGb9ZsZKWG"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 33,
+        "followers_count": 508,
+        "friends_count": 110,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 191,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 1855171230,
+            "name": "Meet in Long Beach",
+            "screen_name": "MeetinLongBeach"
+        },
+        {
+            "id": 16497528,
+            "name": "New York Post",
+            "screen_name": "newyorkpost"
+        }
+    ]
+}

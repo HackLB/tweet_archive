@@ -1,0 +1,52 @@
+{
+    "created_at": "Sun Oct 16 18:01:46 +0000 2016",
+    "hashtags": [],
+    "id": 787715170520956928,
+    "id_str": "787715170520956928",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/PgeRJRnJai",
+            "expanded_url": "https://twitter.com/lbrecycles/status/787715170520956928/photo/1",
+            "id": 787715166276349953,
+            "media_url": "http://pbs.twimg.com/media/Cu6GxS4W8AEQH2L.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cu6GxS4W8AEQH2L.jpg",
+            "type": "photo",
+            "url": "https://t.co/PgeRJRnJai"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Don't miss out. Sign up for our monthly e-newsletter here: https://t.co/pwuYm6NW4g https://t.co/PgeRJRnJai",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/Eco4LB",
+            "url": "https://t.co/pwuYm6NW4g"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 15 16:55:39 +0000 2009",
+        "description": "City of Long Beach Environmental Services Bureau: Providing Recycling, Refuse, Street Sweeping/Parking, Hazardous Waste and LB-exchange services to LB.",
+        "favourites_count": 9,
+        "followers_count": 1319,
+        "friends_count": 40,
+        "id": 97016577,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "Long Beach, California",
+        "name": "Long Beach Recycles",
+        "profile_background_color": "B8CA5E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476452534081449984/29qgWSJk.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97016577/1402432895",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1884764926/Twitter_Logo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "C2D186",
+        "profile_text_color": "333333",
+        "screen_name": "lbrecycles",
+        "statuses_count": 830,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/or6slOhDam",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

@@ -1,0 +1,42 @@
+{
+    "created_at": "Tue Dec 22 23:01:24 +0000 2015",
+    "hashtags": [
+        {
+            "text": "happyholidays"
+        },
+        {
+            "text": "pacificgateway"
+        }
+    ],
+    "id": 679436602477821952,
+    "id_str": "679436602477821952",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "As a reminder, the YOC will be closed on Dec. 25th and Jan. 1st. I think it’s all the fruit cake. #happyholidays #pacificgateway",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Apr 26 15:07:33 +0000 2012",
+        "description": "I always have one ear listening in on job leads. I have two ears. Sometimes I switch ears. It's a talent. Where was I? Oh yeah, job leads. That's what I do.",
+        "favourites_count": 11,
+        "followers_count": 136,
+        "friends_count": 14,
+        "id": 563797936,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Long Beach, CA",
+        "name": "Lenny",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571337526/wpnup2hfv3kgm2phdgov.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/563797936/1406304741",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492420011768553473/ZMGqVMCC_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "screen_name": "LennyToGo",
+        "statuses_count": 183,
+        "time_zone": "Arizona",
+        "url": "http://t.co/UcxUTWkwg3",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}

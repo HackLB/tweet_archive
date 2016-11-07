@@ -1,0 +1,135 @@
+{
+    "created_at": "Thu Nov 03 17:49:18 +0000 2016",
+    "hashtags": [],
+    "id": 794235014477127680,
+    "id_str": "794235014477127680",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Sep 09 20:15:48 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 774340550665248768,
+        "id_str": "774340550665248768",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/u8RJULBslQ",
+                "expanded_url": "https://twitter.com/SCPMAHR/status/774340550665248768/photo/1",
+                "id": 774340531400744960,
+                "media_url": "http://pbs.twimg.com/media/Cr8CnFVUIAAMTt-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cr8CnFVUIAAMTt-.jpg",
+                "type": "photo",
+                "url": "https://t.co/u8RJULBslQ"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Did you know? We launched our Mobile Friendly Website! Visit https://t.co/mWDW3FJoK6  to view our new appearance. https://t.co/u8RJULBslQ",
+        "urls": [
+            {
+                "expanded_url": "http://www.scpma-hr.org",
+                "url": "https://t.co/mWDW3FJoK6"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 30 22:46:00 +0000 2014",
+            "description": "Southern California Public Management Association was founded in 1940 as Chapter II of the International Public Mgt Association for Human Resources.",
+            "favourites_count": 84,
+            "followers_count": 126,
+            "friends_count": 225,
+            "geo_enabled": true,
+            "id": 2952736874,
+            "lang": "en",
+            "listed_count": 15,
+            "location": "Southern California",
+            "name": "SCPMA-HR",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615662821427118080/ADJ8_CVY.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2952736874/1439827634",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/633309287419260928/-XVG-uMz_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "SCPMAHR",
+            "statuses_count": 432,
+            "url": "https://t.co/Wku6EOfhsn"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SCPMAHR: Did you know? We launched our Mobile Friendly Website! Visit https://t.co/mWDW3FJoK6  to view our new appearance. https://t.co…",
+    "urls": [
+        {
+            "expanded_url": "http://www.scpma-hr.org",
+            "url": "https://t.co/mWDW3FJoK6"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+        "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+        "favourites_count": 557,
+        "followers_count": 1359,
+        "friends_count": 1058,
+        "geo_enabled": true,
+        "id": 158253547,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Long Beach, California USA",
+        "name": "City of L.B. Jobs",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "LongBchCityJobs",
+        "statuses_count": 1770,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/BJr1SSBo00",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2952736874,
+            "name": "SCPMA-HR",
+            "screen_name": "SCPMAHR"
+        }
+    ]
+}

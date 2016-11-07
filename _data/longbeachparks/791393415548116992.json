@@ -1,0 +1,43 @@
+{
+    "created_at": "Wed Oct 26 21:37:48 +0000 2016",
+    "hashtags": [],
+    "id": 791393415548116992,
+    "id_str": "791393415548116992",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Apply by November 1st for the City of Long Beach Park Planning Internship!\n\nMore information at:… https://t.co/xpRo6F2dY0",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/791393415548116992",
+            "url": "https://t.co/xpRo6F2dY0"
+        }
+    ],
+    "user": {
+        "created_at": "Thu May 27 22:06:22 +0000 2010",
+        "description": "Long Beach Parks, Recreation and Marine creates community ideals to enhance the quality of life through people, places, programs, and partnerships.",
+        "favourites_count": 190,
+        "followers_count": 3299,
+        "friends_count": 105,
+        "geo_enabled": true,
+        "id": 148893587,
+        "lang": "en",
+        "listed_count": 69,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Parks",
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/148893587/1456425332",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936353713/n255438180034_9838_1__normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachParks",
+        "statuses_count": 1879,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/sZg4LwOP8j",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

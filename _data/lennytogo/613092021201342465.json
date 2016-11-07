@@ -1,0 +1,51 @@
+{
+    "created_at": "Mon Jun 22 21:11:43 +0000 2015",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "LBJobFair"
+        }
+    ],
+    "id": 613092021201342465,
+    "id_str": "613092021201342465",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ERayqf963p",
+            "expanded_url": "http://twitter.com/LennyToGo/status/613092021201342465/photo/1",
+            "id": 613091355804454912,
+            "media_url": "http://pbs.twimg.com/media/CIIjVv2WUAAxDL6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CIIjVv2WUAAxDL6.jpg",
+            "type": "photo",
+            "url": "http://t.co/ERayqf963p"
+        }
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "A fair for jobs? Interesting...I wonder if there'll be any rides. \n#LBJobFair http://t.co/ERayqf963p",
+    "urls": [],
+    "user": {
+        "created_at": "Thu Apr 26 15:07:33 +0000 2012",
+        "description": "I always have one ear listening in on job leads. I have two ears. Sometimes I switch ears. It's a talent. Where was I? Oh yeah, job leads. That's what I do.",
+        "favourites_count": 11,
+        "followers_count": 136,
+        "friends_count": 14,
+        "id": 563797936,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Long Beach, CA",
+        "name": "Lenny",
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571337526/wpnup2hfv3kgm2phdgov.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/563797936/1406304741",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492420011768553473/ZMGqVMCC_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "screen_name": "LennyToGo",
+        "statuses_count": 183,
+        "time_zone": "Arizona",
+        "url": "http://t.co/UcxUTWkwg3",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}

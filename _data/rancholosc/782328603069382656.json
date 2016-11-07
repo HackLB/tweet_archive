@@ -1,0 +1,147 @@
+{
+    "created_at": "Sat Oct 01 21:17:28 +0000 2016",
+    "hashtags": [],
+    "id": 782328603069382656,
+    "id_str": "782328603069382656",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/r18gxbSBHH",
+            "expanded_url": "https://twitter.com/lee_re/status/782325196174692352/photo/1",
+            "id": 782325181209452544,
+            "media_url": "http://pbs.twimg.com/media/Cttgm3zVIAAW0-6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cttgm3zVIAAW0-6.jpg",
+            "type": "photo",
+            "url": "https://t.co/r18gxbSBHH"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Oct 01 21:03:56 +0000 2016",
+        "hashtags": [],
+        "id": 782325196174692352,
+        "id_str": "782325196174692352",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/r18gxbSBHH",
+                "expanded_url": "https://twitter.com/lee_re/status/782325196174692352/photo/1",
+                "id": 782325181209452544,
+                "media_url": "http://pbs.twimg.com/media/Cttgm3zVIAAW0-6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cttgm3zVIAAW0-6.jpg",
+                "type": "photo",
+                "url": "https://t.co/r18gxbSBHH"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.19559447,
+                            33.83946207
+                        ],
+                        [
+                            -118.19559447,
+                            33.83946207
+                        ],
+                        [
+                            -118.19559447,
+                            33.83946207
+                        ],
+                        [
+                            -118.19559447,
+                            33.83946207
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Rancho Los Cerritos",
+            "id": "07d9f5d77a885004",
+            "name": "Rancho Los Cerritos",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9f5d77a885004.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "8yo made some crazy characters during Creation Station at @rancholosc https://t.co/r18gxbSBHH",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 08 15:54:15 +0000 2008",
+            "description": "Enthusiastic amateur. Friendly experiencer. Reviewer https://t.co/go1aClSoEs Runner https://t.co/xGqXm65d7j",
+            "favourites_count": 7951,
+            "followers_count": 430,
+            "friends_count": 866,
+            "geo_enabled": true,
+            "id": 15354654,
+            "lang": "en",
+            "listed_count": 25,
+            "location": "Long Beach, CA",
+            "name": "Lee Rice Epstein 🦄",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15354654/1470693630",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/750053146794205184/Ni3iSaHu_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "screen_name": "lee_re",
+            "statuses_count": 9317,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/HH85ehxfMe",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 39638531,
+                "name": "Rancho Los Cerritos",
+                "screen_name": "rancholosc"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @lee_re: 8yo made some crazy characters during Creation Station at @rancholosc https://t.co/r18gxbSBHH",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 33,
+        "followers_count": 508,
+        "friends_count": 110,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 191,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 15354654,
+            "name": "Lee Rice Epstein 🦄",
+            "screen_name": "lee_re"
+        },
+        {
+            "id": 39638531,
+            "name": "Rancho Los Cerritos",
+            "screen_name": "rancholosc"
+        }
+    ]
+}

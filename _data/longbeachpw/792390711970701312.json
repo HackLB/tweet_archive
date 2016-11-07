@@ -1,0 +1,60 @@
+{
+    "created_at": "Sat Oct 29 15:40:42 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 792390711970701312,
+    "id_str": "792390711970701312",
+    "in_reply_to_screen_name": "RobertGarciaLB",
+    "in_reply_to_status_id": 792363168144039936,
+    "in_reply_to_user_id": 18120497,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RobertGarciaLB @LBMayorsOffice @mbsully7 @BicyclingNate - got it!",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 197,
+        "followers_count": 648,
+        "friends_count": 214,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1147,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 297425418,
+            "name": "Michael Muhammad",
+            "screen_name": "mbsully7"
+        },
+        {
+            "id": 15915490,
+            "name": "Nate Baird",
+            "screen_name": "BicyclingNate"
+        }
+    ]
+}

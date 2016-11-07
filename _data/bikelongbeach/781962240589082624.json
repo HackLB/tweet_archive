@@ -1,0 +1,124 @@
+{
+    "created_at": "Fri Sep 30 21:01:40 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "bikable"
+        },
+        {
+            "text": "count"
+        },
+        {
+            "text": "pedcounter"
+        }
+    ],
+    "id": 781962240589082624,
+    "id_str": "781962240589082624",
+    "lang": "en",
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Thu Sep 29 23:13:43 +0000 2016",
+        "favorite_count": 33,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "bikable"
+            },
+            {
+                "text": "count"
+            },
+            {
+                "text": "pedcounter"
+            }
+        ],
+        "id": 781633084286341120,
+        "id_str": "781633084286341120",
+        "lang": "en",
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Why is #LongBeach one of the Countrys most #bikable cities? Lets #count the ways-new @Eco_Counter #pedcounter at Be… https://t.co/JF6u09EICJ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/781633084286341120",
+                "url": "https://t.co/JF6u09EICJ"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+            "default_profile": true,
+            "description": "Long Beach Public Works Department",
+            "favourites_count": 197,
+            "followers_count": 648,
+            "friends_count": 214,
+            "id": 3298654412,
+            "lang": "en",
+            "listed_count": 30,
+            "location": "Long Beach, CA",
+            "name": "Long Beach PW",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachPW",
+            "statuses_count": 1147,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/SoQaC9cS7M",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 163812943,
+                "name": "Eco Counter",
+                "screen_name": "Eco_Counter"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachPW: Why is #LongBeach one of the Countrys most #bikable cities? Lets #count the ways-new @Eco_Counter #pedcounter at Belmont P…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 24 22:24:41 +0000 2009",
+        "description": "Making Long Beach America's Most Bike Friendly City by providing an environment & culture where cycling is a safe, viable & preferred mode of transportation.",
+        "favourites_count": 10,
+        "followers_count": 3640,
+        "friends_count": 269,
+        "geo_enabled": true,
+        "id": 50462246,
+        "lang": "en",
+        "listed_count": 125,
+        "location": "Long Beach, Calif.",
+        "name": "BikeLongBeach.org",
+        "profile_background_color": "0E1212",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/365097095/DSC_0653.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50462246/1370020656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3736983175/d9e6dc72deb2e788017f20970fb01fdd_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "4C25B8",
+        "screen_name": "BikeLongBeach",
+        "statuses_count": 1514,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/0WWH9PXQDq",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3298654412,
+            "name": "Long Beach PW",
+            "screen_name": "LongBeachPW"
+        },
+        {
+            "id": 163812943,
+            "name": "Eco Counter",
+            "screen_name": "Eco_Counter"
+        }
+    ]
+}

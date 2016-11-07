@@ -1,0 +1,101 @@
+{
+    "created_at": "Sun Nov 06 06:40:02 +0000 2016",
+    "hashtags": [
+        {
+            "text": "CoveredCA"
+        },
+        {
+            "text": "LBDHHS"
+        }
+    ],
+    "id": 795153751967313922,
+    "id_str": "795153751967313922",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Nov 02 22:15:11 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "CoveredCA"
+            },
+            {
+                "text": "LBDHHS"
+            }
+        ],
+        "id": 793939537726701569,
+        "id_str": "793939537726701569",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "Open Enrollment for #CoveredCA started November 1st &amp; #LBDHHS can assist with enrollment &amp; renewals call 562-570-79… https://t.co/XDddDLbAzc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/793939537726701569",
+                "url": "https://t.co/XDddDLbAzc"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+            "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+            "favourites_count": 555,
+            "followers_count": 2029,
+            "friends_count": 1507,
+            "geo_enabled": true,
+            "id": 369627243,
+            "lang": "en",
+            "listed_count": 60,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Health",
+            "profile_background_color": "54B8D0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+            "profile_link_color": "13539E",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachDHHS",
+            "statuses_count": 3031,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZAG5SpCHal",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachDHHS: Open Enrollment for #CoveredCA started November 1st &amp; #LBDHHS can assist with enrollment &amp; renewals call 562-570-7979 fo…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 89,
+        "followers_count": 1569,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1081,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LongBeachDHHS"
+        }
+    ]
+}
