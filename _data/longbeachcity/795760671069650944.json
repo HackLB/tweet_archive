@@ -1,0 +1,108 @@
+{
+    "created_at": "Mon Nov 07 22:51:43 +0000 2016",
+    "hashtags": [
+        {
+            "text": "DTLB"
+        }
+    ],
+    "id": 795760671069650944,
+    "id_str": "795760671069650944",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Nov 07 22:51:06 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "DTLB"
+            }
+        ],
+        "id": 795760517046382592,
+        "id_str": "795760517046382592",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Long Beach is @Sunset Magazine's Coolest SoCal Beach Town with 4 #DTLB businesses making the list of reasons why. 🙌… https://t.co/KF1Nw788Jv",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/795760517046382592",
+                "url": "https://t.co/KF1Nw788Jv"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+            "description": "Downtown Long Beach Alliance",
+            "favourites_count": 2079,
+            "followers_count": 12721,
+            "friends_count": 719,
+            "geo_enabled": true,
+            "id": 30287813,
+            "lang": "en",
+            "listed_count": 227,
+            "location": "Downtown Long Beach, CA",
+            "name": "Downtown Long Beach",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "DLBA",
+            "statuses_count": 4139,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/qxQmL42c4r",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 21689161,
+                "name": "Sunset",
+                "screen_name": "sunset"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DLBA: Long Beach is @Sunset Magazine's Coolest SoCal Beach Town with 4 #DTLB businesses making the list of reasons why. 🙌 https://t.co/…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 62960,
+        "friends_count": 1221,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 450,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6388,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        },
+        {
+            "id": 21689161,
+            "name": "Sunset",
+            "screen_name": "sunset"
+        }
+    ]
+}
