@@ -1,0 +1,89 @@
+{
+    "created_at": "Tue Nov 08 14:47:08 +0000 2016",
+    "hashtags": [],
+    "id": 796001112364978176,
+    "id_str": "796001112364978176",
+    "lang": "en",
+    "retweet_count": 1287,
+    "retweeted_status": {
+        "created_at": "Tue Nov 08 14:45:40 +0000 2016",
+        "favorite_count": 1209,
+        "hashtags": [],
+        "id": 796000742066753537,
+        "id_str": "796000742066753537",
+        "lang": "en",
+        "retweet_count": 1287,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Our final forecast of the year just published! Clinton is a 71% favorite in polls-only, 72% in polls-plus.… https://t.co/nhyKSwbc4V",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/796000742066753537",
+                "url": "https://t.co/nhyKSwbc4V"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 27 20:56:45 +0000 2008",
+            "description": "Editor-in-Chief, @FiveThirtyEight. Author, The Signal and the Noise (https://t.co/EYTxvN6BLY). Sports/politics/food geek.",
+            "favourites_count": 97,
+            "followers_count": 1727634,
+            "friends_count": 935,
+            "geo_enabled": true,
+            "id": 16017475,
+            "lang": "en",
+            "listed_count": 26428,
+            "location": "New York",
+            "name": "Nate Silver",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/668814368008708096/5HABV7bJ_normal.png",
+            "profile_link_color": "000092",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "NateSilver538",
+            "statuses_count": 14967,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/wNpFg2xg4f",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NateSilver538: Our final forecast of the year just published! Clinton is a 71% favorite in polls-only, 72% in polls-plus. https://t.co/…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4876,
+        "followers_count": 11192,
+        "friends_count": 2027,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 222,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1475795748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9454,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16017475,
+            "name": "Nate Silver",
+            "screen_name": "NateSilver538"
+        }
+    ]
+}
