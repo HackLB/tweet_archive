@@ -1,0 +1,86 @@
+{
+    "created_at": "Tue Nov 08 20:34:21 +0000 2016",
+    "hashtags": [],
+    "id": 796088492262424576,
+    "id_str": "796088492262424576",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Tue Nov 08 16:12:10 +0000 2016",
+        "favorite_count": 15,
+        "hashtags": [],
+        "id": 796022511360032768,
+        "id_str": "796022511360032768",
+        "lang": "en",
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "In 1852, Los Angeles – a dusty adobe town of some 2,000 souls – participated in its first presidential election: https://t.co/gM9EMDopvF",
+        "urls": [
+            {
+                "expanded_url": "https://www.kcet.org/shows/lost-la/las-first-presidential-election",
+                "url": "https://t.co/gM9EMDopvF"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 16 22:27:46 +0000 2009",
+            "description": "An alliance of research archives, libraries, and collections dedicated to preserving the rich history of the Los Angeles region. Hosted by @USCLibraries.",
+            "favourites_count": 156,
+            "followers_count": 11053,
+            "friends_count": 1150,
+            "geo_enabled": true,
+            "id": 47755632,
+            "lang": "en",
+            "listed_count": 430,
+            "location": "Los Angeles",
+            "name": "L.A. as Subject",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18411910/standingASSUBJECT.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/47755632/1368816320",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3673230844/35d2e843c9d3e846e4b35746d4c62e28_normal.png",
+            "profile_link_color": "F46539",
+            "profile_sidebar_fill_color": "FFCC00",
+            "profile_text_color": "000000",
+            "screen_name": "LAasSubject",
+            "statuses_count": 4600,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/UMxSVI2WAM",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LAasSubject: In 1852, Los Angeles – a dusty adobe town of some 2,000 souls – participated in its first presidential election: https://t…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 35,
+        "followers_count": 508,
+        "friends_count": 110,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 194,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 47755632,
+            "name": "L.A. as Subject",
+            "screen_name": "LAasSubject"
+        }
+    ]
+}
