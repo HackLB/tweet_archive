@@ -1,0 +1,97 @@
+{
+    "created_at": "Tue Nov 08 16:37:16 +0000 2016",
+    "hashtags": [],
+    "id": 796028828174815232,
+    "id_str": "796028828174815232",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 08 05:20:10 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 795858429722005505,
+        "id_str": "795858429722005505",
+        "in_reply_to_screen_name": "DLBA",
+        "in_reply_to_status_id": 795777481298972672,
+        "in_reply_to_user_id": 30287813,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://percolate.com\" rel=\"nofollow\">Percolate</a>",
+        "text": "@DLBA Thank you so much! We're really looking forward to being a part of the Long Beach community. You'll have to swing by for coffee!",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Feb 03 19:55:58 +0000 2010",
+            "description": "WeWork provides you with the space, community, and services you need to make a life, not just a living.",
+            "favourites_count": 43212,
+            "followers_count": 57238,
+            "friends_count": 6447,
+            "geo_enabled": true,
+            "id": 111092283,
+            "lang": "en",
+            "listed_count": 1517,
+            "location": "Global",
+            "name": "WeWork",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/201410225/background.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/111092283/1475591048",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/786644601318801408/CGg8-qLD_normal.jpg",
+            "profile_link_color": "16A085",
+            "profile_sidebar_fill_color": "383838",
+            "profile_text_color": "000000",
+            "screen_name": "WeWork",
+            "statuses_count": 22704,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/RQt3cdEgml",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 30287813,
+                "name": "Downtown Long Beach",
+                "screen_name": "DLBA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @WeWork: @DLBA Thank you so much! We're really looking forward to being a part of the Long Beach community. You'll have to swing by for…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2087,
+        "followers_count": 12718,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4144,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 111092283,
+            "name": "WeWork",
+            "screen_name": "WeWork"
+        },
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        }
+    ]
+}

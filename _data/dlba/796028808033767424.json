@@ -1,0 +1,109 @@
+{
+    "created_at": "Tue Nov 08 16:37:11 +0000 2016",
+    "hashtags": [],
+    "id": 796028808033767424,
+    "id_str": "796028808033767424",
+    "lang": "en",
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Tue Nov 08 02:35:07 +0000 2016",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 795816891612794880,
+        "id_str": "795816891612794880",
+        "lang": "en",
+        "retweet_count": 13,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "TUES we’ll be in @LongBeachCity  4-8pm @PMTV2016  Vote then join us for music, games, giveaways 402 Atlantic! https://t.co/qwWjXLOJA4 ✌️️🇺🇸",
+        "urls": [
+            {
+                "expanded_url": "https://www.facebook.com/events/184378392014779/?ti=icl",
+                "url": "https://t.co/qwWjXLOJA4"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 11 20:29:06 +0000 2012",
+            "description": "#1 Food Truck in LA 2014!!  Catering:info@thelobostruck.com",
+            "favourites_count": 1279,
+            "followers_count": 136434,
+            "friends_count": 44,
+            "geo_enabled": true,
+            "id": 461448993,
+            "lang": "en",
+            "listed_count": 274,
+            "location": "Los Angeles, CA",
+            "name": "The Lobos Truck-LA",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576881834371342336/wsRSK4kD.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/461448993/1426373670",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/576879303222145024/45bZ_gCk_normal.jpeg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "screen_name": "TheLobosTruck",
+            "statuses_count": 33883,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/xPP4Ot4SzH",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 784466547578253312,
+                "name": "placemakethevote",
+                "screen_name": "PMTV2016"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TheLobosTruck: TUES we’ll be in @LongBeachCity  4-8pm @PMTV2016  Vote then join us for music, games, giveaways 402 Atlantic! https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2087,
+        "followers_count": 12718,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4144,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 461448993,
+            "name": "The Lobos Truck-LA",
+            "screen_name": "TheLobosTruck"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 784466547578253312,
+            "name": "placemakethevote",
+            "screen_name": "PMTV2016"
+        }
+    ]
+}

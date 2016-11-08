@@ -1,0 +1,92 @@
+{
+    "created_at": "Tue Nov 08 16:37:09 +0000 2016",
+    "hashtags": [
+        {
+            "text": "PMTV2016"
+        }
+    ],
+    "id": 796028796348481536,
+    "id_str": "796028796348481536",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Nov 08 16:36:18 +0000 2016",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "PMTV2016"
+            }
+        ],
+        "id": 796028583856590848,
+        "id_str": "796028583856590848",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our Houghton Park location for #PMTV2016, Long Beach? We got us a GIFbooth. Snap &amp; become a .gif after you vote!… https://t.co/h3uh8EDTfH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/796028583856590848",
+                "url": "https://t.co/h3uh8EDTfH"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Oct 07 18:52:54 +0000 2016",
+            "default_profile": true,
+            "description": "A movement and toolkit to expand civic engagement + encourage voting by activating spaces around polling booth locations in Long Beach, CA.",
+            "favourites_count": 63,
+            "followers_count": 23,
+            "friends_count": 76,
+            "id": 784466547578253312,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "Long Beach, CA",
+            "name": "placemakethevote",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/784466547578253312/1475866619",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/784467454680440832/J-82BLQe_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "PMTV2016",
+            "statuses_count": 23
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PMTV2016: Our Houghton Park location for #PMTV2016, Long Beach? We got us a GIFbooth. Snap &amp; become a .gif after you vote! https://t.co…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2087,
+        "followers_count": 12718,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4144,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 784466547578253312,
+            "name": "placemakethevote",
+            "screen_name": "PMTV2016"
+        }
+    ]
+}

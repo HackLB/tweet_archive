@@ -1,0 +1,86 @@
+{
+    "created_at": "Tue Nov 08 16:42:48 +0000 2016",
+    "hashtags": [],
+    "id": 796030220318838786,
+    "id_str": "796030220318838786",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Nov 08 16:27:48 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 796026445227171840,
+        "id_str": "796026445227171840",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GooymCYFBF",
+                "expanded_url": "https://twitter.com/LBHighDee/status/796026445227171840/photo/1",
+                "id": 796026440395259904,
+                "media_url": "http://pbs.twimg.com/media/CwwN1HuUAAA5R7I.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwwN1HuUAAA5R7I.jpg",
+                "type": "photo",
+                "url": "https://t.co/GooymCYFBF"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "It's a great day when you get to bike to work AND vote! If you haven't yet, polls are open until 8 pm. https://t.co/GooymCYFBF",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Mar 29 11:44:20 +0000 2016",
+            "default_profile": true,
+            "favourites_count": 8,
+            "followers_count": 56,
+            "friends_count": 80,
+            "id": 714780224806752256,
+            "lang": "en",
+            "listed_count": 2,
+            "name": "Heidi Wiersma",
+            "profile_background_color": "F5F8FA",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/722205956377948161/gtga9olU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBHighDee",
+            "statuses_count": 61
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LBHighDee: It's a great day when you get to bike to work AND vote! If you haven't yet, polls are open until 8 pm. https://t.co/GooymCYF…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 63006,
+        "friends_count": 1221,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 450,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6389,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 714780224806752256,
+            "name": "Heidi Wiersma",
+            "screen_name": "LBHighDee"
+        }
+    ]
+}
