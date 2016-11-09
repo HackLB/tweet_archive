@@ -1,0 +1,113 @@
+{
+    "created_at": "Wed Nov 09 15:34:41 +0000 2016",
+    "hashtags": [
+        {
+            "text": "VeteransDay"
+        }
+    ],
+    "id": 796375467112574976,
+    "id_str": "796375467112574976",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/flikm4luRh",
+            "expanded_url": "https://twitter.com/Interior/status/795725192052047872/photo/1",
+            "id": 795724935767400449,
+            "media_url": "http://pbs.twimg.com/media/Cwr7nPdWIAEcHtU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cwr7nPdWIAEcHtU.jpg",
+            "type": "photo",
+            "url": "https://t.co/flikm4luRh"
+        }
+    ],
+    "retweet_count": 1576,
+    "retweeted_status": {
+        "created_at": "Mon Nov 07 20:30:44 +0000 2016",
+        "favorite_count": 1818,
+        "hashtags": [
+            {
+                "text": "VeteransDay"
+            }
+        ],
+        "id": 795725192052047872,
+        "id_str": "795725192052047872",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/flikm4luRh",
+                "expanded_url": "https://twitter.com/Interior/status/795725192052047872/photo/1",
+                "id": 795724935767400449,
+                "media_url": "http://pbs.twimg.com/media/Cwr7nPdWIAEcHtU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cwr7nPdWIAEcHtU.jpg",
+                "type": "photo",
+                "url": "https://t.co/flikm4luRh"
+            }
+        ],
+        "retweet_count": 1576,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "RT to spread the word → All public lands are free on Friday for #VeteransDay https://t.co/flikm4luRh",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Sep 22 14:36:29 +0000 2009",
+            "description": "Protecting America’s Great Outdoors and Powering Our Future",
+            "favourites_count": 2204,
+            "followers_count": 1672550,
+            "friends_count": 260053,
+            "geo_enabled": true,
+            "id": 76348185,
+            "lang": "en",
+            "listed_count": 6616,
+            "location": "Washington, DC",
+            "name": "US Dept of Interior",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688410897/0390727e0b833fa7f8536a100da185fa.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/76348185/1475504116",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/432081479/DOI_LOGO_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "050505",
+            "screen_name": "Interior",
+            "statuses_count": 14144,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/gUty7d4LZ8",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Interior: RT to spread the word → All public lands are free on Friday for #VeteransDay https://t.co/flikm4luRh",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 513,
+        "followers_count": 3869,
+        "friends_count": 1794,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 62,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1953,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 76348185,
+            "name": "US Dept of Interior",
+            "screen_name": "Interior"
+        }
+    ]
+}
