@@ -1,0 +1,45 @@
+{
+    "created_at": "Tue Nov 08 23:35:32 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "VeteransDay"
+        }
+    ],
+    "id": 796134085722656769,
+    "id_str": "796134085722656769",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "City Auditor Doud honored those who have served at the #VeteransDay Parade. Thank you Veterans who have fought for… https://t.co/Mp3UgaznUo",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/796134085722656769",
+            "url": "https://t.co/Mp3UgaznUo"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 02 22:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Independence you can rely on",
+        "favourites_count": 43,
+        "followers_count": 1015,
+        "friends_count": 71,
+        "id": 3527837897,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Long Beach, CA",
+        "name": "LongBeachCityAuditor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3527837897/1446766353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639210250747277312/cxBCMmTb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LBCityAuditor",
+        "statuses_count": 136,
+        "url": "http://t.co/DnuCB1NyXU"
+    },
+    "user_mentions": []
+}
