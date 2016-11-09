@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Nov 09 05:04:48 +0000 2016",
+    "hashtags": [
+        {
+            "text": "BeachStreets"
+        }
+    ],
+    "id": 796216949998952449,
+    "id_str": "796216949998952449",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Nov 07 17:27:55 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "BeachStreets"
+            }
+        ],
+        "id": 795679186941714432,
+        "id_str": "795679186941714432",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ub9iM400Sc",
+                "expanded_url": "https://twitter.com/lbtransit/status/795679186941714432/photo/1",
+                "id": 795679161863966720,
+                "media_url": "http://pbs.twimg.com/media/CwrR-2YVEAAE0rx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwrR-2YVEAAE0rx.jpg",
+                "type": "photo",
+                "url": "https://t.co/Ub9iM400Sc"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "We'll see u @ Beach Streets! Roll by LBT 4 music, interactive art &amp; bike rack demos. @beachstreetslb #BeachStreets https://t.co/Ub9iM400Sc",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Sep 28 17:01:13 +0000 2010",
+            "description": "A municipal transit\r\ncompany providing fixed and\r\nflexible bus transit services in\r\nLong Beach, South and SE LA\r\nCounty, NW Orange Counties.",
+            "favourites_count": 52,
+            "followers_count": 499,
+            "friends_count": 345,
+            "id": 196234177,
+            "lang": "en",
+            "listed_count": 15,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Transit",
+            "profile_background_color": "EDD39A",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155088215/Picture_2.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/196234177/1438312513",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1133206502/2009_Hybrid_3qrtr_View_TINY_normal.jpg",
+            "profile_link_color": "050504",
+            "profile_sidebar_fill_color": "EBD109",
+            "profile_text_color": "1C191C",
+            "screen_name": "lbtransit",
+            "statuses_count": 112,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/KSjECpZ8pG",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 3145149733,
+                "name": "Beach Streets",
+                "screen_name": "beachstreetslb"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @lbtransit: We'll see u @ Beach Streets! Roll by LBT 4 music, interactive art &amp; bike rack demos. @beachstreetslb #BeachStreets https://t…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 92,
+        "followers_count": 1571,
+        "friends_count": 211,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1085,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 196234177,
+            "name": "Long Beach Transit",
+            "screen_name": "lbtransit"
+        },
+        {
+            "id": 3145149733,
+            "name": "Beach Streets",
+            "screen_name": "beachstreetslb"
+        }
+    ]
+}
