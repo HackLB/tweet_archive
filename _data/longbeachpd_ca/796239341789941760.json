@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Nov 09 06:33:47 +0000 2016",
+    "hashtags": [
+        {
+            "text": "PPD"
+        }
+    ],
+    "id": 796239341789941760,
+    "id_str": "796239341789941760",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/pJIAgcmwla",
+            "expanded_url": "https://twitter.com/PPDChiefSanchez/status/796233896526430208/photo/1",
+            "id": 796233893393203201,
+            "media_url": "http://pbs.twimg.com/media/CwzKgeXUAAEwbN7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwzKgeXUAAEwbN7.jpg",
+            "type": "photo",
+            "url": "https://t.co/pJIAgcmwla"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Nov 09 06:12:08 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "PPD"
+            }
+        ],
+        "id": 796233896526430208,
+        "id_str": "796233896526430208",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pJIAgcmwla",
+                "expanded_url": "https://twitter.com/PPDChiefSanchez/status/796233896526430208/photo/1",
+                "id": 796233893393203201,
+                "media_url": "http://pbs.twimg.com/media/CwzKgeXUAAEwbN7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CwzKgeXUAAEwbN7.jpg",
+                "type": "photo",
+                "url": "https://t.co/pJIAgcmwla"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "#PPD Chief Sanchez, SMPD Chief Giannone. Larry is retiring after a long and dedicated career. https://t.co/pJIAgcmwla",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Apr 18 21:36:20 +0000 2013",
+            "default_profile": true,
+            "description": "Mission First, People Always",
+            "favourites_count": 7,
+            "followers_count": 1379,
+            "friends_count": 8,
+            "id": 1362959336,
+            "lang": "en",
+            "listed_count": 35,
+            "location": "Pasadena, CA",
+            "name": "Phillip L. Sanchez",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362959336/1367526129",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/565293438770245632/1LkmzNA3_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "PPDChiefSanchez",
+            "statuses_count": 4681,
+            "time_zone": "Hawaii",
+            "url": "http://t.co/giUm9a3MHi",
+            "utc_offset": -36000
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @PPDChiefSanchez: #PPD Chief Sanchez, SMPD Chief Giannone. Larry is retiring after a long and dedicated career. https://t.co/pJIAgcmwla",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4286,
+        "followers_count": 8604,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5985,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 1362959336,
+            "name": "Phillip L. Sanchez",
+            "screen_name": "PPDChiefSanchez"
+        }
+    ]
+}
