@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Nov 09 21:23:48 +0000 2016",
+    "hashtags": [
+        {
+            "text": "lbpd"
+        },
+        {
+            "text": "joinlbpd"
+        }
+    ],
+    "id": 796463323977945088,
+    "id_str": "796463323977945088",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/W53GQ63BER",
+            "expanded_url": "https://twitter.com/joinlbpd/status/796463012232077312/photo/1",
+            "id": 796463002694262784,
+            "media_url": "http://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+            "type": "photo",
+            "url": "https://t.co/W53GQ63BER"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Nov 09 21:22:34 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "lbpd"
+            },
+            {
+                "text": "joinlbpd"
+            }
+        ],
+        "id": 796463012232077312,
+        "id_str": "796463012232077312",
+        "in_reply_to_screen_name": "USC",
+        "in_reply_to_user_id": 19809471,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/W53GQ63BER",
+                "expanded_url": "https://twitter.com/joinlbpd/status/796463012232077312/photo/1",
+                "id": 796463002694262784,
+                "media_url": "http://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+                "type": "photo",
+                "url": "https://t.co/W53GQ63BER"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@USC for Veterans Career Fair. Join us! Here till 3:00 P.M. Event held at VKC. #lbpd #joinlbpd https://t.co/W53GQ63BER",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Nov 19 01:31:57 +0000 2008",
+            "description": "Law Enforcement",
+            "favourites_count": 11,
+            "followers_count": 80,
+            "friends_count": 107,
+            "geo_enabled": true,
+            "id": 17476888,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Long Beach, CA",
+            "name": "joinlbpd",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17476888/1471538587",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738150542405292032/paW5y04E_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "joinlbpd",
+            "statuses_count": 178,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/HMbSp21lv7",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 19809471,
+                "name": "USC",
+                "screen_name": "USC"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @joinlbpd: @USC for Veterans Career Fair. Join us! Here till 3:00 P.M. Event held at VKC. #lbpd #joinlbpd https://t.co/W53GQ63BER",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4287,
+        "followers_count": 8602,
+        "friends_count": 423,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 5987,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 17476888,
+            "name": "joinlbpd",
+            "screen_name": "joinlbpd"
+        },
+        {
+            "id": 19809471,
+            "name": "USC",
+            "screen_name": "USC"
+        }
+    ]
+}
