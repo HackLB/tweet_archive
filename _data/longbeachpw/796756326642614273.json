@@ -1,0 +1,53 @@
+{
+    "created_at": "Thu Nov 10 16:48:05 +0000 2016",
+    "hashtags": [],
+    "id": 796756326642614273,
+    "id_str": "796756326642614273",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/7rPP64TZEm",
+            "expanded_url": "https://twitter.com/LongBeachPW/status/796756326642614273/photo/1",
+            "id": 796756319227113472,
+            "media_url": "http://pbs.twimg.com/media/Cw6lpqQUcAAjrxH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cw6lpqQUcAAjrxH.jpg",
+            "type": "photo",
+            "url": "https://t.co/7rPP64TZEm"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "PW crews are at Jordan High School preparing for Vice Mayor @rexrichardson unveiling today at 9am https://t.co/7rPP64TZEm",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 197,
+        "followers_count": 653,
+        "friends_count": 214,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1151,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
