@@ -1,0 +1,122 @@
+{
+    "created_at": "Thu Nov 10 20:55:43 +0000 2016",
+    "hashtags": [
+        {
+            "text": "KeepingOurCommunitySafe"
+        }
+    ],
+    "id": 796818645334663168,
+    "id_str": "796818645334663168",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Nov 10 20:38:06 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 796814210671874048,
+        "id_str": "796814210671874048",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Interagency Biological Counter-Terrorism Training with .@lbfd .@LongBeachPD_CA &amp; @LongBeachDHHS… https://t.co/3pKspy1v4a",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/796814210671874048",
+                "url": "https://t.co/3pKspy1v4a"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+            "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+            "favourites_count": 561,
+            "followers_count": 4827,
+            "friends_count": 186,
+            "geo_enabled": true,
+            "id": 18952042,
+            "lang": "en",
+            "listed_count": 181,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Fire",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "lbfd",
+            "statuses_count": 2248,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/y8zfCjTY2R",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire",
+                "screen_name": "lbfd"
+            },
+            {
+                "id": 50097116,
+                "name": "Long Beach PD",
+                "screen_name": "LongBeachPD_CA"
+            },
+            {
+                "id": 369627243,
+                "name": "Long Beach Health",
+                "screen_name": "LongBeachDHHS"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @lbfd: Interagency Biological Counter-Terrorism Training with .@lbfd .@LongBeachPD_CA &amp; @LongBeachDHHS #KeepingOurCommunitySafe #GoLongB…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+        "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+        "favourites_count": 556,
+        "followers_count": 2028,
+        "friends_count": 1507,
+        "geo_enabled": true,
+        "id": 369627243,
+        "lang": "en",
+        "listed_count": 60,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Health",
+        "profile_background_color": "54B8D0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+        "profile_link_color": "13539E",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachDHHS",
+        "statuses_count": 3033,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/ZAG5SpCHal",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        },
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LongBeachDHHS"
+        }
+    ]
+}
