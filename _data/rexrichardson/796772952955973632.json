@@ -1,0 +1,79 @@
+{
+    "created_at": "Thu Nov 10 17:54:09 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Techquity"
+        }
+    ],
+    "id": 796772952955973632,
+    "id_str": "796772952955973632",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.192945,
+                        34.008017
+                    ],
+                    [
+                        -118.126513,
+                        34.008017
+                    ],
+                    [
+                        -118.126513,
+                        34.062578
+                    ],
+                    [
+                        -118.192945,
+                        34.062578
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Los Angeles, CA",
+        "id": "67571a7baaa5906b",
+        "name": "East Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/67571a7baaa5906b.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Uptown #Techquity https://t.co/FmlvP1j9I3",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/longbeachcity/status/796766910180245504",
+            "url": "https://t.co/FmlvP1j9I3"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1323,
+        "followers_count": 2311,
+        "friends_count": 1249,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2120,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

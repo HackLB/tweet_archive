@@ -1,0 +1,63 @@
+{
+    "created_at": "Thu Nov 10 17:14:01 +0000 2016",
+    "hashtags": [
+        {
+            "text": "techquity"
+        },
+        {
+            "text": "Uptown"
+        }
+    ],
+    "id": 796762851364872192,
+    "id_str": "796762851364872192",
+    "in_reply_to_screen_name": "bsastokas",
+    "in_reply_to_user_id": 42134410,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/kMtwbtC6FF",
+            "expanded_url": "https://twitter.com/LongBeachPW/status/796762851364872192/photo/1",
+            "id": 796762842997223424,
+            "media_url": "http://pbs.twimg.com/media/Cw6rlZMUcAAlbQ9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cw6rlZMUcAAlbQ9.jpg",
+            "type": "photo",
+            "url": "https://t.co/kMtwbtC6FF"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted": true,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@bsastokas free wifi access brings #techquity to #Uptown https://t.co/kMtwbtC6FF",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 197,
+        "followers_count": 654,
+        "friends_count": 214,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1153,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 42134410,
+            "name": "Bryan M. Sastokas",
+            "screen_name": "bsastokas"
+        }
+    ]
+}
