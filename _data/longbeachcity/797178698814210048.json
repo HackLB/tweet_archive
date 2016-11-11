@@ -1,0 +1,102 @@
+{
+    "created_at": "Fri Nov 11 20:46:27 +0000 2016",
+    "hashtags": [
+        {
+            "text": "VeteransDay"
+        }
+    ],
+    "id": 797178698814210048,
+    "id_str": "797178698814210048",
+    "lang": "en",
+    "retweet_count": 461,
+    "retweeted_status": {
+        "created_at": "Fri Nov 11 20:24:27 +0000 2016",
+        "favorite_count": 1062,
+        "hashtags": [
+            {
+                "text": "VeteransDay"
+            }
+        ],
+        "id": 797173164111339520,
+        "id_str": "797173164111339520",
+        "lang": "en",
+        "retweet_count": 461,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "With respect, honor &amp; gratitude. 🇺🇸 #VeteransDay\n\nhttps://t.co/mcuTtJc5Eb",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/moments/797110694177079296",
+                "url": "https://t.co/mcuTtJc5Eb"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "description": "Your official source for news, updates and tips from Twitter, Inc. Need help? Visit https://t.co/qq1HEzvnrA.",
+            "favourites_count": 2557,
+            "followers_count": 57409013,
+            "friends_count": 146,
+            "geo_enabled": true,
+            "id": 783214,
+            "lang": "en",
+            "listed_count": 90509,
+            "location": "San Francisco, CA",
+            "name": "Twitter",
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1476219753",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/767879603977191425/29zfZY6I_normal.jpg",
+            "profile_link_color": "226699",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "twitter",
+            "statuses_count": 3345,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/5iRhy7wTgu",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @twitter: With respect, honor &amp; gratitude. 🇺🇸 #VeteransDay\n\nhttps://t.co/mcuTtJc5Eb",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/moments/797110694177079296",
+            "url": "https://t.co/mcuTtJc5Eb"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 63342,
+        "friends_count": 1222,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 448,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6399,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 783214,
+            "name": "Twitter",
+            "screen_name": "twitter"
+        }
+    ]
+}
