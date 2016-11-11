@@ -1,0 +1,92 @@
+{
+    "created_at": "Fri Nov 11 04:48:04 +0000 2016",
+    "hashtags": [],
+    "id": 796937514216878080,
+    "id_str": "796937514216878080",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Nov 11 04:42:59 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 796936233364688896,
+        "id_str": "796936233364688896",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "LBC reservations are live. Check Yelp Seat Me https://t.co/1Qre24xhQh",
+        "urls": [
+            {
+                "expanded_url": "http://la.eater.com/2016/11/8/13550236/beer-belly-long-beach-inside-photos-opening",
+                "url": "https://t.co/1Qre24xhQh"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 26 00:33:37 +0000 2011",
+            "description": "built by family and friends",
+            "favourites_count": 2987,
+            "followers_count": 4961,
+            "friends_count": 3334,
+            "id": 242964540,
+            "lang": "en",
+            "listed_count": 220,
+            "location": "532 S. Western Ave. LA, CA",
+            "name": "A Craft Beer Bar",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199519514/004.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/242964540/1428345976",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/585150063413862401/bhhjD8uu_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "BeerBelly_LA",
+            "statuses_count": 7335,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/wkApkxa1Xi",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BeerBelly_LA: LBC reservations are live. Check Yelp Seat Me https://t.co/1Qre24xhQh",
+    "urls": [
+        {
+            "expanded_url": "http://la.eater.com/2016/11/8/13550236/beer-belly-long-beach-inside-photos-opening",
+            "url": "https://t.co/1Qre24xhQh"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2091,
+        "followers_count": 12725,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4153,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 242964540,
+            "name": "A Craft Beer Bar",
+            "screen_name": "BeerBelly_LA"
+        }
+    ]
+}
