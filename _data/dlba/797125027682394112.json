@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Nov 11 17:13:11 +0000 2016",
+    "hashtags": [],
+    "id": 797125027682394112,
+    "id_str": "797125027682394112",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Nov 11 17:07:24 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 797123575022907392,
+        "id_str": "797123575022907392",
+        "in_reply_to_screen_name": "DLBA",
+        "in_reply_to_status_id": 797123029612564480,
+        "in_reply_to_user_id": 30287813,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@DLBA my people! Always doing great things. 🙌",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Aug 24 23:28:10 +0000 2016",
+            "default_profile": true,
+            "description": "As you probably know by now, I’m the face of EZparkLB. The free app that shows you—in real-time—all the open, available parking spots in Long Beach.",
+            "favourites_count": 21,
+            "followers_count": 39,
+            "friends_count": 198,
+            "geo_enabled": true,
+            "id": 768590752318238721,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "Long Beach, CA",
+            "name": "EZ-P",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/768590752318238721/1474675060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779082669539766272/syxb7id5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ezplb",
+            "statuses_count": 64,
+            "url": "https://t.co/Y0mSBH0QYR"
+        },
+        "user_mentions": [
+            {
+                "id": 30287813,
+                "name": "Downtown Long Beach",
+                "screen_name": "DLBA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ezplb: @DLBA my people! Always doing great things. 🙌",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2093,
+        "followers_count": 12723,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4156,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 768590752318238721,
+            "name": "EZ-P",
+            "screen_name": "ezplb"
+        },
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        }
+    ]
+}
