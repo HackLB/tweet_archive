@@ -1,0 +1,76 @@
+{
+    "created_at": "Fri Nov 11 00:12:24 +0000 2016",
+    "hashtags": [],
+    "id": 796868140588113920,
+    "id_str": "796868140588113920",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Pv8XykUw89",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/796868140588113920/photo/1",
+            "id": 796868134216994816,
+            "media_url": "http://pbs.twimg.com/media/Cw8LWJjVEAA2eti.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cw8LWJjVEAA2eti.jpg",
+            "type": "photo",
+            "url": "https://t.co/Pv8XykUw89"
+        },
+        {
+            "display_url": "pic.twitter.com/Pv8XykUw89",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/796868140588113920/photo/1",
+            "id": 796868134225354752,
+            "media_url": "http://pbs.twimg.com/media/Cw8LWJlUoAAB2fo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cw8LWJlUoAAB2fo.jpg",
+            "type": "photo",
+            "url": "https://t.co/Pv8XykUw89"
+        },
+        {
+            "display_url": "pic.twitter.com/Pv8XykUw89",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/796868140588113920/photo/1",
+            "id": 796868135043272705,
+            "media_url": "http://pbs.twimg.com/media/Cw8LWMoVEAEU19p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cw8LWMoVEAEU19p.jpg",
+            "type": "photo",
+            "url": "https://t.co/Pv8XykUw89"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Inspiring day at @MADDOnline annual luncheon. Thankyou @DougHaubert1 &amp;everyone who works to fight drunk driving. https://t.co/Pv8XykUw89",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 63,
+        "followers_count": 1792,
+        "friends_count": 1955,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1170,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 21919379,
+            "name": "MADD",
+            "screen_name": "MADDOnline"
+        },
+        {
+            "id": 1360525140,
+            "name": "Doug Haubert",
+            "screen_name": "DougHaubert1"
+        }
+    ]
+}
