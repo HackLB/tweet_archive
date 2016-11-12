@@ -1,0 +1,101 @@
+{
+    "created_at": "Sat Nov 12 20:48:46 +0000 2016",
+    "hashtags": [],
+    "id": 797541672103997440,
+    "id_str": "797541672103997440",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat Nov 12 20:31:37 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 797537353656999936,
+        "id_str": "797537353656999936",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Woo hoo!!!!  Our sister Book Bike @lbpl_librarian is debuting today at Long Beach Beach Streets! https://t.co/ov4V0iOJTU",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/iluvlibraries/status/797525571282423808",
+                "url": "https://t.co/ov4V0iOJTU"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 16 21:48:34 +0000 2014",
+            "description": "The LAPL Book Bike is grant funded by @LibraryFoundLA. Free Books are donated by the Friends of the San Pedro Library.",
+            "favourites_count": 798,
+            "followers_count": 697,
+            "friends_count": 667,
+            "id": 2295061152,
+            "lang": "en",
+            "listed_count": 29,
+            "location": "San Pedro, CA",
+            "name": "LAPL BookBike",
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2295061152/1441313022",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/510562198188355584/A1I-q9-r_normal.png",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "screen_name": "LAPLBookBike",
+            "statuses_count": 738,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/rFS4ahqTab",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 130570597,
+                "name": "LB Public Library",
+                "screen_name": "lbpl_librarian"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LAPLBookBike: Woo hoo!!!!  Our sister Book Bike @lbpl_librarian is debuting today at Long Beach Beach Streets! https://t.co/ov4V0iOJTU",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/iluvlibraries/status/797525571282423808",
+            "url": "https://t.co/ov4V0iOJTU"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Apr 07 17:45:26 +0000 2010",
+        "description": "We are the Long Beach Public Library. Twelve locations in Long Beach, CA to serve you. Check out our free LBPL Mobile app.",
+        "favourites_count": 4967,
+        "followers_count": 2404,
+        "friends_count": 418,
+        "geo_enabled": true,
+        "id": 130570597,
+        "lang": "en",
+        "listed_count": 92,
+        "location": "Long Beach, California",
+        "name": "LB Public Library",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130570597/1477937760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/758462733893246980/IYESgb-5_normal.jpg",
+        "profile_link_color": "282D2E",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lbpl_librarian",
+        "statuses_count": 2969,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/wpef9MDn6j",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2295061152,
+            "name": "LAPL BookBike",
+            "screen_name": "LAPLBookBike"
+        },
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "lbpl_librarian"
+        }
+    ]
+}

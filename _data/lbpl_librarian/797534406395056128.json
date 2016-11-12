@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Nov 12 20:19:54 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBPLBookBike"
+        },
+        {
+            "text": "SpeedReader"
+        }
+    ],
+    "id": 797534406395056128,
+    "id_str": "797534406395056128",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/F2r4rR2kZw",
+            "expanded_url": "https://twitter.com/iLuvLibraries/status/797525571282423808/photo/1",
+            "id": 797525558926053376,
+            "media_url": "http://pbs.twimg.com/media/CxFhRTcVEAAjCMq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxFhRTcVEAAjCMq.jpg",
+            "type": "photo",
+            "url": "https://t.co/F2r4rR2kZw"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Nov 12 19:44:48 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "LBPLBookBike"
+            },
+            {
+                "text": "SpeedReader"
+            }
+        ],
+        "id": 797525571282423808,
+        "id_str": "797525571282423808",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/F2r4rR2kZw",
+                "expanded_url": "https://twitter.com/iLuvLibraries/status/797525571282423808/photo/1",
+                "id": 797525558926053376,
+                "media_url": "http://pbs.twimg.com/media/CxFhRTcVEAAjCMq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CxFhRTcVEAAjCMq.jpg",
+                "type": "photo",
+                "url": "https://t.co/F2r4rR2kZw"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.17377013561506,
+                            33.78293794054997
+                        ],
+                        [
+                            -118.17377013561506,
+                            33.78293794054997
+                        ],
+                        [
+                            -118.17377013561506,
+                            33.78293794054997
+                        ],
+                        [
+                            -118.17377013561506,
+                            33.78293794054997
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach Public Library - Mark Twain Neighborhood",
+            "id": "07d9db7a23083001",
+            "name": "Long Beach Public Library - Mark Twain Neighborhood",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9db7a23083001.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Giving out the books! #LBPLBookBike #SpeedReader https://t.co/F2r4rR2kZw",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Aug 27 16:58:07 +0000 2010",
+            "description": "#K880 Emerging City Champion Fellow [2016-2017] // #MusicatMain @LBPL_Librarian // #LBPLZineLibrary @LBZineFest // #iSchoolUi MSLIS @iSchoolUi",
+            "favourites_count": 26036,
+            "followers_count": 1887,
+            "friends_count": 1903,
+            "geo_enabled": true,
+            "id": 183687631,
+            "lang": "en",
+            "listed_count": 222,
+            "location": "Long Beach, CA",
+            "name": "Ziba Perez Zehdar",
+            "profile_background_color": "F03E6B",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/686620101/85a6122793549eed0a1d3b081d4bb1b5.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/183687631/1477534028",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796235151118172160/UAYFQJ2__normal.jpg",
+            "profile_link_color": "FA0521",
+            "profile_sidebar_fill_color": "F5E320",
+            "profile_text_color": "1189D9",
+            "screen_name": "iLuvLibraries",
+            "statuses_count": 18358,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/69vBwZeg8U",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @iLuvLibraries: Giving out the books! #LBPLBookBike #SpeedReader https://t.co/F2r4rR2kZw",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Apr 07 17:45:26 +0000 2010",
+        "description": "We are the Long Beach Public Library. Twelve locations in Long Beach, CA to serve you. Check out our free LBPL Mobile app.",
+        "favourites_count": 4967,
+        "followers_count": 2404,
+        "friends_count": 418,
+        "geo_enabled": true,
+        "id": 130570597,
+        "lang": "en",
+        "listed_count": 92,
+        "location": "Long Beach, California",
+        "name": "LB Public Library",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130570597/1477937760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/758462733893246980/IYESgb-5_normal.jpg",
+        "profile_link_color": "282D2E",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lbpl_librarian",
+        "statuses_count": 2969,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/wpef9MDn6j",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 183687631,
+            "name": "Ziba Perez Zehdar",
+            "screen_name": "iLuvLibraries"
+        }
+    ]
+}
