@@ -1,0 +1,108 @@
+{
+    "created_at": "Sun Nov 13 17:52:59 +0000 2016",
+    "hashtags": [],
+    "id": 797859820527239168,
+    "id_str": "797859820527239168",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NcRkZnbX3d",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/797859820527239168/photo/1",
+            "id": 797859805142491136,
+            "media_url": "http://pbs.twimg.com/media/CxKRQ_oUoAAhvb5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxKRQ_oUoAAhvb5.jpg",
+            "type": "photo",
+            "url": "https://t.co/NcRkZnbX3d"
+        },
+        {
+            "display_url": "pic.twitter.com/NcRkZnbX3d",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/797859820527239168/photo/1",
+            "id": 797859805343846400,
+            "media_url": "http://pbs.twimg.com/media/CxKRRAYVEAA2mch.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxKRRAYVEAA2mch.jpg",
+            "type": "photo",
+            "url": "https://t.co/NcRkZnbX3d"
+        },
+        {
+            "display_url": "pic.twitter.com/NcRkZnbX3d",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/797859820527239168/photo/1",
+            "id": 797859805150883842,
+            "media_url": "http://pbs.twimg.com/media/CxKRQ_qUsAIovCx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxKRQ_qUsAIovCx.jpg",
+            "type": "photo",
+            "url": "https://t.co/NcRkZnbX3d"
+        },
+        {
+            "display_url": "pic.twitter.com/NcRkZnbX3d",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/797859820527239168/photo/1",
+            "id": 797859805146660865,
+            "media_url": "http://pbs.twimg.com/media/CxKRQ_pUQAE4ISA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxKRQ_pUQAE4ISA.jpg",
+            "type": "photo",
+            "url": "https://t.co/NcRkZnbX3d"
+        }
+    ],
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "CD3 Walks the Walk event took place this morning. Love walking with my neighbors while beautifying the 3rd District. https://t.co/NcRkZnbX3d",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 63,
+        "followers_count": 1797,
+        "friends_count": 1954,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1173,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
