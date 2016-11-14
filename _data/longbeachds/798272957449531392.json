@@ -1,0 +1,101 @@
+{
+    "created_at": "Mon Nov 14 21:14:38 +0000 2016",
+    "hashtags": [
+        {
+            "text": "VeteransDay"
+        }
+    ],
+    "id": 798272957449531392,
+    "id_str": "798272957449531392",
+    "lang": "en",
+    "retweet_count": 1145,
+    "retweeted_status": {
+        "created_at": "Fri Nov 11 20:24:27 +0000 2016",
+        "favorite_count": 2990,
+        "hashtags": [
+            {
+                "text": "VeteransDay"
+            }
+        ],
+        "id": 797173164111339520,
+        "id_str": "797173164111339520",
+        "lang": "en",
+        "retweet_count": 1145,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "With respect, honor &amp; gratitude. 🇺🇸 #VeteransDay\n\nhttps://t.co/mcuTtJc5Eb",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/moments/797110694177079296",
+                "url": "https://t.co/mcuTtJc5Eb"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "description": "Your official source for news, updates and tips from Twitter, Inc. Need help? Visit https://t.co/qq1HEzvnrA.",
+            "favourites_count": 2563,
+            "followers_count": 57434472,
+            "friends_count": 146,
+            "geo_enabled": true,
+            "id": 783214,
+            "lang": "en",
+            "listed_count": 90504,
+            "location": "San Francisco, CA",
+            "name": "Twitter",
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1476219753",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/767879603977191425/29zfZY6I_normal.jpg",
+            "profile_link_color": "226699",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "twitter",
+            "statuses_count": 3348,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/5iRhy7wTgu",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @twitter: With respect, honor &amp; gratitude. 🇺🇸 #VeteransDay\n\nhttps://t.co/mcuTtJc5Eb",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/moments/797110694177079296",
+            "url": "https://t.co/mcuTtJc5Eb"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 102,
+        "followers_count": 1576,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1096,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 783214,
+            "name": "Twitter",
+            "screen_name": "twitter"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "created_at": "Mon Nov 14 21:20:23 +0000 2016",
+    "hashtags": [
+        {
+            "text": "BeachStreets"
+        }
+    ],
+    "id": 798274401506500608,
+    "id_str": "798274401506500608",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat Nov 12 23:17:25 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "BeachStreets"
+            }
+        ],
+        "id": 797579080761647104,
+        "id_str": "797579080761647104",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Another great #BeachStreets event in Midtown comes to a close w/lots of smiling faces &amp; community turn out… https://t.co/7iStCjpo9W",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/797579080761647104",
+                "url": "https://t.co/7iStCjpo9W"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 11 22:16:22 +0000 2014",
+            "default_profile": true,
+            "description": "Long Beach, CA City Manager's Office, PR, Media and Crisis Communications Professional. Tweets & photos mine. RTs not endorsements.",
+            "favourites_count": 55,
+            "followers_count": 453,
+            "friends_count": 327,
+            "id": 2724756686,
+            "lang": "en",
+            "listed_count": 10,
+            "location": "Long Beach, CA",
+            "name": "Kerry Gerot",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2724756686/1438551315",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/498966559205765120/VrkDl98p_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "KerryGerotPIO",
+            "statuses_count": 937,
+            "url": "https://t.co/Qlpnlao82G"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KerryGerotPIO: Another great #BeachStreets event in Midtown comes to a close w/lots of smiling faces &amp; community turn out @beachstreets…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 102,
+        "followers_count": 1576,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1096,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2724756686,
+            "name": "Kerry Gerot",
+            "screen_name": "KerryGerotPIO"
+        }
+    ]
+}

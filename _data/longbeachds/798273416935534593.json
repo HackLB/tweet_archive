@@ -1,0 +1,114 @@
+{
+    "created_at": "Mon Nov 14 21:16:28 +0000 2016",
+    "hashtags": [
+        {
+            "text": "beachstreets"
+        },
+        {
+            "text": "openstreets"
+        }
+    ],
+    "id": 798273416935534593,
+    "id_str": "798273416935534593",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GiNuTU6TrG",
+            "expanded_url": "https://twitter.com/beachstreetslb/status/797548252845391872/photo/1",
+            "id": 797548244620361728,
+            "media_url": "http://pbs.twimg.com/media/CxF15yPVQAAyA13.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxF15yPVQAAyA13.jpg",
+            "type": "photo",
+            "url": "https://t.co/GiNuTU6TrG"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat Nov 12 21:14:55 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "beachstreets"
+            },
+            {
+                "text": "openstreets"
+            }
+        ],
+        "id": 797548252845391872,
+        "id_str": "797548252845391872",
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GiNuTU6TrG",
+                "expanded_url": "https://twitter.com/beachstreetslb/status/797548252845391872/photo/1",
+                "id": 797548244620361728,
+                "media_url": "http://pbs.twimg.com/media/CxF15yPVQAAyA13.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CxF15yPVQAAyA13.jpg",
+                "type": "photo",
+                "url": "https://t.co/GiNuTU6TrG"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#beachstreets #openstreets https://t.co/GiNuTU6TrG",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 08 16:52:40 +0000 2015",
+            "favourites_count": 54,
+            "followers_count": 792,
+            "friends_count": 545,
+            "geo_enabled": true,
+            "id": 3145149733,
+            "lang": "en",
+            "listed_count": 14,
+            "location": "Long Beach, CA",
+            "name": "Beach Streets",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3145149733/1449699652",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/757974549078028288/wPJOhxT9_normal.jpg",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "beachstreetslb",
+            "statuses_count": 236,
+            "url": "http://t.co/F6nzjVLJL1"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @beachstreetslb: #beachstreets #openstreets https://t.co/GiNuTU6TrG",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 102,
+        "followers_count": 1576,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1096,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3145149733,
+            "name": "Beach Streets",
+            "screen_name": "beachstreetslb"
+        }
+    ]
+}

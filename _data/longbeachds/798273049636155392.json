@@ -1,0 +1,96 @@
+{
+    "created_at": "Mon Nov 14 21:15:00 +0000 2016",
+    "hashtags": [
+        {
+            "text": "BeachStreets"
+        }
+    ],
+    "id": 798273049636155392,
+    "id_str": "798273049636155392",
+    "lang": "en",
+    "retweet_count": 16,
+    "retweeted_status": {
+        "created_at": "Fri Nov 11 21:46:53 +0000 2016",
+        "favorite_count": 17,
+        "hashtags": [
+            {
+                "text": "BeachStreets"
+            }
+        ],
+        "id": 797193907884814336,
+        "id_str": "797193907884814336",
+        "lang": "en",
+        "retweet_count": 16,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The last Open Streets event of 2016 is tomorrow! Come out to #BeachStreets in Long Beach and enjoy car-free streets… https://t.co/3Y27uEcGe7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/797193907884814336",
+                "url": "https://t.co/3Y27uEcGe7"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 20 16:52:54 +0000 2010",
+            "default_profile": true,
+            "description": "For #MetroBike customer service call 844-857-2543. Metro's human powered account for short trips or to connect to transit in LA County. Walk. Bike. Roll.",
+            "favourites_count": 1682,
+            "followers_count": 7997,
+            "friends_count": 585,
+            "geo_enabled": true,
+            "id": 168728442,
+            "lang": "en",
+            "listed_count": 301,
+            "location": "Los Angeles, CA",
+            "name": "Metro Bike",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/168728442/1466618606",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/675394356669321216/_nximdz6_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "BikeMetro",
+            "statuses_count": 4170,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/uOrZFqcmSY",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BikeMetro: The last Open Streets event of 2016 is tomorrow! Come out to #BeachStreets in Long Beach and enjoy car-free streets 🚲🚶☀️ htt…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future.",
+        "favourites_count": 102,
+        "followers_count": 1576,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1096,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/wis2kPqDF4",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 168728442,
+            "name": "Metro Bike",
+            "screen_name": "BikeMetro"
+        }
+    ]
+}
