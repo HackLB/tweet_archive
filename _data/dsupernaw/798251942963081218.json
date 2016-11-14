@@ -1,0 +1,53 @@
+{
+    "created_at": "Mon Nov 14 19:51:08 +0000 2016",
+    "hashtags": [],
+    "id": 798251942963081218,
+    "id_str": "798251942963081218",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/8S9YHeApx6",
+            "expanded_url": "https://twitter.com/DSupernaw/status/798251942963081218/photo/1",
+            "id": 798251845235806208,
+            "media_url": "http://pbs.twimg.com/media/CxP10uyUkAAFUdl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxP10uyUkAAFUdl.jpg",
+            "type": "photo",
+            "url": "https://t.co/8S9YHeApx6"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "FREE Aquarium Night TONIGHT - 6 to 8 pm - admission is free, parking is $8.00\nhttps://t.co/IYaoILgM2a https://t.co/8S9YHeApx6",
+    "urls": [
+        {
+            "expanded_url": "http://campaign.r20.constantcontact.com/render?m=1102694185850&ca=40e719ea-34c0-4a09-9e21-30e1be7ddb7c",
+            "url": "https://t.co/IYaoILgM2a"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Mar 21 09:11:35 +0000 2010",
+        "default_profile": true,
+        "description": "Councilman, Fourth District",
+        "favourites_count": 13,
+        "followers_count": 54,
+        "friends_count": 43,
+        "geo_enabled": true,
+        "id": 124994539,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Long Beach, CA",
+        "name": "Daryl Supernaw",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124994539/1470059945",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716478598333341697/CbX5MtqH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "DSupernaw",
+        "statuses_count": 34,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/AP5Yd7ROhC",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
