@@ -1,0 +1,130 @@
+{
+    "created_at": "Mon Nov 14 17:01:08 +0000 2016",
+    "hashtags": [
+        {
+            "text": "lbpd"
+        },
+        {
+            "text": "joinlbpd"
+        }
+    ],
+    "id": 798209158663180289,
+    "id_str": "798209158663180289",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/W53GQ63BER",
+            "expanded_url": "https://twitter.com/joinlbpd/status/796463012232077312/photo/1",
+            "id": 796463002694262784,
+            "media_url": "http://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+            "type": "photo",
+            "url": "https://t.co/W53GQ63BER"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Nov 09 21:22:34 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "lbpd"
+            },
+            {
+                "text": "joinlbpd"
+            }
+        ],
+        "id": 796463012232077312,
+        "id_str": "796463012232077312",
+        "in_reply_to_screen_name": "USC",
+        "in_reply_to_user_id": 19809471,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/W53GQ63BER",
+                "expanded_url": "https://twitter.com/joinlbpd/status/796463012232077312/photo/1",
+                "id": 796463002694262784,
+                "media_url": "http://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cw2a4ZBVIAAmizO.jpg",
+                "type": "photo",
+                "url": "https://t.co/W53GQ63BER"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@USC for Veterans Career Fair. Join us! Here till 3:00 P.M. Event held at VKC. #lbpd #joinlbpd https://t.co/W53GQ63BER",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Nov 19 01:31:57 +0000 2008",
+            "description": "Law Enforcement",
+            "favourites_count": 11,
+            "followers_count": 83,
+            "friends_count": 110,
+            "geo_enabled": true,
+            "id": 17476888,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Long Beach, CA",
+            "name": "joinlbpd",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17476888/1471538587",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738150542405292032/paW5y04E_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "joinlbpd",
+            "statuses_count": 179,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/HMbSp21lv7",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 19809471,
+                "name": "USC",
+                "screen_name": "USC"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @joinlbpd: @USC for Veterans Career Fair. Join us! Here till 3:00 P.M. Event held at VKC. #lbpd #joinlbpd https://t.co/W53GQ63BER",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+        "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+        "favourites_count": 561,
+        "followers_count": 1368,
+        "friends_count": 1057,
+        "geo_enabled": true,
+        "id": 158253547,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Long Beach, California USA",
+        "name": "City of L.B. Jobs",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "LongBchCityJobs",
+        "statuses_count": 1774,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/BJr1SSBo00",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 17476888,
+            "name": "joinlbpd",
+            "screen_name": "joinlbpd"
+        },
+        {
+            "id": 19809471,
+            "name": "USC",
+            "screen_name": "USC"
+        }
+    ]
+}
