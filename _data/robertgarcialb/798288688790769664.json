@@ -1,0 +1,80 @@
+{
+    "created_at": "Mon Nov 14 22:17:09 +0000 2016",
+    "favorite_count": 52,
+    "hashtags": [],
+    "id": 798288688790769664,
+    "id_str": "798288688790769664",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.03656733036041,
+                        38.89768802057123
+                    ],
+                    [
+                        -77.03656733036041,
+                        38.89768802057123
+                    ],
+                    [
+                        -77.03656733036041,
+                        38.89768802057123
+                    ],
+                    [
+                        -77.03656733036041,
+                        38.89768802057123
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "The White House",
+        "id": "07d9dafff4481002",
+        "name": "The White House",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9dafff4481002.json"
+    },
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Just met and spoke with @FLOTUS - I thanked her on behalf of Long Beach for her amazing service to our country",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4933,
+        "followers_count": 11283,
+        "friends_count": 2027,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 223,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9489,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1093090866,
+            "name": "The First Lady",
+            "screen_name": "FLOTUS"
+        }
+    ]
+}
