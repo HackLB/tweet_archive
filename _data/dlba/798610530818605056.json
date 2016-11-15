@@ -1,0 +1,98 @@
+{
+    "created_at": "Tue Nov 15 19:36:02 +0000 2016",
+    "hashtags": [],
+    "id": 798610530818605056,
+    "id_str": "798610530818605056",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 15 18:03:43 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 798587298224820225,
+        "id_str": "798587298224820225",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "We're partnering with @ABC7's Spark of Love! Bring a toy to opening night of Chill (11/23) &amp; get 50% off GA tickets… https://t.co/6bXtFwvHwb",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/798587298224820225",
+                "url": "https://t.co/6bXtFwvHwb"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 20 22:35:47 +0000 2009",
+            "description": "The Queen Mary - Hotel, Award-Winning Restaurants, Historical and Paranormal Tours, Banquet Facilities and Shops.",
+            "favourites_count": 2968,
+            "followers_count": 10910,
+            "friends_count": 1910,
+            "id": 19261737,
+            "lang": "en",
+            "listed_count": 370,
+            "location": "Long Beach, CA",
+            "name": "Queen Mary",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/802930973/02150edf4e543055049e675f543ded1c.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19261737/1452801009",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000817624886/3e750b1a430637e364906f363ab99f7c_normal.jpeg",
+            "profile_link_color": "EB0E0E",
+            "profile_sidebar_fill_color": "1F2DD3",
+            "profile_text_color": "B6DCE3",
+            "screen_name": "TheQueenMary",
+            "statuses_count": 6236,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/xqI9OucBc4",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 16374678,
+                "name": "ABC7 Eyewitness News",
+                "screen_name": "ABC7"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @TheQueenMary: We're partnering with @ABC7's Spark of Love! Bring a toy to opening night of Chill (11/23) &amp; get 50% off GA tickets. http…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2099,
+        "followers_count": 12759,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4166,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 19261737,
+            "name": "Queen Mary",
+            "screen_name": "TheQueenMary"
+        },
+        {
+            "id": 16374678,
+            "name": "ABC7 Eyewitness News",
+            "screen_name": "ABC7"
+        }
+    ]
+}
