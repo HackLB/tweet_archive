@@ -1,0 +1,96 @@
+{
+    "created_at": "Tue Nov 15 18:45:49 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBPL"
+        }
+    ],
+    "id": 798597891161923584,
+    "id_str": "798597891161923584",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Nov 15 18:01:43 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LBPL"
+            }
+        ],
+        "id": 798586794317119488,
+        "id_str": "798586794317119488",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "Cooking for the holidays isn't just for adults! Discover fun and creative cookbooks for kids in today's #LBPL… https://t.co/iYvmYpKzAW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/798586794317119488",
+                "url": "https://t.co/iYvmYpKzAW"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 07 17:45:26 +0000 2010",
+            "description": "We are the Long Beach Public Library. Twelve locations in Long Beach, CA to serve you. Check out our free LBPL Mobile app.",
+            "favourites_count": 5001,
+            "followers_count": 2409,
+            "friends_count": 417,
+            "geo_enabled": true,
+            "id": 130570597,
+            "lang": "en",
+            "listed_count": 92,
+            "location": "Long Beach, California",
+            "name": "LB Public Library",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/130570597/1479234967",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/758462733893246980/IYESgb-5_normal.jpg",
+            "profile_link_color": "282D2E",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "screen_name": "lbpl_librarian",
+            "statuses_count": 2974,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/wpef9MDn6j",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @lbpl_librarian: Cooking for the holidays isn't just for adults! Discover fun and creative cookbooks for kids in today's #LBPL #TuesdayT…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 63613,
+        "friends_count": 1221,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 450,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6418,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "lbpl_librarian"
+        }
+    ]
+}
