@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Nov 16 02:48:08 +0000 2016",
+    "hashtags": [],
+    "id": 798719272113442816,
+    "id_str": "798719272113442816",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Nov 16 02:23:54 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 798713174778224640,
+        "id_str": "798713174778224640",
+        "in_reply_to_screen_name": "RobertoUranga",
+        "in_reply_to_user_id": 1946157084,
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RobertoUranga: \"That Sunday, I found myself speaking to a man across a wall that has torn families apart.\"… https://t.co/oRcqsJUnv2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/798713174778224640",
+                "url": "https://t.co/oRcqsJUnv2"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 26 19:34:00 +0000 2007",
+            "description": "music, organizing, and an unhealthy obsession with languages. all views my own",
+            "favourites_count": 109,
+            "followers_count": 184,
+            "friends_count": 463,
+            "id": 11542662,
+            "lang": "en",
+            "listed_count": 4,
+            "location": "Long Beach, CA",
+            "name": "Laura Merryfield",
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/667224759118106624/gfMIv-aA_normal.jpg",
+            "profile_link_color": "088253",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "screen_name": "LEMerryfield",
+            "statuses_count": 1014,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 1946157084,
+                "name": "Roberto Uranga",
+                "screen_name": "RobertoUranga"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LEMerryfield: @RobertoUranga: \"That Sunday, I found myself speaking to a man across a wall that has torn families apart.\" @LBIRC_562 @L…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Oct 08 08:12:15 +0000 2013",
+        "default_profile": true,
+        "description": "Councilmember for Long Beach's Seventh Council District with an extensive record of community service in Long Beach and nationally. #LBCD7",
+        "favourites_count": 218,
+        "followers_count": 1370,
+        "friends_count": 700,
+        "geo_enabled": true,
+        "id": 1946157084,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Roberto Uranga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946157084/1457045376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626124091058098177/0DIuXOTc_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertoUranga",
+        "statuses_count": 1709,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DatliYapBe",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 11542662,
+            "name": "Laura Merryfield",
+            "screen_name": "LEMerryfield"
+        },
+        {
+            "id": 1946157084,
+            "name": "Roberto Uranga",
+            "screen_name": "RobertoUranga"
+        },
+        {
+            "id": 4275318980,
+            "name": "LB Immigrant Rights",
+            "screen_name": "LBIRC_562"
+        }
+    ]
+}

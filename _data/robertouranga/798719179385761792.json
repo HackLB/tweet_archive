@@ -1,0 +1,91 @@
+{
+    "created_at": "Wed Nov 16 02:47:46 +0000 2016",
+    "hashtags": [],
+    "id": 798719179385761792,
+    "id_str": "798719179385761792",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Nov 16 02:26:34 +0000 2016",
+        "hashtags": [],
+        "id": 798713844625350656,
+        "id_str": "798713844625350656",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Councilman @RobertoUranga has been active on the Jose Sandoval issue, has personally talked to him through the wall at the US-Mex border.",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 04 06:49:22 +0000 2012",
+            "description": "Reporter for the Long Beach Post, adventurer and dog enthusiast.",
+            "favourites_count": 2221,
+            "followers_count": 602,
+            "friends_count": 411,
+            "id": 544902812,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Long Beach, CA",
+            "name": "Jason Ruiz",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/544902812/1421870133",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/765893538525569028/0V_Rvwev_normal.jpg",
+            "profile_link_color": "2C83CF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "JasonRuiz_LB",
+            "statuses_count": 2686,
+            "time_zone": "Arizona",
+            "url": "https://t.co/tvC0tIszhD",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 1946157084,
+                "name": "Roberto Uranga",
+                "screen_name": "RobertoUranga"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JasonRuiz_LB: Councilman @RobertoUranga has been active on the Jose Sandoval issue, has personally talked to him through the wall at th…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Oct 08 08:12:15 +0000 2013",
+        "default_profile": true,
+        "description": "Councilmember for Long Beach's Seventh Council District with an extensive record of community service in Long Beach and nationally. #LBCD7",
+        "favourites_count": 218,
+        "followers_count": 1370,
+        "friends_count": 700,
+        "geo_enabled": true,
+        "id": 1946157084,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Roberto Uranga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946157084/1457045376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626124091058098177/0DIuXOTc_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertoUranga",
+        "statuses_count": 1709,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DatliYapBe",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 544902812,
+            "name": "Jason Ruiz",
+            "screen_name": "JasonRuiz_LB"
+        },
+        {
+            "id": 1946157084,
+            "name": "Roberto Uranga",
+            "screen_name": "RobertoUranga"
+        }
+    ]
+}
