@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed Nov 16 21:57:14 +0000 2016",
+    "hashtags": [
+        {
+            "text": "MeetinLB"
+        },
+        {
+            "text": "beachwithbenefits"
+        }
+    ],
+    "id": 799008454191054848,
+    "id_str": "799008454191054848",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Nov 16 20:12:25 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "MeetinLB"
+            },
+            {
+                "text": "beachwithbenefits"
+            }
+        ],
+        "id": 798982073096622080,
+        "id_str": "798982073096622080",
+        "in_reply_to_screen_name": "lifeinwanderlst",
+        "in_reply_to_status_id": 798758764056748032,
+        "in_reply_to_user_id": 3262520671,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@lifeinwanderlst So glad to have had you #MeetinLB! Loved your article about the #beachwithbenefits! @VisitLB",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Sep 11 19:12:46 +0000 2013",
+            "description": "Official Long Beach CVB social for all things meetings & events. Your resource for info on meeting venues, hotels, event inspiration and more! #MeetinLB",
+            "favourites_count": 2521,
+            "followers_count": 1347,
+            "friends_count": 828,
+            "geo_enabled": true,
+            "id": 1855171230,
+            "lang": "en",
+            "listed_count": 107,
+            "location": "Long Beach, CA",
+            "name": "Meet in Long Beach",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586309843201368065/Yqsw_nsF.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855171230/1466638198",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/633413161471750144/7XPnXacy_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MeetinLongBeach",
+            "statuses_count": 3586,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zYnCspL9UH",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 3262520671,
+                "name": "Kana || Wanderluster",
+                "screen_name": "lifeinwanderlst"
+            },
+            {
+                "id": 14209619,
+                "name": "Long Beach CVB",
+                "screen_name": "VisitLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MeetinLongBeach: @lifeinwanderlst So glad to have had you #MeetinLB! Loved your article about the #beachwithbenefits! @VisitLB",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1032,
+        "followers_count": 13038,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13249,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 1855171230,
+            "name": "Meet in Long Beach",
+            "screen_name": "MeetinLongBeach"
+        },
+        {
+            "id": 3262520671,
+            "name": "Kana || Wanderluster",
+            "screen_name": "lifeinwanderlst"
+        },
+        {
+            "id": 14209619,
+            "name": "Long Beach CVB",
+            "screen_name": "VisitLB"
+        }
+    ]
+}
