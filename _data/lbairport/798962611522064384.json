@@ -1,0 +1,58 @@
+{
+    "created_at": "Wed Nov 16 18:55:05 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "LGB"
+        },
+        {
+            "text": "AirportStyle"
+        }
+    ],
+    "id": 798962611522064384,
+    "id_str": "798962611522064384",
+    "in_reply_to_screen_name": "Delta",
+    "in_reply_to_user_id": 5920532,
+    "lang": "en",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "@Delta: from the runways of New York to the runways of #LGB, kudos for staying stylish! #AirportStyle… https://t.co/R34mTLSzi6",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/798962611522064384",
+            "url": "https://t.co/R34mTLSzi6"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2825,
+        "followers_count": 9140,
+        "friends_count": 570,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 361,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6214,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/UWR8r6qOcj",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 5920532,
+            "name": "Delta",
+            "screen_name": "Delta"
+        }
+    ]
+}

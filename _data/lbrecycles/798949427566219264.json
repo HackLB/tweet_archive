@@ -1,0 +1,41 @@
+{
+    "created_at": "Wed Nov 16 18:02:41 +0000 2016",
+    "hashtags": [],
+    "id": 798949427566219264,
+    "id_str": "798949427566219264",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "What will you do with all your Thanksgiving food scraps? Feed your garden of course! Learn how:… https://t.co/JMaLVsE6aT",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/798949427566219264",
+            "url": "https://t.co/JMaLVsE6aT"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Dec 15 16:55:39 +0000 2009",
+        "description": "City of Long Beach Environmental Services Bureau: Providing Recycling, Refuse, Street Sweeping/Parking, Hazardous Waste and LB-exchange services to LB.",
+        "favourites_count": 9,
+        "followers_count": 1327,
+        "friends_count": 40,
+        "id": 97016577,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Long Beach, California",
+        "name": "Long Beach Recycles",
+        "profile_background_color": "B8CA5E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476452534081449984/29qgWSJk.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97016577/1402432895",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1884764926/Twitter_Logo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "C2D186",
+        "profile_text_color": "333333",
+        "screen_name": "lbrecycles",
+        "statuses_count": 840,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/or6slOhDam",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

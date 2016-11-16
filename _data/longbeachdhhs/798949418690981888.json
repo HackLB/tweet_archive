@@ -1,0 +1,48 @@
+{
+    "created_at": "Wed Nov 16 18:02:39 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Meningitis"
+        },
+        {
+            "text": "VACCINATED"
+        }
+    ],
+    "id": 798949418690981888,
+    "id_str": "798949418690981888",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "#Meningitis outbreak among Gay &amp; Bisexual Men. Symptoms can progress fast! BUT, It can be prevented. #VACCINATED? https://t.co/t4wcLDO5Uo",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/pavg306a9Lq",
+            "url": "https://t.co/t4wcLDO5Uo"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+        "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+        "favourites_count": 557,
+        "followers_count": 2042,
+        "friends_count": 1508,
+        "geo_enabled": true,
+        "id": 369627243,
+        "lang": "en",
+        "listed_count": 60,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Health",
+        "profile_background_color": "54B8D0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+        "profile_link_color": "13539E",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachDHHS",
+        "statuses_count": 3035,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/ZAG5SpCHal",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

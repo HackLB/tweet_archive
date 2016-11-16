@@ -1,0 +1,88 @@
+{
+    "created_at": "Wed Nov 16 18:50:26 +0000 2016",
+    "hashtags": [],
+    "id": 798961443496284160,
+    "id_str": "798961443496284160",
+    "lang": "en",
+    "retweet_count": 94,
+    "retweeted_status": {
+        "created_at": "Tue Nov 15 22:03:02 +0000 2016",
+        "favorite_count": 289,
+        "hashtags": [],
+        "id": 798647523757821952,
+        "id_str": "798647523757821952",
+        "lang": "en",
+        "retweet_count": 94,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Honored to welcome these newly-elected Sens to DC–each brings a unique experience&amp;new energy to our efforts to addr… https://t.co/GTQNlNEP9G",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/798647523757821952",
+                "url": "https://t.co/GTQNlNEP9G"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 04 15:50:42 +0000 2011",
+            "default_profile": true,
+            "description": "Serving the people of Illinois. Senate Democratic Whip. Follows/RTs do not equal an endorsement.",
+            "favourites_count": 505,
+            "followers_count": 79910,
+            "friends_count": 2361,
+            "geo_enabled": true,
+            "id": 247334603,
+            "lang": "en",
+            "listed_count": 2716,
+            "name": "Senator Dick Durbin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/247334603/1438365026",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/789474472088698880/1QiXwROv_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "SenatorDurbin",
+            "statuses_count": 7796,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/RrpApq5oN1",
+            "utc_offset": -21600,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SenatorDurbin: Honored to welcome these newly-elected Sens to DC–each brings a unique experience&amp;new energy to our efforts to address i…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1340,
+        "followers_count": 2330,
+        "friends_count": 1262,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2134,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 247334603,
+            "name": "Senator Dick Durbin",
+            "screen_name": "SenatorDurbin"
+        }
+    ]
+}
