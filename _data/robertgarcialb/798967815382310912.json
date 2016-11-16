@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Nov 16 19:15:45 +0000 2016",
+    "favorited": true,
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 798967815382310912,
+    "id_str": "798967815382310912",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Nov 16 19:06:00 +0000 2016",
+        "favorite_count": 9,
+        "favorited": true,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 798965357947953152,
+        "id_str": "798965357947953152",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Cameras perched above Downtown #LongBeach showcase $520-million revamp of the @LongBeachCity Civic Center… https://t.co/M7FqjVqrDg",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/798965357947953152",
+                "url": "https://t.co/M7FqjVqrDg"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Oct 04 16:39:28 +0000 2014",
+            "default_profile": true,
+            "description": "Covering real estate development, architecture and urban planning in the Greater Los Angeles Area.",
+            "favourites_count": 2094,
+            "followers_count": 2676,
+            "friends_count": 430,
+            "id": 2805696365,
+            "lang": "en",
+            "listed_count": 149,
+            "location": "Los Angeles",
+            "name": "Urbanize.LA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2805696365/1425857901",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/616304802029375488/cKsuaqJC_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "UrbanizeLA",
+            "statuses_count": 4861,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/LmNt4EMOdz",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @UrbanizeLA: Cameras perched above Downtown #LongBeach showcase $520-million revamp of the @LongBeachCity Civic Center https://t.co/7o1O…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 4949,
+        "followers_count": 11314,
+        "friends_count": 2029,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 223,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9498,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2805696365,
+            "name": "Urbanize.LA",
+            "screen_name": "UrbanizeLA"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
