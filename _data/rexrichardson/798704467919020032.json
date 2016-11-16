@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Nov 16 01:49:19 +0000 2016",
+    "hashtags": [
+        {
+            "text": "AmericaRecyclesDay"
+        },
+        {
+            "text": "ZeroWasteNow"
+        },
+        {
+            "text": "ClimateChange"
+        }
+    ],
+    "id": 798704467919020032,
+    "id_str": "798704467919020032",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 15 22:01:45 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "AmericaRecyclesDay"
+            },
+            {
+                "text": "ZeroWasteNow"
+            },
+            {
+                "text": "ClimateChange"
+            }
+        ],
+        "id": 798647202352480256,
+        "id_str": "798647202352480256",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "This #AmericaRecyclesDay our communities need #ZeroWasteNow to stop #ClimateChange @RexRichardson @StacyMungo… https://t.co/hxcYtukTPo",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/798647202352480256",
+                "url": "https://t.co/hxcYtukTPo"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 03 08:18:19 +0000 2010",
+            "description": "Avid #Political observer/ranter & #ClimateChange defender, #ZeroWaste Enthusiast. M.A. in #UrbanSustainability...All this, while sippin a #Cocktail ;)",
+            "favourites_count": 607,
+            "followers_count": 937,
+            "friends_count": 658,
+            "geo_enabled": true,
+            "id": 119317239,
+            "lang": "en",
+            "listed_count": 31,
+            "location": "Los Angeles, baby!",
+            "name": "Natasha Dyer",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/756296720/e641f9c3578a001609ae911780d309a9.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119317239/1418104306",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3492779564/f5460c4b0426dadce3963a54d08fd2d4_normal.jpeg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "SustainableTash",
+            "statuses_count": 16465,
+            "time_zone": "Alaska",
+            "url": "http://t.co/tYNnNmMopB",
+            "utc_offset": -32400
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 189649184,
+                "name": "Councilwoman Mungo",
+                "screen_name": "StacyMungo"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SustainableTash: This #AmericaRecyclesDay our communities need #ZeroWasteNow to stop #ClimateChange @RexRichardson @StacyMungo @Jeannin…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1334,
+        "followers_count": 2324,
+        "friends_count": 1260,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2131,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 119317239,
+            "name": "Natasha Dyer",
+            "screen_name": "SustainableTash"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 189649184,
+            "name": "Councilwoman Mungo",
+            "screen_name": "StacyMungo"
+        }
+    ]
+}
