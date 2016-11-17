@@ -1,0 +1,151 @@
+{
+    "created_at": "Wed Nov 16 23:16:46 +0000 2016",
+    "hashtags": [
+        {
+            "text": "UpLink"
+        },
+        {
+            "text": "Techquity"
+        },
+        {
+            "text": "NorthIsNow"
+        },
+        {
+            "text": "UptownRenaissance"
+        }
+    ],
+    "id": 799028468268691456,
+    "id_str": "799028468268691456",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Thu Nov 10 22:26:52 +0000 2016",
+        "favorite_count": 14,
+        "hashtags": [
+            {
+                "text": "UpLink"
+            },
+            {
+                "text": "Techquity"
+            },
+            {
+                "text": "NorthIsNow"
+            },
+            {
+                "text": "UptownRenaissance"
+            }
+        ],
+        "id": 796841582662021121,
+        "id_str": "796841582662021121",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.198346,
+                            34.117025
+                        ],
+                        [
+                            -118.065582,
+                            34.117025
+                        ],
+                        [
+                            -118.065582,
+                            34.237595
+                        ],
+                        [
+                            -118.198346,
+                            34.237595
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Pasadena, CA",
+            "id": "10de09f288b1665c",
+            "name": "Pasadena",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/10de09f288b1665c.json"
+        },
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#UpLink brings #Techquity to North LB #NorthIsNow #UptownRenaissance https://t.co/Peqi0LnhFG",
+        "urls": [
+            {
+                "expanded_url": "https://lbpost.com/news/city/2000009924-north-long-beach-security-camera-project-brings-free-wifi-to-atlantic-corridor",
+                "url": "https://t.co/Peqi0LnhFG"
+            }
+        ],
+        "user": {
+            "created_at": "Sun May 10 16:43:34 +0000 2009",
+            "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+            "favourites_count": 1344,
+            "followers_count": 2332,
+            "friends_count": 1265,
+            "geo_enabled": true,
+            "id": 39073462,
+            "lang": "en",
+            "listed_count": 57,
+            "location": "The LBC",
+            "name": "Rex Richardson",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "rexrichardson",
+            "statuses_count": 2137,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/OMw2ZmelIz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @rexrichardson: #UpLink brings #Techquity to North LB #NorthIsNow #UptownRenaissance https://t.co/Peqi0LnhFG",
+    "urls": [
+        {
+            "expanded_url": "https://lbpost.com/news/city/2000009924-north-long-beach-security-camera-project-brings-free-wifi-to-atlantic-corridor",
+            "url": "https://t.co/Peqi0LnhFG"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1344,
+        "followers_count": 2332,
+        "friends_count": 1265,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2137,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
