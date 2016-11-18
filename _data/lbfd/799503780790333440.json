@@ -1,0 +1,143 @@
+{
+    "created_at": "Fri Nov 18 06:45:30 +0000 2016",
+    "hashtags": [
+        {
+            "text": "iteams"
+        }
+    ],
+    "id": 799503780790333440,
+    "id_str": "799503780790333440",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Nov 18 06:20:44 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 799497551930081281,
+        "id_str": "799497551930081281",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.1923133970837,
+                            33.77022646267209
+                        ],
+                        [
+                            -118.1923133970837,
+                            33.77022646267209
+                        ],
+                        [
+                            -118.1923133970837,
+                            33.77022646267209
+                        ],
+                        [
+                            -118.1923133970837,
+                            33.77022646267209
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Downtown Long Beach",
+            "id": "07d9d3af38487003",
+            "name": "Downtown Long Beach",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d3af38487003.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Seeking 3 amazings to join @LBMayorsOffice: Policy Dir., Press Sec &amp; Innovator! Apply here: https://t.co/Eh0venrsxn… https://t.co/KXPMjnqyOC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/LBDreamTeam",
+                "url": "https://t.co/Eh0venrsxn"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/799497551930081281",
+                "url": "https://t.co/KXPMjnqyOC"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Nov 01 21:10:18 +0000 2014",
+            "default_profile": true,
+            "description": "Pragmatist & nirvana seeker. ❤️equity, civic change-makers, innovators, entrepreneurs, artists & nonprofits. ⚠️Retweets ≠ endorsements.",
+            "favourites_count": 1448,
+            "followers_count": 387,
+            "friends_count": 1150,
+            "geo_enabled": true,
+            "id": 2886668046,
+            "lang": "en",
+            "listed_count": 17,
+            "location": "Long Beach, CA",
+            "name": "Ryan",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2886668046/1475737845",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/783920318456836096/NJuCYRhg_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "rienmurray",
+            "statuses_count": 315
+        },
+        "user_mentions": [
+            {
+                "id": 43925013,
+                "name": "LB Mayor's Office",
+                "screen_name": "LBMayorsOffice"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @rienmurray: Seeking 3 amazings to join @LBMayorsOffice: Policy Dir., Press Sec &amp; Innovator! Apply here: https://t.co/Eh0venrsxn #iteams…",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/LBDreamTeam",
+            "url": "https://t.co/Eh0venrsxn"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 563,
+        "followers_count": 4844,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 183,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2252,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2886668046,
+            "name": "Ryan",
+            "screen_name": "rienmurray"
+        },
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
