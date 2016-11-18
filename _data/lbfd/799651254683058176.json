@@ -1,0 +1,95 @@
+{
+    "created_at": "Fri Nov 18 16:31:30 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 799651254683058176,
+    "id_str": "799651254683058176",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Nov 18 16:15:56 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 799647338473996288,
+        "id_str": "799647338473996288",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The City of #LongBeach Fire Department is seeking Ambulance Operators (Classified). Apply Today:… https://t.co/LSTfHnyKaB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/799647338473996288",
+                "url": "https://t.co/LSTfHnyKaB"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+            "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+            "favourites_count": 575,
+            "followers_count": 1370,
+            "friends_count": 1062,
+            "geo_enabled": true,
+            "id": 158253547,
+            "lang": "en",
+            "listed_count": 29,
+            "location": "Long Beach, California USA",
+            "name": "City of L.B. Jobs",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LongBchCityJobs",
+            "statuses_count": 1791,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/BJr1SSBo00",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBchCityJobs: The City of #LongBeach Fire Department is seeking Ambulance Operators (Classified). Apply Today: https://t.co/nuYZJ62M…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 563,
+        "followers_count": 4846,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 183,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2253,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 158253547,
+            "name": "City of L.B. Jobs",
+            "screen_name": "LongBchCityJobs"
+        }
+    ]
+}

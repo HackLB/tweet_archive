@@ -1,0 +1,145 @@
+{
+    "created_at": "Fri Nov 18 16:14:54 +0000 2016",
+    "hashtags": [],
+    "id": 799647076770426880,
+    "id_str": "799647076770426880",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Nov 18 07:40:12 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 799517550300237824,
+        "id_str": "799517550300237824",
+        "in_reply_to_screen_name": "RobertGarciaLB",
+        "in_reply_to_status_id": 799516052740800513,
+        "in_reply_to_user_id": 18120497,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RobertGarciaLB @rienmurray @LBMayorsOffice @LongBeachCity @LongBeachHR @LongBchCityJobs great opportunities.",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 07 03:39:24 +0000 2009",
+            "description": "determined to make a difference. Director of External Relations @vanguardu. Former #CALeg staffer & legislative manager for OC cities. @USC MPA student #FightOn",
+            "favourites_count": 824,
+            "followers_count": 816,
+            "friends_count": 1371,
+            "geo_enabled": true,
+            "id": 54438628,
+            "lang": "en",
+            "listed_count": 18,
+            "location": "Orange County, CA",
+            "name": "David Vazquez",
+            "profile_background_color": "CDCEBE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444678255/California3.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54438628/1458320305",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779558534388195328/7F_1ESBW_normal.jpg",
+            "profile_link_color": "6E7B88",
+            "profile_sidebar_fill_color": "0F0402",
+            "profile_text_color": "9EA2A1",
+            "screen_name": "DavidRVazquez",
+            "statuses_count": 3535,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 2886668046,
+                "name": "Ryan",
+                "screen_name": "rienmurray"
+            },
+            {
+                "id": 43925013,
+                "name": "LB Mayor's Office",
+                "screen_name": "LBMayorsOffice"
+            },
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 3307205479,
+                "name": "Long Beach HR",
+                "screen_name": "LongBeachHR"
+            },
+            {
+                "id": 158253547,
+                "name": "City of L.B. Jobs",
+                "screen_name": "LongBchCityJobs"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DavidRVazquez: @RobertGarciaLB @rienmurray @LBMayorsOffice @LongBeachCity @LongBeachHR @LongBchCityJobs great opportunities.",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+        "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+        "favourites_count": 575,
+        "followers_count": 1370,
+        "friends_count": 1062,
+        "geo_enabled": true,
+        "id": 158253547,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Long Beach, California USA",
+        "name": "City of L.B. Jobs",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "LongBchCityJobs",
+        "statuses_count": 1791,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/BJr1SSBo00",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 54438628,
+            "name": "David Vazquez",
+            "screen_name": "DavidRVazquez"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 2886668046,
+            "name": "Ryan",
+            "screen_name": "rienmurray"
+        },
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 3307205479,
+            "name": "Long Beach HR",
+            "screen_name": "LongBeachHR"
+        },
+        {
+            "id": 158253547,
+            "name": "City of L.B. Jobs",
+            "screen_name": "LongBchCityJobs"
+        }
+    ]
+}
