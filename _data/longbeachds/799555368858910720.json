@@ -1,0 +1,91 @@
+{
+    "created_at": "Fri Nov 18 10:10:29 +0000 2016",
+    "hashtags": [],
+    "id": 799555368858910720,
+    "id_str": "799555368858910720",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Nov 17 01:26:19 +0000 2016",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 799061069687885826,
+        "id_str": "799061069687885826",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eSpLRqH5HH",
+                "expanded_url": "https://twitter.com/ThePikeOutlets/status/799061069687885826/photo/1",
+                "id": 799061065942319104,
+                "media_url": "http://pbs.twimg.com/media/CxbVzk1WQAA8o-P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CxbVzk1WQAA8o-P.jpg",
+                "type": "photo",
+                "url": "https://t.co/eSpLRqH5HH"
+            }
+        ],
+        "retweet_count": 6,
+        "source": "<a href=\"http://www.radian6.com\" rel=\"nofollow\">Radian6 -Social Media Management</a>",
+        "text": "Experience Santa's magical arrival to The Pike to light our giant Christmas tree this Friday at 6:30 pm! https://t.co/eSpLRqH5HH",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Feb 12 20:16:20 +0000 2010",
+            "description": "Located in downtown Long Beach, The Pike Outlets is a vibrant shopping, dining and entertainment destination.",
+            "favourites_count": 90,
+            "followers_count": 2646,
+            "friends_count": 173,
+            "id": 113719323,
+            "lang": "en",
+            "listed_count": 62,
+            "location": "Long Beach, CA",
+            "name": "The Pike Outlets",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707663497358872576/882zdisc.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/113719323/1458247370",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/573118245974118400/LliNME7B_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ThePikeOutlets",
+            "statuses_count": 1986,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/RDl9m6K03S",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ThePikeOutlets: Experience Santa's magical arrival to The Pike to light our giant Christmas tree this Friday at 6:30 pm! https://t.co/e…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+        "description": "Making a difference in our community by building a dynamic, safe, and sustainable City that honors its past and embraces the future. https://t.co/wis2kPqDF4",
+        "favourites_count": 107,
+        "followers_count": 1581,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "id": 18194366,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Long Beach DS",
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "0F0C0B",
+        "screen_name": "LongBeachDS",
+        "statuses_count": 1103,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/EzQmKnGb9A",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 113719323,
+            "name": "The Pike Outlets",
+            "screen_name": "ThePikeOutlets"
+        }
+    ]
+}
