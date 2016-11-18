@@ -1,0 +1,105 @@
+{
+    "created_at": "Fri Nov 18 00:12:23 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 799404851809505280,
+    "id_str": "799404851809505280",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Nov 17 22:17:45 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 799376003734781952,
+        "id_str": "799376003734781952",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Very proud to be named a Top 10 Digital City for 6th year in a row. Here's why: https://t.co/n4tgLc4fLa #LongBeach… https://t.co/cAuWOOKP5I",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2gnE9Uu",
+                "url": "https://t.co/n4tgLc4fLa"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/799376003734781952",
+                "url": "https://t.co/cAuWOOKP5I"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 09 05:52:27 +0000 2009",
+            "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+            "favourites_count": 180,
+            "followers_count": 63783,
+            "friends_count": 1220,
+            "geo_enabled": true,
+            "id": 38808088,
+            "lang": "en",
+            "listed_count": 451,
+            "location": "Long Beach, Calif.",
+            "name": "City of Long Beach",
+            "profile_background_color": "00497C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+            "profile_link_color": "00497C",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachCity",
+            "statuses_count": 6428,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/pbU79Tlp",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @LongBeachCity: Very proud to be named a Top 10 Digital City for 6th year in a row. Here's why: https://t.co/n4tgLc4fLa #LongBeach @itea…",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2gnE9Uu",
+            "url": "https://t.co/n4tgLc4fLa"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+        "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+        "favourites_count": 558,
+        "followers_count": 2041,
+        "friends_count": 1508,
+        "geo_enabled": true,
+        "id": 369627243,
+        "lang": "en",
+        "listed_count": 60,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Health",
+        "profile_background_color": "54B8D0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+        "profile_link_color": "13539E",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachDHHS",
+        "statuses_count": 3036,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/ZAG5SpCHal",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
