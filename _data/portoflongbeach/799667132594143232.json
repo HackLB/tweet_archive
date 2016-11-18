@@ -1,0 +1,109 @@
+{
+    "created_at": "Fri Nov 18 17:34:36 +0000 2016",
+    "hashtags": [
+        {
+            "text": "PortofLA"
+        }
+    ],
+    "id": 799667132594143232,
+    "id_str": "799667132594143232",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Nov 18 17:29:18 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "PortofLA"
+            }
+        ],
+        "id": 799665800793751553,
+        "id_str": "799665800793751553",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Yesterday, #PortofLA and @portoflongbeach recognized the 10th anniversary of the landmark Clean Air Action Plan.… https://t.co/OJIi2yq8mA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/799665800793751553",
+                "url": "https://t.co/OJIi2yq8mA"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 24 16:41:17 +0000 2009",
+            "description": "America’s Port®, the nation’s #1 container port and global model for sustainability, security, and social responsibility. Home of the @LAWaterfront.",
+            "favourites_count": 587,
+            "followers_count": 16288,
+            "friends_count": 2034,
+            "geo_enabled": true,
+            "id": 68448471,
+            "lang": "en",
+            "listed_count": 497,
+            "location": "Los Angeles, California, USA",
+            "name": "Port of Los Angeles",
+            "profile_background_color": "528E30",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/31675837/about_arialshot.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/68448471/1473288771",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/459454894978506752/fipOfct5_normal.jpeg",
+            "profile_link_color": "528E30",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "000000",
+            "screen_name": "PortofLA",
+            "statuses_count": 2097,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/VAwj1goYMm",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 16188231,
+                "name": "Port of Long Beach",
+                "screen_name": "portoflongbeach"
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "RT @PortofLA: Yesterday, #PortofLA and @portoflongbeach recognized the 10th anniversary of the landmark Clean Air Action Plan. https://t.co…",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 630,
+        "followers_count": 17035,
+        "friends_count": 3709,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 495,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7402,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 68448471,
+            "name": "Port of Los Angeles",
+            "screen_name": "PortofLA"
+        },
+        {
+            "id": 16188231,
+            "name": "Port of Long Beach",
+            "screen_name": "portoflongbeach"
+        }
+    ]
+}
