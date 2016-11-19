@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Nov 19 00:04:11 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 799765176308219904,
+    "id_str": "799765176308219904",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Nov 18 22:59:23 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 799748869064007680,
+        "id_str": "799748869064007680",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Two Found Guilty of 2014 Murder of Man in #LongBeach RV https://t.co/WJV0xvJzyv @LongBeachPD_CA",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2g5gWTs",
+                "url": "https://t.co/WJV0xvJzyv"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 05 20:11:16 +0000 2013",
+            "description": "The LA County DA’s Office is dedicated to protecting our community through the fair and ethical pursuit of justice and safeguarding crime victims’ rights.",
+            "favourites_count": 4,
+            "followers_count": 6496,
+            "friends_count": 172,
+            "id": 2176738226,
+            "lang": "en",
+            "listed_count": 191,
+            "location": "Los Angeles County",
+            "name": "LA District Attorney",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2176738226/1460588455",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/720389233966321664/7sPOzJO-_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "LADAOffice",
+            "statuses_count": 2335,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/wrzq4flGkM",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 50097116,
+                "name": "Long Beach PD",
+                "screen_name": "LongBeachPD_CA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @LADAOffice: Two Found Guilty of 2014 Murder of Man in #LongBeach RV https://t.co/WJV0xvJzyv @LongBeachPD_CA",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2g5gWTs",
+            "url": "https://t.co/WJV0xvJzyv"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4298,
+        "followers_count": 8664,
+        "friends_count": 422,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6005,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2176738226,
+            "name": "LA District Attorney",
+            "screen_name": "LADAOffice"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        }
+    ]
+}
