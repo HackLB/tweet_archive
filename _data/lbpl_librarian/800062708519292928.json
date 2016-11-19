@@ -1,0 +1,48 @@
+{
+    "created_at": "Sat Nov 19 19:46:28 +0000 2016",
+    "favorite_count": 4,
+    "hashtags": [
+        {
+            "text": "LBPL"
+        }
+    ],
+    "id": 800062708519292928,
+    "id_str": "800062708519292928",
+    "lang": "en",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you \"Building Bridges\" for having us at #LBPL run a Teen Zine Workshop at the California Conference for Equal… https://t.co/m98hzWz4ZA",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/800062708519292928",
+            "url": "https://t.co/m98hzWz4ZA"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Apr 07 17:45:26 +0000 2010",
+        "description": "We are the Long Beach Public Library. Twelve locations in Long Beach, CA to serve you. Check out our free LBPL Mobile app.",
+        "favourites_count": 5043,
+        "followers_count": 2422,
+        "friends_count": 422,
+        "geo_enabled": true,
+        "id": 130570597,
+        "lang": "en",
+        "listed_count": 93,
+        "location": "Long Beach, California",
+        "name": "LB Public Library",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130570597/1479234967",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/758462733893246980/IYESgb-5_normal.jpg",
+        "profile_link_color": "282D2E",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lbpl_librarian",
+        "statuses_count": 2995,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/wpef9MDn6j",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
