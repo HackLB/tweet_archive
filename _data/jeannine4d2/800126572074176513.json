@@ -1,0 +1,129 @@
+{
+    "created_at": "Sun Nov 20 00:00:15 +0000 2016",
+    "hashtags": [],
+    "id": 800126572074176513,
+    "id_str": "800126572074176513",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Nov 19 23:52:44 +0000 2016",
+        "hashtags": [],
+        "id": 800124682175291392,
+        "id_str": "800124682175291392",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Councilmember @Jeannine4D2 and staff! Your office went above and beyond to made sure that families are going to hav… https://t.co/F72Upofy48",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/800124682175291392",
+                "url": "https://t.co/F72Upofy48"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 03 05:51:31 +0000 2015",
+            "default_profile": true,
+            "description": "AOC7 Neighborhood Association. AOC7 stands for Anaheim, Orange, Cherry & 7th St. We are committed to improving the overall quality of life within our community",
+            "favourites_count": 5745,
+            "followers_count": 409,
+            "friends_count": 1260,
+            "geo_enabled": true,
+            "id": 3059303389,
+            "lang": "en",
+            "listed_count": 17,
+            "location": "Long Beach, CA",
+            "name": "AOC7",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3059303389/1465177052",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/737502025047384065/ePc8GjoJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MarySim98679234",
+            "statuses_count": 1237,
+            "url": "https://t.co/YxZtGLi8Ug"
+        },
+        "user_mentions": [
+            {
+                "id": 4127559133,
+                "name": "Jeannine Pearce",
+                "screen_name": "Jeannine4D2"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MarySim98679234: Councilmember @Jeannine4D2 and staff! Your office went above and beyond to made sure that families are going to have a…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 229,
+        "followers_count": 401,
+        "friends_count": 760,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 187,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 3059303389,
+            "name": "AOC7",
+            "screen_name": "MarySim98679234"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        }
+    ]
+}
