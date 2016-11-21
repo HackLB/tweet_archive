@@ -1,0 +1,40 @@
+{
+    "created_at": "Mon Nov 21 22:37:49 +0000 2016",
+    "hashtags": [],
+    "id": 800830603876712449,
+    "id_str": "800830603876712449",
+    "lang": "en",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "On the Council's Plate this Week: November 22, 2016 https://t.co/zdKYcVNOxv",
+    "urls": [
+        {
+            "expanded_url": "http://fb.me/5sumZ2GVz",
+            "url": "https://t.co/zdKYcVNOxv"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Aug 20 22:17:59 +0000 2012",
+        "description": "Official Page for Councilmember Al Austin II, 8th District\nCity of Long Beach.",
+        "favourites_count": 586,
+        "followers_count": 1454,
+        "friends_count": 426,
+        "id": 770329639,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Councilman AL AUSTIN",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770329639/1433352265",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567749541173022720/RTtb2ulD_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "district8AUSTIN",
+        "statuses_count": 1777,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Ks1RXxuBga",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
