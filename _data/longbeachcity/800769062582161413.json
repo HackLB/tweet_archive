@@ -1,0 +1,108 @@
+{
+    "created_at": "Mon Nov 21 18:33:16 +0000 2016",
+    "hashtags": [
+        {
+            "text": "DigitalCities"
+        }
+    ],
+    "id": 800769062582161413,
+    "id_str": "800769062582161413",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Nov 18 22:34:06 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "DigitalCities"
+            }
+        ],
+        "id": 799742504048283649,
+        "id_str": "799742504048283649",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Congratulations to the @LongBeachCity for winning the 2016 Top #DigitalCities award! https://t.co/XMOmOOesE6",
+        "urls": [
+            {
+                "expanded_url": "http://hubs.ly/H05fXJB0",
+                "url": "https://t.co/XMOmOOesE6"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 30 23:21:13 +0000 2015",
+            "description": "@Laserfiche Software Marketing Associate. Interests include #govtech, #civictech, #digitalgov and innovative technologies for the public sector.",
+            "favourites_count": 223,
+            "followers_count": 68,
+            "friends_count": 230,
+            "id": 4680313334,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Long Beach, CA",
+            "name": "Ryan Park",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4680313334/1452877765",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/682646879016890368/gI3xoua3_normal.jpg",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "Ryan_Laserfiche",
+            "statuses_count": 202,
+            "url": "https://t.co/d8KiyBcueb"
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @Ryan_Laserfiche: Congratulations to the @LongBeachCity for winning the 2016 Top #DigitalCities award! https://t.co/XMOmOOesE6",
+    "urls": [
+        {
+            "expanded_url": "http://hubs.ly/H05fXJB0",
+            "url": "https://t.co/XMOmOOesE6"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 63973,
+        "friends_count": 1219,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 452,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6432,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 4680313334,
+            "name": "Ryan Park",
+            "screen_name": "Ryan_Laserfiche"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}

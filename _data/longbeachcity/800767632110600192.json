@@ -1,0 +1,141 @@
+{
+    "created_at": "Mon Nov 21 18:27:35 +0000 2016",
+    "hashtags": [],
+    "id": 800767632110600192,
+    "id_str": "800767632110600192",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Nov 21 17:45:17 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 800756987474518018,
+        "id_str": "800756987474518018",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "A whole boatload of Christmas trees being delivered today at 2nd Street!  @LongBeachCity, @NaplesBusiness,… https://t.co/dCoJRq9yPZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/800756987474518018",
+                "url": "https://t.co/dCoJRq9yPZ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 05 00:43:30 +0000 2012",
+            "default_profile": true,
+            "description": "I have a front-row seat to all of the action along Bayshore Drive, 2nd Street, and Alamitos Bay.  At the Portofino Building all of the fun comes to us!",
+            "favourites_count": 4,
+            "followers_count": 94,
+            "friends_count": 101,
+            "geo_enabled": true,
+            "id": 803522184,
+            "lang": "en",
+            "listed_count": 4,
+            "location": "Naples Island_Belmont Shore",
+            "name": "PortofinoEyeintheSky",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/803522184/1418767380",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/786617304289116160/061u9WSi_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ReneeBuffington",
+            "statuses_count": 65
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 486872935,
+                "name": "Naples Island NIBA",
+                "screen_name": "NaplesBusiness"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ReneeBuffington: A whole boatload of Christmas trees being delivered today at 2nd Street!  @LongBeachCity, @NaplesBusiness, @shorelongb…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 63973,
+        "friends_count": 1219,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 452,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6432,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 803522184,
+            "name": "PortofinoEyeintheSky",
+            "screen_name": "ReneeBuffington"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 486872935,
+            "name": "Naples Island NIBA",
+            "screen_name": "NaplesBusiness"
+        }
+    ]
+}

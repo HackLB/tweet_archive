@@ -1,0 +1,124 @@
+{
+    "created_at": "Mon Nov 21 18:31:58 +0000 2016",
+    "hashtags": [],
+    "id": 800768732385529856,
+    "id_str": "800768732385529856",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Sun Nov 20 17:21:47 +0000 2016",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 800388683643748352,
+        "id_str": "800388683643748352",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "Loving the @LongBeachCity improvements for 8 to 80 cycling on Studebaker!\n@bikinginla @lacbc \n\n https://t.co/FEzUYozH0L",
+        "urls": [
+            {
+                "expanded_url": "http://www.presstelegram.com/sports/20161117/little-green-things-spotted-on-studebaker",
+                "url": "https://t.co/FEzUYozH0L"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jun 27 14:18:24 +0000 2012",
+            "description": "Comment Troll | Delightful Twit | Twitter Smartie (Thanks @drschweitzer!)",
+            "favourites_count": 21979,
+            "followers_count": 2075,
+            "friends_count": 2897,
+            "geo_enabled": true,
+            "id": 620033039,
+            "lang": "en",
+            "listed_count": 270,
+            "location": "Southern Calif.",
+            "name": "Erik Griswold",
+            "profile_background_color": "F00C32",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/807314236/39858c9043d01586dcbebf820c7f02a6.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/620033039/1428644407",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/578478857801482240/--PNgB1l_normal.jpeg",
+            "profile_link_color": "150EE6",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "erik_griswold",
+            "statuses_count": 57599,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/hr6TDrXx1Z",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 182547580,
+                "name": "Ted Rogers",
+                "screen_name": "bikinginla"
+            },
+            {
+                "id": 20289274,
+                "name": "LACntyBikeCoalition",
+                "screen_name": "lacbc"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @erik_griswold: Loving the @LongBeachCity improvements for 8 to 80 cycling on Studebaker!\n@bikinginla @lacbc \n\n https://t.co/FEzUYozH0L",
+    "urls": [
+        {
+            "expanded_url": "http://www.presstelegram.com/sports/20161117/little-green-things-spotted-on-studebaker",
+            "url": "https://t.co/FEzUYozH0L"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 63973,
+        "friends_count": 1219,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 452,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6432,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 620033039,
+            "name": "Erik Griswold",
+            "screen_name": "erik_griswold"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 182547580,
+            "name": "Ted Rogers",
+            "screen_name": "bikinginla"
+        },
+        {
+            "id": 20289274,
+            "name": "LACntyBikeCoalition",
+            "screen_name": "lacbc"
+        }
+    ]
+}

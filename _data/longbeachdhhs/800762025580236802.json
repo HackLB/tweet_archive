@@ -1,0 +1,88 @@
+{
+    "created_at": "Mon Nov 21 18:05:18 +0000 2016",
+    "hashtags": [],
+    "id": 800762025580236802,
+    "id_str": "800762025580236802",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Nov 21 17:35:13 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 800754451040473090,
+        "id_str": "800754451040473090",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "On Public Health ThankYou Day, we express deepest gratitude 2 all who dedicate their lives 2 improving health of ot… https://t.co/AdchNyEqAx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/800754451040473090",
+                "url": "https://t.co/AdchNyEqAx"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 06 21:57:05 +0000 2009",
+            "description": "Committed to protecting & improving the health of the nearly 10 million residents of Los Angeles County. #PublicHealthWorking4You",
+            "favourites_count": 114,
+            "followers_count": 9206,
+            "friends_count": 261,
+            "geo_enabled": true,
+            "id": 38287098,
+            "lang": "en",
+            "listed_count": 380,
+            "location": "Los Angeles, California",
+            "name": "LA Public Health",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/361248518/BLK_Spanish_Public_Health_Logo.JPG",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1455742929",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/203455779/LOGASO_normal.png",
+            "profile_link_color": "00205B",
+            "profile_sidebar_fill_color": "DCE7EA",
+            "profile_text_color": "404040",
+            "screen_name": "lapublichealth",
+            "statuses_count": 3851,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/Jck94jgcN5",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @lapublichealth: On Public Health ThankYou Day, we express deepest gratitude 2 all who dedicate their lives 2 improving health of others…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+        "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+        "favourites_count": 561,
+        "followers_count": 2050,
+        "friends_count": 1507,
+        "geo_enabled": true,
+        "id": 369627243,
+        "lang": "en",
+        "listed_count": 61,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Health",
+        "profile_background_color": "54B8D0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+        "profile_link_color": "13539E",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachDHHS",
+        "statuses_count": 3040,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/ZAG5SpCHal",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 38287098,
+            "name": "LA Public Health",
+            "screen_name": "lapublichealth"
+        }
+    ]
+}
