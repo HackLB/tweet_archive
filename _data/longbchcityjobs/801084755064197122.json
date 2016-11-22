@@ -1,0 +1,86 @@
+{
+    "created_at": "Tue Nov 22 15:27:43 +0000 2016",
+    "hashtags": [],
+    "id": 801084755064197122,
+    "id_str": "801084755064197122",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 02:03:20 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 800882324086734848,
+        "id_str": "800882324086734848",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Big shoes to fill. Who's up for it? https://t.co/mgmdeFlrwy",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/LongBchCityJobs/status/800863749787643905",
+                "url": "https://t.co/mgmdeFlrwy"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 09 05:53:17 +0000 2015",
+            "default_profile": true,
+            "favourites_count": 102,
+            "followers_count": 110,
+            "friends_count": 24,
+            "geo_enabled": true,
+            "id": 3501074900,
+            "lang": "en",
+            "listed_count": 3,
+            "name": "Lincoln Bauer",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/663996901277065216/LkS7iowU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "bauer_lincoln",
+            "statuses_count": 177
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @bauer_lincoln: Big shoes to fill. Who's up for it? https://t.co/mgmdeFlrwy",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/LongBchCityJobs/status/800863749787643905",
+            "url": "https://t.co/mgmdeFlrwy"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+        "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+        "favourites_count": 581,
+        "followers_count": 1380,
+        "friends_count": 1064,
+        "geo_enabled": true,
+        "id": 158253547,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, California USA",
+        "name": "City of L.B. Jobs",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "LongBchCityJobs",
+        "statuses_count": 1800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/BJr1SSBo00",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3501074900,
+            "name": "Lincoln Bauer",
+            "screen_name": "bauer_lincoln"
+        }
+    ]
+}
