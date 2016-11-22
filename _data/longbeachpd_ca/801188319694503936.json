@@ -1,0 +1,112 @@
+{
+    "created_at": "Tue Nov 22 22:19:15 +0000 2016",
+    "hashtags": [],
+    "id": 801188319694503936,
+    "id_str": "801188319694503936",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/sb0h0uOJDI",
+            "expanded_url": "https://twitter.com/USATODAY/status/801188046842404864/photo/1",
+            "id": 801188043390533632,
+            "media_url": "http://pbs.twimg.com/media/Cx5kR9SVQAA2XnM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cx5kR9SVQAA2XnM.jpg",
+            "type": "photo",
+            "url": "https://t.co/sb0h0uOJDI"
+        }
+    ],
+    "retweet_count": 66,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 22:18:10 +0000 2016",
+        "favorite_count": 259,
+        "hashtags": [],
+        "id": 801188046842404864,
+        "id_str": "801188046842404864",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sb0h0uOJDI",
+                "expanded_url": "https://twitter.com/USATODAY/status/801188046842404864/photo/1",
+                "id": 801188043390533632,
+                "media_url": "http://pbs.twimg.com/media/Cx5kR9SVQAA2XnM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cx5kR9SVQAA2XnM.jpg",
+                "type": "photo",
+                "url": "https://t.co/sb0h0uOJDI"
+            }
+        ],
+        "retweet_count": 66,
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "Springsteen, Hanks, DeGeneres honored with Presidential Medal of Freedom https://t.co/xgDJde4vfg https://t.co/sb0h0uOJDI",
+        "urls": [
+            {
+                "expanded_url": "http://usat.ly/2g0Jdu2",
+                "url": "https://t.co/xgDJde4vfg"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 06 19:55:31 +0000 2008",
+            "description": "The latest news and most interesting stories from USA TODAY. News that's meant to be shared.",
+            "favourites_count": 1716,
+            "followers_count": 2818578,
+            "friends_count": 933,
+            "id": 15754281,
+            "lang": "en",
+            "listed_count": 29968,
+            "location": "USA TODAY HQ, McLean, Va.",
+            "name": "USA TODAY",
+            "profile_background_color": "0092D0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000089862470/7aa9f896147a89917aa047e30ab6ebc2.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1453833768",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/761954996808286209/S15RXwx6_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "USATODAY",
+            "statuses_count": 184371,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/7xDl0vVHSt",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @USATODAY: Springsteen, Hanks, DeGeneres honored with Presidential Medal of Freedom https://t.co/xgDJde4vfg https://t.co/sb0h0uOJDI",
+    "urls": [
+        {
+            "expanded_url": "http://usat.ly/2g0Jdu2",
+            "url": "https://t.co/xgDJde4vfg"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4327,
+        "followers_count": 8680,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6041,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 15754281,
+            "name": "USA TODAY",
+            "screen_name": "USATODAY"
+        }
+    ]
+}
