@@ -1,0 +1,46 @@
+{
+    "created_at": "Tue Nov 22 21:03:35 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 801169275796893696,
+    "id_str": "801169275796893696",
+    "in_reply_to_screen_name": "TraceyFromCali",
+    "in_reply_to_status_id": 801168273328832512,
+    "in_reply_to_user_id": 544744021,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TraceyFromCali Once your passengers have arrived, feel free to pull up to the curb in front of the terminal for easy pick up. (2/2)",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2833,
+        "followers_count": 9211,
+        "friends_count": 572,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 362,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6228,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 544744021,
+            "name": "AlwaysChooseLove",
+            "screen_name": "TraceyFromCali"
+        }
+    ]
+}

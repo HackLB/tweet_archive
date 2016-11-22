@@ -1,0 +1,97 @@
+{
+    "created_at": "Tue Nov 22 21:01:55 +0000 2016",
+    "hashtags": [],
+    "id": 801168858266505216,
+    "id_str": "801168858266505216",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 21:00:19 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 801168457660133376,
+        "id_str": "801168457660133376",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Travelers can look forward to a safer and more convenient experience at @LBAirport this time of year https://t.co/0XIgQJIiJ9",
+        "urls": [
+            {
+                "expanded_url": "http://lbpo.st/2gdtDKO",
+                "url": "https://t.co/0XIgQJIiJ9"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 07:18:30 +0000 2009",
+            "description": "Covering Long Beach news, politics, business, life, sports, food, and LGBT issues online daily. \nhttp://t.co/Vv0AR1vL8f",
+            "favourites_count": 467,
+            "followers_count": 37471,
+            "friends_count": 438,
+            "geo_enabled": true,
+            "id": 20496846,
+            "lang": "en",
+            "listed_count": 481,
+            "location": "Long Beach, California",
+            "name": "Long Beach Post",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827465821/31c1beba2ccaa657384bf9322b2e0916.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20496846/1475880651",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3209512724/7703736e92ce694d2036f1524730546c_normal.png",
+            "profile_link_color": "005689",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachPost",
+            "statuses_count": 15077,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/jDNcL0FZOI",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachPost: Travelers can look forward to a safer and more convenient experience at @LBAirport this time of year https://t.co/0XIgQJ…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2833,
+        "followers_count": 9211,
+        "friends_count": 572,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 362,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6228,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20496846,
+            "name": "Long Beach Post",
+            "screen_name": "LongBeachPost"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        }
+    ]
+}

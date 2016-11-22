@@ -1,0 +1,57 @@
+{
+    "created_at": "Tue Nov 22 20:08:34 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "StayInformed"
+        }
+    ],
+    "id": 801155430516801536,
+    "id_str": "801155430516801536",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/9c29Lo74o3",
+            "expanded_url": "https://twitter.com/LongBeachDHHS/status/801155430516801536/photo/1",
+            "id": 801155190057365504,
+            "media_url": "http://pbs.twimg.com/media/Cx5GZpFUcAAw0La.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cx5GZpFUcAAw0La.jpg",
+            "type": "photo",
+            "url": "https://t.co/9c29Lo74o3"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RAIN ADVISORY: ALL BEACHES ARE CLOSED - Check here for latest results: https://t.co/FOc7qel7x3 #StayInformed https://t.co/9c29Lo74o3",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/j7d3306qOWD",
+            "url": "https://t.co/FOc7qel7x3"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+        "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+        "favourites_count": 562,
+        "followers_count": 2055,
+        "friends_count": 1507,
+        "geo_enabled": true,
+        "id": 369627243,
+        "lang": "en",
+        "listed_count": 61,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Health",
+        "profile_background_color": "54B8D0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+        "profile_link_color": "13539E",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachDHHS",
+        "statuses_count": 3043,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/ZAG5SpCHal",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
