@@ -1,0 +1,112 @@
+{
+    "created_at": "Tue Nov 22 17:06:49 +0000 2016",
+    "hashtags": [
+        {
+            "text": "fires"
+        },
+        {
+            "text": "ThanksgivingDay"
+        },
+        {
+            "text": "IAFFsafetytips"
+        }
+    ],
+    "id": 801109695209476096,
+    "id_str": "801109695209476096",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 15:18:19 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "fires"
+            },
+            {
+                "text": "ThanksgivingDay"
+            },
+            {
+                "text": "IAFFsafetytips"
+            }
+        ],
+        "id": 801082388772028418,
+        "id_str": "801082388772028418",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XA6dsZ3AYp",
+                "expanded_url": "https://twitter.com/lbfirefighters/status/801082388772028418/photo/1",
+                "id": 801082386939154432,
+                "media_url": "http://pbs.twimg.com/media/Cx4EL8VUkAAQNn3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cx4EL8VUkAAQNn3.jpg",
+                "type": "photo",
+                "url": "https://t.co/XA6dsZ3AYp"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The greatest number of home-cooking #fires occur on #ThanksgivingDay. Stay alert! #IAFFsafetytips https://t.co/XA6dsZ3AYp",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Aug 13 18:23:11 +0000 2009",
+            "description": "Long Beach Firefighters Association protects over 500,000 residents and 5 million annual visitors a year, along with busiest seaport on west coast and a airport",
+            "favourites_count": 410,
+            "followers_count": 4324,
+            "friends_count": 99,
+            "geo_enabled": true,
+            "id": 65429093,
+            "lang": "en",
+            "listed_count": 141,
+            "location": "Long Beach, Ca",
+            "name": "Long Beach Fire",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/29195127/LBUnionRed_Clear_copy.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65429093/1397862013",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/360898409/Local_372_Emblem_copy_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "lbfirefighters",
+            "statuses_count": 2156,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/hfaB7erhpR",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @lbfirefighters: The greatest number of home-cooking #fires occur on #ThanksgivingDay. Stay alert! #IAFFsafetytips https://t.co/XA6dsZ3A…",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 202,
+        "followers_count": 664,
+        "friends_count": 213,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1174,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 65429093,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfirefighters"
+        }
+    ]
+}

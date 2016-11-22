@@ -1,0 +1,99 @@
+{
+    "created_at": "Tue Nov 22 17:50:33 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "civilengineering"
+        }
+    ],
+    "id": 801120700308164608,
+    "id_str": "801120700308164608",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 17:32:22 +0000 2016",
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "civilengineering"
+            }
+        ],
+        "id": 801116121885601792,
+        "id_str": "801116121885601792",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The City of #LongBeach is seeking Civil Engineers to perform professional #civilengineering work. Information:… https://t.co/3jPHmp5nie",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/801116121885601792",
+                "url": "https://t.co/3jPHmp5nie"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+            "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+            "favourites_count": 583,
+            "followers_count": 1380,
+            "friends_count": 1065,
+            "geo_enabled": true,
+            "id": 158253547,
+            "lang": "en",
+            "listed_count": 29,
+            "location": "Long Beach, California USA",
+            "name": "City of L.B. Jobs",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LongBchCityJobs",
+            "statuses_count": 1802,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/BJr1SSBo00",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBchCityJobs: The City of #LongBeach is seeking Civil Engineers to perform professional #civilengineering work. Information: https:/…",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Jul 27 21:00:18 +0000 2015",
+        "default_profile": true,
+        "description": "Long Beach Public Works Department",
+        "favourites_count": 202,
+        "followers_count": 664,
+        "friends_count": 213,
+        "id": 3298654412,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Long Beach, CA",
+        "name": "Long Beach PW",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625783425887154176/VKR2BvDe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachPW",
+        "statuses_count": 1174,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SoQaC9cS7M",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 158253547,
+            "name": "City of L.B. Jobs",
+            "screen_name": "LongBchCityJobs"
+        }
+    ]
+}

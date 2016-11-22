@@ -1,0 +1,97 @@
+{
+    "created_at": "Tue Nov 22 17:20:20 +0000 2016",
+    "hashtags": [],
+    "id": 801113097096151040,
+    "id_str": "801113097096151040",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 16:04:35 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 801094032357138432,
+        "id_str": "801094032357138432",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We are proud to announce our Keynote Speaker for our Training Conference - @idoinspire, Funny Motivational Speaker:… https://t.co/tbpwG5CjTK",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/801094032357138432",
+                "url": "https://t.co/tbpwG5CjTK"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 30 22:46:00 +0000 2014",
+            "description": "Southern California Public Management Association was founded in 1940 as Chapter II of the International Public Mgt Association for Human Resources.",
+            "favourites_count": 88,
+            "followers_count": 131,
+            "friends_count": 227,
+            "geo_enabled": true,
+            "id": 2952736874,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Southern California",
+            "name": "SCPMA-HR",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615662821427118080/ADJ8_CVY.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2952736874/1439827634",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/633309287419260928/-XVG-uMz_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "SCPMAHR",
+            "statuses_count": 436,
+            "url": "https://t.co/Wku6EOfhsn"
+        },
+        "user_mentions": [
+            {
+                "id": 17142871,
+                "name": "idoinspire",
+                "screen_name": "idoinspire"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SCPMAHR: We are proud to announce our Keynote Speaker for our Training Conference - @idoinspire, Funny Motivational Speaker: https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+        "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+        "favourites_count": 583,
+        "followers_count": 1380,
+        "friends_count": 1065,
+        "geo_enabled": true,
+        "id": 158253547,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Long Beach, California USA",
+        "name": "City of L.B. Jobs",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "LongBchCityJobs",
+        "statuses_count": 1802,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/BJr1SSBo00",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2952736874,
+            "name": "SCPMA-HR",
+            "screen_name": "SCPMAHR"
+        },
+        {
+            "id": 17142871,
+            "name": "idoinspire",
+            "screen_name": "idoinspire"
+        }
+    ]
+}
