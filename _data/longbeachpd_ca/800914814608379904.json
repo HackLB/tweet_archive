@@ -1,0 +1,53 @@
+{
+    "created_at": "Tue Nov 22 04:12:26 +0000 2016",
+    "favorite_count": 8,
+    "hashtags": [
+        {
+            "text": "literacy"
+        }
+    ],
+    "id": 800914814608379904,
+    "id_str": "800914814608379904",
+    "lang": "en",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Patrol Resource Officers Mihkelson &amp; Betanzos dropped off books today @MarySim98679234 Literacy Fair! #literacy… https://t.co/haFnENAtaJ",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/800914814608379904",
+            "url": "https://t.co/haFnENAtaJ"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4324,
+        "followers_count": 8681,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6031,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3059303389,
+            "name": "AOC7",
+            "screen_name": "MarySim98679234"
+        }
+    ]
+}
