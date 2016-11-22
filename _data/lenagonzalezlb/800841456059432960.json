@@ -1,0 +1,80 @@
+{
+    "created_at": "Mon Nov 21 23:20:56 +0000 2016",
+    "hashtags": [],
+    "id": 800841456059432960,
+    "id_str": "800841456059432960",
+    "in_reply_to_screen_name": "MarySim98679234",
+    "in_reply_to_status_id": 800823935348547585,
+    "in_reply_to_user_id": 3059303389,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MarySim98679234 @LBPDWest_CA @LongBeachDS @LongBeachCity @Jeannine4D2 @CouncilDee @lbpl_librarian @LBPLFoundation Great work officers!",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Tech employed. MBA student. Long Beach lover",
+        "favourites_count": 358,
+        "followers_count": 1614,
+        "friends_count": 1420,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1473007975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 740,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3059303389,
+            "name": "AOC7",
+            "screen_name": "MarySim98679234"
+        },
+        {
+            "id": 773258224292143104,
+            "name": "LBPD West Division",
+            "screen_name": "LBPDWest_CA"
+        },
+        {
+            "id": 18194366,
+            "name": "Long Beach DS",
+            "screen_name": "LongBeachDS"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        },
+        {
+            "id": 48506613,
+            "name": "Councilman D Andrews",
+            "screen_name": "CouncilDee"
+        },
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "lbpl_librarian"
+        },
+        {
+            "id": 277576519,
+            "name": "LBPLFoundation",
+            "screen_name": "LBPLFoundation"
+        }
+    ]
+}

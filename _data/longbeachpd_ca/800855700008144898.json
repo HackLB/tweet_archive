@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Nov 22 00:17:32 +0000 2016",
+    "hashtags": [
+        {
+            "text": "rain"
+        },
+        {
+            "text": "LB"
+        },
+        {
+            "text": "SaveWaterLB"
+        },
+        {
+            "text": "EasierThanYouThink"
+        }
+    ],
+    "id": 800855700008144898,
+    "id_str": "800855700008144898",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 00:05:31 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "rain"
+            },
+            {
+                "text": "LB"
+            },
+            {
+                "text": "SaveWaterLB"
+            },
+            {
+                "text": "EasierThanYouThink"
+            }
+        ],
+        "id": 800852674593685504,
+        "id_str": "800852674593685504",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/y2VcdVeQ8Z",
+                "expanded_url": "https://twitter.com/LongBeachWater/status/800852674593685504/photo/1",
+                "id": 800852481513123840,
+                "media_url": "http://pbs.twimg.com/media/Cx0zFr4UcAApIiy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cx0zFr4UcAApIiy.jpg",
+                "type": "photo",
+                "url": "https://t.co/y2VcdVeQ8Z"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Cheers to skipping Tuesday’s watering day because of #rain. ☔ #LB #SaveWaterLB #EasierThanYouThink https://t.co/y2VcdVeQ8Z",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Sep 12 20:24:04 +0000 2008",
+            "description": "The standard in water conservation and environmental stewardship",
+            "favourites_count": 98,
+            "followers_count": 6970,
+            "friends_count": 2413,
+            "geo_enabled": true,
+            "id": 16262993,
+            "lang": "en",
+            "listed_count": 251,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Water",
+            "profile_background_color": "455D85",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491123151/304754026240907.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16262993/1465925760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/765693924681711617/j0lA2DjY_normal.jpg",
+            "profile_link_color": "0D0701",
+            "profile_sidebar_fill_color": "061127",
+            "profile_text_color": "52555C",
+            "screen_name": "LongBeachWater",
+            "statuses_count": 2386,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/21QJiCRYzt",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachWater: Cheers to skipping Tuesday’s watering day because of #rain. ☔ #LB #SaveWaterLB #EasierThanYouThink https://t.co/y2VcdVe…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4324,
+        "followers_count": 8680,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6030,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 16262993,
+            "name": "Long Beach Water",
+            "screen_name": "LongBeachWater"
+        }
+    ]
+}

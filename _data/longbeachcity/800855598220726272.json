@@ -1,0 +1,88 @@
+{
+    "created_at": "Tue Nov 22 00:17:08 +0000 2016",
+    "hashtags": [],
+    "id": 800855598220726272,
+    "id_str": "800855598220726272",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Nov 21 18:55:03 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 800774545284026368,
+        "id_str": "800774545284026368",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "It's Public Health Thank You Day! To all those who dedicate their lives to protecting the health of all people &amp; al… https://t.co/ckIb2LESZz",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/800774545284026368",
+                "url": "https://t.co/ckIb2LESZz"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+            "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+            "favourites_count": 562,
+            "followers_count": 2053,
+            "friends_count": 1507,
+            "geo_enabled": true,
+            "id": 369627243,
+            "lang": "en",
+            "listed_count": 61,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Health",
+            "profile_background_color": "54B8D0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+            "profile_link_color": "13539E",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachDHHS",
+            "statuses_count": 3042,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZAG5SpCHal",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachDHHS: It's Public Health Thank You Day! To all those who dedicate their lives to protecting the health of all people &amp; all com…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 63991,
+        "friends_count": 1219,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 453,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6438,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LongBeachDHHS"
+        }
+    ]
+}
