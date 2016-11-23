@@ -1,0 +1,91 @@
+{
+    "created_at": "Wed Nov 23 15:17:48 +0000 2016",
+    "hashtags": [],
+    "id": 801444645901242368,
+    "id_str": "801444645901242368",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Nov 23 15:06:02 +0000 2016",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 801441684341067777,
+        "id_str": "801441684341067777",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "\"It was tough losing Credo. Storm will never take his place\": Officer gets new K-9 partner https://t.co/wI3NX3xraq",
+        "urls": [
+            {
+                "expanded_url": "http://4.nbcla.com/CiYS6mW",
+                "url": "https://t.co/wI3NX3xraq"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 14 03:39:17 +0000 2008",
+            "description": "Welcome to @NBCLA, the place for news, weather and everything SoCal! #NBC4You",
+            "favourites_count": 4153,
+            "followers_count": 373346,
+            "friends_count": 795,
+            "geo_enabled": true,
+            "id": 17379685,
+            "lang": "en",
+            "listed_count": 3948,
+            "location": "Southern California",
+            "name": "NBC Los Angeles",
+            "profile_background_color": "092442",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/802092838/669cdee0d6f55c1f76652870169365bf.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17379685/1469561365",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "NBCLA",
+            "statuses_count": 178639,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/8tJSvbRn0Y",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NBCLA: \"It was tough losing Credo. Storm will never take his place\": Officer gets new K-9 partner https://t.co/wI3NX3xraq",
+    "urls": [
+        {
+            "expanded_url": "http://4.nbcla.com/CiYS6mW",
+            "url": "https://t.co/wI3NX3xraq"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4344,
+        "followers_count": 8681,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6063,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 17379685,
+            "name": "NBC Los Angeles",
+            "screen_name": "NBCLA"
+        }
+    ]
+}
