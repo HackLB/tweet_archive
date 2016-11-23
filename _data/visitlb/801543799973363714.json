@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Nov 23 21:51:48 +0000 2016",
+    "hashtags": [
+        {
+            "text": "thanksgivingcountdown"
+        },
+        {
+            "text": "TurkeyDay"
+        }
+    ],
+    "id": 801543799973363714,
+    "id_str": "801543799973363714",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 15:51:24 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "thanksgivingcountdown"
+            },
+            {
+                "text": "TurkeyDay"
+            }
+        ],
+        "id": 801090716319379456,
+        "id_str": "801090716319379456",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We love this !  @VisitLB reminds us we're so lucky to be living here! #thanksgivingcountdown #TurkeyDay https://t.co/iNVTyfdgZf",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/VisitLB/status/800877744439496705",
+                "url": "https://t.co/iNVTyfdgZf"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 19 16:18:01 +0000 2011",
+            "default_profile": true,
+            "favourites_count": 38,
+            "followers_count": 68,
+            "friends_count": 119,
+            "id": 358242514,
+            "lang": "en",
+            "listed_count": 30,
+            "name": "John Braida",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/358242514/1475615694",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/783414833576157184/jgdTW7rZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "JohnBraida",
+            "statuses_count": 226
+        },
+        "user_mentions": [
+            {
+                "id": 14209619,
+                "name": "Long Beach CVB",
+                "screen_name": "VisitLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JohnBraida: We love this !  @VisitLB reminds us we're so lucky to be living here! #thanksgivingcountdown #TurkeyDay https://t.co/iNVTyf…",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1041,
+        "followers_count": 13056,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 525,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13286,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 358242514,
+            "name": "John Braida",
+            "screen_name": "JohnBraida"
+        },
+        {
+            "id": 14209619,
+            "name": "Long Beach CVB",
+            "screen_name": "VisitLB"
+        }
+    ]
+}
