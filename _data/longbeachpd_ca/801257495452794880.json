@@ -1,0 +1,91 @@
+{
+    "created_at": "Wed Nov 23 02:54:08 +0000 2016",
+    "hashtags": [],
+    "id": 801257495452794880,
+    "id_str": "801257495452794880",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Wed Nov 23 02:29:07 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 801251200968441856,
+        "id_str": "801251200968441856",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Who's heading north for the holidays? Be prepared for snow on mountain passes! https://t.co/2ImLEWSo3w",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/NWSSacramento/status/801181380939943936",
+                "url": "https://t.co/2ImLEWSo3w"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 04 22:52:07 +0000 2012",
+            "description": "Official Twitter account for the National Weather Service Los Angeles. Details: http://t.co/DT7PGbdIaq",
+            "favourites_count": 707,
+            "followers_count": 24151,
+            "friends_count": 570,
+            "geo_enabled": true,
+            "id": 599632006,
+            "lang": "en",
+            "listed_count": 919,
+            "location": "Oxnard, CA",
+            "name": "NWS Los Angeles",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570574283/xikleninju2fkhw1xsxw.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/599632006/1430173234",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/712746512208375809/I3F-eThy_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "NWSLosAngeles",
+            "statuses_count": 12709,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/jcGp3bhxiL",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NWSLosAngeles: Who's heading north for the holidays? Be prepared for snow on mountain passes! https://t.co/2ImLEWSo3w",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/NWSSacramento/status/801181380939943936",
+            "url": "https://t.co/2ImLEWSo3w"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4339,
+        "followers_count": 8681,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6054,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 599632006,
+            "name": "NWS Los Angeles",
+            "screen_name": "NWSLosAngeles"
+        }
+    ]
+}
