@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Nov 23 18:35:45 +0000 2016",
+    "hashtags": [
+        {
+            "text": "BlackFriday"
+        },
+        {
+            "text": "CyberMonday"
+        }
+    ],
+    "id": 801494461784027136,
+    "id_str": "801494461784027136",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Nov 23 01:48:29 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "BlackFriday"
+            },
+            {
+                "text": "CyberMonday"
+            }
+        ],
+        "id": 801240976232763392,
+        "id_str": "801240976232763392",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "AG Harris shares consumer tips for #BlackFriday, #CyberMonday, and the holiday shopping season:… https://t.co/qBHIKV877Q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/801240976232763392",
+                "url": "https://t.co/qBHIKV877Q"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 02 00:24:05 +0000 2011",
+            "description": "Office of California Attorney General Kamala D. Harris. Comments or messages are not collected through this account. Contact us at:",
+            "favourites_count": 63,
+            "followers_count": 8568,
+            "friends_count": 171,
+            "geo_enabled": true,
+            "id": 403081467,
+            "lang": "en",
+            "listed_count": 271,
+            "location": "California",
+            "name": "Cal AG Kamala Harris",
+            "profile_background_color": "D5D1D2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623101956/0f4t8cfdeq8oijmtfd2z.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/403081467/1348003647",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2464895504/hymrv3ymqky6lm97zy4o_normal.jpeg",
+            "profile_link_color": "0D1A80",
+            "profile_sidebar_fill_color": "EFF5F7",
+            "profile_text_color": "000000",
+            "screen_name": "AGKamalaHarris",
+            "statuses_count": 1343,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/E1jkSeYdqG",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @AGKamalaHarris: AG Harris shares consumer tips for #BlackFriday, #CyberMonday, and the holiday shopping season: https://t.co/H1SV3iInom…",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2gIuEzG",
+            "url": "https://t.co/H1SV3iInom"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4350,
+        "followers_count": 8682,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6067,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 403081467,
+            "name": "Cal AG Kamala Harris",
+            "screen_name": "AGKamalaHarris"
+        }
+    ]
+}
