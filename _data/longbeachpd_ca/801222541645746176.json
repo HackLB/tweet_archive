@@ -1,0 +1,93 @@
+{
+    "created_at": "Wed Nov 23 00:35:14 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LGB"
+        }
+    ],
+    "id": 801222541645746176,
+    "id_str": "801222541645746176",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 18:53:14 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LGB"
+            }
+        ],
+        "id": 801136474074664961,
+        "id_str": "801136474074664961",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Download the Go LGB Airport app + arrive early for flights! Be prepared for the busy holiday travel season at #LGB. https://t.co/HKvDVb4LpA",
+        "urls": [
+            {
+                "expanded_url": "https://goo.gl/UTy1ZZ",
+                "url": "https://t.co/HKvDVb4LpA"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+            "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+            "favourites_count": 2833,
+            "followers_count": 9210,
+            "friends_count": 572,
+            "geo_enabled": true,
+            "id": 106872943,
+            "lang": "en",
+            "listed_count": 362,
+            "location": "Long Beach, California",
+            "name": "Long Beach Airport",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "LBAirport",
+            "statuses_count": 6228,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/oaUgpQVDGo",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LBAirport: Download the Go LGB Airport app + arrive early for flights! Be prepared for the busy holiday travel season at #LGB. https://…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4328,
+        "followers_count": 8681,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6048,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        }
+    ]
+}

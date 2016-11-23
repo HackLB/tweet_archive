@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Nov 23 00:39:30 +0000 2016",
+    "hashtags": [],
+    "id": 801223613814697984,
+    "id_str": "801223613814697984",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 00:41:54 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 800861833141755904,
+        "id_str": "800861833141755904",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Here's what you need to know about street sweeping, refuse pick-ups, @LBAnimalCare hours and more over Thanksgiving. https://t.co/g7ApmCcxg8",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2gfB9Gh",
+                "url": "https://t.co/g7ApmCcxg8"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 09 05:52:27 +0000 2009",
+            "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+            "favourites_count": 180,
+            "followers_count": 64061,
+            "friends_count": 1219,
+            "geo_enabled": true,
+            "id": 38808088,
+            "lang": "en",
+            "listed_count": 452,
+            "location": "Long Beach, Calif.",
+            "name": "City of Long Beach",
+            "profile_background_color": "00497C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+            "profile_link_color": "00497C",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachCity",
+            "statuses_count": 6439,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/pbU79Tlp",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 124383621,
+                "name": "Animal Care Services",
+                "screen_name": "LBAnimalCare"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachCity: Here's what you need to know about street sweeping, refuse pick-ups, @LBAnimalCare hours and more over Thanksgiving. htt…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4328,
+        "followers_count": 8681,
+        "friends_count": 428,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 232,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6048,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 124383621,
+            "name": "Animal Care Services",
+            "screen_name": "LBAnimalCare"
+        }
+    ]
+}
