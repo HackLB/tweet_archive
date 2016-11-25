@@ -1,0 +1,121 @@
+{
+    "created_at": "Fri Nov 25 18:08:12 +0000 2016",
+    "hashtags": [],
+    "id": 802212303881924609,
+    "id_str": "802212303881924609",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 19:02:28 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 801138799245832193,
+        "id_str": "801138799245832193",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -124.482003,
+                            32.528832
+                        ],
+                        [
+                            -114.131212,
+                            32.528832
+                        ],
+                        [
+                            -114.131212,
+                            42.009519
+                        ],
+                        [
+                            -124.482003,
+                            42.009519
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "California, USA",
+            "id": "fbd6d2f5a4e4a15e",
+            "name": "California",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Wage theft is a public safety matter. Ask LB City Council to support equity in public safety by protecting low-wage… https://t.co/tFCSpe2M0q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/801138799245832193",
+                "url": "https://t.co/tFCSpe2M0q"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 01 20:13:30 +0000 2011",
+            "description": "Building Healthy Communities: Long Beach takes action for health equity by supporting community organizing and collaboration in Central & West Long Beach",
+            "favourites_count": 658,
+            "followers_count": 1214,
+            "friends_count": 442,
+            "geo_enabled": true,
+            "id": 259381632,
+            "lang": "en",
+            "listed_count": 56,
+            "location": "Long Beach, CA",
+            "name": "BHC Long Beach",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262916400/LOGO--BHCLB-Youth_Logo_Design_Final_HI_RES.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/259381632/1455315296",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/705070701938511872/_77QqpoQ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "BHCLongBeach",
+            "statuses_count": 2567,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/22AQrtzLJ8",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BHCLongBeach: Wage theft is a public safety matter. Ask LB City Council to support equity in public safety by protecting low-wage famil…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 235,
+        "followers_count": 405,
+        "friends_count": 762,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 190,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 259381632,
+            "name": "BHC Long Beach",
+            "screen_name": "BHCLongBeach"
+        }
+    ]
+}

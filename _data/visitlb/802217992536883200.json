@@ -1,0 +1,56 @@
+{
+    "created_at": "Fri Nov 25 18:30:48 +0000 2016",
+    "hashtags": [
+        {
+            "text": "holidays"
+        },
+        {
+            "text": "Christmas"
+        }
+    ],
+    "id": 802217992536883200,
+    "id_str": "802217992536883200",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "The @jiveaces are ready to help you kick off the #holidays w/ an energetic show full of #Christmas classics!… https://t.co/UmzTmPGwWO",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/802217992536883200",
+            "url": "https://t.co/UmzTmPGwWO"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1041,
+        "followers_count": 13061,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13292,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 15803290,
+            "name": "The Jive Aces",
+            "screen_name": "jiveaces"
+        }
+    ]
+}
