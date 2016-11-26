@@ -1,0 +1,97 @@
+{
+    "created_at": "Sat Nov 26 17:21:28 +0000 2016",
+    "hashtags": [
+        {
+            "text": "FBI"
+        }
+    ],
+    "id": 802562930986258432,
+    "id_str": "802562930986258432",
+    "lang": "en",
+    "retweet_count": 194,
+    "retweeted_status": {
+        "created_at": "Sat Nov 26 15:09:06 +0000 2016",
+        "favorite_count": 226,
+        "hashtags": [
+            {
+                "text": "FBI"
+            }
+        ],
+        "id": 802529619005947905,
+        "id_str": "802529619005947905",
+        "lang": "en",
+        "retweet_count": 194,
+        "source": "<a href=\"http://www.fbi.gov\" rel=\"nofollow\">GovTweetManager</a>",
+        "text": "If you become a victim of an online scam, report it to the #FBI’s Internet Crime Complaint Center at https://t.co/3W2qn8Pwzs",
+        "urls": [
+            {
+                "expanded_url": "https://www.ic3.gov/",
+                "url": "https://t.co/3W2qn8Pwzs"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 25 20:13:53 +0000 2008",
+            "description": "Official Twitter Page of the FBI.  If you have a tip, please submit it here: https://t.co/56awXxJrEZ /",
+            "followers_count": 1781846,
+            "friends_count": 2198,
+            "id": 17629860,
+            "lang": "en",
+            "listed_count": 12929,
+            "location": "Washington, DC",
+            "name": "FBI",
+            "profile_background_color": "00204F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/386279616/fbi_twitter_back.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17629860/1400528060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1706110925/fbi_logo_twitter_normal.jpg",
+            "profile_link_color": "0F3B7A",
+            "profile_sidebar_fill_color": "365E79",
+            "profile_text_color": "8B858F",
+            "screen_name": "FBI",
+            "statuses_count": 9017,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/AuHlihmmIW",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @FBI: If you become a victim of an online scam, report it to the #FBI’s Internet Crime Complaint Center at https://t.co/3W2qn8Pwzs",
+    "urls": [
+        {
+            "expanded_url": "https://www.ic3.gov/",
+            "url": "https://t.co/3W2qn8Pwzs"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4358,
+        "followers_count": 8686,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6086,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 17629860,
+            "name": "FBI",
+            "screen_name": "FBI"
+        }
+    ]
+}
