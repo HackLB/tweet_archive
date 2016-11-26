@@ -1,0 +1,55 @@
+{
+    "created_at": "Sat Nov 26 21:08:33 +0000 2016",
+    "favorite_count": 5,
+    "hashtags": [],
+    "id": 802620080890576896,
+    "id_str": "802620080890576896",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/UwQlvVMR52",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/802620080890576896/photo/1",
+            "id": 802620073730899969,
+            "media_url": "http://pbs.twimg.com/media/CyN6tGBUAAENw36.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyN6tGBUAAENw36.jpg",
+            "type": "photo",
+            "url": "https://t.co/UwQlvVMR52"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Thanks to @lbfirefighters for coming to the AHIA tree lighting ceremony. I loved seeing you guys pull up. https://t.co/UwQlvVMR52",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 65,
+        "followers_count": 1820,
+        "friends_count": 1952,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1179,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 65429093,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfirefighters"
+        }
+    ]
+}
