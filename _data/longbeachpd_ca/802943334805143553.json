@@ -1,0 +1,87 @@
+{
+    "created_at": "Sun Nov 27 18:33:03 +0000 2016",
+    "hashtags": [],
+    "id": 802943334805143553,
+    "id_str": "802943334805143553",
+    "lang": "en",
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Sun Nov 27 18:01:01 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 802935273147469824,
+        "id_str": "802935273147469824",
+        "lang": "en",
+        "retweet_count": 13,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "Sunday after thanksgiving is one of the busiest travel days of the year, please check Road conditions before starti… https://t.co/ErSBTpm1sN",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/802935273147469824",
+                "url": "https://t.co/ErSBTpm1sN"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 15 22:29:39 +0000 2013",
+            "default_profile": true,
+            "description": "Serving the San Fernando Valley & the unincorporated areas of Agoura, Calabasas, Lake Mannor, Malibu, Topanga Cyn. & Twin Lakes. Capt Johnny Starling, Commander",
+            "favourites_count": 2123,
+            "followers_count": 3290,
+            "friends_count": 853,
+            "geo_enabled": true,
+            "id": 1674165450,
+            "lang": "en",
+            "listed_count": 92,
+            "location": "Woodland Hills, CA",
+            "name": "CHP West Valley",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674165450/1470588596",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/784912254143639552/dMuYsdJq_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "CHPWestValley",
+            "statuses_count": 4240,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/UPchxaiVHz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CHPWestValley: Sunday after thanksgiving is one of the busiest travel days of the year, please check Road conditions before starting yo…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4367,
+        "followers_count": 8689,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6103,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 1674165450,
+            "name": "CHP West Valley",
+            "screen_name": "CHPWestValley"
+        }
+    ]
+}
