@@ -1,0 +1,101 @@
+{
+    "created_at": "Sun Nov 27 17:42:35 +0000 2016",
+    "hashtags": [],
+    "id": 802930634591117312,
+    "id_str": "802930634591117312",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/3NDgBUKUpj",
+            "expanded_url": "https://twitter.com/lbrecycles/status/801546160615936000/photo/1",
+            "id": 801546157700706304,
+            "media_url": "http://pbs.twimg.com/media/Cx-p-9DUcAALUcf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cx-p-9DUcAALUcf.jpg",
+            "type": "photo",
+            "url": "https://t.co/3NDgBUKUpj"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Nov 23 22:01:11 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 801546160615936000,
+        "id_str": "801546160615936000",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3NDgBUKUpj",
+                "expanded_url": "https://twitter.com/lbrecycles/status/801546160615936000/photo/1",
+                "id": 801546157700706304,
+                "media_url": "http://pbs.twimg.com/media/Cx-p-9DUcAALUcf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cx-p-9DUcAALUcf.jpg",
+                "type": "photo",
+                "url": "https://t.co/3NDgBUKUpj"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "It's still November, but we know you're thinking about December. https://t.co/3NDgBUKUpj",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Dec 15 16:55:39 +0000 2009",
+            "description": "City of Long Beach Environmental Services Bureau: Providing Recycling, Refuse, Street Sweeping/Parking, Hazardous Waste and LB-exchange services to LB.",
+            "favourites_count": 9,
+            "followers_count": 1335,
+            "friends_count": 40,
+            "id": 97016577,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "Long Beach, California",
+            "name": "Long Beach Recycles",
+            "profile_background_color": "B8CA5E",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476452534081449984/29qgWSJk.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97016577/1402432895",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1884764926/Twitter_Logo_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C2D186",
+            "profile_text_color": "333333",
+            "screen_name": "lbrecycles",
+            "statuses_count": 846,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/or6slOhDam",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @lbrecycles: It's still November, but we know you're thinking about December. https://t.co/3NDgBUKUpj",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4364,
+        "followers_count": 8688,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6101,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 97016577,
+            "name": "Long Beach Recycles",
+            "screen_name": "lbrecycles"
+        }
+    ]
+}

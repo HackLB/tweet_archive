@@ -1,0 +1,137 @@
+{
+    "created_at": "Sun Nov 27 17:46:39 +0000 2016",
+    "hashtags": [
+        {
+            "text": "BeSafe"
+        },
+        {
+            "text": "HolidayTravel"
+        }
+    ],
+    "id": 802931659301498880,
+    "id_str": "802931659301498880",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sun Nov 27 17:43:46 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "BeSafe"
+            },
+            {
+                "text": "HolidayTravel"
+            }
+        ],
+        "id": 802930930067218432,
+        "id_str": "802930930067218432",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#BeSafe Make or buy an emergency preparedness kit for your vehicle! #HolidayTravel https://t.co/yQyw8FZal0",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/femaregion9/status/802255921875275777",
+                "url": "https://t.co/yQyw8FZal0"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jul 26 20:10:29 +0000 2015",
+            "default_profile": true,
+            "description": "Breaking down barriers and building bridges by sharing information that educates, engages and inspires.\n\nVolunteer Coordinator:Tom Leary\ntom.leary@longbeach.gov",
+            "favourites_count": 630,
+            "followers_count": 606,
+            "friends_count": 702,
+            "geo_enabled": true,
+            "id": 3296029160,
+            "lang": "en",
+            "listed_count": 13,
+            "location": "Long Beach, CA",
+            "name": "LBPD Volunteers",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3296029160/1437941789",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/741774029397196801/eLLh5n-c_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "lbpd_volunteers",
+            "statuses_count": 1660,
+            "url": "http://t.co/wfKVFJgbe5"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @lbpd_volunteers: #BeSafe Make or buy an emergency preparedness kit for your vehicle! #HolidayTravel https://t.co/yQyw8FZal0",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/femaregion9/status/802255921875275777",
+            "url": "https://t.co/yQyw8FZal0"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4364,
+        "followers_count": 8688,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6101,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3296029160,
+            "name": "LBPD Volunteers",
+            "screen_name": "lbpd_volunteers"
+        }
+    ]
+}

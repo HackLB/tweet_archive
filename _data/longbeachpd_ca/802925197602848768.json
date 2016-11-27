@@ -1,0 +1,94 @@
+{
+    "created_at": "Sun Nov 27 17:20:59 +0000 2016",
+    "hashtags": [],
+    "id": 802925197602848768,
+    "id_str": "802925197602848768",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Sun Nov 27 16:05:22 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 802906168104341505,
+        "id_str": "802906168104341505",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This holiday season, set aside some time to create a fire escape plan for your family. https://t.co/VL4tizlkZG… https://t.co/E23lXoyqeG",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://Preparesocal.org",
+                "url": "https://t.co/VL4tizlkZG"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/802906168104341505",
+                "url": "https://t.co/E23lXoyqeG"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Apr 23 21:08:57 +0000 2009",
+            "description": "Official Twitter of the American Red Cross campaign to prepare Southern California for disaster response and recovery. In an emergency call 911.",
+            "favourites_count": 1855,
+            "followers_count": 5205,
+            "friends_count": 1893,
+            "geo_enabled": true,
+            "id": 34730015,
+            "lang": "en",
+            "listed_count": 311,
+            "name": "PrepareSoCal",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/475424364/arc_twitter_gradient_bkg3.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34730015/1477086911",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/733729135307030532/gnaXuqLK_normal.jpg",
+            "profile_link_color": "FA0A0A",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "screen_name": "PrepareSoCal",
+            "statuses_count": 6294,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/z3JqWr7Opg",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @PrepareSoCal: This holiday season, set aside some time to create a fire escape plan for your family. https://t.co/VL4tizlkZG #SundayMor…",
+    "urls": [
+        {
+            "expanded_url": "http://Preparesocal.org",
+            "url": "https://t.co/VL4tizlkZG"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4364,
+        "followers_count": 8688,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6101,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 34730015,
+            "name": "PrepareSoCal",
+            "screen_name": "PrepareSoCal"
+        }
+    ]
+}

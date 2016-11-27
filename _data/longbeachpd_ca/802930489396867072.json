@@ -1,0 +1,109 @@
+{
+    "created_at": "Sun Nov 27 17:42:01 +0000 2016",
+    "hashtags": [
+        {
+            "text": "StayInformed"
+        }
+    ],
+    "id": 802930489396867072,
+    "id_str": "802930489396867072",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Nov 22 20:08:34 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "StayInformed"
+            }
+        ],
+        "id": 801155430516801536,
+        "id_str": "801155430516801536",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9c29Lo74o3",
+                "expanded_url": "https://twitter.com/LongBeachDHHS/status/801155430516801536/photo/1",
+                "id": 801155190057365504,
+                "media_url": "http://pbs.twimg.com/media/Cx5GZpFUcAAw0La.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cx5GZpFUcAAw0La.jpg",
+                "type": "photo",
+                "url": "https://t.co/9c29Lo74o3"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "RAIN ADVISORY: ALL BEACHES ARE CLOSED - Check here for latest results: https://t.co/FOc7qel7x3 #StayInformed https://t.co/9c29Lo74o3",
+        "urls": [
+            {
+                "expanded_url": "http://ow.ly/j7d3306qOWD",
+                "url": "https://t.co/FOc7qel7x3"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+            "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+            "favourites_count": 562,
+            "followers_count": 2062,
+            "friends_count": 1507,
+            "geo_enabled": true,
+            "id": 369627243,
+            "lang": "en",
+            "listed_count": 61,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Health",
+            "profile_background_color": "54B8D0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+            "profile_link_color": "13539E",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachDHHS",
+            "statuses_count": 3044,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZAG5SpCHal",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @LongBeachDHHS: RAIN ADVISORY: ALL BEACHES ARE CLOSED - Check here for latest results: https://t.co/FOc7qel7x3 #StayInformed https://t.c…",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/j7d3306qOWD",
+            "url": "https://t.co/FOc7qel7x3"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4364,
+        "followers_count": 8688,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6101,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LongBeachDHHS"
+        }
+    ]
+}
