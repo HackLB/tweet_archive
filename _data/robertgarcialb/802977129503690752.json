@@ -1,0 +1,119 @@
+{
+    "created_at": "Sun Nov 27 20:47:20 +0000 2016",
+    "hashtags": [],
+    "id": 802977129503690752,
+    "id_str": "802977129503690752",
+    "lang": "en",
+    "retweet_count": 1232,
+    "retweeted_status": {
+        "created_at": "Sun Nov 27 20:46:18 +0000 2016",
+        "favorite_count": 1319,
+        "hashtags": [],
+        "id": 802976866604879873,
+        "id_str": "802976866604879873",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Washington, DC",
+            "id": "01fbe706f872cb32",
+            "name": "Washington",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+        },
+        "retweet_count": 1232,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Hard to argue against an audit/recount if the president-elect asserts, without any evidence, that were millions of illegal votes",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Jan 14 13:09:57 +0000 2012",
+            "default_profile": true,
+            "description": "I write for The New York Times at @UpshotNYT. I cover elections, polling, and demographics. Northwest expat.",
+            "favourites_count": 4229,
+            "followers_count": 102928,
+            "friends_count": 961,
+            "geo_enabled": true,
+            "id": 463765807,
+            "lang": "en",
+            "listed_count": 3233,
+            "location": "Washington, DC",
+            "name": "Nate Cohn",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/463765807/1474561644",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/801910537219088384/5j_VZ84y_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Nate_Cohn",
+            "statuses_count": 32567,
+            "time_zone": "Atlantic Time (Canada)",
+            "url": "http://t.co/Asw8udCulx",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Nate_Cohn: Hard to argue against an audit/recount if the president-elect asserts, without any evidence, that were millions of illegal v…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5005,
+        "followers_count": 11386,
+        "friends_count": 2040,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 224,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9541,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 463765807,
+            "name": "Nate Cohn",
+            "screen_name": "Nate_Cohn"
+        }
+    ]
+}
