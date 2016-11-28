@@ -1,0 +1,92 @@
+{
+    "created_at": "Mon Nov 28 21:41:11 +0000 2016",
+    "hashtags": [],
+    "id": 803353066590195712,
+    "id_str": "803353066590195712",
+    "lang": "en",
+    "retweet_count": 33,
+    "retweeted_status": {
+        "created_at": "Sun Nov 27 17:04:01 +0000 2016",
+        "favorite_count": 37,
+        "hashtags": [],
+        "id": 802920927927242753,
+        "id_str": "802920927927242753",
+        "lang": "en",
+        "retweet_count": 33,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "For starters, people without a home don't come to Los Angeles for the weather. https://t.co/7Hn8D7B8vE",
+        "urls": [
+            {
+                "expanded_url": "http://www.laweekly.com/news/7-myths-about-homelessness-in-los-angeles-7639919",
+                "url": "https://t.co/7Hn8D7B8vE"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 28 20:17:39 +0000 2008",
+            "description": "Keep up on news, food, music and culture in Los Angeles. 100% feed free.",
+            "favourites_count": 628,
+            "followers_count": 516983,
+            "friends_count": 1710,
+            "id": 17718497,
+            "lang": "en",
+            "listed_count": 4929,
+            "location": "Los Angeles",
+            "name": "L.A. Weekly",
+            "profile_background_color": "121517",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6641703/ED-COVER-fade.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17718497/1399601571",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000731957803/81e4176315e26d781f5b4cca5a551832_normal.jpeg",
+            "profile_link_color": "3042B0",
+            "profile_sidebar_fill_color": "BABABA",
+            "profile_text_color": "000000",
+            "screen_name": "LAWeekly",
+            "statuses_count": 49168,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/Qvdpo8Wcu9",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LAWeekly: For starters, people without a home don't come to Los Angeles for the weather. https://t.co/7Hn8D7B8vE",
+    "urls": [
+        {
+            "expanded_url": "http://www.laweekly.com/news/7-myths-about-homelessness-in-los-angeles-7639919",
+            "url": "https://t.co/7Hn8D7B8vE"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 516,
+        "followers_count": 3987,
+        "friends_count": 1161,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1964,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 17718497,
+            "name": "L.A. Weekly",
+            "screen_name": "LAWeekly"
+        }
+    ]
+}

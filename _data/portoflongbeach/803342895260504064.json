@@ -1,0 +1,47 @@
+{
+    "created_at": "Mon Nov 28 21:00:46 +0000 2016",
+    "hashtags": [
+        {
+            "text": "POLB"
+        }
+    ],
+    "id": 803342895260504064,
+    "id_str": "803342895260504064",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Our Small Business Enterprise program has been helping small business work with #POLB for over a decade. https://t.co/df4AnpNwr6",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/rY5L306AMjb",
+            "url": "https://t.co/df4AnpNwr6"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 632,
+        "followers_count": 17085,
+        "friends_count": 3707,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 495,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7431,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": []
+}

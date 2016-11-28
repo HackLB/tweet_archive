@@ -1,0 +1,145 @@
+{
+    "created_at": "Mon Nov 28 21:15:51 +0000 2016",
+    "hashtags": [
+        {
+            "text": "HarveyMilkPark"
+        }
+    ],
+    "id": 803346692619714572,
+    "id_str": "803346692619714572",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Nov 28 20:01:24 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "HarveyMilkPark"
+            }
+        ],
+        "id": 803327954809864192,
+        "id_str": "803327954809864192",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Can you imagine #HarveyMilkPark as a collaborative working space? Learn more @ https://t.co/1QNVAl8Wwn… https://t.co/Aaz7z4K22g",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://goo.gl/3fshCZ",
+                "url": "https://t.co/1QNVAl8Wwn"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/803327954809864192",
+                "url": "https://t.co/Aaz7z4K22g"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 19 20:11:36 +0000 2015",
+            "description": "Sustainable solutions for the City of #LongBeach. #iteams #innovation @longbeachcity #MayorRobertGarcia Email at i-team@longbeach.gov BloombergPhilanthropies",
+            "favourites_count": 2153,
+            "followers_count": 1025,
+            "friends_count": 529,
+            "geo_enabled": true,
+            "id": 3250051760,
+            "lang": "en",
+            "listed_count": 82,
+            "location": "Long Beach, CA",
+            "name": "Long Beach i-team",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613716228780093440/X4UCPhBn.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3250051760/1478215928",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/734779039332864002/d0yKpLpP_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "iteam_LongBeach",
+            "statuses_count": 1194,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/LOy4cJQJVj",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @iteam_LongBeach: Can you imagine #HarveyMilkPark as a collaborative working space? Learn more @ https://t.co/1QNVAl8Wwn @CitymartTeam @…",
+    "urls": [
+        {
+            "expanded_url": "http://goo.gl/3fshCZ",
+            "url": "https://t.co/1QNVAl8Wwn"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2102,
+        "followers_count": 12823,
+        "friends_count": 716,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4176,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3250051760,
+            "name": "Long Beach i-team",
+            "screen_name": "iteam_LongBeach"
+        },
+        {
+            "id": 368984561,
+            "name": "Citymart",
+            "screen_name": "CitymartTeam"
+        }
+    ]
+}
