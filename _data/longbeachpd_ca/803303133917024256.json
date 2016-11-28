@@ -1,0 +1,96 @@
+{
+    "created_at": "Mon Nov 28 18:22:46 +0000 2016",
+    "hashtags": [],
+    "id": 803303133917024256,
+    "id_str": "803303133917024256",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon Nov 28 17:15:01 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 803286083844722688,
+        "id_str": "803286083844722688",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Don’t give scammers a gift this Holiday Season. Shop Cyber Smart online with @STOPTHNKCONNECT tips:… https://t.co/mZpiQwZYOS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/803286083844722688",
+                "url": "https://t.co/mZpiQwZYOS"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Dec 21 19:47:53 +0000 2008",
+            "description": "Citizen Corps is FEMA's grassroots strategy to bring together gov't and community leaders to involve citizens in all-hazards preparedness and response.",
+            "favourites_count": 373,
+            "followers_count": 18471,
+            "friends_count": 1168,
+            "geo_enabled": true,
+            "id": 18291500,
+            "lang": "en",
+            "listed_count": 881,
+            "location": "United States- nationwide",
+            "name": "Citizen Corps",
+            "profile_background_color": "696969",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800299340/235ffaecf4b802179e274e8d04a63175.jpeg",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/557293690/Citizen_Corps_Star2_normal.jpg",
+            "profile_link_color": "0009FF",
+            "profile_sidebar_fill_color": "8A8B8C",
+            "profile_text_color": "000000",
+            "screen_name": "Citizen_Corps",
+            "statuses_count": 7040,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/gOxeKBJVMy",
+            "utc_offset": -18000
+        },
+        "user_mentions": [
+            {
+                "id": 460287723,
+                "name": "STOP THINK CONNECT™",
+                "screen_name": "STOPTHNKCONNECT"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @Citizen_Corps: Don’t give scammers a gift this Holiday Season. Shop Cyber Smart online with @STOPTHNKCONNECT tips: https://t.co/nk0o3vy…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4370,
+        "followers_count": 8688,
+        "friends_count": 430,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6109,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 18291500,
+            "name": "Citizen Corps",
+            "screen_name": "Citizen_Corps"
+        },
+        {
+            "id": 460287723,
+            "name": "STOP THINK CONNECT™",
+            "screen_name": "STOPTHNKCONNECT"
+        }
+    ]
+}
