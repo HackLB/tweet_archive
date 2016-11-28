@@ -1,0 +1,88 @@
+{
+    "created_at": "Mon Nov 28 20:51:20 +0000 2016",
+    "hashtags": [
+        {
+            "text": "CyberMonday"
+        }
+    ],
+    "id": 803340521670217728,
+    "id_str": "803340521670217728",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Mon Nov 28 20:40:00 +0000 2016",
+        "favorite_count": 13,
+        "hashtags": [
+            {
+                "text": "CyberMonday"
+            }
+        ],
+        "id": 803337671292502016,
+        "id_str": "803337671292502016",
+        "lang": "en",
+        "retweet_count": 19,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "#CyberMonday is the busiest online shopping day of the year. Beware of potentially dangerous counterfeit goods being sold online",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 29 16:32:34 +0000 2008",
+            "description": "The #DHSmission: With honor and integrity, we will safeguard the American people, our homeland, and our values. Tweets by Secretary Jeh Johnson are signed -JCJ",
+            "favourites_count": 174,
+            "followers_count": 985001,
+            "friends_count": 361,
+            "id": 15647676,
+            "lang": "en",
+            "listed_count": 9491,
+            "location": "Washington, D.C.",
+            "name": "Homeland Security",
+            "profile_background_color": "E6E6E6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/328124003/DHS_Twitter_Background3.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15647676/1462990937",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/936215926/dhs-twitter-300_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "3A3636",
+            "screen_name": "DHSgov",
+            "statuses_count": 11085,
+            "time_zone": "Quito",
+            "url": "https://t.co/sVSheOcQ7l",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @DHSgov: #CyberMonday is the busiest online shopping day of the year. Beware of potentially dangerous counterfeit goods being sold online",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4371,
+        "followers_count": 8690,
+        "friends_count": 430,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6114,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 15647676,
+            "name": "Homeland Security",
+            "screen_name": "DHSgov"
+        }
+    ]
+}
