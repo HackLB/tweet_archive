@@ -1,0 +1,108 @@
+{
+    "created_at": "Mon Nov 28 16:12:11 +0000 2016",
+    "hashtags": [
+        {
+            "text": "BuckleUpAmerica"
+        }
+    ],
+    "id": 803270272107225088,
+    "id_str": "803270272107225088",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Ph2WA0BmOE",
+            "expanded_url": "https://twitter.com/NHTSAgov/status/803262426430873601/photo/1",
+            "id": 803242295856394240,
+            "media_url": "http://pbs.twimg.com/media/CyWwnMEW8AAmNWm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyWwnMEW8AAmNWm.jpg",
+            "type": "photo",
+            "url": "https://t.co/Ph2WA0BmOE"
+        }
+    ],
+    "retweet_count": 27,
+    "retweeted_status": {
+        "created_at": "Mon Nov 28 15:41:01 +0000 2016",
+        "favorite_count": 8,
+        "hashtags": [
+            {
+                "text": "BuckleUpAmerica"
+            }
+        ],
+        "id": 803262426430873601,
+        "id_str": "803262426430873601",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ph2WA0BmOE",
+                "expanded_url": "https://twitter.com/NHTSAgov/status/803262426430873601/photo/1",
+                "id": 803242295856394240,
+                "media_url": "http://pbs.twimg.com/media/CyWwnMEW8AAmNWm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CyWwnMEW8AAmNWm.jpg",
+                "type": "photo",
+                "url": "https://t.co/Ph2WA0BmOE"
+            }
+        ],
+        "retweet_count": 27,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Safety is non-negotiable. #BuckleUpAmerica https://t.co/Ph2WA0BmOE",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 22 17:57:31 +0000 2009",
+            "favourites_count": 1909,
+            "followers_count": 42834,
+            "friends_count": 573,
+            "id": 49706919,
+            "lang": "en",
+            "listed_count": 1239,
+            "name": "NHTSA",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/597736739445215232/ooTOHMqC.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/49706919/1475156259",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/773189953329201152/xb9z7FvO_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "NHTSAgov",
+            "statuses_count": 10863,
+            "time_zone": "Eastern Time (US & Canada)",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @NHTSAgov: Safety is non-negotiable. #BuckleUpAmerica https://t.co/Ph2WA0BmOE",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4369,
+        "followers_count": 8687,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6108,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 49706919,
+            "name": "NHTSA",
+            "screen_name": "NHTSAgov"
+        }
+    ]
+}

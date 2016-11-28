@@ -1,0 +1,119 @@
+{
+    "created_at": "Mon Nov 28 16:12:19 +0000 2016",
+    "hashtags": [
+        {
+            "text": "CyberMonday"
+        }
+    ],
+    "id": 803270307452571648,
+    "id_str": "803270307452571648",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Al3giY5Gb1",
+            "expanded_url": "https://twitter.com/FBI/status/803268116188831745/photo/1",
+            "id": 803268113890324480,
+            "media_url": "http://pbs.twimg.com/media/CyXIF_vUsAAhZnE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyXIF_vUsAAhZnE.jpg",
+            "type": "photo",
+            "url": "https://t.co/Al3giY5Gb1"
+        }
+    ],
+    "retweet_count": 137,
+    "retweeted_status": {
+        "created_at": "Mon Nov 28 16:03:37 +0000 2016",
+        "favorite_count": 129,
+        "hashtags": [
+            {
+                "text": "CyberMonday"
+            }
+        ],
+        "id": 803268116188831745,
+        "id_str": "803268116188831745",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Al3giY5Gb1",
+                "expanded_url": "https://twitter.com/FBI/status/803268116188831745/photo/1",
+                "id": 803268113890324480,
+                "media_url": "http://pbs.twimg.com/media/CyXIF_vUsAAhZnE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CyXIF_vUsAAhZnE.jpg",
+                "type": "photo",
+                "url": "https://t.co/Al3giY5Gb1"
+            }
+        ],
+        "retweet_count": 137,
+        "source": "<a href=\"http://www.fbi.gov\" rel=\"nofollow\">GovTweetManager</a>",
+        "text": "Learn the importance of protecting yourself against identity theft https://t.co/Sk8nKNzLC9 #CyberMonday https://t.co/Al3giY5Gb1",
+        "urls": [
+            {
+                "expanded_url": "https://www.fbi.gov/audio-repository/ftw-podcast-preventing-identity-theft-112316.mp3/view",
+                "url": "https://t.co/Sk8nKNzLC9"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Nov 25 20:13:53 +0000 2008",
+            "description": "Official Twitter Page of the FBI.  If you have a tip, please submit it here: https://t.co/56awXxJrEZ /",
+            "followers_count": 1782543,
+            "friends_count": 2198,
+            "id": 17629860,
+            "lang": "en",
+            "listed_count": 12926,
+            "location": "Washington, DC",
+            "name": "FBI",
+            "profile_background_color": "00204F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/386279616/fbi_twitter_back.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17629860/1400528060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1706110925/fbi_logo_twitter_normal.jpg",
+            "profile_link_color": "0F3B7A",
+            "profile_sidebar_fill_color": "365E79",
+            "profile_text_color": "8B858F",
+            "screen_name": "FBI",
+            "statuses_count": 9019,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/AuHlihmmIW",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @FBI: Learn the importance of protecting yourself against identity theft https://t.co/Sk8nKNzLC9 #CyberMonday https://t.co/Al3giY5Gb1",
+    "urls": [
+        {
+            "expanded_url": "https://www.fbi.gov/audio-repository/ftw-podcast-preventing-identity-theft-112316.mp3/view",
+            "url": "https://t.co/Sk8nKNzLC9"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4369,
+        "followers_count": 8687,
+        "friends_count": 429,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6108,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 17629860,
+            "name": "FBI",
+            "screen_name": "FBI"
+        }
+    ]
+}
