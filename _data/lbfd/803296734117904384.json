@@ -1,0 +1,110 @@
+{
+    "created_at": "Mon Nov 28 17:57:20 +0000 2016",
+    "hashtags": [
+        {
+            "text": "AmbulanceOperators"
+        }
+    ],
+    "id": 803296734117904384,
+    "id_str": "803296734117904384",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Nov 28 15:52:39 +0000 2016",
+        "hashtags": [
+            {
+                "text": "AmbulanceOperators"
+            }
+        ],
+        "id": 803265354600366080,
+        "id_str": "803265354600366080",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The City of @lbfd​ is currently seeking #AmbulanceOperators (Full-time/Permanent). Apply Here:… https://t.co/BEDA3F20KT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/803265354600366080",
+                "url": "https://t.co/BEDA3F20KT"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 22 05:17:23 +0000 2010",
+            "description": "Official page of the City of Long Beach, Civil Service Commission. Visit our website for employment opportunities within the City of Long Beach.",
+            "favourites_count": 584,
+            "followers_count": 1384,
+            "friends_count": 1065,
+            "geo_enabled": true,
+            "id": 158253547,
+            "lang": "en",
+            "listed_count": 29,
+            "location": "Long Beach, California USA",
+            "name": "L.B. Civil Service",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158253547/1468598965",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/717850132675309568/yOwucS-h_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LBCityJobs",
+            "statuses_count": 1802,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/BJr1SSBo00",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire",
+                "screen_name": "lbfd"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBCityJobs: The City of @lbfd​ is currently seeking #AmbulanceOperators (Full-time/Permanent). Apply Here: https://t.co/nuYZJ62MG5 #LBF…",
+    "urls": [
+        {
+            "expanded_url": "http://longbeach.gov/civilservice",
+            "url": "https://t.co/nuYZJ62MG5"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 564,
+        "followers_count": 4863,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 183,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2264,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 158253547,
+            "name": "L.B. Civil Service",
+            "screen_name": "LBCityJobs"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        }
+    ]
+}

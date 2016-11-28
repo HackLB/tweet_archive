@@ -1,0 +1,85 @@
+{
+    "created_at": "Mon Nov 28 17:07:54 +0000 2016",
+    "hashtags": [],
+    "id": 803284293241798656,
+    "id_str": "803284293241798656",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Mon Nov 28 16:07:53 +0000 2016",
+        "favorite_count": 18,
+        "hashtags": [
+            {
+                "text": "CSULB"
+            }
+        ],
+        "id": 803269188353523713,
+        "id_str": "803269188353523713",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Following @OhioStateshooter #CSULB is prepared.  Remember, 'run, hide, fight' if you get directions from CSULB Police.  Prayers for Ohio.",
+        "urls": [],
+        "user": {
+            "created_at": "Tue May 06 21:19:34 +0000 2014",
+            "description": "CSULB President",
+            "favourites_count": 2164,
+            "followers_count": 2318,
+            "friends_count": 338,
+            "geo_enabled": true,
+            "id": 2480417754,
+            "lang": "en",
+            "listed_count": 95,
+            "location": "Long Beach, California",
+            "name": "Jane Close Conoley",
+            "profile_background_color": "B3B3B3",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2480417754/1401833782",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/522063698836213761/Fp7TFvvv_normal.jpeg",
+            "profile_link_color": "A89031",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "PresConoley",
+            "statuses_count": 4949,
+            "url": "http://t.co/Hpirk7DmTp"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PresConoley: Following @OhioStateshooter #CSULB is prepared.  Remember, 'run, hide, fight' if you get directions from CSULB Police.  Pr…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5012,
+        "followers_count": 11396,
+        "friends_count": 2041,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 224,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9544,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2480417754,
+            "name": "Jane Close Conoley",
+            "screen_name": "PresConoley"
+        }
+    ]
+}
