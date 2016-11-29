@@ -1,0 +1,46 @@
+{
+    "created_at": "Tue Nov 29 20:30:09 +0000 2016",
+    "hashtags": [
+        {
+            "text": "GivingTuesday"
+        }
+    ],
+    "id": 803697578596368384,
+    "id_str": "803697578596368384",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Great story about #GivingTuesday! Please do also think of Rancho Los Cerritos Foudnation -- you can give right on o… https://t.co/XHEHbsXW8t",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/803697578596368384",
+            "url": "https://t.co/XHEHbsXW8t"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 49,
+        "followers_count": 513,
+        "friends_count": 111,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 211,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
