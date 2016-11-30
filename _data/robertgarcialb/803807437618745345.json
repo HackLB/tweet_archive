@@ -1,0 +1,158 @@
+{
+    "created_at": "Wed Nov 30 03:46:41 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LitLB"
+        }
+    ],
+    "id": 803807437618745345,
+    "id_str": "803807437618745345",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Nov 30 03:34:42 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "LitLB"
+            }
+        ],
+        "id": 803804422329405441,
+        "id_str": "803804422329405441",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dIaILI8coU",
+                "expanded_url": "https://twitter.com/austin2LB/status/803804422329405441/photo/1",
+                "id": 803804401735323648,
+                "media_url": "http://pbs.twimg.com/media/Cyev2DpUUAAuWGw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cyev2DpUUAAuWGw.jpg",
+                "type": "photo",
+                "url": "https://t.co/dIaILI8coU"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Kicking off the holiday season with the Mayor @RobertGarciaLB and community @LongBeachCity tree lighting.  #LitLB https://t.co/dIaILI8coU",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Feb 14 10:44:56 +0000 2009",
+            "description": "#LBDistrict8 #ATeam8 #uptownLB #UptownExperience #councilonthecorner #Bixbyknolls #district8Austin",
+            "favourites_count": 338,
+            "followers_count": 1040,
+            "friends_count": 703,
+            "geo_enabled": true,
+            "id": 20840963,
+            "lang": "en",
+            "listed_count": 18,
+            "location": "Long Beach, California",
+            "name": "Al Austin II",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/126119510/AL_L.B.C._5.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20840963/1472740820",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/691331293754163201/qrPgwqnB_normal.jpg",
+            "profile_link_color": "5252EB",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "austin2LB",
+            "statuses_count": 770,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/e4OLSUOdLQ",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @austin2LB: Kicking off the holiday season with the Mayor @RobertGarciaLB and community @LongBeachCity tree lighting.  #LitLB https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5025,
+        "followers_count": 11401,
+        "friends_count": 2044,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 224,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9552,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 20840963,
+            "name": "Al Austin II",
+            "screen_name": "austin2LB"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
