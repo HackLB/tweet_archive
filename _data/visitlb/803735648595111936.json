@@ -1,0 +1,64 @@
+{
+    "created_at": "Tue Nov 29 23:01:25 +0000 2016",
+    "hashtags": [],
+    "id": 803735648595111936,
+    "id_str": "803735648595111936",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/1LInnYO68G",
+            "expanded_url": "https://twitter.com/VisitLB/status/803735648595111936/photo/1",
+            "id": 803735644824604673,
+            "media_url": "http://pbs.twimg.com/media/CydxT4MXEAE0lpF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CydxT4MXEAE0lpF.jpg",
+            "type": "photo",
+            "url": "https://t.co/1LInnYO68G"
+        },
+        {
+            "display_url": "pic.twitter.com/1LInnYO68G",
+            "expanded_url": "https://twitter.com/VisitLB/status/803735648595111936/photo/1",
+            "id": 803735643872436224,
+            "media_url": "http://pbs.twimg.com/media/CydxT0pWIAA9_ay.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CydxT0pWIAA9_ay.jpg",
+            "type": "photo",
+            "url": "https://t.co/1LInnYO68G"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Have you seen @TrueNaplesPizza's new $10 lunch menu? Great pastas, panini, and pizzas to choose from! https://t.co/1LInnYO68G",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1050,
+        "followers_count": 13077,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13302,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2202122701,
+            "name": "Michael's Pizzeria",
+            "screen_name": "TrueNaplesPizza"
+        }
+    ]
+}
