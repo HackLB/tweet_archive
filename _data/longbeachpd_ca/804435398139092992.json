@@ -1,0 +1,93 @@
+{
+    "created_at": "Thu Dec 01 21:21:59 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 804435398139092992,
+    "id_str": "804435398139092992",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Dec 01 19:33:23 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 804408068284919808,
+        "id_str": "804408068284919808",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Our third Policing Hearing is this Saturday, Dec. 3rd in #LongBeach. Anyone is invited to attend and participate! https://t.co/riC9lHOHA0",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2fQj93x",
+                "url": "https://t.co/riC9lHOHA0"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Aug 17 00:46:31 +0000 2012",
+            "description": "Community and Senior Services (CSS) is committed to providing services which have positive impacts on the lives of the citizens of Los Angeles County.",
+            "favourites_count": 339,
+            "followers_count": 507,
+            "friends_count": 166,
+            "geo_enabled": true,
+            "id": 762656257,
+            "lang": "en",
+            "listed_count": 23,
+            "location": "Los Angeles County",
+            "name": "LACo Comm&SeniorSrvs",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/762656257/1399672746",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2755323329/53933f4878a4533d8f80879c931699de_normal.jpeg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "LACountyCSS",
+            "statuses_count": 1345,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/cYaaSf942w",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LACountyCSS: Our third Policing Hearing is this Saturday, Dec. 3rd in #LongBeach. Anyone is invited to attend and participate! https://…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4373,
+        "followers_count": 8698,
+        "friends_count": 430,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6121,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 762656257,
+            "name": "LACo Comm&SeniorSrvs",
+            "screen_name": "LACountyCSS"
+        }
+    ]
+}
