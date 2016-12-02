@@ -1,0 +1,87 @@
+{
+    "created_at": "Fri Dec 02 22:47:42 +0000 2016",
+    "hashtags": [],
+    "id": 804819356681015296,
+    "id_str": "804819356681015296",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Dec 02 22:38:35 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 804817063139155969,
+        "id_str": "804817063139155969",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "film shoot at 5th &amp; pine in downtown long beach today. guy rolls out of taxi in pursuit of grim reaper running mara… https://t.co/jf5tjWvR0S",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/804817063139155969",
+                "url": "https://t.co/jf5tjWvR0S"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 09 23:31:36 +0000 2009",
+            "description": "Founder/Principal @Ironfire & FolioSnap.  Focused on tech, innovation, community, branding, personal growth, and future of work. Superdad. Sex icon.",
+            "favourites_count": 458,
+            "followers_count": 400,
+            "friends_count": 532,
+            "geo_enabled": true,
+            "id": 45977520,
+            "lang": "en",
+            "listed_count": 39,
+            "location": "Long Beach, CA",
+            "name": "Josh Rencher",
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110093579/symbolsbg.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/545715298603499520/K78Jtkci_normal.jpeg",
+            "profile_link_color": "336699",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "screen_name": "joshrencher",
+            "statuses_count": 2750,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @joshrencher: film shoot at 5th &amp; pine in downtown long beach today. guy rolls out of taxi in pursuit of grim reaper running marathon. @…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2109,
+        "followers_count": 12855,
+        "friends_count": 724,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4186,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 45977520,
+            "name": "Josh Rencher",
+            "screen_name": "joshrencher"
+        }
+    ]
+}
