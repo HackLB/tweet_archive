@@ -1,0 +1,91 @@
+{
+    "created_at": "Fri Dec 02 17:53:19 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "sparkoflove"
+        },
+        {
+            "text": "ToysforTots"
+        }
+    ],
+    "id": 804745273935208448,
+    "id_str": "804745273935208448",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.09418678283691,
+                        33.86214838343116
+                    ],
+                    [
+                        -118.09418678283691,
+                        33.86214838343116
+                    ],
+                    [
+                        -118.09418678283691,
+                        33.86214838343116
+                    ],
+                    [
+                        -118.09418678283691,
+                        33.86214838343116
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Cerritos Center",
+        "id": "07d9ec93ec085002",
+        "name": "Los Cerritos Center",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ec93ec085002.json"
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#sparkoflove joining forces with @USMC #ToysforTots to bring joy and happiness to those in need. Come donate at the… https://t.co/zdtg2f4emf",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/804745273935208448",
+            "url": "https://t.co/zdtg2f4emf"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 566,
+        "followers_count": 4868,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 183,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2271,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 10126672,
+            "name": "U.S. Marines",
+            "screen_name": "USMC"
+        }
+    ]
+}
