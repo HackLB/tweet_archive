@@ -1,0 +1,93 @@
+{
+    "created_at": "Fri Dec 02 15:33:44 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBPD"
+        }
+    ],
+    "id": 804710149025730562,
+    "id_str": "804710149025730562",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Nov 29 00:06:51 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "LBPD"
+            }
+        ],
+        "id": 803389726417793024,
+        "id_str": "803389726417793024",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#LBPD West Division invites you to join us for our 7th Annual Holiday Mixer on Dec 14th! Please RSVP to 562-570-346… https://t.co/JRGeHAhZwe",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/803389726417793024",
+                "url": "https://t.co/JRGeHAhZwe"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 06 20:35:01 +0000 2016",
+            "default_profile": true,
+            "description": "Follow us for info and events occurring in the West Division area of the City of LB, and more. Call 9-1-1 for emergencies.",
+            "favourites_count": 16,
+            "followers_count": 115,
+            "friends_count": 74,
+            "id": 773258224292143104,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "Long Beach, CA",
+            "name": "LBPD West Division",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/773258224292143104/1478742765",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796126096143958016/DIUI8EmG_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBPDWest_CA",
+            "statuses_count": 61,
+            "url": "https://t.co/iURxK2Rhwt"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPDWest_CA: #LBPD West Division invites you to join us for our 7th Annual Holiday Mixer on Dec 14th! Please RSVP to 562-570-3461. #Lon…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Oct 08 08:12:15 +0000 2013",
+        "default_profile": true,
+        "description": "Councilmember for Long Beach's Seventh Council District with an extensive record of community service in Long Beach and nationally. #LBCD7",
+        "favourites_count": 222,
+        "followers_count": 1396,
+        "friends_count": 699,
+        "geo_enabled": true,
+        "id": 1946157084,
+        "lang": "en",
+        "listed_count": 56,
+        "location": "Long Beach, CA",
+        "name": "Roberto Uranga",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946157084/1457045376",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626124091058098177/0DIuXOTc_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertoUranga",
+        "statuses_count": 1713,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DatliYapBe",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 773258224292143104,
+            "name": "LBPD West Division",
+            "screen_name": "LBPDWest_CA"
+        }
+    ]
+}
