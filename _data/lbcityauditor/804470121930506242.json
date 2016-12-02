@@ -1,0 +1,39 @@
+{
+    "created_at": "Thu Dec 01 23:39:58 +0000 2016",
+    "hashtags": [],
+    "id": 804470121930506242,
+    "id_str": "804470121930506242",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We'll be kicking off the holiday season at the Belmont Shore Christmas Parade on Sat. Hope to see you there! \nhttps://t.co/dEPW4XAApa",
+    "urls": [
+        {
+            "expanded_url": "http://www.presstelegram.com/lifestyle/20161130/everything-you-need-to-know-about-the-belmont-shore-christmas-parade",
+            "url": "https://t.co/dEPW4XAApa"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 02 22:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Independence you can rely on",
+        "favourites_count": 47,
+        "followers_count": 1175,
+        "friends_count": 75,
+        "id": 3527837897,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Long Beach, CA",
+        "name": "LongBeachCityAuditor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3527837897/1446766353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639210250747277312/cxBCMmTb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LBCityAuditor",
+        "statuses_count": 147,
+        "url": "http://t.co/DnuCB1NyXU"
+    },
+    "user_mentions": []
+}
