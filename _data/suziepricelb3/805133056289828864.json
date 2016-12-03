@@ -1,0 +1,90 @@
+{
+    "created_at": "Sat Dec 03 19:34:13 +0000 2016",
+    "hashtags": [],
+    "id": 805133056289828864,
+    "id_str": "805133056289828864",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/PzJfLgS4NV",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/805133056289828864/photo/1",
+            "id": 805133047867682816,
+            "media_url": "http://pbs.twimg.com/media/CyxoPcMUsAAQFF9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyxoPcMUsAAQFF9.jpg",
+            "type": "photo",
+            "url": "https://t.co/PzJfLgS4NV"
+        },
+        {
+            "display_url": "pic.twitter.com/PzJfLgS4NV",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/805133056289828864/photo/1",
+            "id": 805133047876046849,
+            "media_url": "http://pbs.twimg.com/media/CyxoPcOUUAEnpU6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyxoPcOUUAEnpU6.jpg",
+            "type": "photo",
+            "url": "https://t.co/PzJfLgS4NV"
+        },
+        {
+            "display_url": "pic.twitter.com/PzJfLgS4NV",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/805133056289828864/photo/1",
+            "id": 805133047867637760,
+            "media_url": "http://pbs.twimg.com/media/CyxoPcMUAAAWJdW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyxoPcMUAAAWJdW.jpg",
+            "type": "photo",
+            "url": "https://t.co/PzJfLgS4NV"
+        },
+        {
+            "display_url": "pic.twitter.com/PzJfLgS4NV",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/805133056289828864/photo/1",
+            "id": 805133047959932928,
+            "media_url": "http://pbs.twimg.com/media/CyxoPciUUAAM6rf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyxoPciUUAAM6rf.jpg",
+            "type": "photo",
+            "url": "https://t.co/PzJfLgS4NV"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "100+ at girls empowerment&amp;leadership forum. encouraging strength&amp;pride.@LBCityAuditor @WilsonBruins @Interval_House https://t.co/PzJfLgS4NV",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 65,
+        "followers_count": 1831,
+        "friends_count": 1953,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1183,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3527837897,
+            "name": "LongBeachCityAuditor",
+            "screen_name": "LBCityAuditor"
+        },
+        {
+            "id": 354195607,
+            "name": "Wilson High School",
+            "screen_name": "WilsonBruins"
+        },
+        {
+            "id": 85642744,
+            "name": "Interval House",
+            "screen_name": "Interval_House"
+        }
+    ]
+}
