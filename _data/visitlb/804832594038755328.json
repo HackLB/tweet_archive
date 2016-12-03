@@ -1,0 +1,60 @@
+{
+    "created_at": "Fri Dec 02 23:40:18 +0000 2016",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "FBF"
+        }
+    ],
+    "id": 804832594038755328,
+    "id_str": "804832594038755328",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "#FBF to @TheQueenMary being named 1 of the Most Haunted Places in the USA by @NatGeo! Have you been on board yet?… https://t.co/5em3K8n6Ca",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/804832594038755328",
+            "url": "https://t.co/5em3K8n6Ca"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1057,
+        "followers_count": 13088,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13317,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 19261737,
+            "name": "Queen Mary",
+            "screen_name": "TheQueenMary"
+        },
+        {
+            "id": 17471979,
+            "name": "National Geographic",
+            "screen_name": "NatGeo"
+        }
+    ]
+}
