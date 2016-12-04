@@ -1,0 +1,97 @@
+{
+    "created_at": "Sun Dec 04 17:51:50 +0000 2016",
+    "hashtags": [],
+    "id": 805469677157642240,
+    "id_str": "805469677157642240",
+    "lang": "en",
+    "retweet_count": 17,
+    "retweeted_status": {
+        "created_at": "Sun Dec 04 16:13:27 +0000 2016",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 805444919779168257,
+        "id_str": "805444919779168257",
+        "lang": "en",
+        "retweet_count": 17,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "OAKLAND UPDATE: 24 deceased victims of the fire have been located, officials say. LIVE: https://t.co/YlTlULEW6J &amp;… https://t.co/fXIUGiahPO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://cbsloc.al/1Aoykb2",
+                "url": "https://t.co/YlTlULEW6J"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/805444919779168257",
+                "url": "https://t.co/fXIUGiahPO"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 17 18:40:17 +0000 2009",
+            "description": "News, Sports, Weather, Traffic and the Best of LA and OC. CBS2, KCAL9 and KNX. \nDownload our app for BREAKING NEWS: http://t.co/i1Mp9WsUTH",
+            "favourites_count": 396,
+            "followers_count": 137859,
+            "friends_count": 2336,
+            "geo_enabled": true,
+            "id": 24928809,
+            "lang": "en",
+            "listed_count": 2770,
+            "location": "Los Angeles",
+            "name": "CBS Los Angeles",
+            "profile_background_color": "000033",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000056020997/f0dc7969a14b63c7b5d9f7b0dc0e3c77.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24928809/1437676603",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/625722540892143616/9RoFJo3Y_normal.jpg",
+            "profile_link_color": "080C4D",
+            "profile_sidebar_fill_color": "C9C7C9",
+            "profile_text_color": "000000",
+            "screen_name": "CBSLA",
+            "statuses_count": 95621,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/UG5Q3S72j8",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CBSLA: OAKLAND UPDATE: 24 deceased victims of the fire have been located, officials say. LIVE: https://t.co/YlTlULEW6J &amp; https://t.co/7…",
+    "urls": [
+        {
+            "expanded_url": "http://cbsloc.al/1Aoykb2",
+            "url": "https://t.co/YlTlULEW6J"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 566,
+        "followers_count": 4869,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 183,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2276,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 24928809,
+            "name": "CBS Los Angeles",
+            "screen_name": "CBSLA"
+        }
+    ]
+}
