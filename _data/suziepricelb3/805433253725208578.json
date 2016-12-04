@@ -1,0 +1,132 @@
+{
+    "created_at": "Sun Dec 04 15:27:06 +0000 2016",
+    "hashtags": [],
+    "id": 805433253725208578,
+    "id_str": "805433253725208578",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sun Dec 04 07:22:28 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 805311289396371456,
+        "id_str": "805311289396371456",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Belmont Shore Christmas Parade was BIG again tonight! Good times with family and community. @shorelongbeach @suziepriceLB3",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Feb 14 10:44:56 +0000 2009",
+            "description": "#LBDistrict8 #ATeam8 #uptownLB #UptownExperience #councilonthecorner #Bixbyknolls #district8Austin",
+            "favourites_count": 338,
+            "followers_count": 1043,
+            "friends_count": 703,
+            "geo_enabled": true,
+            "id": 20840963,
+            "lang": "en",
+            "listed_count": 18,
+            "location": "Long Beach, California",
+            "name": "Al Austin II",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/126119510/AL_L.B.C._5.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20840963/1472740820",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/691331293754163201/qrPgwqnB_normal.jpg",
+            "profile_link_color": "5252EB",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "austin2LB",
+            "statuses_count": 773,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/e4OLSUOdLQ",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 191868700,
+                "name": "Belmont Shore",
+                "screen_name": "shorelongbeach"
+            },
+            {
+                "id": 2317854206,
+                "name": "Suzie Price",
+                "screen_name": "suziepriceLB3"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @austin2LB: The Belmont Shore Christmas Parade was BIG again tonight! Good times with family and community. @shorelongbeach @suziepriceL…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 65,
+        "followers_count": 1832,
+        "friends_count": 1953,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1185,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20840963,
+            "name": "Al Austin II",
+            "screen_name": "austin2LB"
+        },
+        {
+            "id": 191868700,
+            "name": "Belmont Shore",
+            "screen_name": "shorelongbeach"
+        }
+    ]
+}
