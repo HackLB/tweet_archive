@@ -1,0 +1,122 @@
+{
+    "created_at": "Mon Dec 05 16:44:26 +0000 2016",
+    "hashtags": [],
+    "id": 805815101940895744,
+    "id_str": "805815101940895744",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/I3r0BOAfkq",
+            "expanded_url": "https://twitter.com/LBPDDIS/status/805814850177765376/photo/1",
+            "id": 805814838081396736,
+            "media_url": "http://pbs.twimg.com/media/Cy7UU2qUoAAH_Dj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy7UU2qUoAAH_Dj.jpg",
+            "type": "photo",
+            "url": "https://t.co/I3r0BOAfkq"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Dec 05 16:43:26 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 805814850177765376,
+        "id_str": "805814850177765376",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/I3r0BOAfkq",
+                "expanded_url": "https://twitter.com/LBPDDIS/status/805814850177765376/photo/1",
+                "id": 805814838081396736,
+                "media_url": "http://pbs.twimg.com/media/Cy7UU2qUoAAH_Dj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cy7UU2qUoAAH_Dj.jpg",
+                "type": "photo",
+                "url": "https://t.co/I3r0BOAfkq"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Detective K9 \"Ozzy\" Securing the @LBAirport for Holiday travelers. Thanks Ozzy! @LongBeachPD_CA https://t.co/I3r0BOAfkq",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Jun 21 01:20:28 +0000 2015",
+            "description": "The Drug Investigations Section is responsible for investigating illegal drug sales occurring within the City of Long Beach. DIS Hotline at (562) 570-7125.",
+            "favourites_count": 42,
+            "followers_count": 718,
+            "friends_count": 82,
+            "id": 3251065470,
+            "lang": "en",
+            "listed_count": 21,
+            "location": "Long Beach, CA",
+            "name": "LBPD Narcotics",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3251065470/1479433151",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/805815866663145472/owVwZXpP_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LBPDDIS",
+            "statuses_count": 141,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/2GTG7802bJ",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            },
+            {
+                "id": 50097116,
+                "name": "Long Beach PD",
+                "screen_name": "LongBeachPD_CA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPDDIS: Detective K9 \"Ozzy\" Securing the @LBAirport for Holiday travelers. Thanks Ozzy! @LongBeachPD_CA https://t.co/I3r0BOAfkq",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4377,
+        "followers_count": 8706,
+        "friends_count": 430,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6132,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3251065470,
+            "name": "LBPD Narcotics",
+            "screen_name": "LBPDDIS"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        }
+    ]
+}
