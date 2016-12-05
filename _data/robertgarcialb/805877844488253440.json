@@ -1,0 +1,155 @@
+{
+    "created_at": "Mon Dec 05 20:53:45 +0000 2016",
+    "hashtags": [],
+    "id": 805877844488253440,
+    "id_str": "805877844488253440",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Dec 05 20:35:50 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 805873335003320320,
+        "id_str": "805873335003320320",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.24566721916199,
+                            34.057032741059686
+                        ],
+                        [
+                            -118.24566721916199,
+                            34.057032741059686
+                        ],
+                        [
+                            -118.24566721916199,
+                            34.057032741059686
+                        ],
+                        [
+                            -118.24566721916199,
+                            34.057032741059686
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "County of Los Angeles, Hall of Administration",
+            "id": "07d9c99d24087005",
+            "name": "County of Los Angeles, Hall of Administration",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c99d24087005.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Our @LBMayorsOffice @RobertGarciaLB offering congratulations &amp; thanks to @SupJaniceHahn upon her swearing in.… https://t.co/vALNKPMTKS",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/805873335003320320",
+                "url": "https://t.co/vALNKPMTKS"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 31 21:11:51 +0000 2008",
+            "description": "Partner, parent, education advocate, School Board Member. Feminist. Rescue dog Foster mom. LBC. views clearly my own. RT≠endorsement",
+            "favourites_count": 6317,
+            "followers_count": 1071,
+            "friends_count": 2528,
+            "geo_enabled": true,
+            "id": 18516432,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "Long Beach",
+            "name": "Megan Kerr",
+            "profile_background_color": "071A29",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/858725935/bfe966dc4068f11ec714b370d9b4c0ae.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18516432/1456703760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798001913820123141/q1dE9vdb_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_fill_color": "448C20",
+            "profile_text_color": "3FA750",
+            "screen_name": "megankerr",
+            "statuses_count": 8259,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/UWIhiBCxIa",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 43925013,
+                "name": "LB Mayor's Office",
+                "screen_name": "LBMayorsOffice"
+            },
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 339852137,
+                "name": "Supervisor Hahn",
+                "screen_name": "SupJaniceHahn"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @megankerr: Our @LBMayorsOffice @RobertGarciaLB offering congratulations &amp; thanks to @SupJaniceHahn upon her swearing in. #strongwomenle…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5051,
+        "followers_count": 11428,
+        "friends_count": 2046,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9568,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18516432,
+            "name": "Megan Kerr",
+            "screen_name": "megankerr"
+        },
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 339852137,
+            "name": "Supervisor Hahn",
+            "screen_name": "SupJaniceHahn"
+        }
+    ]
+}
