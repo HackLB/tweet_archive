@@ -1,0 +1,173 @@
+{
+    "created_at": "Tue Dec 06 20:17:02 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Oceanaire"
+        },
+        {
+            "text": "DTLB"
+        },
+        {
+            "text": "DTLB"
+        }
+    ],
+    "id": 806230994114125824,
+    "id_str": "806230994114125824",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Dec 06 19:30:11 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "Oceanaire"
+            },
+            {
+                "text": "DTLB"
+            }
+        ],
+        "id": 806219203887775744,
+        "id_str": "806219203887775744",
+        "in_reply_to_screen_name": "RobertGarciaLB",
+        "in_reply_to_user_id": 18120497,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RobertGarciaLB &amp; @Jeannine4D2 breaking ground on the #Oceanaire project in #DTLB. Tnx 2 @Lennar for continuing… https://t.co/xMVRC0jbbd",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806219203887775744",
+                "url": "https://t.co/xMVRC0jbbd"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1583,
+            "followers_count": 4018,
+            "friends_count": 1286,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 88,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2116,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 4127559133,
+                "name": "Jeannine Pearce",
+                "screen_name": "Jeannine4D2"
+            },
+            {
+                "id": 15397465,
+                "name": "Lennar",
+                "screen_name": "Lennar"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LBMayorsOffice: @RobertGarciaLB &amp; @Jeannine4D2 breaking ground on the #Oceanaire project in #DTLB. Tnx 2 @Lennar for continuing #DTLB r…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2110,
+        "followers_count": 12878,
+        "friends_count": 724,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4192,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        },
+        {
+            "id": 15397465,
+            "name": "Lennar",
+            "screen_name": "Lennar"
+        }
+    ]
+}
