@@ -1,0 +1,51 @@
+{
+    "created_at": "Tue Dec 06 21:01:48 +0000 2016",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 806242258123194369,
+    "id_str": "806242258123194369",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "The @ussiowa has decked their halls &amp; the#NorthPole Night Tours have begun! Take part in the holiday fun thru 12/31… https://t.co/Ov2IEWoXrF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/806242258123194369",
+            "url": "https://t.co/Ov2IEWoXrF"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1061,
+        "followers_count": 13085,
+        "friends_count": 1797,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13323,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 38276009,
+            "name": "Battleship IOWA",
+            "screen_name": "ussiowa"
+        }
+    ]
+}
