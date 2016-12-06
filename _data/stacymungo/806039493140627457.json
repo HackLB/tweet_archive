@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Dec 06 07:36:05 +0000 2016",
+    "hashtags": [
+        {
+            "text": "SGR10in10"
+        },
+        {
+            "text": "ServantLeadership"
+        }
+    ],
+    "id": 806039493140627457,
+    "id_str": "806039493140627457",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Dec 05 15:29:52 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "SGR10in10"
+            },
+            {
+                "text": "ServantLeadership"
+            }
+        ],
+        "id": 805796337966981120,
+        "id_str": "805796337966981120",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The Unexpected Benefits of Celebrating Failure https://t.co/f5BvXW37hi @TEDTalks @StrategicGovt #SGR10in10 #ServantLeadership",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2fEiirg",
+                "url": "https://t.co/f5BvXW37hi"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Aug 07 15:45:52 +0000 2013",
+            "description": "Public servant. Father. Innovator. Happy warrior. City Manager @santamonicacity #I'mWithHer \nOpinions mine, RTs not endorsements",
+            "favourites_count": 75,
+            "followers_count": 3115,
+            "friends_count": 828,
+            "geo_enabled": true,
+            "id": 1653260270,
+            "lang": "en",
+            "listed_count": 232,
+            "location": "Santa Monica, CA",
+            "name": "Rick Cole",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110061052/46c6a53f1347dcdeecdd0445125b3d15.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653260270/1463198866",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/626573936096997376/fwH4WUsg_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "SaMoCole",
+            "statuses_count": 16284,
+            "time_zone": "Arizona",
+            "url": "https://t.co/9gOQqg1bbw",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 15492359,
+                "name": "TED Talks",
+                "screen_name": "TEDTalks"
+            },
+            {
+                "id": 70433441,
+                "name": "SGR",
+                "screen_name": "StrategicGovt"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SaMoCole: The Unexpected Benefits of Celebrating Failure https://t.co/f5BvXW37hi @TEDTalks @StrategicGovt #SGR10in10 #ServantLeadership",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2fEiirg",
+            "url": "https://t.co/f5BvXW37hi"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 517,
+        "followers_count": 3977,
+        "friends_count": 1163,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1972,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 1653260270,
+            "name": "Rick Cole",
+            "screen_name": "SaMoCole"
+        },
+        {
+            "id": 15492359,
+            "name": "TED Talks",
+            "screen_name": "TEDTalks"
+        },
+        {
+            "id": 70433441,
+            "name": "SGR",
+            "screen_name": "StrategicGovt"
+        }
+    ]
+}

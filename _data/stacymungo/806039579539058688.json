@@ -1,0 +1,98 @@
+{
+    "created_at": "Tue Dec 06 07:36:25 +0000 2016",
+    "hashtags": [],
+    "id": 806039579539058688,
+    "id_str": "806039579539058688",
+    "lang": "en",
+    "retweet_count": 159,
+    "retweeted_status": {
+        "created_at": "Mon Dec 05 22:01:02 +0000 2016",
+        "favorite_count": 468,
+        "hashtags": [],
+        "id": 805894778231652353,
+        "id_str": "805894778231652353",
+        "lang": "en",
+        "retweet_count": 159,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "Congratulations to the @virgingalactic team on 5th VSS Unity flight test. We were cheering on from the flight line!… https://t.co/MJI32C7JEv",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/805894778231652353",
+                "url": "https://t.co/MJI32C7JEv"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 13 15:20:18 +0000 2007",
+            "description": "Tie-loathing adventurer, philanthropist & troublemaker, who believes in turning ideas into reality. Otherwise known as Dr Yes at @virgin!",
+            "favourites_count": 3,
+            "followers_count": 8998942,
+            "friends_count": 3842,
+            "geo_enabled": true,
+            "id": 8161232,
+            "lang": "en",
+            "listed_count": 47254,
+            "name": "Richard Branson",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400255522/RByoutube.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8161232/1467904599",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/653533858453811200/Zm8P8_k0_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "CC0000",
+            "screen_name": "richardbranson",
+            "statuses_count": 14377,
+            "time_zone": "London",
+            "url": "http://t.co/pWM2y98gTu",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 26208862,
+                "name": "Virgin Galactic",
+                "screen_name": "virgingalactic"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @richardbranson: Congratulations to the @virgingalactic team on 5th VSS Unity flight test. We were cheering on from the flight line! htt…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 517,
+        "followers_count": 3977,
+        "friends_count": 1163,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1972,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 8161232,
+            "name": "Richard Branson",
+            "screen_name": "richardbranson"
+        },
+        {
+            "id": 26208862,
+            "name": "Virgin Galactic",
+            "screen_name": "virgingalactic"
+        }
+    ]
+}
