@@ -1,0 +1,76 @@
+{
+    "created_at": "Mon Dec 05 22:45:07 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 805905873654534144,
+    "id_str": "805905873654534144",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/K85Js3HTne",
+            "expanded_url": "https://twitter.com/LBCityAuditor/status/805905873654534144/photo/1",
+            "id": 805905710898741248,
+            "media_url": "http://pbs.twimg.com/media/Cy8m-WSUAAAfayM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy8m-WSUAAAfayM.jpg",
+            "type": "photo",
+            "url": "https://t.co/K85Js3HTne"
+        },
+        {
+            "display_url": "pic.twitter.com/K85Js3HTne",
+            "expanded_url": "https://twitter.com/LBCityAuditor/status/805905873654534144/photo/1",
+            "id": 805905730503000064,
+            "media_url": "http://pbs.twimg.com/media/Cy8m_fUVQAAWA6Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy8m_fUVQAAWA6Y.jpg",
+            "type": "photo",
+            "url": "https://t.co/K85Js3HTne"
+        },
+        {
+            "display_url": "pic.twitter.com/K85Js3HTne",
+            "expanded_url": "https://twitter.com/LBCityAuditor/status/805905873654534144/photo/1",
+            "id": 805905767421181952,
+            "media_url": "http://pbs.twimg.com/media/Cy8nBo2UAAA8VRU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy8nBo2UAAA8VRU.jpg",
+            "type": "photo",
+            "url": "https://t.co/K85Js3HTne"
+        },
+        {
+            "display_url": "pic.twitter.com/K85Js3HTne",
+            "expanded_url": "https://twitter.com/LBCityAuditor/status/805905873654534144/photo/1",
+            "id": 805905814019981312,
+            "media_url": "http://pbs.twimg.com/media/Cy8nEWcVQAAoM95.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy8nEWcVQAAoM95.jpg",
+            "type": "photo",
+            "url": "https://t.co/K85Js3HTne"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We had a ton of holiday fun with the #LongBeach community at the 2016 Belmont Shore Christmas Parade! https://t.co/K85Js3HTne",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Sep 02 22:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Independence you can rely on",
+        "favourites_count": 50,
+        "followers_count": 1175,
+        "friends_count": 77,
+        "id": 3527837897,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Long Beach, CA",
+        "name": "LongBeachCityAuditor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3527837897/1446766353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639210250747277312/cxBCMmTb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LBCityAuditor",
+        "statuses_count": 148,
+        "url": "http://t.co/DnuCB1NyXU"
+    },
+    "user_mentions": []
+}
