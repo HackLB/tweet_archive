@@ -1,0 +1,51 @@
+{
+    "created_at": "Tue Dec 06 04:56:17 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "EquityLB"
+        }
+    ],
+    "id": 805999279793807364,
+    "id_str": "805999279793807364",
+    "in_reply_to_screen_name": "kat_boyd",
+    "in_reply_to_status_id": 805999066437984256,
+    "in_reply_to_user_id": 321095850,
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@kat_boyd Thanks for engaging in dialogue that helps us all grow! #EquityLB",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1353,
+        "followers_count": 2358,
+        "friends_count": 1284,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2151,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 321095850,
+            "name": "Kathleen Boyd",
+            "screen_name": "kat_boyd"
+        }
+    ]
+}
