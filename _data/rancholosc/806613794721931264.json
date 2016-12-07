@@ -1,0 +1,42 @@
+{
+    "created_at": "Wed Dec 07 21:38:09 +0000 2016",
+    "hashtags": [],
+    "id": 806613794721931264,
+    "id_str": "806613794721931264",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We have a few spots left for our popular Cocoa with Santa event. Get your tickets today! This event WILL sell out!… https://t.co/9kIvAiVshf",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/806613794721931264",
+            "url": "https://t.co/9kIvAiVshf"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 62,
+        "followers_count": 516,
+        "friends_count": 112,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 226,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
