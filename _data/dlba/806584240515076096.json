@@ -1,0 +1,102 @@
+{
+    "created_at": "Wed Dec 07 19:40:43 +0000 2016",
+    "hashtags": [],
+    "id": 806584240515076096,
+    "id_str": "806584240515076096",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon Dec 05 20:20:29 +0000 2016",
+        "favorite_count": 21,
+        "hashtags": [],
+        "id": 805869474293366789,
+        "id_str": "805869474293366789",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MfdUITlw9X",
+                "expanded_url": "https://twitter.com/StP_BrokenBones/status/805869474293366789/photo/1",
+                "id": 805869471667720192,
+                "media_url": "http://pbs.twimg.com/media/Cy8GA8oWEAA-AcN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cy8GA8oWEAA-AcN.jpg",
+                "type": "photo",
+                "url": "https://t.co/MfdUITlw9X"
+            }
+        ],
+        "retweet_count": 7,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "Join us in downtown Long Beach, CA on 12/31 to ring in the New Year. \nTickets and line up … https://t.co/be6Nycd0Ds https://t.co/MfdUITlw9X",
+        "urls": [
+            {
+                "expanded_url": "http://ift.tt/2g7PacB",
+                "url": "https://t.co/be6Nycd0Ds"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 05 18:53:33 +0000 2012",
+            "description": "Sea of Noise, available 9/9 on @recordsllc",
+            "favourites_count": 2358,
+            "followers_count": 19576,
+            "friends_count": 1123,
+            "geo_enabled": true,
+            "id": 515752079,
+            "lang": "en",
+            "listed_count": 335,
+            "location": "Birmingham, AL",
+            "name": "St. Paul and The BB",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169402149/I3bQc3Yd.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/515752079/1464797027",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/743096079294603264/9kj811LK_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "StP_BrokenBones",
+            "statuses_count": 1849,
+            "url": "https://t.co/yc54VHvlxK",
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @StP_BrokenBones: Join us in downtown Long Beach, CA on 12/31 to ring in the New Year. \nTickets and line up … https://t.co/be6Nycd0Ds ht…",
+    "urls": [
+        {
+            "expanded_url": "http://ift.tt/2g7PacB",
+            "url": "https://t.co/be6Nycd0Ds"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2115,
+        "followers_count": 12880,
+        "friends_count": 725,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4196,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 515752079,
+            "name": "St. Paul and The BB",
+            "screen_name": "StP_BrokenBones"
+        }
+    ]
+}
