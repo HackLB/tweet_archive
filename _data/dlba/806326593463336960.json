@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Dec 07 02:36:55 +0000 2016",
+    "hashtags": [
+        {
+            "text": "HarveyMilkPark"
+        },
+        {
+            "text": "DTLB"
+        }
+    ],
+    "id": 806326593463336960,
+    "id_str": "806326593463336960",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 07 01:24:09 +0000 2016",
+        "hashtags": [
+            {
+                "text": "HarveyMilkPark"
+            },
+            {
+                "text": "DTLB"
+            }
+        ],
+        "id": 806308282331582464,
+        "id_str": "806308282331582464",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Forget your lunch tomorrow! Come to #HarveyMilkPark for Eat and Great with your #DTLB work neighbors at Noon instead. Food trucks onsite!",
+        "urls": [],
+        "user": {
+            "created_at": "Wed May 23 06:25:03 +0000 2012",
+            "description": "Work Evolution Laboratories is a collaborative co-working space for creative and innovative minds to work, learn, & grow. Event space available!",
+            "favourites_count": 9127,
+            "followers_count": 1476,
+            "friends_count": 1188,
+            "geo_enabled": true,
+            "id": 588057410,
+            "lang": "en",
+            "listed_count": 109,
+            "location": "235 E. Broadway Suite 800 LBC ",
+            "name": "WE_Labs",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/588057410/1396487936",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000822995635/fbb6271a2e265025857469e6986c5ede_normal.jpeg",
+            "profile_link_color": "009999",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "WE_Labs",
+            "statuses_count": 2013,
+            "time_zone": "Arizona",
+            "url": "http://t.co/cpD5EJq1dl",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @WE_Labs: Forget your lunch tomorrow! Come to #HarveyMilkPark for Eat and Great with your #DTLB work neighbors at Noon instead. Food tru…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2115,
+        "followers_count": 12878,
+        "friends_count": 724,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4193,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 588057410,
+            "name": "WE_Labs",
+            "screen_name": "WE_Labs"
+        }
+    ]
+}
