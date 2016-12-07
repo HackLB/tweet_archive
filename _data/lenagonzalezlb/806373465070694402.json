@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Dec 07 05:43:10 +0000 2016",
+    "hashtags": [
+        {
+            "text": "NoDAPL"
+        }
+    ],
+    "id": 806373465070694402,
+    "id_str": "806373465070694402",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Wed Dec 07 03:58:39 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "NoDAPL"
+            }
+        ],
+        "id": 806347163861037056,
+        "id_str": "806347163861037056",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.19566011428833,
+                            33.768231410536345
+                        ],
+                        [
+                            -118.19566011428833,
+                            33.768231410536345
+                        ],
+                        [
+                            -118.19566011428833,
+                            33.768231410536345
+                        ],
+                        [
+                            -118.19566011428833,
+                            33.768231410536345
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach City Hall",
+            "id": "07d9f7cb42880001",
+            "name": "Long Beach City Hall",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9f7cb42880001.json"
+        },
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Aho to the Long Beach City Council for passing a resolution in support of #NoDAPL! Thank you for standing with our… https://t.co/83SxC9Yahz",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806347163861037056",
+                "url": "https://t.co/83SxC9Yahz"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 01 20:13:30 +0000 2011",
+            "description": "Building Healthy Communities: Long Beach takes action for health equity by supporting community organizing and collaboration in Central & West Long Beach",
+            "favourites_count": 662,
+            "followers_count": 1217,
+            "friends_count": 443,
+            "geo_enabled": true,
+            "id": 259381632,
+            "lang": "en",
+            "listed_count": 55,
+            "location": "Long Beach, CA",
+            "name": "BHC Long Beach",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262916400/LOGO--BHCLB-Youth_Logo_Design_Final_HI_RES.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/259381632/1455315296",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/705070701938511872/_77QqpoQ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "BHCLongBeach",
+            "statuses_count": 2579,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/22AQrtzLJ8",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BHCLongBeach: Aho to the Long Beach City Council for passing a resolution in support of #NoDAPL! Thank you for standing with our native…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Microsoft employed. LMU-MBA student. Long Beach lover",
+        "favourites_count": 406,
+        "followers_count": 1659,
+        "friends_count": 1765,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1480604077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 765,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 259381632,
+            "name": "BHC Long Beach",
+            "screen_name": "BHCLongBeach"
+        }
+    ]
+}
