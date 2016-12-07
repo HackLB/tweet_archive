@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Dec 07 18:35:51 +0000 2016",
+    "hashtags": [
+        {
+            "text": "PearlHarbor"
+        },
+        {
+            "text": "PearlHarborRemembranceDay"
+        }
+    ],
+    "id": 806567918188171265,
+    "id_str": "806567918188171265",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/xD3tIBRDEG",
+            "expanded_url": "https://twitter.com/ABC7/status/806503110554230784/video/1",
+            "id": 806502123382841344,
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/806502123382841344/img/Aem7Iy5knLmwlnA_.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/806502123382841344/img/Aem7Iy5knLmwlnA_.jpg",
+            "type": "video",
+            "url": "https://t.co/xD3tIBRDEG"
+        }
+    ],
+    "retweet_count": 143,
+    "retweeted_status": {
+        "created_at": "Wed Dec 07 14:18:20 +0000 2016",
+        "favorite_count": 98,
+        "hashtags": [
+            {
+                "text": "PearlHarbor"
+            },
+            {
+                "text": "PearlHarborRemembranceDay"
+            }
+        ],
+        "id": 806503110554230784,
+        "id_str": "806503110554230784",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xD3tIBRDEG",
+                "expanded_url": "https://twitter.com/ABC7/status/806503110554230784/video/1",
+                "id": 806502123382841344,
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/806502123382841344/img/Aem7Iy5knLmwlnA_.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/806502123382841344/img/Aem7Iy5knLmwlnA_.jpg",
+                "type": "video",
+                "url": "https://t.co/xD3tIBRDEG"
+            }
+        ],
+        "retweet_count": 143,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+        "text": "75 years ago today, #PearlHarbor was attacked. #PearlHarborRemembranceDay https://t.co/IF3Tqfh7IE https://t.co/xD3tIBRDEG",
+        "urls": [
+            {
+                "expanded_url": "http://abc7.la/2gk6toR",
+                "url": "https://t.co/IF3Tqfh7IE"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 20 04:22:30 +0000 2008",
+            "description": "Your #1 breaking news source in Southern California. When you witness news, share it with #abc7eyewitness.",
+            "favourites_count": 1526,
+            "followers_count": 777051,
+            "friends_count": 480,
+            "geo_enabled": true,
+            "id": 16374678,
+            "lang": "en",
+            "listed_count": 5526,
+            "name": "ABC7 Eyewitness News",
+            "profile_background_color": "044CC1",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671857914840158209/FvJioioo.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16374678/1397062039",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/803732289620426759/XD9oHmbE_normal.jpg",
+            "profile_link_color": "044CC1",
+            "profile_sidebar_fill_color": "DEDEDE",
+            "profile_text_color": "333333",
+            "screen_name": "ABC7",
+            "statuses_count": 119691,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/wA2krgrC90",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ABC7: 75 years ago today, #PearlHarbor was attacked. #PearlHarborRemembranceDay https://t.co/IF3Tqfh7IE https://t.co/xD3tIBRDEG",
+    "urls": [
+        {
+            "expanded_url": "http://abc7.la/2gk6toR",
+            "url": "https://t.co/IF3Tqfh7IE"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4377,
+        "followers_count": 8719,
+        "friends_count": 433,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6141,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 16374678,
+            "name": "ABC7 Eyewitness News",
+            "screen_name": "ABC7"
+        }
+    ]
+}

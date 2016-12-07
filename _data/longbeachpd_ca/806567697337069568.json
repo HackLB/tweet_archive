@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed Dec 07 18:34:59 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Periscope"
+        },
+        {
+            "text": "PearlHarborRemembranceDay"
+        },
+        {
+            "text": "PearlHarbor75"
+        },
+        {
+            "text": "HonorThePast"
+        },
+        {
+            "text": "InspireTheF"
+        }
+    ],
+    "id": 806567697337069568,
+    "id_str": "806567697337069568",
+    "lang": "en",
+    "retweet_count": 510,
+    "retweeted_status": {
+        "created_at": "Wed Dec 07 17:47:39 +0000 2016",
+        "favorite_count": 605,
+        "hashtags": [
+            {
+                "text": "Periscope"
+            },
+            {
+                "text": "PearlHarborRemembranceDay"
+            },
+            {
+                "text": "PearlHarbor75"
+            },
+            {
+                "text": "HonorThePast"
+            },
+            {
+                "text": "InspireTheF"
+            }
+        ],
+        "id": 806555786549698560,
+        "id_str": "806555786549698560",
+        "lang": "en",
+        "retweet_count": 510,
+        "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+        "text": "LIVE on #Periscope: #PearlHarborRemembranceDay Commemoration in Honolulu. #PearlHarbor75 #HonorThePast #InspireTheF… https://t.co/NUTipmPNFc",
+        "urls": [
+            {
+                "expanded_url": "https://www.periscope.tv/w/axbxOzF4a1FEcVJKYVpLem18MXlwS2RBcVdscWRHVxpvqPU5z2SlWxLN2Ob-4dhI96KShsuuQS59qalwt8RQ",
+                "url": "https://t.co/NUTipmPNFc"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 08 12:51:11 +0000 2009",
+            "description": "Official Twitter account of the #USNavy. (Following, RTs and links ≠ endorsement)",
+            "favourites_count": 352,
+            "followers_count": 733354,
+            "friends_count": 1222,
+            "id": 54885400,
+            "lang": "en",
+            "listed_count": 5855,
+            "location": "The 7 seas!",
+            "name": "U.S. Navy",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576967461624401920/HL3k3OGC.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54885400/1480916648",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/785776641066708992/nEqdAKde_normal.jpg",
+            "profile_link_color": "2C4D59",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "USNavy",
+            "statuses_count": 21888,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/L3wbdU7iJq",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @USNavy: LIVE on #Periscope: #PearlHarborRemembranceDay Commemoration in Honolulu. #PearlHarbor75 #HonorThePast #InspireTheF… https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4377,
+        "followers_count": 8719,
+        "friends_count": 433,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6141,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 54885400,
+            "name": "U.S. Navy",
+            "screen_name": "USNavy"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "created_at": "Wed Dec 07 18:36:16 +0000 2016",
+    "hashtags": [
+        {
+            "text": "PearlHarbor"
+        }
+    ],
+    "id": 806568023247101952,
+    "id_str": "806568023247101952",
+    "lang": "en",
+    "retweet_count": 1662,
+    "retweeted_status": {
+        "created_at": "Wed Dec 07 09:00:02 +0000 2016",
+        "favorite_count": 1490,
+        "hashtags": [
+            {
+                "text": "PearlHarbor"
+            }
+        ],
+        "id": 806423007119994880,
+        "id_str": "806423007119994880",
+        "lang": "en",
+        "retweet_count": 1662,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "75 yrs ago today, American service members were killed or hurt in the #PearlHarbor attack. We remember their sacrif… https://t.co/6wLMwkVzBn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806423007119994880",
+                "url": "https://t.co/6wLMwkVzBn"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 17 14:43:00 +0000 2009",
+            "description": "The official account of the U.S. Department of Defense.",
+            "favourites_count": 1291,
+            "followers_count": 2960216,
+            "friends_count": 965,
+            "geo_enabled": true,
+            "id": 66369181,
+            "lang": "en",
+            "listed_count": 11230,
+            "location": "Washington, DC",
+            "name": "U.S. Dept of Defense",
+            "profile_background_color": "003875",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/630819716068589568/2ibCFMIq.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66369181/1480873271",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/533350546027995137/b84VANoF_normal.png",
+            "profile_link_color": "355D92",
+            "profile_sidebar_fill_color": "DEDEDE",
+            "profile_text_color": "333333",
+            "screen_name": "DeptofDefense",
+            "statuses_count": 16341,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/nx8ZxgMMgp",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DeptofDefense: 75 yrs ago today, American service members were killed or hurt in the #PearlHarbor attack. We remember their sacrifice.…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4377,
+        "followers_count": 8719,
+        "friends_count": 433,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6141,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 66369181,
+            "name": "U.S. Dept of Defense",
+            "screen_name": "DeptofDefense"
+        }
+    ]
+}

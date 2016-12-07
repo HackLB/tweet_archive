@@ -1,0 +1,83 @@
+{
+    "created_at": "Wed Dec 07 18:19:39 +0000 2016",
+    "hashtags": [],
+    "id": 806563839659667456,
+    "id_str": "806563839659667456",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Dec 06 00:34:18 +0000 2016",
+        "hashtags": [],
+        "id": 805933347662950401,
+        "id_str": "805933347662950401",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "This Sunday, December 11,from 1pm to 4pm you can travel back in time at the Old Time Christmas Festival at Rancho... https://t.co/GHElxKBflz",
+        "urls": [
+            {
+                "expanded_url": "http://fb.me/4juycFi8n",
+                "url": "https://t.co/GHElxKBflz"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Nov 29 22:03:22 +0000 2010",
+            "description": "Connecting parents w/resources through our print & online magazine & What's Up For Kids EXPO",
+            "favourites_count": 35,
+            "followers_count": 480,
+            "friends_count": 416,
+            "id": 221154200,
+            "lang": "en",
+            "listed_count": 17,
+            "location": "Los Angeles",
+            "name": "What's Up For Kids",
+            "profile_background_color": "F0F024",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616360786496110593/h_vCkUdt.jpg",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1586517123/WUFK_website_Logo_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "whatsupforkids",
+            "statuses_count": 5919,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/YUIDM1uK5W",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "RT @whatsupforkids: This Sunday, December 11,from 1pm to 4pm you can travel back in time at the Old Time Christmas Festival at Rancho... ht…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 61,
+        "followers_count": 516,
+        "friends_count": 112,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 225,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 221154200,
+            "name": "What's Up For Kids",
+            "screen_name": "whatsupforkids"
+        }
+    ]
+}
