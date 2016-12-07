@@ -1,0 +1,149 @@
+{
+    "created_at": "Wed Dec 07 07:29:30 +0000 2016",
+    "hashtags": [
+        {
+            "text": "NowFaithIs"
+        }
+    ],
+    "id": 806400225548140549,
+    "id_str": "806400225548140549",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "coordinates": {
+            "coordinates": [
+                -118.1946811,
+                33.8776809
+            ],
+            "type": "Point"
+        },
+        "created_at": "Wed Dec 07 07:04:00 +0000 2016",
+        "favorite_count": 2,
+        "geo": {
+            "coordinates": [
+                33.8776809,
+                -118.1946811
+            ],
+            "type": "Point"
+        },
+        "hashtags": [
+            {
+                "text": "NowFaithIs"
+            }
+        ],
+        "id": 806393809382866944,
+        "id_str": "806393809382866944",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CZXaUwPVVr",
+                "expanded_url": "https://twitter.com/Hizanointed/status/806393809382866944/photo/1",
+                "id": 806393800264392704,
+                "media_url": "http://pbs.twimg.com/media/CzDi443WIAAV6RT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzDi443WIAAV6RT.jpg",
+                "type": "photo",
+                "url": "https://t.co/CZXaUwPVVr"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Treat those who make mistakes the way you would want God to treat you when you make mistakes #NowFaithIs https://t.co/CZXaUwPVVr",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Dec 12 17:42:25 +0000 2009",
+            "description": "Walking in God's Favor 2 Reach the Unreached Teach the Untaught & Tell the Untold the Truth of The Gospel See my Facebook page http://t.co/5LjrlFAsiA",
+            "favourites_count": 220,
+            "followers_count": 904,
+            "friends_count": 573,
+            "geo_enabled": true,
+            "id": 96384843,
+            "lang": "en",
+            "listed_count": 24,
+            "location": "Long Beach, CA",
+            "name": "Steve Neal",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/539310575268790272/VDPPI7El.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96384843/1402131543",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/475205860478566400/-W9MJzBJ_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "Hizanointed",
+            "statuses_count": 2783,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Hizanointed: Treat those who make mistakes the way you would want God to treat you when you make mistakes #NowFaithIs https://t.co/CZXa…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 517,
+        "followers_count": 3978,
+        "friends_count": 1163,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1973,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 96384843,
+            "name": "Steve Neal",
+            "screen_name": "Hizanointed"
+        }
+    ]
+}
