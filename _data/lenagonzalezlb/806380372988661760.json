@@ -1,0 +1,56 @@
+{
+    "created_at": "Wed Dec 07 06:10:37 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 806380372988661760,
+    "id_str": "806380372988661760",
+    "in_reply_to_screen_name": "BHCLongBeach",
+    "in_reply_to_status_id": 806372497709027328,
+    "in_reply_to_user_id": 259381632,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BHCLongBeach @Jeannine4D2 @CalEndowBHC incredible showing, thank you for coming out! Let's keep going!",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Microsoft employed. LMU-MBA student. Long Beach lover",
+        "favourites_count": 406,
+        "followers_count": 1660,
+        "friends_count": 1766,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1480604077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 766,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 259381632,
+            "name": "BHC Long Beach",
+            "screen_name": "BHCLongBeach"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        },
+        {
+            "id": 4139370920,
+            "name": "BHC",
+            "screen_name": "CalEndowBHC"
+        }
+    ]
+}
