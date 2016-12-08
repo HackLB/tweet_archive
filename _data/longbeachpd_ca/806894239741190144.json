@@ -1,0 +1,90 @@
+{
+    "created_at": "Thu Dec 08 16:12:32 +0000 2016",
+    "hashtags": [
+        {
+            "text": "protectkidsonthemove"
+        }
+    ],
+    "id": 806894239741190144,
+    "id_str": "806894239741190144",
+    "lang": "en",
+    "retweet_count": 17,
+    "retweeted_status": {
+        "created_at": "Thu Dec 08 15:30:03 +0000 2016",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 806883546522480643,
+        "id_str": "806883546522480643",
+        "lang": "en",
+        "retweet_count": 17,
+        "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+        "text": "Kids around the world are speaking out about the importance of road safety. Join our effort to… https://t.co/XxR1tS3sXB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806883546522480643",
+                "url": "https://t.co/XxR1tS3sXB"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jul 18 22:52:56 +0000 2008",
+            "description": "We work globally to prevent accidental injury in kids under 19 #childsafety  #globalhealth #carseats, #roadsafety, #homesafety #productrecalls #protectingkids",
+            "favourites_count": 1844,
+            "followers_count": 72107,
+            "friends_count": 42462,
+            "id": 15487499,
+            "lang": "en",
+            "listed_count": 1097,
+            "location": "Washington DC",
+            "name": "Safe Kids Worldwide",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/776546179/60c1338d93ebf1cb5af59e7b53faedef.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15487499/1449256484",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/459360401809866752/bQyZAs6I_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "safekids",
+            "statuses_count": 10498,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/2AySh6qqAu",
+            "utc_offset": -18000
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @safekids: Kids around the world are speaking out about the importance of road safety. Join our effort to #protectkidsonthemove. #SafeRo…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4382,
+        "followers_count": 8723,
+        "friends_count": 433,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach (CA) PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6146,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 15487499,
+            "name": "Safe Kids Worldwide",
+            "screen_name": "safekids"
+        }
+    ]
+}
