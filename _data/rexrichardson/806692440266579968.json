@@ -1,0 +1,119 @@
+{
+    "created_at": "Thu Dec 08 02:50:40 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "LGBT"
+        },
+        {
+            "text": "LGBTQ"
+        },
+        {
+            "text": "community"
+        },
+        {
+            "text": "activism"
+        },
+        {
+            "text": "TeamCanon"
+        }
+    ],
+    "id": 806692440266579968,
+    "id_str": "806692440266579968",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Dec 08 01:57:15 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "LGBT"
+            },
+            {
+                "text": "LGBTQ"
+            },
+            {
+                "text": "community"
+            }
+        ],
+        "id": 806678999518822407,
+        "id_str": "806678999518822407",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Vice Mayor Richardson presents Councilwoman Gonzalez w/Visionary Award.\n#LongBeach #LGBT #LGBTQ #community… https://t.co/D0HJndT5mm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806678999518822407",
+                "url": "https://t.co/D0HJndT5mm"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Aug 28 22:17:58 +0000 2012",
+            "description": "I do all sorts of things & tweet about some. Views & opinions my own. Follows, favorites & retweets do not express support. #socialmedialize #CERTlatino",
+            "favourites_count": 1309,
+            "followers_count": 379,
+            "friends_count": 882,
+            "geo_enabled": true,
+            "id": 787965270,
+            "lang": "en",
+            "listed_count": 76,
+            "location": "Santa Rosa, CA",
+            "name": "Mike Varela",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000109589781/c3bc3989424ae2a84119e7708b6e85b4.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/787965270/1453279038",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796519141293191168/wibfXvZa_normal.jpg",
+            "profile_link_color": "154711",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "m1k3Vx",
+            "statuses_count": 4658,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/DD3xdDC68O",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @m1k3Vx: Vice Mayor Richardson presents Councilwoman Gonzalez w/Visionary Award.\n#LongBeach #LGBT #LGBTQ #community #activism #TeamCanon…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1356,
+        "followers_count": 2362,
+        "friends_count": 1290,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2155,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 787965270,
+            "name": "Mike Varela",
+            "screen_name": "m1k3Vx"
+        }
+    ]
+}
