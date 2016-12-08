@@ -1,0 +1,51 @@
+{
+    "created_at": "Thu Dec 08 01:10:37 +0000 2016",
+    "hashtags": [],
+    "id": 806667265622114304,
+    "id_str": "806667265622114304",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Wvg9kSfo7a",
+            "expanded_url": "https://twitter.com/district8AUSTIN/status/806667265622114304/photo/1",
+            "id": 806667263663362048,
+            "media_url": "http://pbs.twimg.com/media/CzHbmjaXUAAuTvM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzHbmjaXUAAuTvM.jpg",
+            "type": "photo",
+            "url": "https://t.co/Wvg9kSfo7a"
+        }
+    ],
+    "source": "<a href=\"http://www.constantcontact.com\" rel=\"nofollow\">Constant Contact</a>",
+    "text": "UPDATE:  Council Action on Proposal for International Flights at Long Beach Airport https://t.co/KbPnqvbstq https://t.co/Wvg9kSfo7a",
+    "urls": [
+        {
+            "expanded_url": "http://conta.cc/2gX0LKf",
+            "url": "https://t.co/KbPnqvbstq"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Aug 20 22:17:59 +0000 2012",
+        "description": "Official Page for Councilmember Al Austin II, 8th District\nCity of Long Beach.",
+        "favourites_count": 586,
+        "followers_count": 1474,
+        "friends_count": 426,
+        "id": 770329639,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Councilman AL AUSTIN",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770329639/1433352265",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567749541173022720/RTtb2ulD_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "district8AUSTIN",
+        "statuses_count": 1795,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Ks1RXxuBga",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
