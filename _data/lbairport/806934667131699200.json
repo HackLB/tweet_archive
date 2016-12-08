@@ -1,0 +1,132 @@
+{
+    "created_at": "Thu Dec 08 18:53:11 +0000 2016",
+    "hashtags": [
+        {
+            "text": "HolidayTravel"
+        },
+        {
+            "text": "FareSale"
+        }
+    ],
+    "id": 806934667131699200,
+    "id_str": "806934667131699200",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Dec 08 18:50:17 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "HolidayTravel"
+            },
+            {
+                "text": "FareSale"
+            }
+        ],
+        "id": 806933938837065728,
+        "id_str": "806933938837065728",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "Only $39 to fly from @RenoAirport to @LBAirport on @JetBlue. Take advantage while you can! #HolidayTravel #FareSale… https://t.co/Q8woKkp5An",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806933938837065728",
+                "url": "https://t.co/Q8woKkp5An"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 29 20:06:54 +0000 2009",
+            "description": "Reno-Tahoe International Airport (RNO) serves more than 4.43 million passengers a year traveling  to Reno, Sparks and Lake Tahoe.",
+            "favourites_count": 634,
+            "followers_count": 6246,
+            "friends_count": 350,
+            "geo_enabled": true,
+            "id": 52171525,
+            "lang": "en",
+            "listed_count": 261,
+            "location": "Reno, Nevada",
+            "name": "Reno-Tahoe Airport",
+            "profile_background_color": "315726",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/308830704/11RTAA042_TwitterBg_V2.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52171525/1399057854",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/323427931/RTIA-Icon_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "RenoAirport",
+            "statuses_count": 3111,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/I1QAaCRXsy",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 52171525,
+                "name": "Reno-Tahoe Airport",
+                "screen_name": "RenoAirport"
+            },
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            },
+            {
+                "id": 6449282,
+                "name": "JetBlue Airways",
+                "screen_name": "JetBlue"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RenoAirport: Only $39 to fly from @RenoAirport to @LBAirport on @JetBlue. Take advantage while you can! #HolidayTravel #FareSale  https…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2855,
+        "followers_count": 9344,
+        "friends_count": 574,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 364,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6248,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 52171525,
+            "name": "Reno-Tahoe Airport",
+            "screen_name": "RenoAirport"
+        },
+        {
+            "id": 52171525,
+            "name": "Reno-Tahoe Airport",
+            "screen_name": "RenoAirport"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        },
+        {
+            "id": 6449282,
+            "name": "JetBlue Airways",
+            "screen_name": "JetBlue"
+        }
+    ]
+}

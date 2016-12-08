@@ -1,0 +1,112 @@
+{
+    "created_at": "Thu Dec 08 17:36:24 +0000 2016",
+    "hashtags": [
+        {
+            "text": "ThrowbackThursday"
+        },
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "DaisyLaneParade"
+        },
+        {
+            "text": "LBPL"
+        }
+    ],
+    "id": 806915344505839616,
+    "id_str": "806915344505839616",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Dec 08 17:30:22 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "ThrowbackThursday"
+            },
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "DaisyLaneParade"
+            },
+            {
+                "text": "LBPL"
+            }
+        ],
+        "id": 806913827908546561,
+        "id_str": "806913827908546561",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "#ThrowbackThursday to #LongBeach holiday favorite, the #1960 #DaisyLaneParade. Join #LBPL, 12/10 for the 63rd parad… https://t.co/94kny3YZwj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806913827908546561",
+                "url": "https://t.co/94kny3YZwj"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 07 17:45:26 +0000 2010",
+            "description": "We are the Long Beach Public Library. Twelve locations in Long Beach, CA to serve you. Check out our free LBPL Mobile app.",
+            "favourites_count": 5129,
+            "followers_count": 2448,
+            "friends_count": 422,
+            "geo_enabled": true,
+            "id": 130570597,
+            "lang": "en",
+            "listed_count": 96,
+            "location": "Long Beach, California",
+            "name": "LB Public Library",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/130570597/1479234967",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/758462733893246980/IYESgb-5_normal.jpg",
+            "profile_link_color": "282D2E",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "screen_name": "lbpl_librarian",
+            "statuses_count": 3043,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/wpef9MDn6j",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @lbpl_librarian: #ThrowbackThursday to #LongBeach holiday favorite, the #1960 #DaisyLaneParade. Join #LBPL, 12/10 for the 63rd parade ht…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4383,
+        "followers_count": 8723,
+        "friends_count": 433,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach (CA) PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6149,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "lbpl_librarian"
+        }
+    ]
+}
