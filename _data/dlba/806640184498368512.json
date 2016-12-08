@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Dec 07 23:23:01 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBPLZineLibrary"
+        },
+        {
+            "text": "LBPL"
+        },
+        {
+            "text": "LBPLStudio"
+        }
+    ],
+    "id": 806640184498368512,
+    "id_str": "806640184498368512",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Dec 07 23:17:20 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "LBPLZineLibrary"
+            },
+            {
+                "text": "LBPL"
+            },
+            {
+                "text": "LBPLStudio"
+            }
+        ],
+        "id": 806638755025223681,
+        "id_str": "806638755025223681",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://vine.co\" rel=\"nofollow\">Vine - Make a Scene</a>",
+        "text": "New zines in the #LBPLZineLibrary! Join us at #LBPL Main Library for our #LBPLStudio Holiday Zine Workshop ... https://t.co/uUXJaBYU0B",
+        "urls": [
+            {
+                "expanded_url": "https://vine.co/v/5xzh1QPaMuw",
+                "url": "https://t.co/uUXJaBYU0B"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 07 17:45:26 +0000 2010",
+            "description": "We are the Long Beach Public Library. Twelve locations in Long Beach, CA to serve you. Check out our free LBPL Mobile app.",
+            "favourites_count": 5128,
+            "followers_count": 2447,
+            "friends_count": 422,
+            "geo_enabled": true,
+            "id": 130570597,
+            "lang": "en",
+            "listed_count": 96,
+            "location": "Long Beach, California",
+            "name": "LB Public Library",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/130570597/1479234967",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/758462733893246980/IYESgb-5_normal.jpg",
+            "profile_link_color": "282D2E",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "screen_name": "lbpl_librarian",
+            "statuses_count": 3041,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/wpef9MDn6j",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @lbpl_librarian: New zines in the #LBPLZineLibrary! Join us at #LBPL Main Library for our #LBPLStudio Holiday Zine Workshop ... https://…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2115,
+        "followers_count": 12882,
+        "friends_count": 723,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4197,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "lbpl_librarian"
+        }
+    ]
+}
