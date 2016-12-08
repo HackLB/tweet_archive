@@ -1,0 +1,114 @@
+{
+    "created_at": "Thu Dec 08 21:42:22 +0000 2016",
+    "hashtags": [
+        {
+            "text": "ThrowbackThursday"
+        }
+    ],
+    "id": 806977242278465536,
+    "id_str": "806977242278465536",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NgNBIY9TIA",
+            "expanded_url": "https://twitter.com/portoflongbeach/status/806903795972276228/photo/1",
+            "id": 806903793153675265,
+            "media_url": "http://pbs.twimg.com/media/CzKyuYbXEAEXLW0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzKyuYbXEAEXLW0.jpg",
+            "type": "photo",
+            "url": "https://t.co/NgNBIY9TIA"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Dec 08 16:50:31 +0000 2016",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "ThrowbackThursday"
+            }
+        ],
+        "id": 806903795972276228,
+        "id_str": "806903795972276228",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/NgNBIY9TIA",
+                "expanded_url": "https://twitter.com/portoflongbeach/status/806903795972276228/photo/1",
+                "id": 806903793153675265,
+                "media_url": "http://pbs.twimg.com/media/CzKyuYbXEAEXLW0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzKyuYbXEAEXLW0.jpg",
+                "type": "photo",
+                "url": "https://t.co/NgNBIY9TIA"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "#ThrowbackThursday to the construction of Rainbow Harbor in the 1970's. https://t.co/NgNBIY9TIA",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+            "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+            "favourites_count": 632,
+            "followers_count": 17122,
+            "friends_count": 3705,
+            "geo_enabled": true,
+            "id": 16188231,
+            "lang": "en",
+            "listed_count": 495,
+            "location": "Long Beach, CA",
+            "name": "Port of Long Beach",
+            "profile_background_color": "DFFBA2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "D7ECD5",
+            "profile_text_color": "333333",
+            "screen_name": "portoflongbeach",
+            "statuses_count": 7488,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/mpI4vKOimY",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @portoflongbeach: #ThrowbackThursday to the construction of Rainbow Harbor in the 1970's. https://t.co/NgNBIY9TIA",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 180,
+        "followers_count": 64617,
+        "friends_count": 1216,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 451,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6465,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16188231,
+            "name": "Port of Long Beach",
+            "screen_name": "portoflongbeach"
+        }
+    ]
+}
