@@ -1,0 +1,52 @@
+{
+    "created_at": "Fri Dec 09 19:28:40 +0000 2016",
+    "hashtags": [],
+    "id": 807305983789699072,
+    "id_str": "807305983789699072",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/IajHOAJylV",
+            "expanded_url": "https://twitter.com/rancholosc/status/807305983789699072/photo/1",
+            "id": 807305973790453760,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CzQggYDUsAAVBcE.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CzQggYDUsAAVBcE.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/IajHOAJylV"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Only four tickets left for our 12/17 seating of Cocoa with Santa! Snag 'em here: https://t.co/yY3pXTddPT https://t.co/IajHOAJylV",
+    "urls": [
+        {
+            "expanded_url": "http://www.rancholoscerritos.org/upcoming-events/cocoa-with-santa-2/",
+            "url": "https://t.co/yY3pXTddPT"
+        }
+    ],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 65,
+        "followers_count": 514,
+        "friends_count": 113,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 232,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
