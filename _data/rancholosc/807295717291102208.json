@@ -1,0 +1,51 @@
+{
+    "created_at": "Fri Dec 09 18:47:52 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 807295717291102208,
+    "id_str": "807295717291102208",
+    "in_reply_to_screen_name": "LAhistory",
+    "in_reply_to_status_id": 807276270899736576,
+    "in_reply_to_user_id": 36137348,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LAhistory @CTGLA Gorgeous theater!",
+    "urls": [],
+    "user": {
+        "created_at": "Wed May 13 00:19:52 +0000 2009",
+        "description": "Built in 1844, its history echoes Spanish, Mexican, and American influence in early Southern California. Public Hours:\nWed.–Sun. 1-5 p.m. (562) 206-2040.",
+        "favourites_count": 65,
+        "followers_count": 514,
+        "friends_count": 113,
+        "id": 39638531,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Long Beach, CA",
+        "name": "Rancho Los Cerritos",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34272085/HouseTwitter.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39638531/1402431174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/210200664/RLCgategreen_normal.JPG",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "screen_name": "rancholosc",
+        "statuses_count": 231,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/A3jUF3n5VK",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 36137348,
+            "name": "LAhistory",
+            "screen_name": "LAhistory"
+        },
+        {
+            "id": 23559503,
+            "name": "Center Theatre Group",
+            "screen_name": "CTGLA"
+        }
+    ]
+}
