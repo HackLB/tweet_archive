@@ -1,0 +1,102 @@
+{
+    "created_at": "Fri Dec 09 07:13:57 +0000 2016",
+    "hashtags": [],
+    "id": 807121087553105920,
+    "id_str": "807121087553105920",
+    "lang": "en",
+    "retweet_count": 68,
+    "retweeted_status": {
+        "created_at": "Thu Dec 01 23:12:26 +0000 2016",
+        "favorite_count": 103,
+        "hashtags": [],
+        "id": 804463195289055234,
+        "id_str": "804463195289055234",
+        "lang": "en",
+        "retweet_count": 68,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "9 Business Tools for Working Smarter Instead of Harder by @matthewtoren https://t.co/zHePOpVlyH",
+        "urls": [
+            {
+                "expanded_url": "https://www.entrepreneur.com/article/285665?utm_source=Social&utm_medium=Sharebar&utm_campaign=Sumome_share",
+                "url": "https://t.co/zHePOpVlyH"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 16 23:56:20 +0000 2007",
+            "description": "Entrepreneur, investor & influencer. Columnist for Forbes, Inc, Entrepreneur, Huffington Post & more. Founded @CrazyEgg with @hnshah.",
+            "favourites_count": 2729,
+            "followers_count": 228107,
+            "friends_count": 96745,
+            "id": 1322691,
+            "lang": "en",
+            "listed_count": 10403,
+            "name": "Neil Patel",
+            "profile_background_color": "63AD2B",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/53287398/background.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1322691/1443130219",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/598873990040391682/E6qH8p23_normal.jpg",
+            "profile_link_color": "2362A1",
+            "profile_sidebar_fill_color": "F0F0E9",
+            "profile_text_color": "313131",
+            "screen_name": "neilpatel",
+            "statuses_count": 12739,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/ETTeIqvDIc",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 39930469,
+                "name": "Matthew Toren",
+                "screen_name": "matthewtoren"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @neilpatel: 9 Business Tools for Working Smarter Instead of Harder by @matthewtoren https://t.co/zHePOpVlyH",
+    "urls": [
+        {
+            "expanded_url": "https://www.entrepreneur.com/article/285665?utm_source=Social&utm_medium=Sharebar&utm_campaign=Sumome_share",
+            "url": "https://t.co/zHePOpVlyH"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 518,
+        "followers_count": 3988,
+        "friends_count": 1410,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1975,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 1322691,
+            "name": "Neil Patel",
+            "screen_name": "neilpatel"
+        },
+        {
+            "id": 39930469,
+            "name": "Matthew Toren",
+            "screen_name": "matthewtoren"
+        }
+    ]
+}
