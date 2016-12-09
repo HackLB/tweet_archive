@@ -1,0 +1,43 @@
+{
+    "created_at": "Fri Dec 09 22:03:43 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 807345004091838464,
+    "id_str": "807345004091838464",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We've got your weekend Downtown Scene right here with How I MADE it, Artwalk, and more. https://t.co/GhWYbNEzy0",
+    "urls": [
+        {
+            "expanded_url": "http://downtownlongbeach.org/Latest-News-Detail/The-Weekend-Downtown-Scene?id=71229",
+            "url": "https://t.co/GhWYbNEzy0"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2116,
+        "followers_count": 12897,
+        "friends_count": 728,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4203,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
