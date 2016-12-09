@@ -1,0 +1,103 @@
+{
+    "created_at": "Fri Dec 09 05:01:36 +0000 2016",
+    "hashtags": [],
+    "id": 807087780136222720,
+    "id_str": "807087780136222720",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XHllPiHlGL",
+            "expanded_url": "https://twitter.com/LBPLFoundation/status/807001966647721984/photo/1",
+            "id": 807001892437921792,
+            "media_url": "http://pbs.twimg.com/media/CzML8gvUkAAcFgN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzML8gvUkAAcFgN.jpg",
+            "type": "photo",
+            "url": "https://t.co/XHllPiHlGL"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Dec 08 23:20:36 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 807001966647721984,
+        "id_str": "807001966647721984",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XHllPiHlGL",
+                "expanded_url": "https://twitter.com/LBPLFoundation/status/807001966647721984/photo/1",
+                "id": 807001892437921792,
+                "media_url": "http://pbs.twimg.com/media/CzML8gvUkAAcFgN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzML8gvUkAAcFgN.jpg",
+                "type": "photo",
+                "url": "https://t.co/XHllPiHlGL"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Remembering John Glenn today, and the doors he opened for so many to dream boldly. https://t.co/XHllPiHlGL",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 05 17:02:56 +0000 2011",
+            "description": "Founded in '96 the Long Beach Public Library Foundation is an independent 501(c)(3) providing support & advocacy to our libraries. https://t.co/glTtwUZPJv",
+            "favourites_count": 100,
+            "followers_count": 129,
+            "friends_count": 154,
+            "geo_enabled": true,
+            "id": 277576519,
+            "lang": "en",
+            "listed_count": 4,
+            "location": "Long Beach, CA",
+            "name": "LBPLFoundation",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/526871034108977152/MRqLPjzs.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/277576519/1474068714",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/776926302494351360/jM_Fxq4Z_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBPLFoundation",
+            "statuses_count": 108,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/rWIWGXIYZ3",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPLFoundation: Remembering John Glenn today, and the doors he opened for so many to dream boldly. https://t.co/XHllPiHlGL",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Microsoft employed. LMU-MBA student. Long Beach lover",
+        "favourites_count": 408,
+        "followers_count": 1655,
+        "friends_count": 1764,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1480604077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 768,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 277576519,
+            "name": "LBPLFoundation",
+            "screen_name": "LBPLFoundation"
+        }
+    ]
+}
