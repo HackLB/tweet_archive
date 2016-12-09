@@ -1,0 +1,121 @@
+{
+    "created_at": "Fri Dec 09 16:34:24 +0000 2016",
+    "hashtags": [],
+    "id": 807262131137560576,
+    "id_str": "807262131137560576",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Dec 08 22:41:20 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 806992081465901056,
+        "id_str": "806992081465901056",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "12/10-12/11 Bring a $10-$15 toy and receive a coupon for $10 off adult and $3 off child admission. Learn more -… https://t.co/bQecg8nURn",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/806992081465901056",
+                "url": "https://t.co/bQecg8nURn"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 13 20:23:44 +0000 2009",
+            "description": "Take a journey of discovery through the world’s largest ocean at the Aquarium of the Pacific in Long Beach, California.",
+            "favourites_count": 2849,
+            "followers_count": 20355,
+            "friends_count": 1011,
+            "geo_enabled": true,
+            "id": 24245649,
+            "lang": "en",
+            "listed_count": 732,
+            "location": "Long Beach, California",
+            "name": "Aquarium of Pacific",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/209791706/twitterbg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24245649/1456870648",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766060547439747072/ntzf3k3U_normal.jpg",
+            "profile_link_color": "0A4459",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "AquariumPacific",
+            "statuses_count": 4902,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZYVUB3KUuI",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AquariumPacific: 12/10-12/11 Bring a $10-$15 toy and receive a coupon for $10 off adult and $3 off child admission. Learn more - https:…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 568,
+        "followers_count": 4882,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 183,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2283,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 24245649,
+            "name": "Aquarium of Pacific",
+            "screen_name": "AquariumPacific"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Dec 09 16:43:17 +0000 2016",
+    "hashtags": [],
+    "id": 807264365300895744,
+    "id_str": "807264365300895744",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Dec 09 00:30:02 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 807019437958238208,
+        "id_str": "807019437958238208",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "Thanks @Catholic.Charities.LA &amp; @lbfd  for support of the Helping Hands event that provided gifts to over 400 kids!… https://t.co/IyVzVCq8bF",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/807019437958238208",
+                "url": "https://t.co/IyVzVCq8bF"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jan 13 04:42:10 +0000 2012",
+            "description": "St. Mary Medical Center is committed to protecting your privacy. Please don't write any personal information on this site.",
+            "favourites_count": 49,
+            "followers_count": 575,
+            "friends_count": 881,
+            "id": 462621129,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "Long Beach, CA",
+            "name": "StMaryMedicalCenter",
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/462621129/1463413047",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/712766685078429696/aMsZotGJ_normal.jpg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "StMaryLB",
+            "statuses_count": 818,
+            "time_zone": "Hawaii",
+            "url": "http://t.co/oExDeciGuQ",
+            "utc_offset": -36000
+        },
+        "user_mentions": [
+            {
+                "id": 14329263,
+                "name": "Catholic News",
+                "screen_name": "Catholic"
+            },
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire",
+                "screen_name": "lbfd"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @StMaryLB: Thanks @Catholic.Charities.LA &amp; @lbfd  for support of the Helping Hands event that provided gifts to over 400 kids! https://t…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 568,
+        "followers_count": 4882,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 183,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2283,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 462621129,
+            "name": "StMaryMedicalCenter",
+            "screen_name": "StMaryLB"
+        },
+        {
+            "id": 14329263,
+            "name": "Catholic News",
+            "screen_name": "Catholic"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        }
+    ]
+}
