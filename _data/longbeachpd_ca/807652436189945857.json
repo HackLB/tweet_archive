@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Dec 10 18:25:20 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Strengthenlbc"
+        }
+    ],
+    "id": 807652436189945857,
+    "id_str": "807652436189945857",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/CZL3nUU3Au",
+            "expanded_url": "https://twitter.com/LBPDInvest_CA/status/807627162140360704/photo/1",
+            "id": 807627155400101888,
+            "media_url": "http://pbs.twimg.com/media/CzVEnmyVEAAHl4O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzVEnmyVEAAHl4O.jpg",
+            "type": "photo",
+            "url": "https://t.co/CZL3nUU3Au"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Dec 10 16:44:55 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "Strengthenlbc"
+            }
+        ],
+        "id": 807627162140360704,
+        "id_str": "807627162140360704",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CZL3nUU3Au",
+                "expanded_url": "https://twitter.com/LBPDInvest_CA/status/807627162140360704/photo/1",
+                "id": 807627155400101888,
+                "media_url": "http://pbs.twimg.com/media/CzVEnmyVEAAHl4O.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzVEnmyVEAAHl4O.jpg",
+                "type": "photo",
+                "url": "https://t.co/CZL3nUU3Au"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Community Police Academy this morning kicks off with Chief Luna #Strengthenlbc https://t.co/CZL3nUU3Au",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Jul 27 00:35:37 +0000 2016",
+            "default_profile": true,
+            "description": "The Investigations Bureau investigates crimes, analyzes evidence, apprehends suspects, prevents abuse, promotes community relations. Call 9-1-1 for emergencies.",
+            "followers_count": 52,
+            "friends_count": 166,
+            "id": 758098482288660480,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "Long Beach, CA",
+            "name": "Deputy Chief Conant",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/758098482288660480/1479834903",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/801090234523926528/9rh6gBnu_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBPDInvest_CA",
+            "statuses_count": 27,
+            "url": "https://t.co/YqZE1ygSiK"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPDInvest_CA: Community Police Academy this morning kicks off with Chief Luna #Strengthenlbc https://t.co/CZL3nUU3Au",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4386,
+        "followers_count": 8737,
+        "friends_count": 433,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 234,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6160,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 758098482288660480,
+            "name": "Deputy Chief Conant",
+            "screen_name": "LBPDInvest_CA"
+        }
+    ]
+}
