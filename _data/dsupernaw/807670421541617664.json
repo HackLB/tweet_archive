@@ -1,0 +1,47 @@
+{
+    "created_at": "Sat Dec 10 19:36:48 +0000 2016",
+    "hashtags": [],
+    "id": 807670421541617664,
+    "id_str": "807670421541617664",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "The latest Go Fourth! Friday newsletter:\nhttps://t.co/sRwkaNpQy8\nToughest part about my job?  Returning the parade… https://t.co/JwaP4LwC7X",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "http://campaign.r20.constantcontact.com/render?m=1102694185850&ca=beba5dc3-1b57-4868-a4fe-949494a4b97e",
+            "url": "https://t.co/sRwkaNpQy8"
+        },
+        {
+            "expanded_url": "https://twitter.com/i/web/status/807670421541617664",
+            "url": "https://t.co/JwaP4LwC7X"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Mar 21 09:11:35 +0000 2010",
+        "default_profile": true,
+        "description": "Councilman, Fourth District",
+        "favourites_count": 12,
+        "followers_count": 57,
+        "friends_count": 43,
+        "geo_enabled": true,
+        "id": 124994539,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Long Beach, CA",
+        "name": "Daryl Supernaw",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124994539/1470059945",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716478598333341697/CbX5MtqH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "DSupernaw",
+        "statuses_count": 38,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/AP5Yd7ROhC",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
