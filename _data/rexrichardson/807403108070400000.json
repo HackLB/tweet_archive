@@ -1,0 +1,140 @@
+{
+    "created_at": "Sat Dec 10 01:54:36 +0000 2016",
+    "hashtags": [
+        {
+            "text": "MichelleObamaLibrary"
+        },
+        {
+            "text": "BelievingInMagic"
+        }
+    ],
+    "id": 807403108070400000,
+    "id_str": "807403108070400000",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Dec 09 16:42:06 +0000 2016",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "MichelleObamaLibrary"
+            },
+            {
+                "text": "BelievingInMagic"
+            }
+        ],
+        "id": 807264067643527168,
+        "id_str": "807264067643527168",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JjpcmDlCLo",
+                "expanded_url": "https://twitter.com/rexrichardson/status/807264067643527168/photo/1",
+                "id": 807264063612850176,
+                "media_url": "http://pbs.twimg.com/media/CzP6Y4eVEAAwCEl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzP6Y4eVEAAwCEl.jpg",
+                "type": "photo",
+                "url": "https://t.co/JjpcmDlCLo"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This Saturday, join me at the #MichelleObamaLibrary for #BelievingInMagic book tour and signing with Cookie Johnson. https://t.co/JjpcmDlCLo",
+        "urls": [],
+        "user": {
+            "created_at": "Sun May 10 16:43:34 +0000 2009",
+            "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+            "favourites_count": 1358,
+            "followers_count": 2373,
+            "friends_count": 1295,
+            "geo_enabled": true,
+            "id": 39073462,
+            "lang": "en",
+            "listed_count": 59,
+            "location": "The LBC",
+            "name": "Rex Richardson",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "rexrichardson",
+            "statuses_count": 2158,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/OMw2ZmelIz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @rexrichardson: This Saturday, join me at the #MichelleObamaLibrary for #BelievingInMagic book tour and signing with Cookie Johnson. htt…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1358,
+        "followers_count": 2373,
+        "friends_count": 1295,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2158,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
