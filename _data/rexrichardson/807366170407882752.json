@@ -1,0 +1,141 @@
+{
+    "created_at": "Fri Dec 09 23:27:49 +0000 2016",
+    "hashtags": [
+        {
+            "text": "llbalumni"
+        }
+    ],
+    "id": 807366170407882752,
+    "id_str": "807366170407882752",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Dec 09 22:33:04 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "llbalumni"
+            }
+        ],
+        "id": 807352391989272576,
+        "id_str": "807352391989272576",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.19554,
+                            33.768125250000004
+                        ],
+                        [
+                            -118.19554,
+                            33.768125250000004
+                        ],
+                        [
+                            -118.19554,
+                            33.768125250000004
+                        ],
+                        [
+                            -118.19554,
+                            33.768125250000004
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach City Council Chamber",
+            "id": "07d9ec6b5fc81001",
+            "name": "Long Beach City Council Chamber",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9ec6b5fc81001.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thx to Vice Mayor @rexrichardson #llbalumni to tell our youth leaders about how leadership works in the city &amp; why… https://t.co/V9RlhWyc7P",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/807352391989272576",
+                "url": "https://t.co/V9RlhWyc7P"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 00:49:05 +0000 2009",
+            "description": "We are a catalyst that informs, activates and connects community leaders\r\nto more meaningfully serve Long Beach.",
+            "favourites_count": 410,
+            "followers_count": 1877,
+            "friends_count": 104,
+            "geo_enabled": true,
+            "id": 20481887,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "Long Beach, CA",
+            "name": "Leadership LongBeach",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551220895373463552/6HEWHYFa.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20481887/1420256404",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/551221202090332162/-gPgSF1k_normal.jpeg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LeadershipLB",
+            "statuses_count": 590,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/SD62jLVQ3o",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LeadershipLB: Thx to Vice Mayor @rexrichardson #llbalumni to tell our youth leaders about how leadership works in the city &amp; why it's i…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1357,
+        "followers_count": 2373,
+        "friends_count": 1292,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2157,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20481887,
+            "name": "Leadership LongBeach",
+            "screen_name": "LeadershipLB"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
