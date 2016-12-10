@@ -1,0 +1,53 @@
+{
+    "created_at": "Sat Dec 10 20:01:23 +0000 2016",
+    "hashtags": [],
+    "id": 807676604730183681,
+    "id_str": "807676604730183681",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/2sXaqyfX3S",
+            "expanded_url": "https://twitter.com/VisitLB/status/807676604730183681/photo/1",
+            "id": 807676601122992129,
+            "media_url": "http://pbs.twimg.com/media/CzVxludUsAESeWj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzVxludUsAESeWj.jpg",
+            "type": "photo",
+            "url": "https://t.co/2sXaqyfX3S"
+        }
+    ],
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Treat yourself &amp; book your visit to Vicki &amp; Friends Salon before their December deals end! https://t.co/6BqvGSrPxJ https://t.co/2sXaqyfX3S",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/29p1v3C",
+            "url": "https://t.co/6BqvGSrPxJ"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1064,
+        "followers_count": 13089,
+        "friends_count": 1795,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13340,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

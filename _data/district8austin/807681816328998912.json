@@ -1,0 +1,41 @@
+{
+    "created_at": "Sat Dec 10 20:22:05 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 807681816328998912,
+    "id_str": "807681816328998912",
+    "lang": "en",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "Thank You everyone for joining us this morning and sharing your input on the Lower River Revitalization Plan.... https://t.co/V7E1FvKcNx",
+    "urls": [
+        {
+            "expanded_url": "http://fb.me/7wtvQ3F4J",
+            "url": "https://t.co/V7E1FvKcNx"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Aug 20 22:17:59 +0000 2012",
+        "description": "Official Page for Councilmember Al Austin II, 8th District\nCity of Long Beach.",
+        "favourites_count": 586,
+        "followers_count": 1477,
+        "friends_count": 426,
+        "id": 770329639,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Councilman AL AUSTIN",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770329639/1433352265",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567749541173022720/RTtb2ulD_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "district8AUSTIN",
+        "statuses_count": 1802,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Ks1RXxuBga",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
