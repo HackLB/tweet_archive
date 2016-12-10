@@ -1,0 +1,41 @@
+{
+    "created_at": "Sat Dec 10 17:00:12 +0000 2016",
+    "hashtags": [],
+    "id": 807631007956561920,
+    "id_str": "807631007956561920",
+    "lang": "en",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "One of the perks of working at City of Long Beach Animal Care Services, sometimes you get a pup as an assistant... https://t.co/ijxGsRFZ5Y",
+    "urls": [
+        {
+            "expanded_url": "http://fb.me/3cFtjdGhu",
+            "url": "https://t.co/ijxGsRFZ5Y"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Mar 19 06:37:28 +0000 2010",
+        "description": "ADOPT, DONATE, VOLUNTEER, LICENSE, SPAY/NEUTER",
+        "favourites_count": 2,
+        "followers_count": 308,
+        "friends_count": 7,
+        "geo_enabled": true,
+        "id": 124383621,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Long Beach, CA",
+        "name": "Animal Care Services",
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124383621/1375900110",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000256292700/bcf7160c6bc256e694f0cf6d24e85fb9_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "screen_name": "LBAnimalCare",
+        "statuses_count": 3702,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/DJXq0pk0sA",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
