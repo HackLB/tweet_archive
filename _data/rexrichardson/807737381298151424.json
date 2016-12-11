@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun Dec 11 00:02:53 +0000 2016",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "AlabamaConnect"
+        }
+    ],
+    "id": 807737381298151424,
+    "id_str": "807737381298151424",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.3940862,
+                        33.7804411
+                    ],
+                    [
+                        -118.308349,
+                        33.7804411
+                    ],
+                    [
+                        -118.308349,
+                        33.886988
+                    ],
+                    [
+                        -118.3940862,
+                        33.886988
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Torrance, CA",
+        "id": "c1e1a49e92ce1ba0",
+        "name": "Torrance",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c1e1a49e92ce1ba0.json"
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thank you @cjbycookie for sharing your amazing testimony with us here in #LongBeach. #AlabamaConnect… https://t.co/dgYVjE7vwo",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/807737381298151424",
+            "url": "https://t.co/dgYVjE7vwo"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1360,
+        "followers_count": 2373,
+        "friends_count": 1293,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2161,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 31175054,
+            "name": "Cookie Johnson",
+            "screen_name": "cjbycookie"
+        }
+    ]
+}
