@@ -1,0 +1,139 @@
+{
+    "created_at": "Sun Dec 11 05:06:15 +0000 2016",
+    "hashtags": [
+        {
+            "text": "strengthenlbc"
+        }
+    ],
+    "id": 807813726082478080,
+    "id_str": "807813726082478080",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/UJgc0z6CKC",
+            "expanded_url": "https://twitter.com/CSULBLBTRC/status/807702287099404288/photo/1",
+            "id": 807702261027614720,
+            "media_url": "http://pbs.twimg.com/media/CzWI7VDUsAAjFSv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzWI7VDUsAAjFSv.jpg",
+            "type": "photo",
+            "url": "https://t.co/UJgc0z6CKC"
+        },
+        {
+            "display_url": "pic.twitter.com/UJgc0z6CKC",
+            "expanded_url": "https://twitter.com/CSULBLBTRC/status/807702287099404288/photo/1",
+            "id": 807702275133083648,
+            "media_url": "http://pbs.twimg.com/media/CzWI8JmVEAAzRn1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzWI8JmVEAAzRn1.jpg",
+            "type": "photo",
+            "url": "https://t.co/UJgc0z6CKC"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat Dec 10 21:43:26 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "strengthenlbc"
+            }
+        ],
+        "id": 807702287099404288,
+        "id_str": "807702287099404288",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/UJgc0z6CKC",
+                "expanded_url": "https://twitter.com/CSULBLBTRC/status/807702287099404288/photo/1",
+                "id": 807702261027614720,
+                "media_url": "http://pbs.twimg.com/media/CzWI7VDUsAAjFSv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzWI7VDUsAAjFSv.jpg",
+                "type": "photo",
+                "url": "https://t.co/UJgc0z6CKC"
+            },
+            {
+                "display_url": "pic.twitter.com/UJgc0z6CKC",
+                "expanded_url": "https://twitter.com/CSULBLBTRC/status/807702287099404288/photo/1",
+                "id": 807702275133083648,
+                "media_url": "http://pbs.twimg.com/media/CzWI8JmVEAAzRn1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzWI8JmVEAAzRn1.jpg",
+                "type": "photo",
+                "url": "https://t.co/UJgc0z6CKC"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Sims training at Community Academy with @LongBeachPD_CA #strengthenlbc https://t.co/UJgc0z6CKC",
+        "urls": [],
+        "user": {
+            "created_at": "Tue May 12 18:18:24 +0000 2015",
+            "description": "The Long Beach Trauma Recovery Center offers free mental health services to victims of crime and their families",
+            "favourites_count": 1356,
+            "followers_count": 215,
+            "friends_count": 298,
+            "geo_enabled": true,
+            "id": 3193581877,
+            "lang": "en",
+            "listed_count": 14,
+            "location": "Long Beach, CA",
+            "name": "LBTRC",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3193581877/1431454927",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/598191257739927553/LQLfW0fg_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "CSULBLBTRC",
+            "statuses_count": 740,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/xlek8gTd7X",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 50097116,
+                "name": "Long Beach PD",
+                "screen_name": "LongBeachPD_CA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CSULBLBTRC: Sims training at Community Academy with @LongBeachPD_CA #strengthenlbc https://t.co/UJgc0z6CKC",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4390,
+        "followers_count": 8738,
+        "friends_count": 434,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6173,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3193581877,
+            "name": "LBTRC",
+            "screen_name": "CSULBLBTRC"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        }
+    ]
+}
