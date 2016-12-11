@@ -1,0 +1,137 @@
+{
+    "created_at": "Sun Dec 11 03:55:20 +0000 2016",
+    "hashtags": [],
+    "id": 807795878215892992,
+    "id_str": "807795878215892992",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/wHkBwXsUME",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/807763076657229824/photo/1",
+            "id": 807763026363301889,
+            "media_url": "http://pbs.twimg.com/media/CzXAMVkUQAEKzJS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzXAMVkUQAEKzJS.jpg",
+            "type": "photo",
+            "url": "https://t.co/wHkBwXsUME"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sun Dec 11 01:44:59 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 807763076657229824,
+        "id_str": "807763076657229824",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wHkBwXsUME",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/807763076657229824/photo/1",
+                "id": 807763026363301889,
+                "media_url": "http://pbs.twimg.com/media/CzXAMVkUQAEKzJS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzXAMVkUQAEKzJS.jpg",
+                "type": "photo",
+                "url": "https://t.co/wHkBwXsUME"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.1997621324555,
+                            33.79320976192365
+                        ],
+                        [
+                            -118.1997621324555,
+                            33.79320976192365
+                        ],
+                        [
+                            -118.1997621324555,
+                            33.79320976192365
+                        ],
+                        [
+                            -118.1997621324555,
+                            33.79320976192365
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Daisy Tree Lane",
+            "id": "07d9e44a7d883001",
+            "name": "Daisy Tree Lane",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9e44a7d883001.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "What a great night at the Daisy Lane Christmas Parade 🎉 https://t.co/wHkBwXsUME",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1588,
+            "followers_count": 4045,
+            "friends_count": 1286,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 88,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2128,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: What a great night at the Daisy Lane Christmas Parade 🎉 https://t.co/wHkBwXsUME",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4390,
+        "followers_count": 8738,
+        "friends_count": 434,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6172,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
