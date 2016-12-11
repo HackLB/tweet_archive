@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun Dec 11 16:42:17 +0000 2016",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 807988889780531201,
+    "id_str": "807988889780531201",
+    "in_reply_to_screen_name": "mrrmurray",
+    "in_reply_to_status_id": 805929648060141568,
+    "in_reply_to_user_id": 2886668046,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@mrrmurray @Alma_LBC @Turomsanchez @hhuynh14 @Jeannine4D2 @corynlb @studioneleven @mwtaylor @chavezcodes @LBMayorsOffice great work! 😄👍🏼",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Microsoft employed. LMU-MBA student. Long Beach lover",
+        "favourites_count": 415,
+        "followers_count": 1656,
+        "friends_count": 1918,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1480604077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 770,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2886668046,
+            "name": "Ryan",
+            "screen_name": "mrrmurray"
+        },
+        {
+            "id": 3238398302,
+            "name": "Alma Castro",
+            "screen_name": "Alma_LBC"
+        },
+        {
+            "id": 79014276,
+            "name": "Arturo M Sanchez",
+            "screen_name": "Turomsanchez"
+        },
+        {
+            "id": 3280964041,
+            "name": "Harrison Huynh",
+            "screen_name": "hhuynh14"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        },
+        {
+            "id": 1374957890,
+            "name": "Cory Allen",
+            "screen_name": "corynlb"
+        },
+        {
+            "id": 177245702,
+            "name": "Studio One Eleven",
+            "screen_name": "studioneleven"
+        },
+        {
+            "id": 15947712,
+            "name": "Mark W. Taylor",
+            "screen_name": "mwtaylor"
+        },
+        {
+            "id": 2165782651,
+            "name": "Alex Chavez",
+            "screen_name": "chavezcodes"
+        },
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "created_at": "Sun Dec 11 16:48:21 +0000 2016",
+    "hashtags": [],
+    "id": 807990417354436608,
+    "id_str": "807990417354436608",
+    "in_reply_to_screen_name": "TheRideShareGuy",
+    "in_reply_to_status_id": 807989683586101248,
+    "in_reply_to_user_id": 2488639729,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TheRideShareGuy @LongBeachCity @StacyMungo Harry not sure I agree completely with way story was written. Intent is to begin process",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5081,
+        "followers_count": 11469,
+        "friends_count": 2051,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9585,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2488639729,
+            "name": "Harry Campbell",
+            "screen_name": "TheRideShareGuy"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 189649184,
+            "name": "Councilwoman Mungo",
+            "screen_name": "StacyMungo"
+        }
+    ]
+}
