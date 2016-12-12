@@ -1,0 +1,67 @@
+{
+    "created_at": "Mon Dec 12 19:38:02 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LGB"
+        }
+    ],
+    "id": 808395505134870529,
+    "id_str": "808395505134870529",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/I0wxjusNuU",
+            "expanded_url": "https://twitter.com/LBAirport/status/808395505134870529/photo/1",
+            "id": 808395502794473472,
+            "media_url": "http://pbs.twimg.com/media/Czf_bT4WgAA4wL9.png",
+            "media_url_https": "https://pbs.twimg.com/media/Czf_bT4WgAA4wL9.png",
+            "type": "photo",
+            "url": "https://t.co/I0wxjusNuU"
+        }
+    ],
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "Meet @ABToday's Top 40 Under 40 for 2016! Recognize anyone, @Aerolease? #LGB https://t.co/MUl2ub49y3 https://t.co/I0wxjusNuU",
+    "urls": [
+        {
+            "expanded_url": "http://buff.ly/2h2T437",
+            "url": "https://t.co/MUl2ub49y3"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2861,
+        "followers_count": 9375,
+        "friends_count": 573,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 364,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6253,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 21792427,
+            "name": "Airport Business",
+            "screen_name": "ABToday"
+        },
+        {
+            "id": 148429092,
+            "name": "Aerolease Group",
+            "screen_name": "Aerolease"
+        }
+    ]
+}
