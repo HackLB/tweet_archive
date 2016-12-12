@@ -1,0 +1,106 @@
+{
+    "created_at": "Mon Dec 12 16:24:27 +0000 2016",
+    "hashtags": [
+        {
+            "text": "OperationFirefly"
+        }
+    ],
+    "id": 808346790479032321,
+    "id_str": "808346790479032321",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Dec 09 01:21:25 +0000 2016",
+        "favorite_count": 8,
+        "hashtags": [
+            {
+                "text": "OperationFirefly"
+            }
+        ],
+        "id": 807032368829644804,
+        "id_str": "807032368829644804",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "#OperationFirefly is at PCH &amp; Orange in Long Beach thanks to tonight's sponsor @LongBeachCity We're here until 7pm.… https://t.co/e7EWzLFuvt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/807032368829644804",
+                "url": "https://t.co/e7EWzLFuvt"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 07 02:09:31 +0000 2009",
+            "description": "Founded in 1998, the Los Angeles County Bicycle Coalition (LACBC) works to make all communities in L.A. County healthy, safe, and fun places to ride a bike.",
+            "favourites_count": 4245,
+            "followers_count": 12716,
+            "friends_count": 3381,
+            "geo_enabled": true,
+            "id": 20289274,
+            "lang": "en",
+            "listed_count": 494,
+            "location": "Los Angeles County",
+            "name": "LACntyBikeCoalition",
+            "profile_background_color": "8DC63F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/580298488/lacbc_resizr_normal.jpg",
+            "profile_link_color": "0096D6",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "lacbc",
+            "statuses_count": 13332,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/aNIp1VEcCm",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @lacbc: #OperationFirefly is at PCH &amp; Orange in Long Beach thanks to tonight's sponsor @LongBeachCity We're here until 7pm. Bring your b…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jun 24 22:24:41 +0000 2009",
+        "description": "Making Long Beach America's Most Bike Friendly City by providing an environment & culture where cycling is a safe, viable & preferred mode of transportation.",
+        "favourites_count": 10,
+        "followers_count": 3659,
+        "friends_count": 269,
+        "geo_enabled": true,
+        "id": 50462246,
+        "lang": "en",
+        "listed_count": 126,
+        "location": "Long Beach, Calif.",
+        "name": "BikeLongBeach.org",
+        "profile_background_color": "0E1212",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/365097095/DSC_0653.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50462246/1370020656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3736983175/d9e6dc72deb2e788017f20970fb01fdd_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "4C25B8",
+        "screen_name": "BikeLongBeach",
+        "statuses_count": 1515,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/0WWH9PXQDq",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20289274,
+            "name": "LACntyBikeCoalition",
+            "screen_name": "lacbc"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
