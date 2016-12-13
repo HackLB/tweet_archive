@@ -1,0 +1,158 @@
+{
+    "created_at": "Tue Dec 13 16:04:01 +0000 2016",
+    "hashtags": [
+        {
+            "text": "HarveyMilkPark"
+        },
+        {
+            "text": "Coffee"
+        }
+    ],
+    "id": 808704033867243520,
+    "id_str": "808704033867243520",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Dec 13 15:58:03 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "HarveyMilkPark"
+            },
+            {
+                "text": "Coffee"
+            }
+        ],
+        "id": 808702533258465281,
+        "id_str": "808702533258465281",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Join us tomorrow at #HarveyMilkPark for FREE #Coffee. Get to know ur Workday Neighbor! @DLBA @studioneleven… https://t.co/lucLQP8qWA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/808702533258465281",
+                "url": "https://t.co/lucLQP8qWA"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 19 20:11:36 +0000 2015",
+            "description": "Sustainable solutions for the City of #LongBeach. #iteams #innovation @longbeachcity @LBMayorsOffice Email at i-team@longbeach.gov @BloombergCities",
+            "favourites_count": 2234,
+            "followers_count": 1049,
+            "friends_count": 539,
+            "geo_enabled": true,
+            "id": 3250051760,
+            "lang": "en",
+            "listed_count": 82,
+            "location": "Long Beach, CA",
+            "name": "Long Beach i-team",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613716228780093440/X4UCPhBn.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3250051760/1478215928",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/734779039332864002/d0yKpLpP_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "iteam_LongBeach",
+            "statuses_count": 1247,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/LOy4cJQJVj",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 30287813,
+                "name": "Downtown Long Beach",
+                "screen_name": "DLBA"
+            },
+            {
+                "id": 177245702,
+                "name": "Studio One Eleven",
+                "screen_name": "studioneleven"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @iteam_LongBeach: Join us tomorrow at #HarveyMilkPark for FREE #Coffee. Get to know ur Workday Neighbor! @DLBA @studioneleven @MolinaCar…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2117,
+        "followers_count": 12915,
+        "friends_count": 729,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4207,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3250051760,
+            "name": "Long Beach i-team",
+            "screen_name": "iteam_LongBeach"
+        },
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        },
+        {
+            "id": 177245702,
+            "name": "Studio One Eleven",
+            "screen_name": "studioneleven"
+        }
+    ]
+}
