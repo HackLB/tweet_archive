@@ -1,0 +1,53 @@
+{
+    "created_at": "Tue Dec 13 18:04:57 +0000 2016",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "MerryLGB"
+        }
+    ],
+    "id": 808734468886315008,
+    "id_str": "808734468886315008",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Dx2qrT8VSV",
+            "expanded_url": "https://twitter.com/LBAirport/status/808734468886315008/video/1",
+            "id": 808734243878617088,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/808734243878617088/pu/img/JPgz7i-EmFMHcz3r.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/808734243878617088/pu/img/JPgz7i-EmFMHcz3r.jpg",
+            "type": "video",
+            "url": "https://t.co/Dx2qrT8VSV"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Did you know that elves and the big man himself have a workshop at Long Beach Airport? #MerryLGB https://t.co/Dx2qrT8VSV",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2861,
+        "followers_count": 9380,
+        "friends_count": 573,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 366,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6255,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
