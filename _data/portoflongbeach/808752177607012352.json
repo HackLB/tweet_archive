@@ -1,0 +1,54 @@
+{
+    "created_at": "Tue Dec 13 19:15:19 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "TriviaTuesday"
+        }
+    ],
+    "id": 808752177607012352,
+    "id_str": "808752177607012352",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/DY7ChbKjwq",
+            "expanded_url": "https://twitter.com/portoflongbeach/status/808752177607012352/photo/1",
+            "id": 808752175077789697,
+            "media_url": "http://pbs.twimg.com/media/CzlD0XrWEAEgjMV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzlD0XrWEAEgjMV.jpg",
+            "type": "photo",
+            "url": "https://t.co/DY7ChbKjwq"
+        }
+    ],
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "#TriviaTuesday How many shipping terminals does the Port of Long Beach have? https://t.co/DY7ChbKjwq",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 635,
+        "followers_count": 17150,
+        "friends_count": 3702,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 495,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7501,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": []
+}
