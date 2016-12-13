@@ -1,0 +1,55 @@
+{
+    "created_at": "Tue Dec 13 00:54:48 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "LBPD"
+        },
+        {
+            "text": "strengthenlbc"
+        }
+    ],
+    "id": 808475224547028993,
+    "id_str": "808475224547028993",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/bpehNWbTqg",
+            "expanded_url": "https://twitter.com/LongBeachPD_CA/status/808475224547028993/photo/1",
+            "id": 808474605304180736,
+            "media_url": "http://pbs.twimg.com/media/CzhHXrsUcAACW76.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzhHXrsUcAACW76.jpg",
+            "type": "photo",
+            "url": "https://t.co/bpehNWbTqg"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Want to know more about #LBPD ?\nApply for our 1-day Community Police Academy  #strengthenlbc https://t.co/bpehNWbTqg",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4394,
+        "followers_count": 8736,
+        "friends_count": 434,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6178,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
