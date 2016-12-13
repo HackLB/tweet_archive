@@ -1,0 +1,92 @@
+{
+    "created_at": "Tue Dec 13 01:18:53 +0000 2016",
+    "hashtags": [],
+    "id": 808481284045434884,
+    "id_str": "808481284045434884",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Dec 13 00:30:13 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 808469036182835200,
+        "id_str": "808469036182835200",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Grand Opening Ceremony for New Promenade Tot Lot Slated for Saturday https://t.co/g5dLadNyXw",
+        "urls": [
+            {
+                "expanded_url": "http://lbpo.st/2gTfrr0",
+                "url": "https://t.co/g5dLadNyXw"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 07:18:30 +0000 2009",
+            "description": "Covering Long Beach news, politics, business, life, sports, food, and LGBT issues online daily. \nhttp://t.co/Vv0AR1vL8f",
+            "favourites_count": 471,
+            "followers_count": 37663,
+            "friends_count": 438,
+            "geo_enabled": true,
+            "id": 20496846,
+            "lang": "en",
+            "listed_count": 480,
+            "location": "Long Beach, California",
+            "name": "Long Beach Post",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827465821/31c1beba2ccaa657384bf9322b2e0916.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20496846/1480728491",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3209512724/7703736e92ce694d2036f1524730546c_normal.png",
+            "profile_link_color": "005689",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachPost",
+            "statuses_count": 15216,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/jDNcL0FZOI",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachPost: Grand Opening Ceremony for New Promenade Tot Lot Slated for Saturday https://t.co/g5dLadNyXw",
+    "urls": [
+        {
+            "expanded_url": "http://lbpo.st/2gTfrr0",
+            "url": "https://t.co/g5dLadNyXw"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2117,
+        "followers_count": 12910,
+        "friends_count": 729,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4206,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20496846,
+            "name": "Long Beach Post",
+            "screen_name": "LongBeachPost"
+        }
+    ]
+}
