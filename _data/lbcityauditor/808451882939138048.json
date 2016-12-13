@@ -1,0 +1,48 @@
+{
+    "created_at": "Mon Dec 12 23:22:03 +0000 2016",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 808451882939138048,
+    "id_str": "808451882939138048",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "City Auditor Doud &amp; Senior Performance Auditor Hannah Morgan spoke to Youth @LeadershipLB on the importance of inte… https://t.co/mkSnn0S34j",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/808451882939138048",
+            "url": "https://t.co/mkSnn0S34j"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Sep 02 22:51:49 +0000 2015",
+        "default_profile": true,
+        "description": "Independence you can rely on",
+        "favourites_count": 52,
+        "followers_count": 1205,
+        "friends_count": 77,
+        "id": 3527837897,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Long Beach, CA",
+        "name": "LongBeachCityAuditor",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3527837897/1446766353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639210250747277312/cxBCMmTb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "LBCityAuditor",
+        "statuses_count": 151,
+        "url": "http://t.co/DnuCB1NyXU"
+    },
+    "user_mentions": [
+        {
+            "id": 20481887,
+            "name": "Leadership LongBeach",
+            "screen_name": "LeadershipLB"
+        }
+    ]
+}

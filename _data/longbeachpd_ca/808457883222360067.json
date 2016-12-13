@@ -1,0 +1,175 @@
+{
+    "created_at": "Mon Dec 12 23:45:54 +0000 2016",
+    "hashtags": [],
+    "id": 808457883222360067,
+    "id_str": "808457883222360067",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Dec 12 23:44:40 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 808457572734812161,
+        "id_str": "808457572734812161",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Follow @LBPDDIS @LongBeachPD_CA @LBPDrobbery @LBPOA @LBPDNorth_CA @LBPDEast_CA @LBPDWest_CA @lbpd_volunteers @LBPDInvest_CA @joinlbpd",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Jun 21 01:20:28 +0000 2015",
+            "description": "The Drug Investigations Section is responsible for investigating illegal drug sales occurring within the City of Long Beach. DIS Hotline at (562) 570-7125.",
+            "favourites_count": 64,
+            "followers_count": 717,
+            "friends_count": 115,
+            "id": 3251065470,
+            "lang": "en",
+            "listed_count": 21,
+            "location": "Long Beach, CA",
+            "name": "LBPD Narcotics",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3251065470/1479433151",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/807632339249442816/q5SXszvw_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LBPDDIS",
+            "statuses_count": 153,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/2GTG7802bJ",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 3251065470,
+                "name": "LBPD Narcotics",
+                "screen_name": "LBPDDIS"
+            },
+            {
+                "id": 50097116,
+                "name": "Long Beach PD",
+                "screen_name": "LongBeachPD_CA"
+            },
+            {
+                "id": 2577483558,
+                "name": "LBPD Robbery",
+                "screen_name": "LBPDrobbery"
+            },
+            {
+                "id": 135527723,
+                "name": "Long Beach Police OA",
+                "screen_name": "LBPOA"
+            },
+            {
+                "id": 773241105718521857,
+                "name": "LBPD North Division",
+                "screen_name": "LBPDNorth_CA"
+            },
+            {
+                "id": 778281660194230272,
+                "name": "LBPD East Division",
+                "screen_name": "LBPDEast_CA"
+            },
+            {
+                "id": 773258224292143104,
+                "name": "LBPD West Division",
+                "screen_name": "LBPDWest_CA"
+            },
+            {
+                "id": 3296029160,
+                "name": "LBPD Volunteers",
+                "screen_name": "lbpd_volunteers"
+            },
+            {
+                "id": 758098482288660480,
+                "name": "Deputy Chief Conant",
+                "screen_name": "LBPDInvest_CA"
+            },
+            {
+                "id": 17476888,
+                "name": "joinlbpd",
+                "screen_name": "joinlbpd"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPDDIS: Follow @LBPDDIS @LongBeachPD_CA @LBPDrobbery @LBPOA @LBPDNorth_CA @LBPDEast_CA @LBPDWest_CA @lbpd_volunteers @LBPDInvest_CA @j…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+        "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+        "favourites_count": 4394,
+        "followers_count": 8736,
+        "friends_count": 434,
+        "id": 50097116,
+        "lang": "en",
+        "listed_count": 233,
+        "name": "Long Beach PD",
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+        "profile_link_color": "63A5BD",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "LongBeachPD_CA",
+        "statuses_count": 6177,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mv2Tul1Uz8",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3251065470,
+            "name": "LBPD Narcotics",
+            "screen_name": "LBPDDIS"
+        },
+        {
+            "id": 3251065470,
+            "name": "LBPD Narcotics",
+            "screen_name": "LBPDDIS"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD",
+            "screen_name": "LongBeachPD_CA"
+        },
+        {
+            "id": 2577483558,
+            "name": "LBPD Robbery",
+            "screen_name": "LBPDrobbery"
+        },
+        {
+            "id": 135527723,
+            "name": "Long Beach Police OA",
+            "screen_name": "LBPOA"
+        },
+        {
+            "id": 773241105718521857,
+            "name": "LBPD North Division",
+            "screen_name": "LBPDNorth_CA"
+        },
+        {
+            "id": 778281660194230272,
+            "name": "LBPD East Division",
+            "screen_name": "LBPDEast_CA"
+        },
+        {
+            "id": 773258224292143104,
+            "name": "LBPD West Division",
+            "screen_name": "LBPDWest_CA"
+        },
+        {
+            "id": 3296029160,
+            "name": "LBPD Volunteers",
+            "screen_name": "lbpd_volunteers"
+        },
+        {
+            "id": 758098482288660480,
+            "name": "Deputy Chief Conant",
+            "screen_name": "LBPDInvest_CA"
+        }
+    ]
+}
