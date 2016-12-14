@@ -1,0 +1,114 @@
+{
+    "created_at": "Wed Dec 14 16:58:47 +0000 2016",
+    "hashtags": [],
+    "id": 809080205310562305,
+    "id_str": "809080205310562305",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 16:10:34 +0000 2016",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "iammbk"
+            }
+        ],
+        "id": 809068070979309568,
+        "id_str": "809068070979309568",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Watch Long Beach Vice Mayor @rexrichardson at today's @MBK_Alliance White House Summit. Stream it at https://t.co/tz7kOtsRfz #iammbk",
+        "urls": [
+            {
+                "expanded_url": "http://whitehouse.gov/live",
+                "url": "https://t.co/tz7kOtsRfz"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 13 22:44:58 +0000 2015",
+            "default_profile": true,
+            "description": "Dr. D'Artagnan Scorza, Inglewood Unified School District Boardmember - Seat #5",
+            "favourites_count": 298,
+            "followers_count": 582,
+            "friends_count": 1238,
+            "id": 3018938473,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Inglewood, CA",
+            "name": "D'Artagnan Scorza",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018938473/1452101672",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/684790015671402496/n59MBRj1_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "DrScorza",
+            "statuses_count": 465,
+            "url": "http://t.co/7GPbLGt0wm"
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 3157910605,
+                "name": "MBK Alliance",
+                "screen_name": "MBK_Alliance"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @DrScorza: Watch Long Beach Vice Mayor @rexrichardson at today's @MBK_Alliance White House Summit. Stream it at https://t.co/tz7kOtsRfz…",
+    "urls": [
+        {
+            "expanded_url": "http://whitehouse.gov/live",
+            "url": "https://t.co/tz7kOtsRfz"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1366,
+        "followers_count": 2384,
+        "friends_count": 1304,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2164,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3018938473,
+            "name": "D'Artagnan Scorza",
+            "screen_name": "DrScorza"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        }
+    ]
+}
