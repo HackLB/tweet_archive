@@ -1,0 +1,82 @@
+{
+    "created_at": "Wed Dec 14 20:51:54 +0000 2016",
+    "hashtags": [],
+    "id": 809138869404717056,
+    "id_str": "809138869404717056",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 20:46:35 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 809137532575301632,
+        "id_str": "809137532575301632",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "RT LBMayorsOffice: We are proud to have rexrichardson at the MBK National Summit representing Long Beach. https://t.co/KyafbCM5dL",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/rexrichardson/status/809119281875009536",
+                "url": "https://t.co/KyafbCM5dL"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 08 07:06:49 +0000 2013",
+            "description": "Bee Academic Tutoring offers private in-home tutoring for all subjects K-12.",
+            "followers_count": 433,
+            "friends_count": 132,
+            "id": 2181660373,
+            "lang": "en",
+            "listed_count": 48,
+            "location": "Los Angeles & Orange County",
+            "name": "Bee Academic Tutors",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2181660373/1407314736",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/496936734479757312/N34mMrth_normal.png",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "BeeAcademic",
+            "statuses_count": 1377,
+            "url": "http://t.co/q0uty4xOF8"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @BeeAcademic: RT LBMayorsOffice: We are proud to have rexrichardson at the MBK National Summit representing Long Beach. https://t.co/Kya…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1430,
+        "followers_count": 2397,
+        "friends_count": 1320,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2235,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2181660373,
+            "name": "Bee Academic Tutors",
+            "screen_name": "BeeAcademic"
+        }
+    ]
+}

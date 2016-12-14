@@ -1,0 +1,125 @@
+{
+    "created_at": "Wed Dec 14 20:24:44 +0000 2016",
+    "hashtags": [
+        {
+            "text": "IAMMBK"
+        }
+    ],
+    "id": 809132033335119872,
+    "id_str": "809132033335119872",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 20:23:30 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "IAMMBK"
+            }
+        ],
+        "id": 809131723673874432,
+        "id_str": "809131723673874432",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "❤ this. @rexrichardson, @SJLI_CA led by @UrbanScholar1 is a leader in LA-based #IAMMBK work. You should connect if… https://t.co/7wcCsSbOPI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/809131723673874432",
+                "url": "https://t.co/7wcCsSbOPI"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 01 17:42:36 +0000 2013",
+            "description": "Strategist, Planner & Squeakywheel of Urban Rising Group, helping you plan it, do it & tell people about it. Join our community: https://t.co/KzM2LUq7K6.",
+            "favourites_count": 2183,
+            "followers_count": 346,
+            "friends_count": 507,
+            "id": 1638513493,
+            "lang": "en",
+            "listed_count": 50,
+            "location": "Los Angeles, CA",
+            "name": "Ivory Chambeshi",
+            "profile_background_color": "E3D6AD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638513493/1454824931",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/746384909325893632/DWsMckUf_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_fill_color": "E6A146",
+            "profile_text_color": "3C3A2B",
+            "screen_name": "UrbanRisingIntl",
+            "statuses_count": 1351,
+            "time_zone": "Arizona",
+            "url": "https://t.co/r1e3Vk83CQ",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 213185620,
+                "name": "SJLI",
+                "screen_name": "SJLI_CA"
+            },
+            {
+                "id": 32812470,
+                "name": "D'Artagnan Scorza",
+                "screen_name": "UrbanScholar1"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @UrbanRisingIntl: ❤ this. @rexrichardson, @SJLI_CA led by @UrbanScholar1 is a leader in LA-based #IAMMBK work. You should connect if u h…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1430,
+        "followers_count": 2397,
+        "friends_count": 1320,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2235,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 1638513493,
+            "name": "Ivory Chambeshi",
+            "screen_name": "UrbanRisingIntl"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 213185620,
+            "name": "SJLI",
+            "screen_name": "SJLI_CA"
+        },
+        {
+            "id": 32812470,
+            "name": "D'Artagnan Scorza",
+            "screen_name": "UrbanScholar1"
+        }
+    ]
+}

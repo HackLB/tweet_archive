@@ -1,0 +1,104 @@
+{
+    "created_at": "Wed Dec 14 20:59:46 +0000 2016",
+    "hashtags": [
+        {
+            "text": "IAmMBK"
+        }
+    ],
+    "id": 809140850491944960,
+    "id_str": "809140850491944960",
+    "lang": "en",
+    "retweet_count": 38,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 19:48:41 +0000 2016",
+        "favorite_count": 170,
+        "hashtags": [
+            {
+                "text": "IAmMBK"
+            }
+        ],
+        "id": 809122962876067840,
+        "id_str": "809122962876067840",
+        "lang": "en",
+        "retweet_count": 38,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "So excited to be at the @WhiteHouse today for My Brother's Keeper. #IAmMBK - become a mentor today! Go to… https://t.co/6e7I5KE3DC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/809122962876067840",
+                "url": "https://t.co/6e7I5KE3DC"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 22 17:28:33 +0000 2012",
+            "description": "Live life. Love life. And I try to make people laugh. Insta: jayrellis | FB: https://t.co/kacMNdkCgT | Appearances: thesycamoregroup@gmail.com",
+            "favourites_count": 5108,
+            "followers_count": 50234,
+            "friends_count": 897,
+            "id": 615444681,
+            "lang": "en",
+            "listed_count": 102,
+            "location": "Facebook - @therealjayellis",
+            "name": "Jay Ellis",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594448816/s2sebh6s68d4z2rpicd3.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/615444681/1476685522",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/795005296988950528/TTT8DPQs_normal.jpg",
+            "profile_link_color": "131516",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "JayREllis",
+            "statuses_count": 6131,
+            "url": "https://t.co/1DP1IU1a2Y",
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 30313925,
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @JayREllis: So excited to be at the @WhiteHouse today for My Brother's Keeper. #IAmMBK - become a mentor today! Go to https://t.co/qsuyF…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1430,
+        "followers_count": 2397,
+        "friends_count": 1320,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2235,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 615444681,
+            "name": "Jay Ellis",
+            "screen_name": "JayREllis"
+        },
+        {
+            "id": 30313925,
+            "name": "The White House",
+            "screen_name": "WhiteHouse"
+        }
+    ]
+}

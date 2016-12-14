@@ -1,0 +1,54 @@
+{
+    "created_at": "Wed Dec 14 19:30:28 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LGB"
+        },
+        {
+            "text": "MerryLGB"
+        }
+    ],
+    "id": 809118378992537605,
+    "id_str": "809118378992537605",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/yPPJcMfJLd",
+            "expanded_url": "https://twitter.com/LBAirport/status/809118378992537605/photo/1",
+            "id": 809118376098406401,
+            "media_url": "http://pbs.twimg.com/media/CzqQ4EyWIAErefq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzqQ4EyWIAErefq.jpg",
+            "type": "photo",
+            "url": "https://t.co/yPPJcMfJLd"
+        }
+    ],
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "The holiday season is in full swing at #LGB! #MerryLGB https://t.co/yPPJcMfJLd",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2863,
+        "followers_count": 9384,
+        "friends_count": 573,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 363,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1443791291",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6256,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

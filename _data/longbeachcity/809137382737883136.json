@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Dec 14 20:45:59 +0000 2016",
+    "hashtags": [
+        {
+            "text": "IAmMBK"
+        }
+    ],
+    "id": 809137382737883136,
+    "id_str": "809137382737883136",
+    "lang": "en",
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 19:34:04 +0000 2016",
+        "favorite_count": 16,
+        "hashtags": [
+            {
+                "text": "IAmMBK"
+            }
+        ],
+        "id": 809119281875009536,
+        "id_str": "809119281875009536",
+        "lang": "en",
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Excited for the #IAmMBK Panel to share my story &amp; discuss how Long Beach is helping young men thrive! Watch:… https://t.co/tB4xXr7KBH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/809119281875009536",
+                "url": "https://t.co/tB4xXr7KBH"
+            }
+        ],
+        "user": {
+            "created_at": "Sun May 10 16:43:34 +0000 2009",
+            "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+            "favourites_count": 1430,
+            "followers_count": 2397,
+            "friends_count": 1320,
+            "geo_enabled": true,
+            "id": 39073462,
+            "lang": "en",
+            "listed_count": 59,
+            "location": "The LBC",
+            "name": "Rex Richardson",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "rexrichardson",
+            "statuses_count": 2235,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/OMw2ZmelIz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @rexrichardson: Excited for the #IAmMBK Panel to share my story &amp; discuss how Long Beach is helping young men thrive! Watch: https://t.c…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 64837,
+        "friends_count": 1215,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 451,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6482,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}

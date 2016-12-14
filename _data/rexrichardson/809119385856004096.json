@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Dec 14 19:34:28 +0000 2016",
+    "hashtags": [
+        {
+            "text": "iammbk"
+        }
+    ],
+    "id": 809119385856004096,
+    "id_str": "809119385856004096",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 19:30:55 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "iammbk"
+            }
+        ],
+        "id": 809118489235443713,
+        "id_str": "809118489235443713",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Watch now: https://t.co/8sakGqDedC #iammbk https://t.co/TEIAT88Gym",
+        "urls": [
+            {
+                "expanded_url": "http://whitehouse.gov/live",
+                "url": "https://t.co/8sakGqDedC"
+            },
+            {
+                "expanded_url": "https://twitter.com/rexrichardson/status/809115399719632896",
+                "url": "https://t.co/TEIAT88Gym"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 11 07:38:44 +0000 2010",
+            "description": "Political Strategist @DStrategyGroup,  @GonzagaU Alum, Loves the @Dodgers, Sitcoms, Los Angeles, & Italy. #GoZags #JesuitEducated",
+            "favourites_count": 1348,
+            "followers_count": 921,
+            "friends_count": 2030,
+            "geo_enabled": true,
+            "id": 113277287,
+            "lang": "en",
+            "listed_count": 24,
+            "location": "Rosemead, CA",
+            "name": "Danielle Cendejas",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/113277287/1362100374",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/760260041291083776/0SbJUnVn_normal.jpg",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "dccendejas",
+            "statuses_count": 3892,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/qBopKHDXF0",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @dccendejas: Watch now: https://t.co/8sakGqDedC #iammbk https://t.co/TEIAT88Gym",
+    "urls": [
+        {
+            "expanded_url": "http://whitehouse.gov/live",
+            "url": "https://t.co/8sakGqDedC"
+        },
+        {
+            "expanded_url": "https://twitter.com/rexrichardson/status/809115399719632896",
+            "url": "https://t.co/TEIAT88Gym"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1389,
+        "followers_count": 2391,
+        "friends_count": 1317,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2197,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 113277287,
+            "name": "Danielle Cendejas",
+            "screen_name": "dccendejas"
+        }
+    ]
+}

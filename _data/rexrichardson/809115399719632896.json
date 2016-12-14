@@ -1,0 +1,62 @@
+{
+    "created_at": "Wed Dec 14 19:18:38 +0000 2016",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "MyBrothersKeeper"
+        },
+        {
+            "text": "WhiteHouse"
+        }
+    ],
+    "id": 809115399719632896,
+    "id_str": "809115399719632896",
+    "lang": "en",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "About to take the stage at #MyBrothersKeeper Summit at #WhiteHouse with @MrMikeBlake @MayorHodges Watch:… https://t.co/MslSOwS6wU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/809115399719632896",
+            "url": "https://t.co/MslSOwS6wU"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1389,
+        "followers_count": 2391,
+        "friends_count": 1317,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2197,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 311276757,
+            "name": "Michael Blake",
+            "screen_name": "MrMikeBlake"
+        },
+        {
+            "id": 118719917,
+            "name": "Betsy Hodges",
+            "screen_name": "MayorHodges"
+        }
+    ]
+}

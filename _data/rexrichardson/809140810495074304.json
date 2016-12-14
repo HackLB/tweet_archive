@@ -1,0 +1,86 @@
+{
+    "created_at": "Wed Dec 14 20:59:36 +0000 2016",
+    "hashtags": [],
+    "id": 809140810495074304,
+    "id_str": "809140810495074304",
+    "lang": "en",
+    "retweet_count": 140,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 12:05:53 +0000 2016",
+        "favorite_count": 155,
+        "hashtags": [],
+        "id": 809006492691075072,
+        "id_str": "809006492691075072",
+        "lang": "en",
+        "retweet_count": 140,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Today is the MBK Digital Day of Action. We are celebrating mentoring and the work of My Brother's Keeper across the… https://t.co/yvLTjo06C7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/809006492691075072",
+                "url": "https://t.co/yvLTjo06C7"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 15 16:31:14 +0000 2015",
+            "description": "My Brother's Keeper Alliance seeks to improve outcomes for boys and young men of color by igniting efforts on national and local levels.",
+            "favourites_count": 1026,
+            "followers_count": 4444,
+            "friends_count": 1132,
+            "geo_enabled": true,
+            "id": 3157910605,
+            "lang": "en",
+            "listed_count": 72,
+            "name": "MBK Alliance",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3157910605/1479313695",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798926117864374272/CFUztZhh_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MBK_Alliance",
+            "statuses_count": 1437,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/lMLz2Vr7jM",
+            "utc_offset": -18000
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MBK_Alliance: Today is the MBK Digital Day of Action. We are celebrating mentoring and the work of My Brother's Keeper across the count…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1430,
+        "followers_count": 2397,
+        "friends_count": 1320,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2235,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "created_at": "Wed Dec 14 20:20:42 +0000 2016",
+    "hashtags": [],
+    "id": 809131019248934912,
+    "id_str": "809131019248934912",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 20:19:10 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 809130631087226880,
+        "id_str": "809130631087226880",
+        "in_reply_to_screen_name": "AfAmEducation",
+        "in_reply_to_status_id": 809124497865539585,
+        "in_reply_to_user_id": 1307544762,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -97.239256,
+                            43.499362
+                        ],
+                        [
+                            -89.483385,
+                            43.499362
+                        ],
+                        [
+                            -89.483385,
+                            49.384359
+                        ],
+                        [
+                            -97.239256,
+                            49.384359
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Minnesota, USA",
+            "id": "9807c5c5f7a2c6ce",
+            "name": "Minnesota",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/9807c5c5f7a2c6ce.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@AfAmEducation @CAsh_The3rd @rexrichardson I am a free lunch kid with a working mom too.",
+        "urls": [],
+        "user": {
+            "created_at": "Mon May 16 19:38:13 +0000 2011",
+            "description": "This is NOT Normal, we are NOT ok...Still.   Shop online! https://t.co/cOMWfZFJMJ Join my team: https://t.co/aphiIlovYq Ref code: jacquim50266",
+            "favourites_count": 13512,
+            "followers_count": 1447,
+            "friends_count": 4997,
+            "geo_enabled": true,
+            "id": 299847513,
+            "lang": "en",
+            "listed_count": 77,
+            "location": "Des Moines Iowa",
+            "name": "Jacqueline M. Martin",
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/299847513/1481647894",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/802918067047120896/c2qTtupW_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "screen_name": "JacquiM505",
+            "statuses_count": 9053,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "https://t.co/Uxeuslfu4E",
+            "utc_offset": -21600
+        },
+        "user_mentions": [
+            {
+                "id": 1307544762,
+                "name": "White House Af-Am Ed",
+                "screen_name": "AfAmEducation"
+            },
+            {
+                "id": 404573619,
+                "name": "Charles Ashley III",
+                "screen_name": "CAsh_The3rd"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @JacquiM505: @AfAmEducation @CAsh_The3rd @rexrichardson I am a free lunch kid with a working mom too.",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1430,
+        "followers_count": 2397,
+        "friends_count": 1320,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2235,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 299847513,
+            "name": "Jacqueline M. Martin",
+            "screen_name": "JacquiM505"
+        },
+        {
+            "id": 1307544762,
+            "name": "White House Af-Am Ed",
+            "screen_name": "AfAmEducation"
+        },
+        {
+            "id": 404573619,
+            "name": "Charles Ashley III",
+            "screen_name": "CAsh_The3rd"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
