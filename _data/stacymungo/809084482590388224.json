@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Dec 14 17:15:47 +0000 2016",
+    "hashtags": [],
+    "id": 809084482590388224,
+    "id_str": "809084482590388224",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 17:15:27 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 809084400579153921,
+        "id_str": "809084400579153921",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "On Dec 2, Don Temple Charitable Foundation gave @LBCityCollege a $750,000 donation, the largest in LBCC's history,… https://t.co/0vYjgsBI83",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/809084400579153921",
+                "url": "https://t.co/0vYjgsBI83"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 13 17:52:18 +0000 2014",
+            "default_profile": true,
+            "description": "The Voice of Business in Long Beach since 1987",
+            "favourites_count": 31,
+            "followers_count": 996,
+            "friends_count": 51,
+            "id": 2565667038,
+            "lang": "en",
+            "listed_count": 34,
+            "location": "Long Beach, CA",
+            "name": "LB Business Journal",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2565667038/1472511298",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770401180631470081/FxloVBg5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBBizJourn",
+            "statuses_count": 877,
+            "url": "http://t.co/7UveCwR8uj"
+        },
+        "user_mentions": [
+            {
+                "id": 65402279,
+                "name": "LB City College",
+                "screen_name": "LBCityCollege"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBBizJourn: On Dec 2, Don Temple Charitable Foundation gave @LBCityCollege a $750,000 donation, the largest in LBCC's history, for its…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 520,
+        "followers_count": 4019,
+        "friends_count": 1419,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1981,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2565667038,
+            "name": "LB Business Journal",
+            "screen_name": "LBBizJourn"
+        },
+        {
+            "id": 65402279,
+            "name": "LB City College",
+            "screen_name": "LBCityCollege"
+        }
+    ]
+}
