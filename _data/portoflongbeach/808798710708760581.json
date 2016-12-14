@@ -1,0 +1,56 @@
+{
+    "created_at": "Tue Dec 13 22:20:14 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 808798710708760581,
+    "id_str": "808798710708760581",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/7Tieisb189",
+            "expanded_url": "https://twitter.com/portoflongbeach/status/808798710708760581/photo/1",
+            "id": 808798707227316224,
+            "media_url": "http://pbs.twimg.com/media/CzluI5cUUAAyMEl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzluI5cUUAAyMEl.jpg",
+            "type": "photo",
+            "url": "https://t.co/7Tieisb189"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "The Port's commitment to the environment leads to cleaner water and a healthier harbor. https://t.co/mZGU57ikmq https://t.co/7Tieisb189",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/jzSy3075Kiu",
+            "url": "https://t.co/mZGU57ikmq"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 635,
+        "followers_count": 17148,
+        "friends_count": 3702,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 496,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7504,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": []
+}

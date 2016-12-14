@@ -1,0 +1,56 @@
+{
+    "created_at": "Tue Dec 13 22:55:19 +0000 2016",
+    "hashtags": [
+        {
+            "text": "holiday"
+        },
+        {
+            "text": "Christmas"
+        }
+    ],
+    "id": 808807540326887429,
+    "id_str": "808807540326887429",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "If you're not already in the #holiday spirit, @LBCamerata's A Camerata #Christmas concert will help 🎄 12/17… https://t.co/9jzHE0t8D9",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/808807540326887429",
+            "url": "https://t.co/9jzHE0t8D9"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1064,
+        "followers_count": 13105,
+        "friends_count": 1792,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13346,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 176481059,
+            "name": "LB Camerata Singers",
+            "screen_name": "LBCamerata"
+        }
+    ]
+}
