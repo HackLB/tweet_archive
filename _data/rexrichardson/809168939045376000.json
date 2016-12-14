@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Dec 14 22:51:23 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Alphas"
+        },
+        {
+            "text": "WhiteHouse"
+        },
+        {
+            "text": "MyBrothersKeeper"
+        }
+    ],
+    "id": 809168939045376000,
+    "id_str": "809168939045376000",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 21:19:44 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "Alphas"
+            },
+            {
+                "text": "WhiteHouse"
+            },
+            {
+                "text": "MyBrothersKeeper"
+            }
+        ],
+        "id": 809145877092827140,
+        "id_str": "809145877092827140",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#Alphas at the #WhiteHouse for the #MyBrothersKeeper National Summit holding down the local and state government pa… https://t.co/TysSwVZMpM",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/809145877092827140",
+                "url": "https://t.co/TysSwVZMpM"
+            }
+        ],
+        "user": {
+            "created_at": "Sun May 10 16:43:34 +0000 2009",
+            "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+            "favourites_count": 1444,
+            "followers_count": 2397,
+            "friends_count": 1322,
+            "geo_enabled": true,
+            "id": 39073462,
+            "lang": "en",
+            "listed_count": 59,
+            "location": "The LBC",
+            "name": "Rex Richardson",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "rexrichardson",
+            "statuses_count": 2249,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/OMw2ZmelIz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @rexrichardson: #Alphas at the #WhiteHouse for the #MyBrothersKeeper National Summit holding down the local and state government panel.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1444,
+        "followers_count": 2397,
+        "friends_count": 1322,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2249,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
