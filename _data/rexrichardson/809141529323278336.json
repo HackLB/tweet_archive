@@ -1,0 +1,95 @@
+{
+    "created_at": "Wed Dec 14 21:02:28 +0000 2016",
+    "hashtags": [
+        {
+            "text": "IamMBK"
+        }
+    ],
+    "id": 809141529323278336,
+    "id_str": "809141529323278336",
+    "lang": "en",
+    "retweet_count": 10,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 20:22:56 +0000 2016",
+        "favorite_count": 13,
+        "hashtags": [
+            {
+                "text": "IamMBK"
+            }
+        ],
+        "id": 809131579444436992,
+        "id_str": "809131579444436992",
+        "lang": "en",
+        "retweet_count": 10,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#IamMBK Did You Know: Youth who have mentors are 46% less likely than their peers to start using illegal drugs.… https://t.co/lGKJV8BPy3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/809131579444436992",
+                "url": "https://t.co/lGKJV8BPy3"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 22 18:28:02 +0000 2009",
+            "description": "Answer President Obama's call to service. Official United We Serve twitter account.",
+            "favourites_count": 553,
+            "followers_count": 44624,
+            "friends_count": 1002,
+            "id": 59204932,
+            "lang": "en",
+            "listed_count": 1210,
+            "location": "USA",
+            "name": "United We Serve",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/59204932/1439995092",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1119135330/serve_normal.JPG",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "ServeDotGov",
+            "statuses_count": 4416,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/YeIRnR0HmF",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @ServeDotGov: #IamMBK Did You Know: Youth who have mentors are 46% less likely than their peers to start using illegal drugs. https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1438,
+        "followers_count": 2398,
+        "friends_count": 1322,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2244,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 59204932,
+            "name": "United We Serve",
+            "screen_name": "ServeDotGov"
+        }
+    ]
+}

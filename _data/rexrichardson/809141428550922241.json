@@ -1,0 +1,144 @@
+{
+    "created_at": "Wed Dec 14 21:02:04 +0000 2016",
+    "hashtags": [
+        {
+            "text": "IamMBK"
+        }
+    ],
+    "id": 809141428550922241,
+    "id_str": "809141428550922241",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/7X30zzzAOA",
+            "expanded_url": "https://twitter.com/MBK_Alliance/status/809137397644587012/photo/1",
+            "id": 809137391772565504,
+            "media_url": "http://pbs.twimg.com/media/CzqiK7sXAAAr3yG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzqiK7sXAAAr3yG.jpg",
+            "type": "photo",
+            "url": "https://t.co/7X30zzzAOA"
+        }
+    ],
+    "retweet_count": 14,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 20:46:03 +0000 2016",
+        "favorite_count": 23,
+        "hashtags": [
+            {
+                "text": "IamMBK"
+            }
+        ],
+        "id": 809137397644587012,
+        "id_str": "809137397644587012",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/7X30zzzAOA",
+                "expanded_url": "https://twitter.com/MBK_Alliance/status/809137397644587012/photo/1",
+                "id": 809137391772565504,
+                "media_url": "http://pbs.twimg.com/media/CzqiK7sXAAAr3yG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzqiK7sXAAAr3yG.jpg",
+                "type": "photo",
+                "url": "https://t.co/7X30zzzAOA"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.03656733036041,
+                            38.89768802057123
+                        ],
+                        [
+                            -77.03656733036041,
+                            38.89768802057123
+                        ],
+                        [
+                            -77.03656733036041,
+                            38.89768802057123
+                        ],
+                        [
+                            -77.03656733036041,
+                            38.89768802057123
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "The White House",
+            "id": "07d9dafff4481002",
+            "name": "The White House",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9dafff4481002.json"
+        },
+        "retweet_count": 14,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our reason why. The young people of My Brother's Keeper! #IamMBK https://t.co/7X30zzzAOA",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 15 16:31:14 +0000 2015",
+            "description": "My Brother's Keeper Alliance seeks to improve outcomes for boys and young men of color by igniting efforts on national and local levels.",
+            "favourites_count": 1030,
+            "followers_count": 4477,
+            "friends_count": 1132,
+            "geo_enabled": true,
+            "id": 3157910605,
+            "lang": "en",
+            "listed_count": 72,
+            "name": "MBK Alliance",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3157910605/1479313695",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798926117864374272/CFUztZhh_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MBK_Alliance",
+            "statuses_count": 1443,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/lMLz2Vr7jM",
+            "utc_offset": -18000
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @MBK_Alliance: Our reason why. The young people of My Brother's Keeper! #IamMBK https://t.co/7X30zzzAOA",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor of Long Beach, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization + #Innovation.",
+        "favourites_count": 1438,
+        "followers_count": 2398,
+        "friends_count": 1322,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1475824177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2244,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        }
+    ]
+}
