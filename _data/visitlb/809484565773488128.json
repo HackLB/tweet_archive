@@ -1,0 +1,63 @@
+{
+    "created_at": "Thu Dec 15 19:45:34 +0000 2016",
+    "hashtags": [
+        {
+            "text": "ThisIsLB"
+        }
+    ],
+    "id": 809484565773488128,
+    "id_str": "809484565773488128",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/wR81QMT586",
+            "expanded_url": "https://twitter.com/VisitLB/status/809484565773488128/photo/1",
+            "id": 809484563063959554,
+            "media_url": "http://pbs.twimg.com/media/Czvd69iW8AIzZqO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Czvd69iW8AIzZqO.jpg",
+            "type": "photo",
+            "url": "https://t.co/wR81QMT586"
+        }
+    ],
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Learn the art of the tango tomorrow night @molaa! 💃 #ThisIsLB https://t.co/9w71M0ZGu0 https://t.co/wR81QMT586",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2gBTN9S",
+            "url": "https://t.co/9w71M0ZGu0"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1067,
+        "followers_count": 13106,
+        "friends_count": 1792,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 522,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13356,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 31276580,
+            "name": "MOLAA",
+            "screen_name": "molaa"
+        }
+    ]
+}

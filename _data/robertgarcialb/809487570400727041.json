@@ -1,0 +1,62 @@
+{
+    "created_at": "Thu Dec 15 19:57:30 +0000 2016",
+    "hashtags": [],
+    "id": 809487570400727041,
+    "id_str": "809487570400727041",
+    "in_reply_to_screen_name": "jp101",
+    "in_reply_to_status_id": 809486566049468417,
+    "in_reply_to_user_id": 17680417,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@jp101 @LBMayorsOffice @LBAirport @latimes it's going to happen - early next year",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5109,
+        "followers_count": 11500,
+        "friends_count": 2051,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 225,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9605,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17680417,
+            "name": "Jerry Perezchica",
+            "screen_name": "jp101"
+        },
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        },
+        {
+            "id": 16664681,
+            "name": "Los Angeles Times",
+            "screen_name": "latimes"
+        }
+    ]
+}
