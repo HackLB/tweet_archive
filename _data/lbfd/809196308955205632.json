@@ -1,0 +1,103 @@
+{
+    "created_at": "Thu Dec 15 00:40:08 +0000 2016",
+    "hashtags": [],
+    "id": 809196308955205632,
+    "id_str": "809196308955205632",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Dec 14 23:00:24 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 809171210206646273,
+        "id_str": "809171210206646273",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2rdbqMbAow",
+                "expanded_url": "https://twitter.com/MillerChildrens/status/809171210206646273/photo/1",
+                "id": 809171205584515073,
+                "media_url": "http://pbs.twimg.com/media/CzrA7J9W8AE6UzE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzrA7J9W8AE6UzE.jpg",
+                "type": "photo",
+                "url": "https://t.co/2rdbqMbAow"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "Santa enlisted the help of @lbfd  to deliver presents to our patients before his busiest night of the year. https://t.co/2rdbqMbAow",
+        "urls": [],
+        "user": {
+            "created_at": "Fri May 14 19:02:21 +0000 2010",
+            "description": "Miller Children’s Hospital Long Beach provides specialized pediatric care for children & young adults, with conditions ranging from common to complex.",
+            "favourites_count": 232,
+            "followers_count": 1967,
+            "friends_count": 1031,
+            "geo_enabled": true,
+            "id": 143903773,
+            "lang": "en",
+            "listed_count": 68,
+            "location": "Long Beach, California",
+            "name": "Miller Children’s",
+            "profile_background_color": "723899",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451023294523658240/HBh0xUj1.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/143903773/1481655393",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/493801709982863360/7WUulZob_normal.png",
+            "profile_link_color": "104676",
+            "profile_sidebar_fill_color": "D6D0EC",
+            "profile_text_color": "421460",
+            "screen_name": "MillerChildrens",
+            "statuses_count": 3648,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/OX9Ynmu203",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire",
+                "screen_name": "lbfd"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MillerChildrens: Santa enlisted the help of @lbfd  to deliver presents to our patients before his busiest night of the year. https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 570,
+        "followers_count": 4885,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 185,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2294,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 143903773,
+            "name": "Miller Children’s",
+            "screen_name": "MillerChildrens"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        }
+    ]
+}
