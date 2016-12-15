@@ -1,0 +1,59 @@
+{
+    "created_at": "Thu Dec 15 17:30:52 +0000 2016",
+    "hashtags": [],
+    "id": 809450665529540609,
+    "id_str": "809450665529540609",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/XzVauRStvG",
+            "expanded_url": "https://twitter.com/VisitLB/status/809450665529540609/photo/1",
+            "id": 809450662647865344,
+            "media_url": "http://pbs.twimg.com/media/Czu_FspUoAAAmfD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Czu_FspUoAAAmfD.jpg",
+            "type": "photo",
+            "url": "https://t.co/XzVauRStvG"
+        }
+    ],
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Only 2 days left to get $2 off your ice skating admission @ThePikeOutlets! Deal ends 12/16! https://t.co/ROZgXCI6Mo https://t.co/XzVauRStvG",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2hOY1fd",
+            "url": "https://t.co/ROZgXCI6Mo"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1067,
+        "followers_count": 13106,
+        "friends_count": 1792,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 521,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13355,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 113719323,
+            "name": "The Pike Outlets",
+            "screen_name": "ThePikeOutlets"
+        }
+    ]
+}
