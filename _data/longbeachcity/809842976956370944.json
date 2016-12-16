@@ -1,0 +1,93 @@
+{
+    "created_at": "Fri Dec 16 19:29:46 +0000 2016",
+    "hashtags": [],
+    "id": 809842976956370944,
+    "id_str": "809842976956370944",
+    "lang": "en",
+    "retweet_count": 34,
+    "retweeted_status": {
+        "created_at": "Fri Dec 16 01:47:14 +0000 2016",
+        "favorite_count": 34,
+        "hashtags": [],
+        "id": 809575582287568896,
+        "id_str": "809575582287568896",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xzvEItqfgA",
+                "expanded_url": "https://twitter.com/SCE/status/809575582287568896/video/1",
+                "id": 809575547827167232,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/809575547827167232/pu/img/KY5W5msIitamyrVQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/809575547827167232/pu/img/KY5W5msIitamyrVQ.jpg",
+                "type": "video",
+                "url": "https://t.co/xzvEItqfgA"
+            }
+        ],
+        "retweet_count": 34,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "⚠️Downed power lines can electrify puddles, wet grass &amp; the surrounding area. Call 911 if you see a downed wire. ⚠️ https://t.co/xzvEItqfgA",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Aug 26 21:21:40 +0000 2008",
+            "description": "Get tips on how to save energy & latest outage info. Feed is monitored from 9-9pm M-F and 10-7pm on weekends. Outage? https://t.co/NdqYlK9EWH or 800-611-1911",
+            "favourites_count": 2638,
+            "followers_count": 45061,
+            "friends_count": 682,
+            "id": 16002973,
+            "lang": "en",
+            "listed_count": 763,
+            "location": "Southern California",
+            "name": "SCE",
+            "profile_background_color": "96A064",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000136945645/zaLEQJzm.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16002973/1398613138",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/545694965917966336/hsZg-dNz_normal.png",
+            "profile_link_color": "088253",
+            "profile_sidebar_fill_color": "FAE489",
+            "profile_text_color": "47262D",
+            "screen_name": "SCE",
+            "statuses_count": 31260,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/wro7FRLNct",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SCE: ⚠️Downed power lines can electrify puddles, wet grass &amp; the surrounding area. Call 911 if you see a downed wire. ⚠️ https://t.co/x…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 64916,
+        "friends_count": 1215,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 451,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6492,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16002973,
+            "name": "SCE",
+            "screen_name": "SCE"
+        }
+    ]
+}
