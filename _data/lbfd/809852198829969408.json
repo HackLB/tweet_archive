@@ -1,0 +1,49 @@
+{
+    "created_at": "Fri Dec 16 20:06:25 +0000 2016",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 809852198829969408,
+    "id_str": "809852198829969408",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/koRlfbLyNm",
+            "expanded_url": "https://twitter.com/lbfd/status/809852198829969408/photo/1",
+            "id": 809852153653116929,
+            "media_url": "http://pbs.twimg.com/media/Cz0sPjMUQAEmMy7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cz0sPjMUQAEmMy7.jpg",
+            "type": "photo",
+            "url": "https://t.co/koRlfbLyNm"
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "On the 9th day before Christmas my Assistant Chief said to me: “give space heaters space!” https://t.co/koRlfbLyNm",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 570,
+        "followers_count": 4883,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 185,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2297,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
