@@ -1,0 +1,122 @@
+{
+    "created_at": "Fri Dec 16 06:46:56 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Placemaking"
+        }
+    ],
+    "id": 809651004530511872,
+    "id_str": "809651004530511872",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/kRRYQRIdA4",
+            "expanded_url": "https://twitter.com/Parksify/status/809612256124272642/photo/1",
+            "id": 809612251170820097,
+            "media_url": "http://pbs.twimg.com/media/CzxSDYzXUAEleHo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzxSDYzXUAEleHo.jpg",
+            "type": "photo",
+            "url": "https://t.co/kRRYQRIdA4"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Dec 16 04:12:58 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "Placemaking"
+            }
+        ],
+        "id": 809612256124272642,
+        "id_str": "809612256124272642",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kRRYQRIdA4",
+                "expanded_url": "https://twitter.com/Parksify/status/809612256124272642/photo/1",
+                "id": 809612251170820097,
+                "media_url": "http://pbs.twimg.com/media/CzxSDYzXUAEleHo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CzxSDYzXUAEleHo.jpg",
+                "type": "photo",
+                "url": "https://t.co/kRRYQRIdA4"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "#Placemaking and Our Human Wellbeing in Cities https://t.co/wVYe1kPyIG https://t.co/kRRYQRIdA4",
+        "urls": [
+            {
+                "expanded_url": "http://buff.ly/2h6EJBZ",
+                "url": "https://t.co/wVYe1kPyIG"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 06 13:40:19 +0000 2013",
+            "description": "Parksify is all about our cities’ public spaces.",
+            "favourites_count": 202,
+            "followers_count": 4068,
+            "friends_count": 2625,
+            "id": 1487804719,
+            "lang": "en",
+            "listed_count": 141,
+            "location": "Los Angeles, CA",
+            "name": "Parksify",
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/887573697/424ece0917562f82ae9834efb896f832.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487804719/1476329647",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779865377874391040/BvReDlJk_normal.jpg",
+            "profile_link_color": "48AE35",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Parksify",
+            "statuses_count": 1839,
+            "time_zone": "Atlantic Time (Canada)",
+            "url": "https://t.co/OMofY2uGQI",
+            "utc_offset": -14400
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Parksify: #Placemaking and Our Human Wellbeing in Cities https://t.co/wVYe1kPyIG https://t.co/kRRYQRIdA4",
+    "urls": [
+        {
+            "expanded_url": "http://buff.ly/2h6EJBZ",
+            "url": "https://t.co/wVYe1kPyIG"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2118,
+        "followers_count": 12931,
+        "friends_count": 729,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4216,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 1487804719,
+            "name": "Parksify",
+            "screen_name": "Parksify"
+        }
+    ]
+}
