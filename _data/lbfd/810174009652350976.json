@@ -1,0 +1,48 @@
+{
+    "created_at": "Sat Dec 17 17:25:10 +0000 2016",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "SparkofLove"
+        }
+    ],
+    "id": 810174009652350976,
+    "id_str": "810174009652350976",
+    "lang": "en",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Today is our first #SparkofLove toy distribution... Spreading some holiday cheer to our kids in Long Beach!… https://t.co/pTtfeIQwMU",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/810174009652350976",
+            "url": "https://t.co/pTtfeIQwMU"
+        }
+    ],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 574,
+        "followers_count": 4889,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 185,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2301,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
