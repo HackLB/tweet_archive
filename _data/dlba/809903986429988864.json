@@ -1,0 +1,117 @@
+{
+    "created_at": "Fri Dec 16 23:32:12 +0000 2016",
+    "hashtags": [],
+    "id": 809903986429988864,
+    "id_str": "809903986429988864",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/3NmfR7Hngl",
+            "expanded_url": "https://twitter.com/cutcopy/status/809903789675253760/photo/1",
+            "id": 809903247318249472,
+            "media_url": "http://pbs.twimg.com/media/Cz1atl7W8AAlqi0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cz1atl7W8AAlqi0.jpg",
+            "type": "photo",
+            "url": "https://t.co/3NmfR7Hngl"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Dec 16 23:31:25 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 809903789675253760,
+        "id_str": "809903789675253760",
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3NmfR7Hngl",
+                "expanded_url": "https://twitter.com/cutcopy/status/809903789675253760/photo/1",
+                "id": 809903247318249472,
+                "media_url": "http://pbs.twimg.com/media/Cz1atl7W8AAlqi0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cz1atl7W8AAlqi0.jpg",
+                "type": "photo",
+                "url": "https://t.co/3NmfR7Hngl"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "NYE 2016 @DLBA https://t.co/3NmfR7Hngl",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Jul 01 18:40:12 +0000 2009",
+            "description": "have a listen: https://t.co/BPVSPurw5Y + our label @cuttersrecords",
+            "favourites_count": 2392,
+            "followers_count": 504132,
+            "friends_count": 182,
+            "geo_enabled": true,
+            "id": 52810109,
+            "lang": "en",
+            "listed_count": 2405,
+            "location": "AUSTRALIA",
+            "name": "cut copy",
+            "profile_background_color": "FF56F9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/646502290744971264/EW9sbjrJ.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52810109/1438154610",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/626290853082849280/A3fPCcWC_normal.png",
+            "profile_link_color": "919191",
+            "profile_sidebar_fill_color": "1E5763",
+            "profile_text_color": "000000",
+            "screen_name": "cutcopy",
+            "statuses_count": 2580,
+            "time_zone": "Quito",
+            "url": "http://t.co/bDJ17EkmTZ",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 30287813,
+                "name": "Downtown Long Beach",
+                "screen_name": "DLBA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @cutcopy: NYE 2016 @DLBA https://t.co/3NmfR7Hngl",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2120,
+        "followers_count": 12930,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4217,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 52810109,
+            "name": "cut copy",
+            "screen_name": "cutcopy"
+        },
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        }
+    ]
+}
