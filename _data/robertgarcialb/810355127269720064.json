@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun Dec 18 05:24:52 +0000 2016",
+    "hashtags": [],
+    "id": 810355127269720064,
+    "id_str": "810355127269720064",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Sun Dec 18 05:20:29 +0000 2016",
+        "favorite_count": 19,
+        "hashtags": [],
+        "id": 810354023568011264,
+        "id_str": "810354023568011264",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "St. Anthony finish their season as the CIF State Runner-Up. What a great season for these student-athletes!\n\nWE ARE… https://t.co/TWGxUOIuHB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/810354023568011264",
+                "url": "https://t.co/TWGxUOIuHB"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 29 00:00:37 +0000 2012",
+            "description": "The official Twitter feed for St. Anthony High School news, events, and athletic updates. #FearTheHalo #SAHS #HailToThePurpleAndWhite",
+            "favourites_count": 18,
+            "followers_count": 909,
+            "friends_count": 206,
+            "id": 851931672,
+            "lang": "en",
+            "listed_count": 7,
+            "location": "Long Beach, CA",
+            "name": "St. Anthony H.S.",
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/851931672/1481988519",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/805324799010476032/e5FA0u5y_normal.jpg",
+            "profile_link_color": "480C67",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "screen_name": "StAnthonySAINTS",
+            "statuses_count": 4761,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/JsA628opJv",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @StAnthonySAINTS: St. Anthony finish their season as the CIF State Runner-Up. What a great season for these student-athletes!\n\nWE ARE SA…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5129,
+        "followers_count": 11513,
+        "friends_count": 2054,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 226,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9613,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 851931672,
+            "name": "St. Anthony H.S.",
+            "screen_name": "StAnthonySAINTS"
+        }
+    ]
+}
