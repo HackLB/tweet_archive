@@ -1,0 +1,111 @@
+{
+    "created_at": "Mon Dec 19 21:15:59 +0000 2016",
+    "hashtags": [
+        {
+            "text": "holidaysafety"
+        }
+    ],
+    "id": 810956872844906496,
+    "id_str": "810956872844906496",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/kE02gFerWh",
+            "expanded_url": "https://twitter.com/LBPD/status/810949791937163268/photo/1",
+            "id": 810949362989707264,
+            "media_url": "http://pbs.twimg.com/media/C0ESJifUsAAmYmS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0ESJifUsAAmYmS.jpg",
+            "type": "photo",
+            "url": "https://t.co/kE02gFerWh"
+        }
+    ],
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Mon Dec 19 20:47:51 +0000 2016",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "holidaysafety"
+            }
+        ],
+        "id": 810949791937163268,
+        "id_str": "810949791937163268",
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/kE02gFerWh",
+                "expanded_url": "https://twitter.com/LBPD/status/810949791937163268/photo/1",
+                "id": 810949362989707264,
+                "media_url": "http://pbs.twimg.com/media/C0ESJifUsAAmYmS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C0ESJifUsAAmYmS.jpg",
+                "type": "photo",
+                "url": "https://t.co/kE02gFerWh"
+            }
+        ],
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#holidaysafety https://t.co/kE02gFerWh",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+            "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+            "favourites_count": 4393,
+            "followers_count": 8758,
+            "friends_count": 436,
+            "id": 50097116,
+            "lang": "en",
+            "listed_count": 233,
+            "name": "Long Beach PD (CA)",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+            "profile_link_color": "63A5BD",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "LBPD",
+            "statuses_count": 6148,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/mv2Tul1Uz8",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LBPD: #holidaysafety https://t.co/kE02gFerWh",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65019,
+        "friends_count": 1215,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 454,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6493,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        }
+    ]
+}

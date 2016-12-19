@@ -1,0 +1,134 @@
+{
+    "created_at": "Mon Dec 19 21:49:53 +0000 2016",
+    "hashtags": [
+        {
+            "text": "UCLALuskin"
+        },
+        {
+            "text": "Innovation"
+        }
+    ],
+    "id": 810965400028520448,
+    "id_str": "810965400028520448",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Dec 19 20:47:33 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "UCLALuskin"
+            },
+            {
+                "text": "Innovation"
+            }
+        ],
+        "id": 810949716384956416,
+        "id_str": "810949716384956416",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Congrats #UCLALuskin alum @TracyColunga MSW '01 named #Innovation Team Director for @LongBeachCity @BloombergCities… https://t.co/wcjIMmoO5O",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/810949716384956416",
+                "url": "https://t.co/wcjIMmoO5O"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 14 17:04:04 +0000 2009",
+            "description": "Home to UCLA's Public Policy, Social Welfare & Urban Planning departments. #Changeagents who advance solutions to society's most pressing problems.",
+            "favourites_count": 2233,
+            "followers_count": 3534,
+            "friends_count": 1039,
+            "geo_enabled": true,
+            "id": 56750010,
+            "lang": "en",
+            "listed_count": 162,
+            "location": "Los Angeles, CA",
+            "name": "#UCLALuskin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736207708/c5ae15af50469e44438f40e6372d3e6a.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/56750010/1473384286",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/641725500830777344/SXUsMs5W_normal.jpg",
+            "profile_link_color": "0051B3",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "UCLALuskin",
+            "statuses_count": 4924,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/S9EsMPrTAl",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 503941028,
+                "name": "Tracy Colunga",
+                "screen_name": "TracyColunga"
+            },
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 1725985022,
+                "name": "Bloomberg Cities",
+                "screen_name": "BloombergCities"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @UCLALuskin: Congrats #UCLALuskin alum @TracyColunga MSW '01 named #Innovation Team Director for @LongBeachCity @BloombergCities https:/…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65019,
+        "friends_count": 1215,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 454,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6493,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 56750010,
+            "name": "#UCLALuskin",
+            "screen_name": "UCLALuskin"
+        },
+        {
+            "id": 503941028,
+            "name": "Tracy Colunga",
+            "screen_name": "TracyColunga"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 1725985022,
+            "name": "Bloomberg Cities",
+            "screen_name": "BloombergCities"
+        }
+    ]
+}
