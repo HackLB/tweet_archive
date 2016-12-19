@@ -1,0 +1,111 @@
+{
+    "created_at": "Mon Dec 19 15:36:01 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Christmas"
+        }
+    ],
+    "id": 810871316072906752,
+    "id_str": "810871316072906752",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/wowpL5ZPuB",
+            "expanded_url": "https://twitter.com/Readygov/status/809909940630523904/photo/1",
+            "id": 809909931319197697,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cz1gypxXgAELDuC.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cz1gypxXgAELDuC.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/wowpL5ZPuB"
+        }
+    ],
+    "retweet_count": 101,
+    "retweeted_status": {
+        "created_at": "Fri Dec 16 23:55:51 +0000 2016",
+        "favorite_count": 42,
+        "hashtags": [
+            {
+                "text": "Christmas"
+            }
+        ],
+        "id": 809909940630523904,
+        "id_str": "809909940630523904",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wowpL5ZPuB",
+                "expanded_url": "https://twitter.com/Readygov/status/809909940630523904/photo/1",
+                "id": 809909931319197697,
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cz1gypxXgAELDuC.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cz1gypxXgAELDuC.jpg",
+                "type": "animated_gif",
+                "url": "https://t.co/wowpL5ZPuB"
+            }
+        ],
+        "retweet_count": 101,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Water your 🎄 every day. A dry #Christmas tree can catch fire easily. https://t.co/wowpL5ZPuB",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Aug 28 15:33:16 +0000 2008",
+            "description": "Don't wait. Communicate. Start your emergency plan today.",
+            "favourites_count": 3953,
+            "followers_count": 129797,
+            "friends_count": 825,
+            "id": 16028241,
+            "lang": "en",
+            "listed_count": 3265,
+            "location": "U.S.A.",
+            "name": "Readygov",
+            "profile_background_color": "D6D5E5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163256552/Q9Y3LfHs.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16028241/1481037862",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/646417752811532288/D4M4w2f0_normal.jpg",
+            "profile_link_color": "549554",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333303",
+            "screen_name": "Readygov",
+            "statuses_count": 4856,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/kqF3aqOGfy",
+            "utc_offset": -18000,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Readygov: Water your 🎄 every day. A dry #Christmas tree can catch fire easily. https://t.co/wowpL5ZPuB",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 572,
+        "followers_count": 4887,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 185,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2299,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 16028241,
+            "name": "Readygov",
+            "screen_name": "Readygov"
+        }
+    ]
+}
