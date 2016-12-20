@@ -1,0 +1,55 @@
+{
+    "created_at": "Tue Dec 20 22:37:38 +0000 2016",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 811339807196475392,
+    "id_str": "811339807196475392",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ao7TaVNms3",
+            "expanded_url": "https://twitter.com/LongBeachCity/status/811339807196475392/photo/1",
+            "id": 811338267282915329,
+            "media_url": "http://pbs.twimg.com/media/C0Jz2v4UQAE7gv3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0Jz2v4UQAE7gv3.jpg",
+            "type": "photo",
+            "url": "https://t.co/ao7TaVNms3"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Here's a chance to see what every City dept has been working on all year: https://t.co/oVzS7ywCwE https://t.co/ao7TaVNms3",
+    "urls": [
+        {
+            "expanded_url": "http://www.longbeach.gov/2016YearInReview/",
+            "url": "https://t.co/oVzS7ywCwE"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65074,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 455,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6500,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": []
+}
