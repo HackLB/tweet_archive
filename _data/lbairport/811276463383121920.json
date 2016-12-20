@@ -1,0 +1,58 @@
+{
+    "created_at": "Tue Dec 20 18:25:56 +0000 2016",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "MerryLGB"
+        }
+    ],
+    "id": 811276463383121920,
+    "id_str": "811276463383121920",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/djcVI4NmrB",
+            "expanded_url": "https://twitter.com/LBAirport/status/811276463383121920/photo/1",
+            "id": 811276459637612544,
+            "media_url": "http://pbs.twimg.com/media/C0I7pEdWIAAvx3C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0I7pEdWIAAvx3C.jpg",
+            "type": "photo",
+            "url": "https://t.co/djcVI4NmrB"
+        }
+    ],
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "'Tis the season to fly LGB. #MerryLGB @JetBlue https://t.co/djcVI4NmrB",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2863,
+        "followers_count": 9410,
+        "friends_count": 575,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 364,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1481825555",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6259,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 6449282,
+            "name": "JetBlue Airways",
+            "screen_name": "JetBlue"
+        }
+    ]
+}

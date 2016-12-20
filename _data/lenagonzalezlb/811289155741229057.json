@@ -1,0 +1,123 @@
+{
+    "created_at": "Tue Dec 20 19:16:22 +0000 2016",
+    "hashtags": [
+        {
+            "text": "FoamFREELB"
+        },
+        {
+            "text": "lenagonzalezlb"
+        },
+        {
+            "text": "district1"
+        }
+    ],
+    "id": 811289155741229057,
+    "id_str": "811289155741229057",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Dec 20 18:53:11 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "FoamFREELB"
+            },
+            {
+                "text": "lenagonzalezlb"
+            },
+            {
+                "text": "district1"
+            }
+        ],
+        "id": 811283320231358464,
+        "id_str": "811283320231358464",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Join @lenagonzalezlb today at the #FoamFREELB Rally! #lenagonzalezlb #district1 https://t.co/vSeCbrMX6c",
+        "urls": [
+            {
+                "expanded_url": "https://www.facebook.com/events/1255188994518358/",
+                "url": "https://t.co/vSeCbrMX6c"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 24 04:45:47 +0000 2010",
+            "description": "Singer, actress, Ms. Wheelchair California 2010. OG Aladdin A Musical Spectacular Chorus Girl. Overall Rad - ask my mom",
+            "favourites_count": 786,
+            "followers_count": 679,
+            "friends_count": 344,
+            "geo_enabled": true,
+            "id": 125884195,
+            "lang": "en",
+            "listed_count": 25,
+            "location": "Long Beach, CA",
+            "name": "Jennifer Kumiyama",
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021708971/972ba069a749df1d3351dbe9f7c29c32.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/125884195/1451546171",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/811282541168599041/BYvY_hpq_normal.jpg",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "screen_name": "KumiROCKS",
+            "statuses_count": 5675,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/rnAt3HeII5",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 55487106,
+                "name": "Lena A. Gonzalez",
+                "screen_name": "lenagonzalezlb"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KumiROCKS: Join @lenagonzalezlb today at the #FoamFREELB Rally! #lenagonzalezlb #district1 https://t.co/vSeCbrMX6c",
+    "urls": [
+        {
+            "expanded_url": "https://www.facebook.com/events/1255188994518358/",
+            "url": "https://t.co/vSeCbrMX6c"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Microsoft employed. LMU-MBA student. Long Beach lover",
+        "favourites_count": 423,
+        "followers_count": 1671,
+        "friends_count": 1926,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1480604077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 774,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 125884195,
+            "name": "Jennifer Kumiyama",
+            "screen_name": "KumiROCKS"
+        },
+        {
+            "id": 55487106,
+            "name": "Lena A. Gonzalez",
+            "screen_name": "lenagonzalezlb"
+        }
+    ]
+}
