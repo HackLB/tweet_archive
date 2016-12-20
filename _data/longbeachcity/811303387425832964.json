@@ -1,0 +1,145 @@
+{
+    "created_at": "Tue Dec 20 20:12:55 +0000 2016",
+    "hashtags": [],
+    "id": 811303387425832964,
+    "id_str": "811303387425832964",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Dec 20 05:02:37 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "BreakThruLB"
+            },
+            {
+                "text": "iClips"
+            }
+        ],
+        "id": 811074300820078592,
+        "id_str": "811074300820078592",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Not registered on PlanetBids? Learn how @ https://t.co/8Et2QfPQ7q Look for current Bids, RFPs, &amp; RFIs @Long_Beach_Bids #BreakThruLB #iClips",
+        "urls": [
+            {
+                "expanded_url": "http://goo.gl/WJc8B5",
+                "url": "https://t.co/8Et2QfPQ7q"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 19 20:11:36 +0000 2015",
+            "description": "Sustainable solutions for the City of #LongBeach. #iteams #innovation @longbeachcity @LBMayorsOffice Email at i-team@longbeach.gov @BloombergCities",
+            "favourites_count": 2266,
+            "followers_count": 1060,
+            "friends_count": 543,
+            "geo_enabled": true,
+            "id": 3250051760,
+            "lang": "en",
+            "listed_count": 84,
+            "location": "Long Beach, CA",
+            "name": "Long Beach i-team",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613716228780093440/X4UCPhBn.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3250051760/1478215928",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/734779039332864002/d0yKpLpP_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "iteam_LongBeach",
+            "statuses_count": 1270,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/LOy4cJQJVj",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 2412917354,
+                "name": "LB Purchasing",
+                "screen_name": "Long_Beach_Bids"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @iteam_LongBeach: Not registered on PlanetBids? Learn how @ https://t.co/8Et2QfPQ7q Look for current Bids, RFPs, &amp; RFIs @Long_Beach_Bids…",
+    "urls": [
+        {
+            "expanded_url": "http://goo.gl/WJc8B5",
+            "url": "https://t.co/8Et2QfPQ7q"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65065,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 455,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6499,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3250051760,
+            "name": "Long Beach i-team",
+            "screen_name": "iteam_LongBeach"
+        },
+        {
+            "id": 2412917354,
+            "name": "LB Purchasing",
+            "screen_name": "Long_Beach_Bids"
+        }
+    ]
+}
