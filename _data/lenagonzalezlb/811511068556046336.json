@@ -1,0 +1,157 @@
+{
+    "created_at": "Wed Dec 21 09:58:10 +0000 2016",
+    "hashtags": [],
+    "id": 811511068556046336,
+    "id_str": "811511068556046336",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 21 07:20:15 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 811471328985235456,
+        "id_str": "811471328985235456",
+        "in_reply_to_screen_name": "cobster1",
+        "in_reply_to_status_id": 811470828894179328,
+        "in_reply_to_user_id": 56024145,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "BIG thanks to @lenagonzalezlb @Jeannine4D2 &amp; @RobertoUranga 4 sponsoring the motion, &amp; @rexrichardson 4 a well crafted consensus amendment!",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Jul 12 05:10:43 +0000 2009",
+            "default_profile": true,
+            "description": "Environmental Engineer, Electric Vehicle Advocate, Geek.",
+            "favourites_count": 1256,
+            "followers_count": 394,
+            "friends_count": 715,
+            "geo_enabled": true,
+            "id": 56024145,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "Long Beach, CA",
+            "name": "Coby Skye",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/56024145/1377012810",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000278104051/fe1e61b348fa6dec51cf43ee78f1a949_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "cobster1",
+            "statuses_count": 600
+        },
+        "user_mentions": [
+            {
+                "id": 55487106,
+                "name": "Lena A. Gonzalez",
+                "screen_name": "lenagonzalezlb"
+            },
+            {
+                "id": 4127559133,
+                "name": "Jeannine Pearce",
+                "screen_name": "Jeannine4D2"
+            },
+            {
+                "id": 1946157084,
+                "name": "Roberto Uranga",
+                "screen_name": "RobertoUranga"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @cobster1: BIG thanks to @lenagonzalezlb @Jeannine4D2 &amp; @RobertoUranga 4 sponsoring the motion, &amp; @rexrichardson 4 a well crafted consen…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Microsoft employed. LMU-MBA student. Long Beach lover",
+        "favourites_count": 433,
+        "followers_count": 1672,
+        "friends_count": 1927,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1480604077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 778,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 56024145,
+            "name": "Coby Skye",
+            "screen_name": "cobster1"
+        },
+        {
+            "id": 55487106,
+            "name": "Lena A. Gonzalez",
+            "screen_name": "lenagonzalezlb"
+        },
+        {
+            "id": 4127559133,
+            "name": "Jeannine Pearce",
+            "screen_name": "Jeannine4D2"
+        },
+        {
+            "id": 1946157084,
+            "name": "Roberto Uranga",
+            "screen_name": "RobertoUranga"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}

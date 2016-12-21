@@ -1,0 +1,112 @@
+{
+    "created_at": "Wed Dec 21 09:58:40 +0000 2016",
+    "hashtags": [
+        {
+            "text": "longbeachcity"
+        }
+    ],
+    "id": 811511193558913024,
+    "id_str": "811511193558913024",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Dec 21 05:26:12 +0000 2016",
+        "hashtags": [
+            {
+                "text": "longbeachcity"
+            }
+        ],
+        "id": 811442627534958592,
+        "id_str": "811442627534958592",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Victory at #longbeachcity in moving the polystyrene ordinance 4ward 2nite! Thx @Surfrider @RobertGarciaLB @lenagonzalezlb 4 great leadership",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Apr 01 18:08:07 +0000 2014",
+            "default_profile": true,
+            "description": "We connect eaters, feeder, and seeders to increase the production, distribution and consumption of healthy, local foods in Long Beach, Calif.",
+            "favourites_count": 742,
+            "followers_count": 862,
+            "friends_count": 1187,
+            "id": 2422466840,
+            "lang": "en",
+            "listed_count": 44,
+            "location": "Long Beach",
+            "name": "LB Fresh",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2422466840/1396376373",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/451059932696039425/gFDaLPxP_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachFresh",
+            "statuses_count": 3731,
+            "url": "http://t.co/aHWfvzCxG5"
+        },
+        "user_mentions": [
+            {
+                "id": 9867582,
+                "name": "Surfrider Foundation",
+                "screen_name": "Surfrider"
+            },
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 55487106,
+                "name": "Lena A. Gonzalez",
+                "screen_name": "lenagonzalezlb"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachFresh: Victory at #longbeachcity in moving the polystyrene ordinance 4ward 2nite! Thx @Surfrider @RobertGarciaLB @lenagonzalez…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Jul 10 06:04:43 +0000 2009",
+        "description": "Mom to Z and Luca. LB City Councilwoman. Microsoft employed. LMU-MBA student. Long Beach lover",
+        "favourites_count": 433,
+        "followers_count": 1672,
+        "friends_count": 1927,
+        "geo_enabled": true,
+        "id": 55487106,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Long Beach, CA",
+        "name": "Lena A. Gonzalez",
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55487106/1480604077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000387558856/809f74ff9af72074ac4548ca86d0bb03_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "screen_name": "lenagonzalezlb",
+        "statuses_count": 778,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WZC6qN2Hp7",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2422466840,
+            "name": "LB Fresh",
+            "screen_name": "LongBeachFresh"
+        },
+        {
+            "id": 9867582,
+            "name": "Surfrider Foundation",
+            "screen_name": "Surfrider"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
