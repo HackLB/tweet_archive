@@ -1,0 +1,98 @@
+{
+    "created_at": "Wed Dec 21 20:33:04 +0000 2016",
+    "hashtags": [
+        {
+            "text": "Christmas"
+        },
+        {
+            "text": "WinterSafety"
+        }
+    ],
+    "id": 811670845764472832,
+    "id_str": "811670845764472832",
+    "lang": "en",
+    "retweet_count": 32,
+    "retweeted_status": {
+        "created_at": "Wed Dec 21 17:13:27 +0000 2016",
+        "favorite_count": 14,
+        "hashtags": [
+            {
+                "text": "Christmas"
+            }
+        ],
+        "id": 811620609348292608,
+        "id_str": "811620609348292608",
+        "lang": "en",
+        "retweet_count": 32,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "How long has your live #Christmas been up? A dry &amp; neglected tree can be dangerous! Be sure to water daily.… https://t.co/DhRDyR8T5c",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/811620609348292608",
+                "url": "https://t.co/DhRDyR8T5c"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Dec 05 18:40:59 +0000 2008",
+            "description": "Official Twitter account of FEMA's U.S. Fire Administration - Working for a Fire-Safe America. For emergencies, call your local fire/EMS/police or 9-1-1.",
+            "favourites_count": 221,
+            "followers_count": 41634,
+            "friends_count": 2316,
+            "id": 17904241,
+            "lang": "en",
+            "listed_count": 1187,
+            "location": "Emmitsburg, MD",
+            "name": "U.S. Fire (USFA)",
+            "profile_background_color": "696969",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/267080946/tw-412-1500-usfa3.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17904241/1473794451",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/461936960953524225/rgbPNHvT_normal.jpeg",
+            "profile_link_color": "0009FF",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "000000",
+            "screen_name": "usfire",
+            "statuses_count": 10027,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/hqk63uLEOA",
+            "utc_offset": -18000
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @usfire: How long has your live #Christmas been up? A dry &amp; neglected tree can be dangerous! Be sure to water daily. #WinterSafety https…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65142,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 455,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6505,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 17904241,
+            "name": "U.S. Fire (USFA)",
+            "screen_name": "usfire"
+        }
+    ]
+}
