@@ -1,0 +1,130 @@
+{
+    "created_at": "Fri Dec 23 22:30:44 +0000 2016",
+    "hashtags": [
+        {
+            "text": "SparkofLove"
+        }
+    ],
+    "id": 812425231935500288,
+    "id_str": "812425231935500288",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Fri Dec 23 22:15:36 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "SparkofLove"
+            }
+        ],
+        "id": 812421427261415424,
+        "id_str": "812421427261415424",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JkoSkWmzTQ",
+                "expanded_url": "https://twitter.com/KerryGerotPIO/status/812421427261415424/video/1",
+                "id": 812421384227782657,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/812421384227782657/pu/img/ee8re2C1czxXnyTk.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/812421384227782657/pu/img/ee8re2C1czxXnyTk.jpg",
+                "type": "video",
+                "url": "https://t.co/JkoSkWmzTQ"
+            }
+        ],
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "All the kids in the neighborhood get gifts too! @LBPD @lbfd @LongBeachCity Merry Christmas to all! #SparkofLove https://t.co/JkoSkWmzTQ",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Aug 11 22:16:22 +0000 2014",
+            "default_profile": true,
+            "description": "Long Beach, CA City Manager's Office, PR, Media and Crisis Communications Professional. Tweets & photos mine. RTs not endorsements.",
+            "favourites_count": 55,
+            "followers_count": 462,
+            "friends_count": 335,
+            "id": 2724756686,
+            "lang": "en",
+            "listed_count": 10,
+            "location": "Long Beach, CA",
+            "name": "Kerry Gerot",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2724756686/1438551315",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/498966559205765120/VrkDl98p_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "KerryGerotPIO",
+            "statuses_count": 966,
+            "url": "https://t.co/Qlpnlao82G"
+        },
+        "user_mentions": [
+            {
+                "id": 50097116,
+                "name": "Long Beach PD (CA)",
+                "screen_name": "LBPD"
+            },
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire",
+                "screen_name": "lbfd"
+            },
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KerryGerotPIO: All the kids in the neighborhood get gifts too! @LBPD @lbfd @LongBeachCity Merry Christmas to all! #SparkofLove https://…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65262,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 455,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6515,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2724756686,
+            "name": "Kerry Gerot",
+            "screen_name": "KerryGerotPIO"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
