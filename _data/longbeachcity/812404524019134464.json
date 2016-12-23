@@ -1,0 +1,71 @@
+{
+    "created_at": "Fri Dec 23 21:08:26 +0000 2016",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 812404524019134464,
+    "id_str": "812404524019134464",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/chZxOoycg9",
+            "expanded_url": "https://twitter.com/LongBeachCity/status/812404524019134464/photo/1",
+            "id": 812404516121255936,
+            "media_url": "http://pbs.twimg.com/media/C0Y9mmVUoAAYKEP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0Y9mmVUoAAYKEP.jpg",
+            "type": "photo",
+            "url": "https://t.co/chZxOoycg9"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "FD &amp; PD chiefs w/Santa getting ready to deliver gifts to families in need @lbfd @LBPD @miduree @JCHeflin https://t.co/chZxOoycg9",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65257,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 455,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6511,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        },
+        {
+            "id": 279358787,
+            "name": "Michael DuRee",
+            "screen_name": "miduree"
+        },
+        {
+            "id": 1053514363,
+            "name": "Jake Heflin",
+            "screen_name": "JCHeflin"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "created_at": "Fri Dec 23 21:34:09 +0000 2016",
+    "hashtags": [
+        {
+            "text": "LBPD"
+        },
+        {
+            "text": "LBFD"
+        }
+    ],
+    "id": 812410992063705088,
+    "id_str": "812410992063705088",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Dec 23 21:04:09 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 812403444006821888,
+        "id_str": "812403444006821888",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Police Chief Luna and Fire Chief DuRee enjoy some laughs while welcoming everyone to our day of gift giving!!!… https://t.co/i3yGwUYTUq",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/812403444006821888",
+                "url": "https://t.co/i3yGwUYTUq"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+            "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+            "favourites_count": 4427,
+            "followers_count": 8781,
+            "friends_count": 436,
+            "id": 50097116,
+            "lang": "en",
+            "listed_count": 235,
+            "name": "Long Beach PD (CA)",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+            "profile_link_color": "63A5BD",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "LBPD",
+            "statuses_count": 6180,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/mv2Tul1Uz8",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPD: Police Chief Luna and Fire Chief DuRee enjoy some laughs while welcoming everyone to our day of gift giving!!! #LBPD #LBFD @lbfd…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 575,
+        "followers_count": 4897,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 185,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2313,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        }
+    ]
+}
