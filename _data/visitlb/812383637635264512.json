@@ -1,0 +1,70 @@
+{
+    "created_at": "Fri Dec 23 19:45:27 +0000 2016",
+    "hashtags": [
+        {
+            "text": "FBF"
+        },
+        {
+            "text": "LoveLAAwards"
+        }
+    ],
+    "id": 812383637635264512,
+    "id_str": "812383637635264512",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "#FBF @4thStreetLB @ArtTheatre @ILoveLolas on the list of winners for #LoveLAAwards @timeoutla! Full list at https://t.co/oo2TMTjlC5",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2fXrvqr",
+            "url": "https://t.co/oo2TMTjlC5"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1068,
+        "followers_count": 13109,
+        "friends_count": 1795,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 523,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13382,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 128967750,
+            "name": "4th Street",
+            "screen_name": "4thStreetLB"
+        },
+        {
+            "id": 22670220,
+            "name": "Art Theatre LB",
+            "screen_name": "ArtTheatre"
+        },
+        {
+            "id": 47224601,
+            "name": "Lola'sMexicanCuisine",
+            "screen_name": "ILoveLolas"
+        },
+        {
+            "id": 637320642,
+            "name": "Time Out Los Angeles",
+            "screen_name": "timeoutla"
+        }
+    ]
+}

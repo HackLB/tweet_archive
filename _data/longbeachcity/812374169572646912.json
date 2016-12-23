@@ -1,0 +1,105 @@
+{
+    "created_at": "Fri Dec 23 19:07:49 +0000 2016",
+    "hashtags": [
+        {
+            "text": "CoveredCA"
+        }
+    ],
+    "id": 812374169572646912,
+    "id_str": "812374169572646912",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Dec 23 16:53:53 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "CoveredCA"
+            }
+        ],
+        "id": 812340464099606528,
+        "id_str": "812340464099606528",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Questions about #CoveredCA? Experienced, certified experts here@LongBeachDHHS  https://t.co/klVF0H7tIo drop-in/call… https://t.co/Amm0rvitJZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://ow.ly/natD307pphc",
+                "url": "https://t.co/klVF0H7tIo"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/812340464099606528",
+                "url": "https://t.co/Amm0rvitJZ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+            "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+            "favourites_count": 564,
+            "followers_count": 2079,
+            "friends_count": 1508,
+            "geo_enabled": true,
+            "id": 369627243,
+            "lang": "en",
+            "listed_count": 62,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Health",
+            "profile_background_color": "54B8D0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+            "profile_link_color": "13539E",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachDHHS",
+            "statuses_count": 3056,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZAG5SpCHal",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LongBeachDHHS: Questions about #CoveredCA? Experienced, certified experts here@LongBeachDHHS  https://t.co/klVF0H7tIo drop-in/call 562.…",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/natD307pphc",
+            "url": "https://t.co/klVF0H7tIo"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65255,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 455,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6510,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LongBeachDHHS"
+        }
+    ]
+}
