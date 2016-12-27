@@ -1,0 +1,50 @@
+{
+    "created_at": "Tue Dec 27 17:29:08 +0000 2016",
+    "hashtags": [],
+    "id": 813798886024220672,
+    "id_str": "813798886024220672",
+    "in_reply_to_screen_name": "Cynthinee",
+    "in_reply_to_status_id": 813475157327036420,
+    "in_reply_to_user_id": 63252043,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Cynthinee Hi there! Not at this time. Please see our website for more details: https://t.co/ABUvPl0mpT",
+    "urls": [
+        {
+            "expanded_url": "http://lgb.org/travelers/directions.asp",
+            "url": "https://t.co/ABUvPl0mpT"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2887,
+        "followers_count": 9431,
+        "friends_count": 575,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 367,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1481825555",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6269,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 63252043,
+            "name": "C M Orozco",
+            "screen_name": "Cynthinee"
+        }
+    ]
+}
