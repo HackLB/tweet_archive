@@ -1,0 +1,103 @@
+{
+    "created_at": "Wed Dec 28 00:26:06 +0000 2016",
+    "hashtags": [
+        {
+            "text": "DTLB"
+        }
+    ],
+    "id": 813903819704651776,
+    "id_str": "813903819704651776",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Dec 27 23:01:01 +0000 2016",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "DTLB"
+            }
+        ],
+        "id": 813882404897247240,
+        "id_str": "813882404897247240",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "Real estate professionals discuss how #DTLB is evolving as a desirable place to live: https://t.co/fTmJVNmAYw @TheC… https://t.co/gZ2OSUuGHL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2hNzzw9",
+                "url": "https://t.co/fTmJVNmAYw"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/813882404897247240",
+                "url": "https://t.co/gZ2OSUuGHL"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 13 17:52:18 +0000 2014",
+            "default_profile": true,
+            "description": "The Voice of Business in Long Beach since 1987",
+            "favourites_count": 39,
+            "followers_count": 1014,
+            "friends_count": 51,
+            "id": 2565667038,
+            "lang": "en",
+            "listed_count": 34,
+            "location": "Long Beach, CA",
+            "name": "LB Business Journal",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2565667038/1472511298",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770401180631470081/FxloVBg5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBBizJourn",
+            "statuses_count": 904,
+            "url": "http://t.co/7UveCwR8uj"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBBizJourn: Real estate professionals discuss how #DTLB is evolving as a desirable place to live: https://t.co/fTmJVNmAYw @TheCurrentLB…",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2hNzzw9",
+            "url": "https://t.co/fTmJVNmAYw"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2124,
+        "followers_count": 12967,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4239,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2565667038,
+            "name": "LB Business Journal",
+            "screen_name": "LBBizJourn"
+        }
+    ]
+}
