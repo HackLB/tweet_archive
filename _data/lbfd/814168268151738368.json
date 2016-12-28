@@ -1,0 +1,83 @@
+{
+    "created_at": "Wed Dec 28 17:56:56 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 814168268151738368,
+    "id_str": "814168268151738368",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/o6mFw6YGvS",
+            "expanded_url": "https://twitter.com/lbfd/status/814168268151738368/photo/1",
+            "id": 814168251307474944,
+            "media_url": "http://pbs.twimg.com/media/C0yBtf6VQAAXzgc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0yBtf6VQAAXzgc.jpg",
+            "type": "photo",
+            "url": "https://t.co/o6mFw6YGvS"
+        }
+    ],
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "LBFD crews conducting search and rescue drills using thermal imaging cameras in non-visible conditions https://t.co/o6mFw6YGvS",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 584,
+        "followers_count": 4904,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 185,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2328,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
