@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Dec 29 17:43:48 +0000 2016",
+    "hashtags": [],
+    "id": 814527351811764224,
+    "id_str": "814527351811764224",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Dec 29 17:36:53 +0000 2016",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 814525612232613888,
+        "id_str": "814525612232613888",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Is making a family fire safety plan in your #2017 goals? Visit https://t.co/cCn0QqqOyw &amp; make a plan that gets u ou… https://t.co/8LF5RyHFmz",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "http://preparesocal.org",
+                "url": "https://t.co/cCn0QqqOyw"
+            },
+            {
+                "expanded_url": "https://twitter.com/i/web/status/814525612232613888",
+                "url": "https://t.co/8LF5RyHFmz"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 10 01:56:58 +0000 2008",
+            "description": "Official Twitter page for the American Red Cross Los Angeles Region. Helping L.A. prepare for, respond to, and recover from disasters. In an emergency call 911.",
+            "favourites_count": 4493,
+            "followers_count": 4390,
+            "friends_count": 3925,
+            "geo_enabled": true,
+            "id": 14720319,
+            "lang": "en",
+            "listed_count": 272,
+            "location": "11355 Ohio Ave LA, CA 90025",
+            "name": "Red Cross LosAngeles",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/466367816812089344/ZenzLeHJ.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14720319/1477086871",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/733035947818811392/k5jCGoh8_normal.jpg",
+            "profile_link_color": "ED0303",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "RedCrossLA",
+            "statuses_count": 9781,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/Z6zmK70QbG",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @RedCrossLA: Is making a family fire safety plan in your #2017 goals? Visit https://t.co/cCn0QqqOyw &amp; make a plan that gets u out safely…",
+    "urls": [
+        {
+            "expanded_url": "http://preparesocal.org",
+            "url": "https://t.co/cCn0QqqOyw"
+        }
+    ],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65587,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 456,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6527,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14720319,
+            "name": "Red Cross LosAngeles",
+            "screen_name": "RedCrossLA"
+        }
+    ]
+}
