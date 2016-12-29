@@ -1,0 +1,101 @@
+{
+    "created_at": "Thu Dec 29 13:25:19 +0000 2016",
+    "hashtags": [
+        {
+            "text": "SeasidewayPedBridge"
+        }
+    ],
+    "id": 814462304293003265,
+    "id_str": "814462304293003265",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Dec 29 00:48:28 +0000 2016",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "SeasidewayPedBridge"
+            }
+        ],
+        "id": 814271833042100224,
+        "id_str": "814271833042100224",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Our #SeasidewayPedBridge is coming along nicely! Check out the recent progress! https://t.co/hJqjVLQ7I3",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/LBPublicWorks/status/814263197309943808",
+                "url": "https://t.co/hJqjVLQ7I3"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 06 00:30:44 +0000 2010",
+            "description": "OFFICIAL Twitter for the Long Beach Convention & Entertainment Center. Bringing the best conventions and entertainment to #LongBeach.   IG: @lbconventionctr",
+            "favourites_count": 1231,
+            "followers_count": 3784,
+            "friends_count": 1201,
+            "geo_enabled": true,
+            "id": 111739030,
+            "lang": "en",
+            "listed_count": 132,
+            "location": "Long Beach, CA",
+            "name": "LB Convention Center",
+            "profile_background_color": "918E91",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438046820434841601/qftgjAha.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/111739030/1452544880",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/531969040252559360/tGxlQvA-_normal.jpeg",
+            "profile_link_color": "3B8686",
+            "profile_sidebar_fill_color": "0B486B",
+            "profile_text_color": "A8DBA8",
+            "screen_name": "LBConventionCtr",
+            "statuses_count": 4820,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/yVbwGJ7X1s",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBConventionCtr: Our #SeasidewayPedBridge is coming along nicely! Check out the recent progress! https://t.co/hJqjVLQ7I3",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/LBPublicWorks/status/814263197309943808",
+            "url": "https://t.co/hJqjVLQ7I3"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2124,
+        "followers_count": 12972,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4241,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 111739030,
+            "name": "LB Convention Center",
+            "screen_name": "LBConventionCtr"
+        }
+    ]
+}
