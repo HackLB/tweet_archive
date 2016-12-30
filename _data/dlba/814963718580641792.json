@@ -1,0 +1,49 @@
+{
+    "created_at": "Fri Dec 30 22:37:46 +0000 2016",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 814963718580641792,
+    "id_str": "814963718580641792",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/5j7qh1QM0u",
+            "expanded_url": "https://twitter.com/DLBA/status/814963718580641792/photo/1",
+            "id": 814963681305862144,
+            "media_url": "http://pbs.twimg.com/media/C09VJnkUoAA5u4k.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C09VJnkUoAA5u4k.jpg",
+            "type": "photo",
+            "url": "https://t.co/5j7qh1QM0u"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Step up your NYE game this year. https://t.co/5j7qh1QM0u",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2125,
+        "followers_count": 12991,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4246,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
