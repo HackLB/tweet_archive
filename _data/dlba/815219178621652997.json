@@ -1,0 +1,86 @@
+{
+    "created_at": "Sat Dec 31 15:32:52 +0000 2016",
+    "hashtags": [],
+    "id": 815219178621652997,
+    "id_str": "815219178621652997",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat Dec 31 03:00:09 +0000 2016",
+        "hashtags": [],
+        "id": 815029748791386112,
+        "id_str": "815029748791386112",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://www.radian6.com\" rel=\"nofollow\">Radian6 -Social Media Management</a>",
+        "text": "Ice Skate into 2017 at The Pike Outlets with friends and family! The LA Kings Holiday Ice is open on New Year's Eve… https://t.co/3euXjXn1OA",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/815029748791386112",
+                "url": "https://t.co/3euXjXn1OA"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Feb 12 20:16:20 +0000 2010",
+            "description": "Located in downtown Long Beach, The Pike Outlets is a vibrant shopping, dining and entertainment destination.",
+            "favourites_count": 93,
+            "followers_count": 2692,
+            "friends_count": 172,
+            "id": 113719323,
+            "lang": "en",
+            "listed_count": 63,
+            "location": "Long Beach, CA",
+            "name": "The Pike Outlets",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707663497358872576/882zdisc.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/113719323/1458247370",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/573118245974118400/LliNME7B_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ThePikeOutlets",
+            "statuses_count": 2024,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/RDl9m6K03S",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ThePikeOutlets: Ice Skate into 2017 at The Pike Outlets with friends and family! The LA Kings Holiday Ice is open on New Year's Eve fro…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2125,
+        "followers_count": 12990,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4248,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 113719323,
+            "name": "The Pike Outlets",
+            "screen_name": "ThePikeOutlets"
+        }
+    ]
+}
