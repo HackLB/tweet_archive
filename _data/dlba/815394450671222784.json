@@ -1,0 +1,146 @@
+{
+    "created_at": "Sun Jan 01 03:09:20 +0000 2017",
+    "hashtags": [
+        {
+            "text": "dtlbnye"
+        }
+    ],
+    "id": 815394450671222784,
+    "id_str": "815394450671222784",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sun Jan 01 02:38:56 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "dtlbnye"
+            }
+        ],
+        "id": 815386797941194752,
+        "id_str": "815386797941194752",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Come celebrate the New Year with us in DTLB @DLBA for ur chance to take home SD Zoo tix! 🍻🙊#dtlbnye https://t.co/KKchJJ6Yfg",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/sandiegozoo/status/806227467690123264",
+                "url": "https://t.co/KKchJJ6Yfg"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 19:52:58 +0000 2009",
+            "description": "LA's New Hit Music | 97.1 FM | Mornings with @CarsonDaly | 877-971-HiTS | Always on https://t.co/l1OXiAD23M.",
+            "favourites_count": 11523,
+            "followers_count": 59697,
+            "friends_count": 1128,
+            "geo_enabled": true,
+            "id": 20539531,
+            "lang": "en",
+            "listed_count": 559,
+            "location": "Los Angeles",
+            "name": "97.1 AMP Radio",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453234852511227904/3gXWur_o.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20539531/1480980968",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798598249229651968/qPNLpExr_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "971AMPRadio",
+            "statuses_count": 48241,
+            "time_zone": "Alaska",
+            "url": "https://t.co/UHy5EfPzHU",
+            "utc_offset": -32400,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 30287813,
+                "name": "Downtown Long Beach",
+                "screen_name": "DLBA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @971AMPRadio: Come celebrate the New Year with us in DTLB @DLBA for ur chance to take home SD Zoo tix! 🍻🙊#dtlbnye https://t.co/KKchJJ6Yfg",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/sandiegozoo/status/806227467690123264",
+            "url": "https://t.co/KKchJJ6Yfg"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2127,
+        "followers_count": 12996,
+        "friends_count": 729,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4256,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20539531,
+            "name": "97.1 AMP Radio",
+            "screen_name": "971AMPRadio"
+        },
+        {
+            "id": 30287813,
+            "name": "Downtown Long Beach",
+            "screen_name": "DLBA"
+        }
+    ]
+}
