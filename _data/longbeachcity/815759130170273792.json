@@ -1,0 +1,105 @@
+{
+    "created_at": "Mon Jan 02 03:18:27 +0000 2017",
+    "hashtags": [],
+    "id": 815759130170273792,
+    "id_str": "815759130170273792",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/bFH0IQ3oop",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/815628384432582656/photo/1",
+            "id": 815628372965371905,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/C1Gxrw9UsAEfxMu.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1Gxrw9UsAEfxMu.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/bFH0IQ3oop"
+        }
+    ],
+    "retweet_count": 8,
+    "retweeted_status": {
+        "created_at": "Sun Jan 01 18:38:55 +0000 2017",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 815628384432582656,
+        "id_str": "815628384432582656",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bFH0IQ3oop",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/815628384432582656/photo/1",
+                "id": 815628372965371905,
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/C1Gxrw9UsAEfxMu.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C1Gxrw9UsAEfxMu.jpg",
+                "type": "animated_gif",
+                "url": "https://t.co/bFH0IQ3oop"
+            }
+        ],
+        "retweet_count": 8,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Happy New Year, and let's make 2017 a great year for Long Beach https://t.co/bFH0IQ3oop",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1647,
+            "followers_count": 4134,
+            "friends_count": 1319,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 89,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2191,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: Happy New Year, and let's make 2017 a great year for Long Beach https://t.co/bFH0IQ3oop",
+    "urls": [],
+    "user": {
+        "created_at": "Sat May 09 05:52:27 +0000 2009",
+        "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+        "favourites_count": 179,
+        "followers_count": 65786,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "id": 38808088,
+        "lang": "en",
+        "listed_count": 456,
+        "location": "Long Beach, Calif.",
+        "name": "City of Long Beach",
+        "profile_background_color": "00497C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+        "profile_link_color": "00497C",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "LongBeachCity",
+        "statuses_count": 6533,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/pbU79Tlp",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
