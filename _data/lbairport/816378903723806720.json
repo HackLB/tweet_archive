@@ -1,0 +1,45 @@
+{
+    "created_at": "Tue Jan 03 20:21:12 +0000 2017",
+    "hashtags": [],
+    "id": 816378903723806720,
+    "id_str": "816378903723806720",
+    "in_reply_to_screen_name": "lostfrombirth63",
+    "in_reply_to_status_id": 816377736751038466,
+    "in_reply_to_user_id": 758437085619458048,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@lostfrombirth63 It's by the grassy area on the terminal's north side, by the flag poles.",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2901,
+        "followers_count": 9518,
+        "friends_count": 575,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 369,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1483471422",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6282,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 758437085619458048,
+            "name": "Lostinca",
+            "screen_name": "lostfrombirth63"
+        }
+    ]
+}
