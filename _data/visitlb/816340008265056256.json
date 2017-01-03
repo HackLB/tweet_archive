@@ -1,0 +1,133 @@
+{
+    "created_at": "Tue Jan 03 17:46:39 +0000 2017",
+    "hashtags": [],
+    "id": 816340008265056256,
+    "id_str": "816340008265056256",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue Jan 03 14:33:06 +0000 2017",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 816291301712740352,
+        "id_str": "816291301712740352",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/gZ1SARJDdm",
+                "expanded_url": "https://twitter.com/HarborBreezeC/status/816291301712740352/photo/1",
+                "id": 816291296029487105,
+                "media_url": "http://pbs.twimg.com/media/C1QMm90UsAEUYRr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1QMm90UsAEUYRr.jpg",
+                "type": "photo",
+                "url": "https://t.co/gZ1SARJDdm"
+            },
+            {
+                "display_url": "pic.twitter.com/gZ1SARJDdm",
+                "expanded_url": "https://twitter.com/HarborBreezeC/status/816291301712740352/photo/1",
+                "id": 816291296033636356,
+                "media_url": "http://pbs.twimg.com/media/C1QMm91UAAQQ_QD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1QMm91UAAQQ_QD.jpg",
+                "type": "photo",
+                "url": "https://t.co/gZ1SARJDdm"
+            },
+            {
+                "display_url": "pic.twitter.com/gZ1SARJDdm",
+                "expanded_url": "https://twitter.com/HarborBreezeC/status/816291301712740352/photo/1",
+                "id": 816291296033673216,
+                "media_url": "http://pbs.twimg.com/media/C1QMm91UkAALn0e.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1QMm91UkAALn0e.jpg",
+                "type": "photo",
+                "url": "https://t.co/gZ1SARJDdm"
+            }
+        ],
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Sea Squirt Camp &amp; Discounted Late Nights at @AquariumPacific TODAY - check it out! https://t.co/2nlaCtXsjW https://t.co/gZ1SARJDdm",
+        "urls": [
+            {
+                "expanded_url": "http://www.aquariumofpacific.org/events",
+                "url": "https://t.co/2nlaCtXsjW"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 27 23:37:37 +0000 2011",
+            "description": "Harbor Breeze Cruises offers daily whale watching and harbor cruises in addition to boat charters for special occasions! #WhaleWatch #HarborTour",
+            "favourites_count": 1240,
+            "followers_count": 11654,
+            "friends_count": 12587,
+            "geo_enabled": true,
+            "id": 306481592,
+            "lang": "en",
+            "listed_count": 116,
+            "location": "Long Beach, CA #LongBeach #CA",
+            "name": "Harbor Breeze Cruise",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/482619127270354944/-yMeb5Di.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/306481592/1464480004",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/726137045366624256/praZg8dU_normal.jpg",
+            "profile_link_color": "0C0966",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "HarborBreezeC",
+            "statuses_count": 4726,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/PVqVfw88Io",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 24245649,
+                "name": "Aquarium of Pacific",
+                "screen_name": "AquariumPacific"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HarborBreezeC: Sea Squirt Camp &amp; Discounted Late Nights at @AquariumPacific TODAY - check it out! https://t.co/2nlaCtXsjW https://t.co/…",
+    "urls": [
+        {
+            "expanded_url": "http://www.aquariumofpacific.org/events",
+            "url": "https://t.co/2nlaCtXsjW"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Mar 24 18:42:19 +0000 2008",
+        "description": "The official marketing & promotion of Long Beach, CA. as a dynamic, waterfront destination. #BeachwithBenefits #VisitLB #ThisIsLB",
+        "favourites_count": 1073,
+        "followers_count": 13125,
+        "friends_count": 1794,
+        "geo_enabled": true,
+        "id": 14209619,
+        "lang": "en",
+        "listed_count": 522,
+        "location": "Long Beach, CA",
+        "name": "Long Beach CVB",
+        "profile_background_color": "E2EFFC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70575532/SkyLine_650.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14209619/1467825821",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632240685974814720/SqmLv5tO_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "screen_name": "VisitLB",
+        "statuses_count": 13402,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Vb5DqthpaC",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 306481592,
+            "name": "Harbor Breeze Cruise",
+            "screen_name": "HarborBreezeC"
+        },
+        {
+            "id": 24245649,
+            "name": "Aquarium of Pacific",
+            "screen_name": "AquariumPacific"
+        }
+    ]
+}
