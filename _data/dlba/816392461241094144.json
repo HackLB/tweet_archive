@@ -1,0 +1,92 @@
+{
+    "created_at": "Tue Jan 03 21:15:05 +0000 2017",
+    "hashtags": [],
+    "id": 816392461241094144,
+    "id_str": "816392461241094144",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Dec 29 19:05:01 +0000 2016",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 814547791032778753,
+        "id_str": "814547791032778753",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "The new Beer Belly has a full bar! https://t.co/HiPkniKoJZ",
+        "urls": [
+            {
+                "expanded_url": "http://www.laweekly.com/restaurants/this-gastropub-is-further-proof-that-long-beach-is-a-craft-beer-mecca-7688810",
+                "url": "https://t.co/HiPkniKoJZ"
+            }
+        ],
+        "user": {
+            "created_at": "Wed May 06 01:24:35 +0000 2009",
+            "description": "The most interesting stories in Los Angeles food. Tweets by @katherinespiers",
+            "favourites_count": 2691,
+            "followers_count": 50658,
+            "friends_count": 681,
+            "id": 38077338,
+            "lang": "en",
+            "listed_count": 1700,
+            "location": "Los Angeles",
+            "name": "LA Weekly Food",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18567491/Istanbul_fish_market_2-edit.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38077338/1399642932",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/586609822465818626/0IcSkd79_normal.jpg",
+            "profile_link_color": "0A1012",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "screen_name": "LAWeeklyFood",
+            "statuses_count": 16357,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/tuPPMHifKv",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @LAWeeklyFood: The new Beer Belly has a full bar! https://t.co/HiPkniKoJZ",
+    "urls": [
+        {
+            "expanded_url": "http://www.laweekly.com/restaurants/this-gastropub-is-further-proof-that-long-beach-is-a-craft-beer-mecca-7688810",
+            "url": "https://t.co/HiPkniKoJZ"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2125,
+        "followers_count": 13003,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4258,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 38077338,
+            "name": "LA Weekly Food",
+            "screen_name": "LAWeeklyFood"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Tue Jan 03 21:33:24 +0000 2017",
+    "hashtags": [],
+    "id": 816397070986661888,
+    "id_str": "816397070986661888",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Jan 03 17:39:10 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 816338123583930368,
+        "id_str": "816338123583930368",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.668404,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            34.337041
+                        ],
+                        [
+                            -118.668404,
+                            34.337041
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Los Angeles, CA",
+            "id": "3b77caf94bfc81fe",
+            "name": "Los Angeles",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "2 y/o boy rescues twin brother from a fallen dresser. The video is difficult to watch but is an important message https://t.co/f9isfwQQhN",
+        "urls": [
+            {
+                "expanded_url": "https://www.facebook.com/LosAngelesFireDepartment/videos/1384570741574105/",
+                "url": "https://t.co/f9isfwQQhN"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Mar 18 20:15:32 +0000 2009",
+            "description": "@LAFDtalk is for queries and casual discussion with the Los Angeles Fire Department. For incident alerts follow @LAFD. To report an emergency, call 9-1-1.",
+            "favourites_count": 591,
+            "followers_count": 30291,
+            "friends_count": 14177,
+            "geo_enabled": true,
+            "id": 25144145,
+            "lang": "en",
+            "listed_count": 1028,
+            "location": "Los Angeles, CA USA",
+            "name": "LAFD Talk",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/14242811/LAFDtalk.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25144145/1403823698",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/482304954799890432/ifvUxIJn_normal.jpeg",
+            "profile_link_color": "0A07A2",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "131111",
+            "screen_name": "LAFDtalk",
+            "statuses_count": 68665,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/bgGYVVOu1R",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LAFDtalk: 2 y/o boy rescues twin brother from a fallen dresser. The video is difficult to watch but is an important message https://t.c…",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 586,
+        "followers_count": 4959,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 186,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2347,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 25144145,
+            "name": "LAFD Talk",
+            "screen_name": "LAFDtalk"
+        }
+    ]
+}
