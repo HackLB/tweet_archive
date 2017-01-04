@@ -1,0 +1,114 @@
+{
+    "created_at": "Wed Jan 04 17:29:13 +0000 2017",
+    "hashtags": [],
+    "id": 816698010746789888,
+    "id_str": "816698010746789888",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/n77VlADR9L",
+            "expanded_url": "https://twitter.com/FlySJC/status/816677989987454977/photo/1",
+            "id": 816677981347155969,
+            "media_url": "http://pbs.twimg.com/media/C1VsTA4UkAE4qXu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1VsTA4UkAE4qXu.jpg",
+            "type": "photo",
+            "url": "https://t.co/n77VlADR9L"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jan 04 16:09:40 +0000 2017",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 816677989987454977,
+        "id_str": "816677989987454977",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/n77VlADR9L",
+                "expanded_url": "https://twitter.com/FlySJC/status/816677989987454977/photo/1",
+                "id": 816677981347155969,
+                "media_url": "http://pbs.twimg.com/media/C1VsTA4UkAE4qXu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1VsTA4UkAE4qXu.jpg",
+                "type": "photo",
+                "url": "https://t.co/n77VlADR9L"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "JetBlue's inaugural flight from SJC to Long Beach's @LBAirport is on its way! https://t.co/n77VlADR9L",
+        "urls": [],
+        "user": {
+            "created_at": "Tue May 24 15:47:42 +0000 2011",
+            "description": "San Jose International Airport (SJC) is located in the heart of Silicon Valley. We respond between 9am and 5pm (Mon.-Fri.), excluding holidays.",
+            "favourites_count": 87,
+            "followers_count": 6558,
+            "friends_count": 378,
+            "id": 304479031,
+            "lang": "en",
+            "listed_count": 242,
+            "location": "San Jose, California",
+            "name": "San Jose Airport",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/543500419/sjair-20.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/304479031/1481649356",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/476409671054401536/HqEwDItS_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "FlySJC",
+            "statuses_count": 4466,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/MiVVX7W7nN",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 106872943,
+                "name": "Long Beach Airport",
+                "screen_name": "LBAirport"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @FlySJC: JetBlue's inaugural flight from SJC to Long Beach's @LBAirport is on its way! https://t.co/n77VlADR9L",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2907,
+        "followers_count": 9529,
+        "friends_count": 577,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 369,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1483471422",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6283,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 304479031,
+            "name": "San Jose Airport",
+            "screen_name": "FlySJC"
+        },
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        }
+    ]
+}
