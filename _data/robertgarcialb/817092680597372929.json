@@ -1,0 +1,45 @@
+{
+    "created_at": "Thu Jan 05 19:37:30 +0000 2017",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 817092680597372929,
+    "id_str": "817092680597372929",
+    "lang": "en",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Dope 👊🏾 https://t.co/4pxgClggv5",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/brianaddisonlb/status/817092155294380032",
+            "url": "https://t.co/4pxgClggv5"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5251,
+        "followers_count": 11591,
+        "friends_count": 2061,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9683,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": []
+}
