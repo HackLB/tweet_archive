@@ -1,0 +1,47 @@
+{
+    "created_at": "Fri Jan 06 19:30:48 +0000 2017",
+    "hashtags": [
+        {
+            "text": "education"
+        }
+    ],
+    "id": 817453383237926916,
+    "id_str": "817453383237926916",
+    "lang": "en",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Want to stay connected with our #education news, information and updates? Subscribe here: https://t.co/XjhbDIufi1",
+    "urls": [
+        {
+            "expanded_url": "http://ow.ly/4Ni3307Emo1",
+            "url": "https://t.co/XjhbDIufi1"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 636,
+        "followers_count": 17253,
+        "friends_count": 3705,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 502,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7600,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": []
+}
