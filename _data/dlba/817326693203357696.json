@@ -1,0 +1,90 @@
+{
+    "created_at": "Fri Jan 06 11:07:23 +0000 2017",
+    "hashtags": [],
+    "id": 817326693203357696,
+    "id_str": "817326693203357696",
+    "lang": "en",
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Fri Jan 06 05:36:13 +0000 2017",
+        "favorite_count": 67,
+        "hashtags": [],
+        "id": 817243353636958209,
+        "id_str": "817243353636958209",
+        "lang": "en",
+        "retweet_count": 9,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you to the Mayors and Councilmembers of LA County for appointing me to serve a 4 year term on the @metrolosangeles Board of Directors",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+            "default_profile": true,
+            "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+            "favourites_count": 5263,
+            "followers_count": 11600,
+            "friends_count": 2065,
+            "geo_enabled": true,
+            "id": 18120497,
+            "lang": "en",
+            "listed_count": 227,
+            "location": "Long Beach",
+            "name": "Robert Garcia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RobertGarciaLB",
+            "statuses_count": 9685,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FYG8w6eseK",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 14631598,
+                "name": "Metro",
+                "screen_name": "metrolosangeles"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RobertGarciaLB: Thank you to the Mayors and Councilmembers of LA County for appointing me to serve a 4 year term on the @metrolosangele…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2129,
+        "followers_count": 13026,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4263,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
