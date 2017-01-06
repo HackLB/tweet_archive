@@ -1,0 +1,149 @@
+{
+    "created_at": "Fri Jan 06 18:26:48 +0000 2017",
+    "hashtags": [],
+    "id": 817437276787515392,
+    "id_str": "817437276787515392",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/QTnIHRTgVV",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/817193497862160384/photo/1",
+            "id": 817193465209503744,
+            "media_url": "http://pbs.twimg.com/media/C1dBIH6VQAArYUj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1dBIH6VQAArYUj.jpg",
+            "type": "photo",
+            "url": "https://t.co/QTnIHRTgVV"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Jan 06 02:18:07 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 817193497862160384,
+        "id_str": "817193497862160384",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QTnIHRTgVV",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/817193497862160384/photo/1",
+                "id": 817193465209503744,
+                "media_url": "http://pbs.twimg.com/media/C1dBIH6VQAArYUj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1dBIH6VQAArYUj.jpg",
+                "type": "photo",
+                "url": "https://t.co/QTnIHRTgVV"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.133465051651,
+                            33.76415828333333
+                        ],
+                        [
+                            -118.133465051651,
+                            33.76415828333333
+                        ],
+                        [
+                            -118.133465051651,
+                            33.76415828333333
+                        ],
+                        [
+                            -118.133465051651,
+                            33.76415828333333
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Saint Bartholomew",
+            "id": "07d9d2bd88880007",
+            "name": "Saint Bartholomew",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d2bd88880007.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "With Councilwoman @suziepriceLB3 talking what to expect in 2017 at Friends of Belmont Shore. https://t.co/QTnIHRTgVV",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1675,
+            "followers_count": 4149,
+            "friends_count": 1334,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 89,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2210,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 2317854206,
+                "name": "Suzie Price",
+                "screen_name": "suziepriceLB3"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: With Councilwoman @suziepriceLB3 talking what to expect in 2017 at Friends of Belmont Shore. https://t.co/QTnIHRTgVV",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 66,
+        "followers_count": 1871,
+        "friends_count": 1952,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 32,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1180,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 2317854206,
+            "name": "Suzie Price",
+            "screen_name": "suziepriceLB3"
+        }
+    ]
+}
