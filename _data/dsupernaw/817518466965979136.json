@@ -1,0 +1,53 @@
+{
+    "created_at": "Fri Jan 06 23:49:25 +0000 2017",
+    "hashtags": [],
+    "id": 817518466965979136,
+    "id_str": "817518466965979136",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/CHv2EEgauJ",
+            "expanded_url": "https://twitter.com/DSupernaw/status/817518466965979136/photo/1",
+            "id": 817518359910629377,
+            "media_url": "http://pbs.twimg.com/media/C1hone_VQAE55eQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1hone_VQAE55eQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/CHv2EEgauJ"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Our first Go Fourth! Friday newsletter of the year:\nhttps://t.co/MqrQH9XG6C https://t.co/CHv2EEgauJ",
+    "urls": [
+        {
+            "expanded_url": "http://campaign.r20.constantcontact.com/render?m=1102694185850&ca=1d24fa4e-0d7e-4428-a836-8c6d6b5d76b5",
+            "url": "https://t.co/MqrQH9XG6C"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Mar 21 09:11:35 +0000 2010",
+        "default_profile": true,
+        "description": "Councilman, Fourth District",
+        "favourites_count": 12,
+        "followers_count": 58,
+        "friends_count": 43,
+        "geo_enabled": true,
+        "id": 124994539,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Long Beach, CA",
+        "name": "Daryl Supernaw",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124994539/1481504262",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716478598333341697/CbX5MtqH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "DSupernaw",
+        "statuses_count": 42,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/AP5Yd7ROhC",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
