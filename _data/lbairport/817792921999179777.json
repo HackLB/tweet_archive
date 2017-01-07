@@ -1,0 +1,42 @@
+{
+    "created_at": "Sat Jan 07 18:00:01 +0000 2017",
+    "hashtags": [],
+    "id": 817792921999179777,
+    "id_str": "817792921999179777",
+    "lang": "en",
+    "source": "<a href=\"https://dashboard.twitter.com\" rel=\"nofollow\">Twitter Business Experience</a>",
+    "text": "Lot A, the structure nearest to the terminal, is closed for renovations through Fall 2017. Parking is still availab… https://t.co/BBYk2YcEU7",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/817792921999179777",
+            "url": "https://t.co/BBYk2YcEU7"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2911,
+        "followers_count": 9608,
+        "friends_count": 579,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 369,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1483471422",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6287,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
