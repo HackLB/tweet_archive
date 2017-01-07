@@ -1,0 +1,77 @@
+{
+    "created_at": "Sat Jan 07 22:00:15 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 817853379279929344,
+    "id_str": "817853379279929344",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.037391,
+                        33.809829
+                    ],
+                    [
+                        -117.9759226,
+                        33.809829
+                    ],
+                    [
+                        -117.9759226,
+                        33.895642
+                    ],
+                    [
+                        -118.037391,
+                        33.895642
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Buena Park, CA",
+        "id": "0b93bc6a33455615",
+        "name": "Buena Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0b93bc6a33455615.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "East Long Beach is getting a Whole Foods, Nordstrom Rack https://t.co/BIWg7IpzgS",
+    "urls": [
+        {
+            "expanded_url": "http://www.presstelegram.com/business/20170106/east-long-beach-is-getting-a-whole-foods-nordstrom-rack",
+            "url": "https://t.co/BIWg7IpzgS"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 530,
+        "followers_count": 4023,
+        "friends_count": 1462,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1981,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
