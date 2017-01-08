@@ -1,0 +1,83 @@
+{
+    "created_at": "Sun Jan 08 16:34:43 +0000 2017",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 818133845627191296,
+    "id_str": "818133845627191296",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Ef83PkA59Y",
+            "expanded_url": "https://twitter.com/lbfd/status/818133845627191296/photo/1",
+            "id": 818133816543821824,
+            "media_url": "http://pbs.twimg.com/media/C1qYXxnUQAA8l1U.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1qYXxnUQAA8l1U.jpg",
+            "type": "photo",
+            "url": "https://t.co/Ef83PkA59Y"
+        }
+    ],
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.082615,
+                        33.6289907
+                    ],
+                    [
+                        -117.91485,
+                        33.6289907
+                    ],
+                    [
+                        -117.91485,
+                        33.756093
+                    ],
+                    [
+                        -118.082615,
+                        33.756093
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Huntington Beach, CA",
+        "id": "80eb17ffe368fc9a",
+        "name": "Huntington Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/80eb17ffe368fc9a.json"
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "LBFD crews knocked down a garage fire at a residence in north Long Beach on 1/7. No injuries reported https://t.co/Ef83PkA59Y",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 589,
+        "followers_count": 4979,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 187,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2351,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
