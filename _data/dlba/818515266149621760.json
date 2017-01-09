@@ -1,0 +1,114 @@
+{
+    "created_at": "Mon Jan 09 17:50:21 +0000 2017",
+    "hashtags": [],
+    "id": 818515266149621760,
+    "id_str": "818515266149621760",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/fFwpyKkHhg",
+            "expanded_url": "https://twitter.com/CurbedLA/status/818199988782190593/photo/1",
+            "id": 818199985955147776,
+            "media_url": "http://pbs.twimg.com/media/C1rUjV4WEAACUJC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1rUjV4WEAACUJC.jpg",
+            "type": "photo",
+            "url": "https://t.co/fFwpyKkHhg"
+        }
+    ],
+    "retweet_count": 9,
+    "retweeted_status": {
+        "created_at": "Sun Jan 08 20:57:33 +0000 2017",
+        "favorite_count": 33,
+        "hashtags": [],
+        "id": 818199988782190593,
+        "id_str": "818199988782190593",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fFwpyKkHhg",
+                "expanded_url": "https://twitter.com/CurbedLA/status/818199988782190593/photo/1",
+                "id": 818199985955147776,
+                "media_url": "http://pbs.twimg.com/media/C1rUjV4WEAACUJC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1rUjV4WEAACUJC.jpg",
+                "type": "photo",
+                "url": "https://t.co/fFwpyKkHhg"
+            }
+        ],
+        "retweet_count": 9,
+        "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+        "text": "Can Long Beach mayor Robert Garcia help to improve the Blue Line? https://t.co/aV8MCf4GDV https://t.co/fFwpyKkHhg",
+        "urls": [
+            {
+                "expanded_url": "http://la.curbed.com/2017/1/8/14196104/long-beach-mayor-robert-garcia-metro-board-blue-line?utm_campaign=la.curbed&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                "url": "https://t.co/aV8MCf4GDV"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 23 06:27:45 +0000 2008",
+            "description": "Every aspect of living in Los Angeles, for people who care about their city, their streets, and their homes.",
+            "favourites_count": 51,
+            "followers_count": 84634,
+            "friends_count": 138,
+            "id": 14878485,
+            "lang": "en",
+            "listed_count": 1532,
+            "location": "Los Angeles",
+            "name": "Curbed LA",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045051673/28882e135e32026b5a5b3943281466eb.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14878485/1464038448",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/734856673567879172/QyiTUF6l_normal.jpg",
+            "profile_link_color": "FF604A",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "CurbedLA",
+            "statuses_count": 19149,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZnGxfwWkq5",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @CurbedLA: Can Long Beach mayor Robert Garcia help to improve the Blue Line? https://t.co/aV8MCf4GDV https://t.co/fFwpyKkHhg",
+    "urls": [
+        {
+            "expanded_url": "http://la.curbed.com/2017/1/8/14196104/long-beach-mayor-robert-garcia-metro-board-blue-line?utm_campaign=la.curbed&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "url": "https://t.co/aV8MCf4GDV"
+        }
+    ],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2131,
+        "followers_count": 13038,
+        "friends_count": 732,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4268,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 14878485,
+            "name": "Curbed LA",
+            "screen_name": "CurbedLA"
+        }
+    ]
+}
