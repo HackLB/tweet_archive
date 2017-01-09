@@ -1,0 +1,139 @@
+{
+    "created_at": "Mon Jan 09 20:56:11 +0000 2017",
+    "hashtags": [
+        {
+            "text": "HigherEd"
+        }
+    ],
+    "id": 818562031544504320,
+    "id_str": "818562031544504320",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Jan 09 16:10:02 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "HigherEd"
+            }
+        ],
+        "id": 818490022844215296,
+        "id_str": "818490022844215296",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/d0qz73jFNX",
+                "expanded_url": "https://twitter.com/PresConoley/status/818490022844215296/photo/1",
+                "id": 818490011926441984,
+                "media_url": "http://pbs.twimg.com/media/C1vcVE0UsAAjGl-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1vcVE0UsAAjGl-.jpg",
+                "type": "photo",
+                "url": "https://t.co/d0qz73jFNX"
+            },
+            {
+                "display_url": "pic.twitter.com/d0qz73jFNX",
+                "expanded_url": "https://twitter.com/PresConoley/status/818490022844215296/photo/1",
+                "id": 818490011918028801,
+                "media_url": "http://pbs.twimg.com/media/C1vcVEyUUAEbCnw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C1vcVEyUUAEbCnw.jpg",
+                "type": "photo",
+                "url": "https://t.co/d0qz73jFNX"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Transfer student orientation starts today with our ace @LB_soar squad. Welcome new @CSULB 49ers! @CSULBASI #HigherEd https://t.co/d0qz73jFNX",
+        "urls": [],
+        "user": {
+            "created_at": "Tue May 06 21:19:34 +0000 2014",
+            "description": "CSULB President",
+            "favourites_count": 2285,
+            "followers_count": 2392,
+            "friends_count": 354,
+            "geo_enabled": true,
+            "id": 2480417754,
+            "lang": "en",
+            "listed_count": 100,
+            "location": "Long Beach, California",
+            "name": "Jane Close Conoley",
+            "profile_background_color": "B3B3B3",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2480417754/1401833782",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/522063698836213761/Fp7TFvvv_normal.jpeg",
+            "profile_link_color": "A89031",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "PresConoley",
+            "statuses_count": 5181,
+            "url": "http://t.co/Hpirk7DmTp"
+        },
+        "user_mentions": [
+            {
+                "id": 66478318,
+                "name": "LBsoar",
+                "screen_name": "LB_soar"
+            },
+            {
+                "id": 17053587,
+                "name": "CSULB",
+                "screen_name": "CSULB"
+            },
+            {
+                "id": 54669308,
+                "name": "CSULB ASI",
+                "screen_name": "CSULBASI"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PresConoley: Transfer student orientation starts today with our ace @LB_soar squad. Welcome new @CSULB 49ers! @CSULBASI #HigherEd https…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 534,
+        "followers_count": 4021,
+        "friends_count": 1463,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1982,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2480417754,
+            "name": "Jane Close Conoley",
+            "screen_name": "PresConoley"
+        },
+        {
+            "id": 66478318,
+            "name": "LBsoar",
+            "screen_name": "LB_soar"
+        },
+        {
+            "id": 17053587,
+            "name": "CSULB",
+            "screen_name": "CSULB"
+        },
+        {
+            "id": 54669308,
+            "name": "CSULB ASI",
+            "screen_name": "CSULBASI"
+        }
+    ]
+}
