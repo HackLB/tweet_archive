@@ -1,0 +1,51 @@
+{
+    "created_at": "Tue Jan 10 00:39:06 +0000 2017",
+    "hashtags": [],
+    "id": 818618131249766401,
+    "id_str": "818618131249766401",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/gcQExSpta8",
+            "expanded_url": "https://twitter.com/district8AUSTIN/status/818618131249766401/photo/1",
+            "id": 818618129706315777,
+            "media_url": "http://pbs.twimg.com/media/C1xQ2gvW8AERlrb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1xQ2gvW8AERlrb.jpg",
+            "type": "photo",
+            "url": "https://t.co/gcQExSpta8"
+        }
+    ],
+    "source": "<a href=\"http://www.constantcontact.com\" rel=\"nofollow\">Constant Contact</a>",
+    "text": "On the Council's Plate this Week: January 10, 2017 https://t.co/mxE70zn3BX https://t.co/gcQExSpta8",
+    "urls": [
+        {
+            "expanded_url": "http://conta.cc/2iXPWc0",
+            "url": "https://t.co/mxE70zn3BX"
+        }
+    ],
+    "user": {
+        "created_at": "Mon Aug 20 22:17:59 +0000 2012",
+        "description": "Official Page for Councilmember Al Austin II, 8th District\nCity of Long Beach.",
+        "favourites_count": 585,
+        "followers_count": 1502,
+        "friends_count": 426,
+        "id": 770329639,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Long Beach, CA",
+        "name": "Councilman AL AUSTIN",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770329639/1433352265",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567749541173022720/RTtb2ulD_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "district8AUSTIN",
+        "statuses_count": 1823,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/Ks1RXxuBga",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
