@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jan 11 17:31:17 +0000 2017",
+    "hashtags": [
+        {
+            "text": "2017MLTC"
+        },
+        {
+            "text": "CommunityAction"
+        }
+    ],
+    "id": 819235241994829824,
+    "id_str": "819235241994829824",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jan 11 17:31:01 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "2017MLTC"
+            },
+            {
+                "text": "CommunityAction"
+            }
+        ],
+        "id": 819235178832920578,
+        "id_str": "819235178832920578",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "Thanks for the welcome to Long Beach, CA @rexrichardson and  @ca_csd #2017MLTC #CommunityAction",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jul 28 18:54:56 +0000 2009",
+            "description": "Community Action Partnership national office\r\n\r\nHelping People. Changing Lives. America's Poverty Fighting Network",
+            "favourites_count": 894,
+            "followers_count": 3666,
+            "friends_count": 1624,
+            "geo_enabled": true,
+            "id": 60987536,
+            "lang": "en",
+            "listed_count": 149,
+            "location": "Washington D.C.",
+            "name": "Community Action",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082890863/75498ac7af8b76871d28694fec2bc9cb.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/60987536/1426775112",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/575677338911821824/0yMk750D_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "CAPartnership",
+            "statuses_count": 6216,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/f6xbeRAWmA",
+            "utc_offset": -18000
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 872488596,
+                "name": "CA CSD",
+                "screen_name": "ca_csd"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CAPartnership: Thanks for the welcome to Long Beach, CA @rexrichardson and  @ca_csd #2017MLTC #CommunityAction",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1475,
+        "followers_count": 2439,
+        "friends_count": 1347,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2272,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 60987536,
+            "name": "Community Action",
+            "screen_name": "CAPartnership"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 872488596,
+            "name": "CA CSD",
+            "screen_name": "ca_csd"
+        }
+    ]
+}
