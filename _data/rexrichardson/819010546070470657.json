@@ -1,0 +1,157 @@
+{
+    "created_at": "Wed Jan 11 02:38:25 +0000 2017",
+    "hashtags": [
+        {
+            "text": "GoLongBeach"
+        }
+    ],
+    "id": 819010546070470657,
+    "id_str": "819010546070470657",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KknKj4K0YJ",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/819008193158201344/photo/1",
+            "id": 819008187747549184,
+            "media_url": "http://pbs.twimg.com/media/C12zm4LUQAA7HKX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C12zm4LUQAA7HKX.jpg",
+            "type": "photo",
+            "url": "https://t.co/KknKj4K0YJ"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jan 11 02:29:04 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "GoLongBeach"
+            }
+        ],
+        "id": 819008193158201344,
+        "id_str": "819008193158201344",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KknKj4K0YJ",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/819008193158201344/photo/1",
+                "id": 819008187747549184,
+                "media_url": "http://pbs.twimg.com/media/C12zm4LUQAA7HKX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C12zm4LUQAA7HKX.jpg",
+                "type": "photo",
+                "url": "https://t.co/KknKj4K0YJ"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Vice Mayor @rexrichardson is kicking the night off 👏🏼 #GoLongBeach https://t.co/KknKj4K0YJ",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1724,
+            "followers_count": 4185,
+            "friends_count": 1346,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 90,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2266,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: Vice Mayor @rexrichardson is kicking the night off 👏🏼 #GoLongBeach https://t.co/KknKj4K0YJ",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1472,
+        "followers_count": 2439,
+        "friends_count": 1343,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2270,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}

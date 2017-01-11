@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jan 11 02:52:28 +0000 2017",
+    "hashtags": [
+        {
+            "text": "GoLongBeach"
+        },
+        {
+            "text": "LongBeachNerdProm"
+        }
+    ],
+    "id": 819014081721942017,
+    "id_str": "819014081721942017",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/rwU0MPQVUi",
+            "expanded_url": "https://twitter.com/andrewkerr/status/819010192515829760/photo/1",
+            "id": 819010176028004353,
+            "media_url": "http://pbs.twimg.com/media/C121anGUUAEV9fC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C121anGUUAEV9fC.jpg",
+            "type": "photo",
+            "url": "https://t.co/rwU0MPQVUi"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Jan 11 02:37:01 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "GoLongBeach"
+            },
+            {
+                "text": "LongBeachNerdProm"
+            }
+        ],
+        "id": 819010192515829760,
+        "id_str": "819010192515829760",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/rwU0MPQVUi",
+                "expanded_url": "https://twitter.com/andrewkerr/status/819010192515829760/photo/1",
+                "id": 819010176028004353,
+                "media_url": "http://pbs.twimg.com/media/C121anGUUAEV9fC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C121anGUUAEV9fC.jpg",
+                "type": "photo",
+                "url": "https://t.co/rwU0MPQVUi"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Mr. Vice @rexrichardson getting things going... #GoLongBeach #LongBeachNerdProm https://t.co/rwU0MPQVUi",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Dec 31 16:37:43 +0000 2008",
+            "description": "Dad, husband, feminist, desert wanderer, @csulb (BA/MPA), @housingworksca board VP, @longbeachcity commisioner, 2nd baseman Crown City Cubs, Go @LBDirtbags.",
+            "favourites_count": 5611,
+            "followers_count": 498,
+            "friends_count": 1963,
+            "geo_enabled": true,
+            "id": 18509825,
+            "lang": "en",
+            "listed_count": 10,
+            "location": "Long Beach, CA",
+            "name": "Andy Kerr",
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/64661564/Wheeler_Peak.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18509825/1449077557",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/785516401486360576/QWg6AOTy_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "screen_name": "andrewkerr",
+            "statuses_count": 3462,
+            "time_zone": "America/Los_Angeles",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @andrewkerr: Mr. Vice @rexrichardson getting things going... #GoLongBeach #LongBeachNerdProm https://t.co/rwU0MPQVUi",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1472,
+        "followers_count": 2439,
+        "friends_count": 1343,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2270,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 18509825,
+            "name": "Andy Kerr",
+            "screen_name": "andrewkerr"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}

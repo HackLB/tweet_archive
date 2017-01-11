@@ -1,0 +1,59 @@
+{
+    "created_at": "Wed Jan 11 02:27:45 +0000 2017",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "golongbeach"
+        }
+    ],
+    "id": 819007860990324736,
+    "id_str": "819007860990324736",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/yhdCTa54GC",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/819007860990324736/video/1",
+            "id": 819007726726434816,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/819007726726434816/pu/img/njvclPrRlbok4k5y.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/819007726726434816/pu/img/njvclPrRlbok4k5y.jpg",
+            "type": "video",
+            "url": "https://t.co/yhdCTa54GC"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Excited for this year's state of the city. Can't wait to see what is waiting for LB @LBMayorsOffice #golongbeach https://t.co/yhdCTa54GC",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 70,
+        "followers_count": 1879,
+        "friends_count": 1952,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 32,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1187,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}

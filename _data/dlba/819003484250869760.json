@@ -1,0 +1,101 @@
+{
+    "created_at": "Wed Jan 11 02:10:21 +0000 2017",
+    "hashtags": [],
+    "id": 819003484250869760,
+    "id_str": "819003484250869760",
+    "lang": "en",
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Wed Jan 11 01:41:01 +0000 2017",
+        "favorite_count": 110,
+        "hashtags": [],
+        "id": 818996100413542400,
+        "id_str": "818996100413542400",
+        "lang": "en",
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The more I learn about this bid, the more excited &amp; impressed I am. Don't stop @LA2024 👊 This WILL be a dream come… https://t.co/TheDeJhMXz",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/818996100413542400",
+                "url": "https://t.co/TheDeJhMXz"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 12 04:05:09 +0000 2010",
+            "description": "Proud wife, proud mother, Believer, dreamer, seeker, Three Time Olympic Gold medalist. Aspiring to Rio Olympic Gold in 2016 #IAmLove",
+            "favourites_count": 8697,
+            "followers_count": 198876,
+            "friends_count": 555,
+            "geo_enabled": true,
+            "id": 104063340,
+            "lang": "en",
+            "listed_count": 1823,
+            "location": "Manhattan Beach, California",
+            "name": "Kerri Walsh Jennings",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647935623/xgeds57b749f0nzoug2t.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/104063340/1416725630",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2563724053/q23p8jic27xmc0u2f9w7_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "kerrileewalsh",
+            "statuses_count": 15454,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ta0lMiWiqD",
+            "utc_offset": -28800,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2966970788,
+                "name": "LA 2024",
+                "screen_name": "LA2024"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @kerrileewalsh: The more I learn about this bid, the more excited &amp; impressed I am. Don't stop @LA2024 👊 This WILL be a dream come true…",
+    "urls": [],
+    "user": {
+        "created_at": "Fri Apr 10 19:11:33 +0000 2009",
+        "description": "Downtown Long Beach Alliance",
+        "favourites_count": 2132,
+        "followers_count": 13055,
+        "friends_count": 737,
+        "geo_enabled": true,
+        "id": 30287813,
+        "lang": "en",
+        "listed_count": 228,
+        "location": "Downtown Long Beach, CA",
+        "name": "Downtown Long Beach",
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11501928/Possible_Landing_Page_1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30287813/1477587905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782970006887813120/PmZBEC22_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "screen_name": "DLBA",
+        "statuses_count": 4274,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/qxQmL42c4r",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 104063340,
+            "name": "Kerri Walsh Jennings",
+            "screen_name": "kerrileewalsh"
+        },
+        {
+            "id": 2966970788,
+            "name": "LA 2024",
+            "screen_name": "LA2024"
+        }
+    ]
+}
