@@ -1,0 +1,90 @@
+{
+    "created_at": "Wed Jan 11 07:45:33 +0000 2017",
+    "hashtags": [],
+    "id": 819087837538549760,
+    "id_str": "819087837538549760",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jan 11 02:54:39 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 819014630496288768,
+        "id_str": "819014630496288768",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\"Residents, entrepreneurs and nerds like me can download public data, to innovate, solve problems &amp; create private… https://t.co/Jx6rcPtdVC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/819014630496288768",
+                "url": "https://t.co/Jx6rcPtdVC"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1750,
+            "followers_count": 4193,
+            "friends_count": 1346,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 90,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2280,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: \"Residents, entrepreneurs and nerds like me can download public data, to innovate, solve problems &amp; create private tech…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5350,
+        "followers_count": 11669,
+        "friends_count": 2070,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1479075769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9722,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w6eseK",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
