@@ -1,0 +1,175 @@
+{
+    "created_at": "Wed Jan 11 16:38:50 +0000 2017",
+    "hashtags": [
+        {
+            "text": "GoLongBeach"
+        },
+        {
+            "text": "GreenPort"
+        }
+    ],
+    "id": 819222046118907905,
+    "id_str": "819222046118907905",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/B7MeHpDk19",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/818991042527576065/photo/1",
+            "id": 818991017021931520,
+            "media_url": "http://pbs.twimg.com/media/C12j_aPUAAAho6u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C12j_aPUAAAho6u.jpg",
+            "type": "photo",
+            "url": "https://t.co/B7MeHpDk19"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Jan 11 01:20:55 +0000 2017",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "GoLongBeach"
+            },
+            {
+                "text": "GreenPort"
+            }
+        ],
+        "id": 818991042527576065,
+        "id_str": "818991042527576065",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/B7MeHpDk19",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/818991042527576065/photo/1",
+                "id": 818991017021931520,
+                "media_url": "http://pbs.twimg.com/media/C12j_aPUAAAho6u.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C12j_aPUAAAho6u.jpg",
+                "type": "photo",
+                "url": "https://t.co/B7MeHpDk19"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Guests checking out the plans for the @newgdbridge 🏗🚢 @portoflongbeach #GoLongBeach #GreenPort https://t.co/B7MeHpDk19",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Official City Twitter account for Robert Garcia, the 28th Mayor of @LongBeachCity.",
+            "favourites_count": 1750,
+            "followers_count": 4198,
+            "friends_count": 1346,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 90,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/503962898851328000/OCGmC8gc_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2280,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 512507429,
+                "name": "GD Bridge",
+                "screen_name": "newgdbridge"
+            },
+            {
+                "id": 16188231,
+                "name": "Port of Long Beach",
+                "screen_name": "portoflongbeach"
+            }
+        ]
+    },
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "RT @LBMayorsOffice: Guests checking out the plans for the @newgdbridge 🏗🚢 @portoflongbeach #GoLongBeach #GreenPort https://t.co/B7MeHpDk19",
+    "urls": [],
+    "user": {
+        "created_at": "Mon Sep 08 18:02:49 +0000 2008",
+        "description": "A major gateway for trans-Pacific trade, the Port of Long Beach is also an industry leader in environmental stewardship. \n\nTerms of Use: https://t.co/vdiVEUcOj2",
+        "favourites_count": 637,
+        "followers_count": 17284,
+        "friends_count": 3707,
+        "geo_enabled": true,
+        "id": 16188231,
+        "lang": "en",
+        "listed_count": 501,
+        "location": "Long Beach, CA",
+        "name": "Port of Long Beach",
+        "profile_background_color": "DFFBA2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398569138/Aerials_2011-10.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16188231/1422896225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540632928665870337/lc--UtlQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "D7ECD5",
+        "profile_text_color": "333333",
+        "screen_name": "portoflongbeach",
+        "statuses_count": 7616,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/mpI4vKOimY",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 512507429,
+            "name": "GD Bridge",
+            "screen_name": "newgdbridge"
+        },
+        {
+            "id": 16188231,
+            "name": "Port of Long Beach",
+            "screen_name": "portoflongbeach"
+        }
+    ]
+}
