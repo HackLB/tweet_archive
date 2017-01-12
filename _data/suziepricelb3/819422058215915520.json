@@ -1,0 +1,87 @@
+{
+    "created_at": "Thu Jan 12 05:53:37 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 819422058215915520,
+    "id_str": "819422058215915520",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NYMBTvxPDn",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/819422058215915520/photo/1",
+            "id": 819422053048557569,
+            "media_url": "http://pbs.twimg.com/media/C18sBAkUoAE7g2D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C18sBAkUoAE7g2D.jpg",
+            "type": "photo",
+            "url": "https://t.co/NYMBTvxPDn"
+        },
+        {
+            "display_url": "pic.twitter.com/NYMBTvxPDn",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/819422058215915520/photo/1",
+            "id": 819422053048553472,
+            "media_url": "http://pbs.twimg.com/media/C18sBAkUkAAWaDQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C18sBAkUkAAWaDQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/NYMBTvxPDn"
+        },
+        {
+            "display_url": "pic.twitter.com/NYMBTvxPDn",
+            "expanded_url": "https://twitter.com/suziepriceLB3/status/819422058215915520/photo/1",
+            "id": 819422053090459649,
+            "media_url": "http://pbs.twimg.com/media/C18sBAuUAAEDpV4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C18sBAuUAAEDpV4.jpg",
+            "type": "photo",
+            "url": "https://t.co/NYMBTvxPDn"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Great BHCA mtg tonight. Thanks to Eric @LBPublicWorks Meredith @LongBeachParks and Commander Griffin @LBPDLiz @LBPD https://t.co/NYMBTvxPDn",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 29 21:57:26 +0000 2014",
+        "description": "Suzie Price is a Councilmember in the City of Long Beach. She represents the 3rd Council District covering many neighborhoods in East Long Beach. #LBdistrict3",
+        "favourites_count": 74,
+        "followers_count": 1885,
+        "friends_count": 1952,
+        "geo_enabled": true,
+        "id": 2317854206,
+        "lang": "en",
+        "listed_count": 32,
+        "location": "Long Beach, CA",
+        "name": "Suzie Price",
+        "profile_background_color": "E61740",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2317854206/1478629244",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505752949012705280/yAhPFB2Z_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "suziepriceLB3",
+        "statuses_count": 1188,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/gEU4YZILa5",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3298654412,
+            "name": "LB Public Works",
+            "screen_name": "LBPublicWorks"
+        },
+        {
+            "id": 148893587,
+            "name": "Long Beach Parks",
+            "screen_name": "LongBeachParks"
+        },
+        {
+            "id": 749814061777362944,
+            "name": "Liz",
+            "screen_name": "LBPDLiz"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        }
+    ]
+}
