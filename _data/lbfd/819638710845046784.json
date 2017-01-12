@@ -1,0 +1,83 @@
+{
+    "created_at": "Thu Jan 12 20:14:31 +0000 2017",
+    "favorite_count": 8,
+    "hashtags": [],
+    "id": 819638710845046784,
+    "id_str": "819638710845046784",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ywcPgkOJse",
+            "expanded_url": "https://twitter.com/lbfd/status/819638710845046784/video/1",
+            "id": 819638664258912256,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/819638664258912256/pu/img/x1LTbBppuBZmwJrq.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/819638664258912256/pu/img/x1LTbBppuBZmwJrq.jpg",
+            "type": "video",
+            "url": "https://t.co/ywcPgkOJse"
+        }
+    ],
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.23897133018576,
+                        34.105523376603664
+                    ],
+                    [
+                        -117.23897133018576,
+                        34.105523376603664
+                    ],
+                    [
+                        -117.23897133018576,
+                        34.105523376603664
+                    ],
+                    [
+                        -117.23897133018576,
+                        34.105523376603664
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Bernardino Regional Emergency Training Center",
+        "id": "07d9e28cc3c85001",
+        "name": "San Bernardino Regional Emergency Training Center",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e28cc3c85001.json"
+    },
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "LBFD airport firefighting....training to keep your airport safe. https://t.co/ywcPgkOJse",
+    "urls": [],
+    "user": {
+        "created_at": "Tue Jan 13 20:32:26 +0000 2009",
+        "description": "Official Long Beach Fire Department Twitter feed. Serving our Community since 1897. Emergency incident updates and public safety information. Semper Paratus.",
+        "favourites_count": 590,
+        "followers_count": 4993,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "id": 18952042,
+        "lang": "en",
+        "listed_count": 187,
+        "location": "Long Beach, CA",
+        "name": "Long Beach Fire",
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18952042/1468184105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649810322677567489/PbqyLJlA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "screen_name": "lbfd",
+        "statuses_count": 2355,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/y8zfCjTY2R",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}

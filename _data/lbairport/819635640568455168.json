@@ -1,0 +1,47 @@
+{
+    "created_at": "Thu Jan 12 20:02:19 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "LGB"
+        }
+    ],
+    "id": 819635640568455168,
+    "id_str": "819635640568455168",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We recently made much-needed improvements to the roadways and walkways in front of our historic terminal. #LGB https://t.co/q3nDc9EXvE",
+    "urls": [
+        {
+            "expanded_url": "https://youtu.be/i7gdVlZomFU",
+            "url": "https://t.co/q3nDc9EXvE"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2910,
+        "followers_count": 9666,
+        "friends_count": 583,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 370,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1483471422",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6292,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": []
+}
