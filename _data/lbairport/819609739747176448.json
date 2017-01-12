@@ -1,0 +1,60 @@
+{
+    "created_at": "Thu Jan 12 18:19:24 +0000 2017",
+    "hashtags": [],
+    "id": 819609739747176448,
+    "id_str": "819609739747176448",
+    "in_reply_to_screen_name": "BonVoyageLauren",
+    "in_reply_to_status_id": 819230393106763776,
+    "in_reply_to_user_id": 15104058,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BonVoyageLauren @tiinaschuh @VisitAustinTX @JetBlue Beautiful photo. Make sure to bring back tacos and BBQ to share! 🌮🍖",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+        "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+        "favourites_count": 2911,
+        "followers_count": 9666,
+        "friends_count": 583,
+        "geo_enabled": true,
+        "id": 106872943,
+        "lang": "en",
+        "listed_count": 371,
+        "location": "Long Beach, California",
+        "name": "Long Beach Airport",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1483471422",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "screen_name": "LBAirport",
+        "statuses_count": 6291,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/oaUgpQVDGo",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 15104058,
+            "name": "Lauren Meshkin",
+            "screen_name": "BonVoyageLauren"
+        },
+        {
+            "id": 308859429,
+            "name": "Tiina Schuh",
+            "screen_name": "tiinaschuh"
+        },
+        {
+            "id": 18728980,
+            "name": "Austin Texas",
+            "screen_name": "VisitAustinTX"
+        },
+        {
+            "id": 6449282,
+            "name": "JetBlue Airways",
+            "screen_name": "JetBlue"
+        }
+    ]
+}
