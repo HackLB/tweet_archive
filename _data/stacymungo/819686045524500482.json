@@ -1,0 +1,87 @@
+{
+    "created_at": "Thu Jan 12 23:22:36 +0000 2017",
+    "hashtags": [],
+    "id": 819686045524500482,
+    "id_str": "819686045524500482",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Jan 12 16:08:14 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 819576732495781890,
+        "id_str": "819576732495781890",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "As of 8 AM today (1/12/17), LB street sweeping &amp; associated parking restrictions are cancelled for the remainder of… https://t.co/4F8UANYEEo",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/819576732495781890",
+                "url": "https://t.co/4F8UANYEEo"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Dec 15 16:55:39 +0000 2009",
+            "description": "City of Long Beach Environmental Services Bureau: Providing Recycling, Refuse, Street Sweeping/Parking, Hazardous Waste and LB-exchange services to LB.",
+            "favourites_count": 12,
+            "followers_count": 1389,
+            "friends_count": 40,
+            "id": 97016577,
+            "lang": "en",
+            "listed_count": 39,
+            "location": "Long Beach, California",
+            "name": "Long Beach Recycles",
+            "profile_background_color": "B8CA5E",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476452534081449984/29qgWSJk.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97016577/1402432895",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1884764926/Twitter_Logo_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C2D186",
+            "profile_text_color": "333333",
+            "screen_name": "lbrecycles",
+            "statuses_count": 877,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/or6slOhDam",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @lbrecycles: As of 8 AM today (1/12/17), LB street sweeping &amp; associated parking restrictions are cancelled for the remainder of the day…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 536,
+        "followers_count": 4028,
+        "friends_count": 1495,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 1988,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 97016577,
+            "name": "Long Beach Recycles",
+            "screen_name": "lbrecycles"
+        }
+    ]
+}
