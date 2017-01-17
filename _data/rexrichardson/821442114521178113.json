@@ -1,0 +1,126 @@
+{
+    "created_at": "Tue Jan 17 19:40:36 +0000 2017",
+    "hashtags": [
+        {
+            "text": "lbserves"
+        }
+    ],
+    "id": 821442114521178113,
+    "id_str": "821442114521178113",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Jan 16 17:53:11 +0000 2017",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 821052694450180096,
+        "id_str": "821052694450180096",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.1770133972168,
+                            33.79204130813403
+                        ],
+                        [
+                            -118.1770133972168,
+                            33.79204130813403
+                        ],
+                        [
+                            -118.1770133972168,
+                            33.79204130813403
+                        ],
+                        [
+                            -118.1770133972168,
+                            33.79204130813403
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Martin Luther King Jr. Park",
+            "id": "07d9e4abbd086001",
+            "name": "Martin Luther King Jr. Park",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9e4abbd086001.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "A moment of prayer for all of Long Beach at MLK Day of Service program before volunteers head out to projects.… https://t.co/1Tcb4dxtOV",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/821052694450180096",
+                "url": "https://t.co/1Tcb4dxtOV"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 00:49:05 +0000 2009",
+            "description": "We are a catalyst that informs, activates and connects community leaders\r\nto more meaningfully serve Long Beach.",
+            "favourites_count": 531,
+            "followers_count": 1921,
+            "friends_count": 108,
+            "geo_enabled": true,
+            "id": 20481887,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "Long Beach, CA",
+            "name": "Leadership LongBeach",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551220895373463552/6HEWHYFa.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20481887/1420256404",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/551221202090332162/-gPgSF1k_normal.jpeg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LeadershipLB",
+            "statuses_count": 602,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/SD62jLVQ3o",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LeadershipLB: A moment of prayer for all of Long Beach at MLK Day of Service program before volunteers head out to projects. #lbserves…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1485,
+        "followers_count": 2458,
+        "friends_count": 1352,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2281,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20481887,
+            "name": "Leadership LongBeach",
+            "screen_name": "LeadershipLB"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "created_at": "Tue Jan 17 19:40:28 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "MLK"
+        }
+    ],
+    "id": 821442081780428801,
+    "id_str": "821442081780428801",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Jan 16 17:02:41 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "MLK"
+            }
+        ],
+        "id": 821039987030249472,
+        "id_str": "821039987030249472",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Getting pumped up for #LongBeach #MLK ServiceDay w/ @LeadershipLB @rexrichardson @CouncilDee ThankYou @lbfd for the… https://t.co/Mi02ljKhcQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/821039987030249472",
+                "url": "https://t.co/Mi02ljKhcQ"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jun 07 02:26:04 +0000 2015",
+            "description": "Building vibrant & just communities one city at a time. #iteams #innovation #global #communications #HumanRights & the #Arts @iteam_longbeach #NYUWagner",
+            "favourites_count": 1758,
+            "followers_count": 368,
+            "friends_count": 584,
+            "geo_enabled": true,
+            "id": 3238398302,
+            "lang": "en",
+            "listed_count": 61,
+            "location": "Long Beach, CA",
+            "name": "Alma Castro",
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3238398302/1484192667",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/607374742828425216/McI2e56u_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "Alma_LBC",
+            "statuses_count": 952
+        },
+        "user_mentions": [
+            {
+                "id": 20481887,
+                "name": "Leadership LongBeach",
+                "screen_name": "LeadershipLB"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 48506613,
+                "name": "Councilman D Andrews",
+                "screen_name": "CouncilDee"
+            },
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire",
+                "screen_name": "lbfd"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Alma_LBC: Getting pumped up for #LongBeach #MLK ServiceDay w/ @LeadershipLB @rexrichardson @CouncilDee ThankYou @lbfd for the pancakes!…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1485,
+        "followers_count": 2458,
+        "friends_count": 1352,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2281,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3238398302,
+            "name": "Alma Castro",
+            "screen_name": "Alma_LBC"
+        },
+        {
+            "id": 20481887,
+            "name": "Leadership LongBeach",
+            "screen_name": "LeadershipLB"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 48506613,
+            "name": "Councilman D Andrews",
+            "screen_name": "CouncilDee"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire",
+            "screen_name": "lbfd"
+        }
+    ]
+}
