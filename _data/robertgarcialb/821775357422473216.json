@@ -1,0 +1,64 @@
+{
+    "created_at": "Wed Jan 18 17:44:47 +0000 2017",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 821775357422473216,
+    "id_str": "821775357422473216",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Enjoyed catching up with our new LGBT Mayor's Caucus - thx @VictoryFund, @javiermgonzales, @JackieForMayor, @PeteButtigieg &amp; @AishaMoodMills",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5397,
+        "followers_count": 11730,
+        "friends_count": 2081,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9742,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16566133,
+            "name": "Victory Fund",
+            "screen_name": "VictoryFund"
+        },
+        {
+            "id": 78664837,
+            "name": "Javier Gonzales",
+            "screen_name": "javiermgonzales"
+        },
+        {
+            "id": 2999690653,
+            "name": "Mayor Jackie B-SLC",
+            "screen_name": "JackieForMayor"
+        },
+        {
+            "id": 226222147,
+            "name": "Pete Buttigieg",
+            "screen_name": "PeteButtigieg"
+        },
+        {
+            "id": 48733366,
+            "name": "Aisha C Moodie-Mills",
+            "screen_name": "AishaMoodMills"
+        }
+    ]
+}
