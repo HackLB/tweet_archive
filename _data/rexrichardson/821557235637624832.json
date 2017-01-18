@@ -1,0 +1,134 @@
+{
+    "created_at": "Wed Jan 18 03:18:03 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "Equity"
+        },
+        {
+            "text": "diversity"
+        },
+        {
+            "text": "justice"
+        },
+        {
+            "text": "SocialJustice"
+        },
+        {
+            "text": "Leadership"
+        }
+    ],
+    "id": 821557235637624832,
+    "id_str": "821557235637624832",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Jan 18 03:01:55 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "Equity"
+            },
+            {
+                "text": "diversity"
+            },
+            {
+                "text": "justice"
+            },
+            {
+                "text": "SocialJustice"
+            }
+        ],
+        "id": 821553177749094404,
+        "id_str": "821553177749094404",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Looking forward to the #LongBeach Office of #Equity. Thank you @rexrichardson #diversity #justice #SocialJustice… https://t.co/6S4x7rNS0z",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/821553177749094404",
+                "url": "https://t.co/6S4x7rNS0z"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jan 31 01:58:16 +0000 2015",
+            "description": "HLB works to improve, preserve and increase affordable housing for the well-being of Long Beach residents through community organizing, systems and policy.",
+            "favourites_count": 316,
+            "followers_count": 479,
+            "friends_count": 347,
+            "geo_enabled": true,
+            "id": 3004150394,
+            "lang": "en",
+            "listed_count": 49,
+            "location": "525 E 7th St #102 LB, CA 90813",
+            "name": "Housing Long Beach",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659203501520633856/Dp4o-PxQ.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3004150394/1425423709",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/723142593278697472/wb1Tahwb_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "HousingLB",
+            "statuses_count": 1173,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/DUIuXENHD3",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @HousingLB: Looking forward to the #LongBeach Office of #Equity. Thank you @rexrichardson #diversity #justice #SocialJustice #Leadership…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1486,
+        "followers_count": 2459,
+        "friends_count": 1353,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 60,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2282,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 3004150394,
+            "name": "Housing Long Beach",
+            "screen_name": "HousingLB"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
