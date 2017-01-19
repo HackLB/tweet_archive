@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jan 19 00:54:59 +0000 2017",
+    "hashtags": [
+        {
+            "text": "climatemayors"
+        }
+    ],
+    "id": 821883620042440704,
+    "id_str": "821883620042440704",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jan 19 00:41:06 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "climatemayors"
+            }
+        ],
+        "id": 821880125297831937,
+        "id_str": "821880125297831937",
+        "in_reply_to_screen_name": "RobertGarciaLB",
+        "in_reply_to_status_id": 821865413067870208,
+        "in_reply_to_user_id": 18120497,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RobertGarciaLB thanks Mayor! You are joined in signing the open letter to Trump by 67 other #climatemayors https://t.co/w3cm1Bf9Pz",
+        "urls": [
+            {
+                "expanded_url": "https://medium.com/@ClimateMayors/open-letter-to-president-elect-donald-trump-on-climate-policy-and-action-33e10dcdcf85#.f5gc349a1",
+                "url": "https://t.co/w3cm1Bf9Pz"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 20:50:41 +0000 2015",
+            "default_profile": true,
+            "description": "We are the #ClimateMayors.",
+            "favourites_count": 425,
+            "followers_count": 370,
+            "friends_count": 28,
+            "id": 3232850910,
+            "lang": "en",
+            "listed_count": 10,
+            "name": "@ClimateMayors",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/611656586767892480/L1LDwiqa_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ClimateMayors",
+            "statuses_count": 174,
+            "url": "https://t.co/5WnUnHcX8P"
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ClimateMayors: @RobertGarciaLB thanks Mayor! You are joined in signing the open letter to Trump by 67 other #climatemayors https://t.co…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5407,
+        "followers_count": 11736,
+        "friends_count": 2084,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 227,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9749,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3232850910,
+            "name": "@ClimateMayors",
+            "screen_name": "ClimateMayors"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
