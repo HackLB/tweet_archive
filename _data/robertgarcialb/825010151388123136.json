@@ -1,0 +1,126 @@
+{
+    "created_at": "Fri Jan 27 15:58:42 +0000 2017",
+    "hashtags": [
+        {
+            "text": "opendata"
+        }
+    ],
+    "id": 825010151388123136,
+    "id_str": "825010151388123136",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Jan 27 14:33:00 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "opendata"
+            }
+        ],
+        "id": 824988585027784704,
+        "id_str": "824988585027784704",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": ".@govtechnews on how Mayor @RobertGarciaLB &amp; @LongBeachCity are embracing #opendata to help empower citizens https://t.co/Q8RXCRWQrF",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2jsQR28",
+                "url": "https://t.co/Q8RXCRWQrF"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 03 16:20:04 +0000 2013",
+            "description": "Celebrating public sector progress and innovation in cities around the world. Run by @BloombergDotOrg’s Government Innovation program.",
+            "favourites_count": 2077,
+            "followers_count": 22293,
+            "friends_count": 2550,
+            "geo_enabled": true,
+            "id": 1725985022,
+            "lang": "en",
+            "listed_count": 837,
+            "name": "Bloomberg Cities",
+            "profile_background_color": "330077",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000080857915/e2c3440358e3cb54ce197c32aa553b1d.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725985022/1413234297",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/521771740024672256/h5Wk1aEZ_normal.jpeg",
+            "profile_link_color": "4A008B",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "BloombergCities",
+            "statuses_count": 4079,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/Tw4IB7xUY5",
+            "utc_offset": -18000
+        },
+        "user_mentions": [
+            {
+                "id": 18922205,
+                "name": "Govtech.com",
+                "screen_name": "govtechnews"
+            },
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BloombergCities: .@govtechnews on how Mayor @RobertGarciaLB &amp; @LongBeachCity are embracing #opendata to help empower citizens https://t…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5485,
+        "followers_count": 11948,
+        "friends_count": 2100,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 233,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9799,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1725985022,
+            "name": "Bloomberg Cities",
+            "screen_name": "BloombergCities"
+        },
+        {
+            "id": 18922205,
+            "name": "Govtech.com",
+            "screen_name": "govtechnews"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
