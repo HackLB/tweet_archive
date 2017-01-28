@@ -1,0 +1,140 @@
+{
+    "created_at": "Sat Jan 28 18:12:08 +0000 2017",
+    "hashtags": [],
+    "id": 825406119895969792,
+    "id_str": "825406119895969792",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ZPRWbLDxlR",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/825404880680472576/photo/1",
+            "id": 825404870274408449,
+            "media_url": "http://pbs.twimg.com/media/C3RtWziVYAEPpPd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3RtWziVYAEPpPd.jpg",
+            "type": "photo",
+            "url": "https://t.co/ZPRWbLDxlR"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Jan 28 18:07:13 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 825404880680472576,
+        "id_str": "825404880680472576",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZPRWbLDxlR",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/825404880680472576/photo/1",
+                "id": 825404870274408449,
+                "media_url": "http://pbs.twimg.com/media/C3RtWziVYAEPpPd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C3RtWziVYAEPpPd.jpg",
+                "type": "photo",
+                "url": "https://t.co/ZPRWbLDxlR"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "And we broke ground! Molina Park will join us as the 169th park in our city. https://t.co/ZPRWbLDxlR",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Mayor Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development.",
+            "favourites_count": 2016,
+            "followers_count": 4351,
+            "friends_count": 1415,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 96,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1467832668",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824325489368055809/9Fa0EGnL_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2379,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: And we broke ground! Molina Park will join us as the 169th park in our city. https://t.co/ZPRWbLDxlR",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5494,
+        "followers_count": 11956,
+        "friends_count": 2101,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 236,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9807,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
