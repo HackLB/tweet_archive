@@ -1,0 +1,54 @@
+{
+    "created_at": "Sat Jan 28 00:05:09 +0000 2017",
+    "favorite_count": 7,
+    "hashtags": [
+        {
+            "text": "PathwaysToJustice"
+        }
+    ],
+    "id": 825132568496312320,
+    "id_str": "825132568496312320",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "We are proud to partner with @PacGateway to help narrow opportunity gaps for LB youth in our #PathwaysToJustice!… https://t.co/i0Zm7vNb72",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/825132568496312320",
+            "url": "https://t.co/i0Zm7vNb72"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1505,
+        "followers_count": 2489,
+        "friends_count": 1373,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2302,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 1355040294,
+            "name": "Pacific Gateway",
+            "screen_name": "PacGateway"
+        }
+    ]
+}
