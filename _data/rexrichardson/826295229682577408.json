@@ -1,0 +1,93 @@
+{
+    "created_at": "Tue Jan 31 05:05:09 +0000 2017",
+    "hashtags": [
+        {
+            "text": "smallbiz"
+        }
+    ],
+    "id": 826295229682577408,
+    "id_str": "826295229682577408",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Jan 31 00:57:39 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "smallbiz"
+            }
+        ],
+        "id": 826232943521656832,
+        "id_str": "826232943521656832",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "North Long Beach #smallbiz profile: Reptile Factory sells snakes, lizards, turtles, frogs &amp; supplies. Read more:… https://t.co/UWjtAlX8sI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/826232943521656832",
+                "url": "https://t.co/UWjtAlX8sI"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Jun 13 17:52:18 +0000 2014",
+            "default_profile": true,
+            "description": "The Voice of Business in Long Beach since 1987",
+            "favourites_count": 47,
+            "followers_count": 1055,
+            "friends_count": 69,
+            "id": 2565667038,
+            "lang": "en",
+            "listed_count": 39,
+            "location": "Long Beach, CA",
+            "name": "LB Business Journal",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2565667038/1472511298",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770401180631470081/FxloVBg5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBBizJourn",
+            "statuses_count": 937,
+            "url": "http://t.co/7UveCwR8uj"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBBizJourn: North Long Beach #smallbiz profile: Reptile Factory sells snakes, lizards, turtles, frogs &amp; supplies. Read more: https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1508,
+        "followers_count": 2496,
+        "friends_count": 1377,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2305,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2565667038,
+            "name": "LB Business Journal",
+            "screen_name": "LBBizJourn"
+        }
+    ]
+}
