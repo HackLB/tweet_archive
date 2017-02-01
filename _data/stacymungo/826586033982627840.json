@@ -1,0 +1,80 @@
+{
+    "created_at": "Wed Feb 01 00:20:42 +0000 2017",
+    "hashtags": [],
+    "id": 826586033982627840,
+    "id_str": "826586033982627840",
+    "in_reply_to_screen_name": "crankyflier",
+    "in_reply_to_status_id": 826585715819491328,
+    "in_reply_to_user_id": 19381755,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.192945,
+                        34.008017
+                    ],
+                    [
+                        -118.126513,
+                        34.008017
+                    ],
+                    [
+                        -118.126513,
+                        34.062578
+                    ],
+                    [
+                        -118.192945,
+                        34.062578
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Los Angeles, CA",
+        "id": "67571a7baaa5906b",
+        "name": "East Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/67571a7baaa5906b.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@crankyflier I'm clear on how it could have been funded.  Many factors, many priorities- sorry to disappoint you.",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 543,
+        "followers_count": 4053,
+        "friends_count": 1514,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2001,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 19381755,
+            "name": "Brett Snyder",
+            "screen_name": "crankyflier"
+        }
+    ]
+}
