@@ -1,0 +1,93 @@
+{
+    "created_at": "Wed Feb 01 03:22:22 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "Mayor"
+        }
+    ],
+    "id": 826631751267004418,
+    "id_str": "826631751267004418",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/suIlYAMgEg",
+            "expanded_url": "https://twitter.com/StacyMungo/status/826631751267004418/photo/1",
+            "id": 826631745822810112,
+            "media_url": "http://pbs.twimg.com/media/C3jJMXHUYAAINWN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C3jJMXHUYAAINWN.jpg",
+            "type": "photo",
+            "url": "https://t.co/suIlYAMgEg"
+        }
+    ],
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Enjoyed a pro-business opening from #Mayor @ericgarcetti our region working together for jobs. https://t.co/suIlYAMgEg",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 543,
+        "followers_count": 4053,
+        "friends_count": 1514,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2002,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 17358750,
+            "name": "Eric Garcetti",
+            "screen_name": "ericgarcetti"
+        }
+    ]
+}
