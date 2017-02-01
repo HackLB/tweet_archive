@@ -1,0 +1,93 @@
+{
+    "created_at": "Wed Feb 01 04:51:38 +0000 2017",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "thankful"
+        }
+    ],
+    "id": 826654218236813312,
+    "id_str": "826654218236813312",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.26658844947815,
+                        34.04530782486832
+                    ],
+                    [
+                        -118.26658844947815,
+                        34.04530782486832
+                    ],
+                    [
+                        -118.26658844947815,
+                        34.04530782486832
+                    ],
+                    [
+                        -118.26658844947815,
+                        34.04530782486832
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "JW Marriott LA Live",
+        "id": "07d9ecaf3b487000",
+        "name": "JW Marriott LA Live",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ecaf3b487000.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thoughtful remarks from @VinScullyTweet - I was fortunate to be @Dodgers stadium his last night and #thankful to ha… https://t.co/pSTmEck8oa",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/826654218236813312",
+            "url": "https://t.co/pSTmEck8oa"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 543,
+        "followers_count": 4053,
+        "friends_count": 1515,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2003,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 373180628,
+            "name": "Vin Scully",
+            "screen_name": "VinScullyTweet"
+        },
+        {
+            "id": 23043294,
+            "name": "Los Angeles Dodgers",
+            "screen_name": "Dodgers"
+        }
+    ]
+}
