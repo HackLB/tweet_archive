@@ -1,0 +1,98 @@
+{
+    "created_at": "Fri Feb 03 01:16:37 +0000 2017",
+    "hashtags": [],
+    "id": 827324880513167360,
+    "id_str": "827324880513167360",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Feb 02 19:05:41 +0000 2017",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 827231535283605504,
+        "id_str": "827231535283605504",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Participation + Governance + Emerging Majorities: @LACountyRCC @TorieOsborn @RexRichardson &amp; Hon. Karina Macias… https://t.co/PZg3gAqHtO",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/827231535283605504",
+                "url": "https://t.co/PZg3gAqHtO"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 22 17:51:06 +0000 2014",
+            "description": "Advancement Project is a next generation, multi-racial civil rights organization.",
+            "favourites_count": 2098,
+            "followers_count": 1244,
+            "friends_count": 898,
+            "geo_enabled": true,
+            "id": 2670137323,
+            "lang": "en",
+            "listed_count": 47,
+            "location": "Los Angeles, CA ",
+            "name": "Advancement Project",
+            "profile_background_color": "3E6E00",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491653505266884608/qQHmAeXU.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2670137323/1474671395",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779426540077453312/hD658lQ9_normal.jpg",
+            "profile_link_color": "A87B00",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "AP_California",
+            "statuses_count": 2300,
+            "time_zone": "Arizona",
+            "url": "http://t.co/GnJO94MkMG",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 217644673,
+                "name": "Torie Osborn",
+                "screen_name": "TorieOsborn"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AP_California: Participation + Governance + Emerging Majorities: @LACountyRCC @TorieOsborn @RexRichardson &amp; Hon. Karina Macias @City_of…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1511,
+        "followers_count": 2504,
+        "friends_count": 1382,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2306,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 2670137323,
+            "name": "Advancement Project",
+            "screen_name": "AP_California"
+        }
+    ]
+}
