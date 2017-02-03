@@ -1,0 +1,103 @@
+{
+    "created_at": "Fri Feb 03 22:43:09 +0000 2017",
+    "hashtags": [
+        {
+            "text": "PacificVisions"
+        },
+        {
+            "text": "climatechange"
+        }
+    ],
+    "id": 827648647701655552,
+    "id_str": "827648647701655552",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Fri Feb 03 20:00:35 +0000 2017",
+        "favorite_count": 15,
+        "hashtags": [
+            {
+                "text": "PacificVisions"
+            },
+            {
+                "text": "climatechange"
+            }
+        ],
+        "id": 827607737274134530,
+        "id_str": "827607737274134530",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "City of Long Beach Mayor's remarks yesterday at our #PacificVisions Groundbreaking Ceremony. #climatechange… https://t.co/ZqCidSjEXW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/827607737274134530",
+                "url": "https://t.co/ZqCidSjEXW"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 13 20:23:44 +0000 2009",
+            "description": "Take a journey of discovery through the world’s largest ocean at the Aquarium of the Pacific in Long Beach, California.",
+            "favourites_count": 3947,
+            "followers_count": 21126,
+            "friends_count": 1058,
+            "geo_enabled": true,
+            "id": 24245649,
+            "lang": "en",
+            "listed_count": 737,
+            "location": "Long Beach, California",
+            "name": "Aquarium of Pacific",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/209791706/twitterbg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24245649/1456870648",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766060547439747072/ntzf3k3U_normal.jpg",
+            "profile_link_color": "0A4459",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "AquariumPacific",
+            "statuses_count": 5161,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZYVUB3KUuI",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AquariumPacific: City of Long Beach Mayor's remarks yesterday at our #PacificVisions Groundbreaking Ceremony. #climatechange @LBMayorsO…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5602,
+        "followers_count": 12110,
+        "friends_count": 2109,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 237,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9848,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 24245649,
+            "name": "Aquarium of Pacific",
+            "screen_name": "AquariumPacific"
+        }
+    ]
+}
