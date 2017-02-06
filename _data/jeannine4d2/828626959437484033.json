@@ -1,0 +1,145 @@
+{
+    "created_at": "Mon Feb 06 15:30:36 +0000 2017",
+    "hashtags": [
+        {
+            "text": "BroomsAcrossLongBeach"
+        },
+        {
+            "text": "keepourcityclean"
+        },
+        {
+            "text": "safelongbeach"
+        },
+        {
+            "text": "cleanlb"
+        }
+    ],
+    "id": 828626959437484033,
+    "id_str": "828626959437484033",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sun Feb 05 06:27:51 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "BroomsAcrossLongBeach"
+            },
+            {
+                "text": "keepourcityclean"
+            },
+            {
+                "text": "safelongbeach"
+            },
+            {
+                "text": "cleanlb"
+            }
+        ],
+        "id": 828127981558128640,
+        "id_str": "828127981558128640",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Volunteers signing up and excited to help out at  #BroomsAcrossLongBeach #keepourcityclean #safelongbeach #cleanlb… https://t.co/EhQk7plyOi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/828127981558128640",
+                "url": "https://t.co/EhQk7plyOi"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 03 05:51:31 +0000 2015",
+            "default_profile": true,
+            "description": "AOC7 Neighborhood Association. AOC7 stands for Anaheim, Orange, Cherry & 7th St. We are committed to improving the overall quality of life within our community",
+            "favourites_count": 6180,
+            "followers_count": 423,
+            "friends_count": 1271,
+            "geo_enabled": true,
+            "id": 3059303389,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Long Beach, CA",
+            "name": "AOC7",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3059303389/1485237480",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/737502025047384065/ePc8GjoJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MarySim98679234",
+            "statuses_count": 1355,
+            "url": "https://t.co/YxZtGLi8Ug"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MarySim98679234: Volunteers signing up and excited to help out at  #BroomsAcrossLongBeach #keepourcityclean #safelongbeach #cleanlb #li…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 263,
+        "followers_count": 453,
+        "friends_count": 766,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 200,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 3059303389,
+            "name": "AOC7",
+            "screen_name": "MarySim98679234"
+        }
+    ]
+}
