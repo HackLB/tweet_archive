@@ -1,0 +1,65 @@
+{
+    "created_at": "Wed Feb 08 15:54:50 +0000 2017",
+    "favorite_count": 30,
+    "hashtags": [],
+    "id": 829357830599634950,
+    "id_str": "829357830599634950",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 829356871848951809,
+    "in_reply_to_user_id": 25073877,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/d19KHYl6CS",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/829357830599634950/photo/1",
+            "id": 829357806948081664,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/C4J4iALWYAAo-1h.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4J4iALWYAAo-1h.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/d19KHYl6CS"
+        }
+    ],
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@realDonaldTrump @Nordstrom https://t.co/d19KHYl6CS",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5637,
+        "followers_count": 12155,
+        "friends_count": 2123,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 239,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9865,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 25073877,
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+        },
+        {
+            "id": 15162193,
+            "name": "Nordstrom",
+            "screen_name": "Nordstrom"
+        }
+    ]
+}
