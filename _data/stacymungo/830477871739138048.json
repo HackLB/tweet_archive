@@ -1,0 +1,91 @@
+{
+    "created_at": "Sat Feb 11 18:05:28 +0000 2017",
+    "hashtags": [],
+    "id": 830477871739138048,
+    "id_str": "830477871739138048",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Feb 11 01:02:28 +0000 2017",
+        "hashtags": [],
+        "id": 830220421991632897,
+        "id_str": "830220421991632897",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://bloxcms.com/\" rel=\"nofollow\">BLOX CMS</a>",
+        "text": "HUD Awards Long Beach Continuum Of Care $7.6 Million https://t.co/OIz1Nyd3IU",
+        "urls": [
+            {
+                "expanded_url": "http://www.gazettes.com/news/hud-awards-long-beach-continuum-of-care-million/article_cd533cb8-ef2b-11e6-be76-bbd383b97b0b.html",
+                "url": "https://t.co/OIz1Nyd3IU"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 09 18:45:54 +0000 2010",
+            "description": "Gazettes Newspapers is the favorite community news source for #LongBeach. We have daily coverage online. Also, see @PTGazettesSports.",
+            "favourites_count": 518,
+            "followers_count": 6570,
+            "friends_count": 430,
+            "geo_enabled": true,
+            "id": 176509198,
+            "lang": "en",
+            "listed_count": 154,
+            "location": "Long Beach, CA",
+            "name": "Gazette Newspapers",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753875098/137be037fd3a43e0dc57e11d956b8b16.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/176509198/1358447800",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/451485553288957952/tCryBR0C_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "GrunionGazette",
+            "statuses_count": 10924,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/aPeOY9XzD9",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GrunionGazette: HUD Awards Long Beach Continuum Of Care $7.6 Million https://t.co/OIz1Nyd3IU",
+    "urls": [
+        {
+            "expanded_url": "http://www.gazettes.com/news/hud-awards-long-beach-continuum-of-care-million/article_cd533cb8-ef2b-11e6-be76-bbd383b97b0b.html",
+            "url": "https://t.co/OIz1Nyd3IU"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 547,
+        "followers_count": 4050,
+        "friends_count": 1521,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2010,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 176509198,
+            "name": "Gazette Newspapers",
+            "screen_name": "GrunionGazette"
+        }
+    ]
+}

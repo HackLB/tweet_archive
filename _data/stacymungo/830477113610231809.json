@@ -1,0 +1,87 @@
+{
+    "created_at": "Sat Feb 11 18:02:28 +0000 2017",
+    "hashtags": [],
+    "id": 830477113610231809,
+    "id_str": "830477113610231809",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Sat Feb 11 02:04:33 +0000 2017",
+        "favorite_count": 30,
+        "hashtags": [],
+        "id": 830236049708232704,
+        "id_str": "830236049708232704",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Chief Luna announces arrest of 39-year-old Melvin Earl Farmer Jr. of Lynwood for res robberies of elderly women, in… https://t.co/pcxuimtBYi",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/830236049708232704",
+                "url": "https://t.co/pcxuimtBYi"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jun 23 20:47:20 +0000 2009",
+            "description": "LBPD Twitter and Facebook not monitored 24 hours- Call 9-1-1 for Emergencies or (562) 435-6711 Non Emergencies. More at http://t.co/GQVRnWIziU",
+            "favourites_count": 4519,
+            "followers_count": 9055,
+            "friends_count": 442,
+            "id": 50097116,
+            "lang": "en",
+            "listed_count": 236,
+            "name": "Long Beach PD (CA)",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636294292/ufit2wb5go47lj69c83s.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50097116/1459978362",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/640409982031167488/29k4lKDM_normal.jpg",
+            "profile_link_color": "63A5BD",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "LBPD",
+            "statuses_count": 6397,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/mv2Tul1Uz8",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPD: Chief Luna announces arrest of 39-year-old Melvin Earl Farmer Jr. of Lynwood for res robberies of elderly women, including a sexu…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 547,
+        "followers_count": 4050,
+        "friends_count": 1521,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2010,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        }
+    ]
+}
