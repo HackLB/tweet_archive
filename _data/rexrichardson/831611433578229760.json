@@ -1,0 +1,125 @@
+{
+    "created_at": "Tue Feb 14 21:09:51 +0000 2017",
+    "hashtags": [
+        {
+            "text": "IamMBK"
+        }
+    ],
+    "id": 831611433578229760,
+    "id_str": "831611433578229760",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Feb 14 18:54:37 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "IamMBK"
+            }
+        ],
+        "id": 831577404426498048,
+        "id_str": "831577404426498048",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Kudos to @RamseyJayJr @rexrichardson @CSULB_MSI for a successful Men of Color Conference this weekend #IamMBK… https://t.co/iHxGbmNZW3",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/831577404426498048",
+                "url": "https://t.co/iHxGbmNZW3"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Feb 29 04:48:18 +0000 2016",
+            "default_profile": true,
+            "description": "#LBCollegePromise is a pledge to make college possible for all students through a partnership with @LBSchools, @LBCityCollege,@CSULB and @LBMayorsOffice",
+            "favourites_count": 710,
+            "followers_count": 815,
+            "friends_count": 1055,
+            "id": 704166277107953664,
+            "lang": "en",
+            "listed_count": 22,
+            "location": "Long Beach, CA",
+            "name": "LB College Promise",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/704166277107953664/1485807540",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/791356542138265600/e2bYAlHx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "TheLBPromise",
+            "statuses_count": 508,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/2BMH40X7kT",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 311103279,
+                "name": "Ramsey Jay, Jr.",
+                "screen_name": "RamseyJayJr"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 2207981082,
+                "name": "Mens Success@CSULB",
+                "screen_name": "CSULB_MSI"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TheLBPromise: Kudos to @RamseyJayJr @rexrichardson @CSULB_MSI for a successful Men of Color Conference this weekend #IamMBK #LBCollegeP…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1515,
+        "followers_count": 2511,
+        "friends_count": 1256,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2311,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 704166277107953664,
+            "name": "LB College Promise",
+            "screen_name": "TheLBPromise"
+        },
+        {
+            "id": 311103279,
+            "name": "Ramsey Jay, Jr.",
+            "screen_name": "RamseyJayJr"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 2207981082,
+            "name": "Mens Success@CSULB",
+            "screen_name": "CSULB_MSI"
+        }
+    ]
+}
