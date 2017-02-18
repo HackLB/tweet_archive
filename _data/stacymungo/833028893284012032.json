@@ -1,0 +1,139 @@
+{
+    "created_at": "Sat Feb 18 19:02:19 +0000 2017",
+    "hashtags": [],
+    "id": 833028893284012032,
+    "id_str": "833028893284012032",
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/QrQWNEA9tY",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/832741619736596480/photo/1",
+            "id": 832741553177112579,
+            "media_url": "http://pbs.twimg.com/media/C45-B9LUMAMLkF0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C45-B9LUMAMLkF0.jpg",
+            "type": "photo",
+            "url": "https://t.co/QrQWNEA9tY"
+        }
+    ],
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Sat Feb 18 00:00:48 +0000 2017",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 832741619736596480,
+        "id_str": "832741619736596480",
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QrQWNEA9tY",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/832741619736596480/photo/1",
+                "id": 832741553177112579,
+                "media_url": "http://pbs.twimg.com/media/C45-B9LUMAMLkF0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C45-B9LUMAMLkF0.jpg",
+                "type": "photo",
+                "url": "https://t.co/QrQWNEA9tY"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "https://t.co/QrQWNEA9tY",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "default_profile": true,
+            "description": "Mayor Robert Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development.\n*https://t.co/Ckx1LfyzDc",
+            "favourites_count": 2326,
+            "followers_count": 4488,
+            "friends_count": 1437,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 98,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1486422375",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824325489368055809/9Fa0EGnL_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2503,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @LBMayorsOffice: https://t.co/QrQWNEA9tY",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 549,
+        "followers_count": 4062,
+        "friends_count": 1288,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2018,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
