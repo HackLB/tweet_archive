@@ -1,0 +1,87 @@
+{
+    "created_at": "Tue Feb 21 16:36:44 +0000 2017",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 834079418670682112,
+    "id_str": "834079418670682112",
+    "lang": "und",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Cc: @ronkil @kpcc @LONGBEACHIZE @BrianAddisonLB @Steph_LBPost @LBCCVikingNews @daily49er @CTompkinsTweets… https://t.co/RWd00WHD8f",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/834079418670682112",
+            "url": "https://t.co/RWd00WHD8f"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5748,
+        "followers_count": 12270,
+        "friends_count": 2127,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 239,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9934,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18083174,
+            "name": "Ron Kilgore",
+            "screen_name": "ronkil"
+        },
+        {
+            "id": 12804312,
+            "name": "89.3 KPCC",
+            "screen_name": "KPCC"
+        },
+        {
+            "id": 186724210,
+            "name": "LONGBEACHIZE",
+            "screen_name": "LONGBEACHIZE"
+        },
+        {
+            "id": 18747184,
+            "name": "Brian Addison",
+            "screen_name": "BrianAddisonLB"
+        },
+        {
+            "id": 3187172575,
+            "name": "Stephanie Rivera",
+            "screen_name": "Steph_LBPost"
+        },
+        {
+            "id": 47383110,
+            "name": "LBCC Viking News",
+            "screen_name": "LBCCVikingNews"
+        },
+        {
+            "id": 23570223,
+            "name": "Daily 49er",
+            "screen_name": "daily49er"
+        },
+        {
+            "id": 2753175774,
+            "name": "Courtney Tompkins",
+            "screen_name": "CTompkinsTweets"
+        }
+    ]
+}
