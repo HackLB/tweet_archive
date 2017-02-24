@@ -1,0 +1,118 @@
+{
+    "created_at": "Fri Feb 24 20:03:42 +0000 2017",
+    "hashtags": [
+        {
+            "text": "AllPoly"
+        },
+        {
+            "text": "WhyNotUs"
+        }
+    ],
+    "id": 835218665121304576,
+    "id_str": "835218665121304576",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/C9qWp5npX6",
+            "expanded_url": "https://twitter.com/LBPoly_Football/status/835189331539050496/photo/1",
+            "id": 835189326099038208,
+            "media_url": "http://pbs.twimg.com/media/C5cwRF5UwAA2WkC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5cwRF5UwAA2WkC.jpg",
+            "type": "photo",
+            "url": "https://t.co/C9qWp5npX6"
+        }
+    ],
+    "retweet_count": 19,
+    "retweeted_status": {
+        "created_at": "Fri Feb 24 18:07:08 +0000 2017",
+        "favorite_count": 52,
+        "hashtags": [
+            {
+                "text": "AllPoly"
+            },
+            {
+                "text": "WhyNotUs"
+            }
+        ],
+        "id": 835189331539050496,
+        "id_str": "835189331539050496",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/C9qWp5npX6",
+                "expanded_url": "https://twitter.com/LBPoly_Football/status/835189331539050496/photo/1",
+                "id": 835189326099038208,
+                "media_url": "http://pbs.twimg.com/media/C5cwRF5UwAA2WkC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C5cwRF5UwAA2WkC.jpg",
+                "type": "photo",
+                "url": "https://t.co/C9qWp5npX6"
+            }
+        ],
+        "retweet_count": 19,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We all start somewhere..  Dare to be GREAT.  #AllPoly🐰 #WhyNotUs https://t.co/C9qWp5npX6",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Mar 12 16:09:49 +0000 2014",
+            "default_profile": true,
+            "description": "Official account of LONG BEACH POLY FOOTBALL. Scholars and Champions. Team, Pride, Tradition, All IN and JACKRABBIT PRIDE @musclemilk @adidasFballUS Sponsors",
+            "favourites_count": 976,
+            "followers_count": 5149,
+            "friends_count": 2388,
+            "geo_enabled": true,
+            "id": 2385475190,
+            "lang": "en",
+            "listed_count": 26,
+            "location": "Long Beach",
+            "name": "LB Poly Football",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2385475190/1486001396",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/792052083046293504/IAUnUvYm_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBPoly_Football",
+            "statuses_count": 3704,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/VryuOW2Fy4",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPoly_Football: We all start somewhere..  Dare to be GREAT.  #AllPoly🐰 #WhyNotUs https://t.co/C9qWp5npX6",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 551,
+        "followers_count": 4010,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2023,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2385475190,
+            "name": "LB Poly Football",
+            "screen_name": "LBPoly_Football"
+        }
+    ]
+}
