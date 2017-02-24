@@ -1,0 +1,108 @@
+{
+    "created_at": "Fri Feb 24 06:55:44 +0000 2017",
+    "hashtags": [],
+    "id": 835020368276410368,
+    "id_str": "835020368276410368",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Feb 24 01:16:02 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 834934881134211072,
+        "id_str": "834934881134211072",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "RT @LAWeekly: Plan your next date night at @555East Steakhouse for live jazz and a perfectly charred filet mignon https://t.co/i0IXVF5e5h",
+        "urls": [
+            {
+                "expanded_url": "http://www.laweekly.com/restaurants/best-restaurants-in-long-beach-7784360",
+                "url": "https://t.co/i0IXVF5e5h"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 15 02:56:50 +0000 2009",
+            "description": "Serving Long Beach since 1984.",
+            "favourites_count": 76,
+            "followers_count": 200,
+            "friends_count": 136,
+            "id": 40159921,
+            "lang": "en",
+            "listed_count": 12,
+            "location": "Long Beach, CA",
+            "name": "555 East Steakhouse",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180461289/f2vyDZ-3.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40159921/1399762515",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/487640929247825921/4LKtJamf_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "555East",
+            "statuses_count": 316,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/qghUQcbXxm",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 17718497,
+                "name": "L.A. Weekly",
+                "screen_name": "LAWeekly"
+            },
+            {
+                "id": 40159921,
+                "name": "555 East Steakhouse",
+                "screen_name": "555East"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @555East: RT @LAWeekly: Plan your next date night at @555East Steakhouse for live jazz and a perfectly charred filet mignon https://t.co…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 550,
+        "followers_count": 4032,
+        "friends_count": 341,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2021,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 40159921,
+            "name": "555 East Steakhouse",
+            "screen_name": "555East"
+        },
+        {
+            "id": 17718497,
+            "name": "L.A. Weekly",
+            "screen_name": "LAWeekly"
+        },
+        {
+            "id": 40159921,
+            "name": "555 East Steakhouse",
+            "screen_name": "555East"
+        }
+    ]
+}
