@@ -1,0 +1,112 @@
+{
+    "created_at": "Sat Feb 25 22:27:16 +0000 2017",
+    "hashtags": [],
+    "id": 835617186123112448,
+    "id_str": "835617186123112448",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GOGntBZ1tI",
+            "expanded_url": "https://twitter.com/JasonRuiz_LB/status/835307751534432256/photo/1",
+            "id": 835307740792762368,
+            "media_url": "http://pbs.twimg.com/media/C5eb9vAWMAANLy6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5eb9vAWMAANLy6.jpg",
+            "type": "photo",
+            "url": "https://t.co/GOGntBZ1tI"
+        }
+    ],
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat Feb 25 01:57:41 +0000 2017",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 835307751534432256,
+        "id_str": "835307751534432256",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GOGntBZ1tI",
+                "expanded_url": "https://twitter.com/JasonRuiz_LB/status/835307751534432256/photo/1",
+                "id": 835307740792762368,
+                "media_url": "http://pbs.twimg.com/media/C5eb9vAWMAANLy6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C5eb9vAWMAANLy6.jpg",
+                "type": "photo",
+                "url": "https://t.co/GOGntBZ1tI"
+            }
+        ],
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Rally for single-payer healthcare at Harvey Milk Park. @LongBeachPost https://t.co/GOGntBZ1tI",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Apr 04 06:49:22 +0000 2012",
+            "description": "Reporter for the Long Beach Post, adventurer and dog enthusiast.",
+            "favourites_count": 2356,
+            "followers_count": 706,
+            "friends_count": 431,
+            "id": 544902812,
+            "lang": "en",
+            "listed_count": 19,
+            "location": "Long Beach, CA",
+            "name": "Jason Ruiz",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/544902812/1421870133",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/765893538525569028/0V_Rvwev_normal.jpg",
+            "profile_link_color": "2C83CF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "JasonRuiz_LB",
+            "statuses_count": 3180,
+            "time_zone": "Arizona",
+            "url": "https://t.co/tvC0tIszhD",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 20496846,
+                "name": "Long Beach Post",
+                "screen_name": "LongBeachPost"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JasonRuiz_LB: Rally for single-payer healthcare at Harvey Milk Park. @LongBeachPost https://t.co/GOGntBZ1tI",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 270,
+        "followers_count": 469,
+        "friends_count": 765,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 202,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 544902812,
+            "name": "Jason Ruiz",
+            "screen_name": "JasonRuiz_LB"
+        },
+        {
+            "id": 20496846,
+            "name": "Long Beach Post",
+            "screen_name": "LongBeachPost"
+        }
+    ]
+}
