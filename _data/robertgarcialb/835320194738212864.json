@@ -1,0 +1,62 @@
+{
+    "created_at": "Sat Feb 25 02:47:08 +0000 2017",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 835320194738212864,
+    "id_str": "835320194738212864",
+    "lang": "en",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Proud to stand with @CalNurses, @RicardoLara4CA, @BNewCongress47, YES WE CAN Democrats, and community for Healthcar… https://t.co/5iobRDk6VM",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/835320194738212864",
+            "url": "https://t.co/5iobRDk6VM"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5788,
+        "followers_count": 12382,
+        "friends_count": 2136,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 241,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9959,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 634030587,
+            "name": "California Nurses",
+            "screen_name": "CalNurses"
+        },
+        {
+            "id": 701652134408753152,
+            "name": "Senator Ricardo Lara",
+            "screen_name": "RicardoLara4CA"
+        },
+        {
+            "id": 773581364675346432,
+            "name": "BrandNewCongress47",
+            "screen_name": "BNewCongress47"
+        }
+    ]
+}
