@@ -1,0 +1,95 @@
+{
+    "created_at": "Sun Feb 26 18:02:30 +0000 2017",
+    "hashtags": [
+        {
+            "text": "longbeach"
+        }
+    ],
+    "id": 835912941543149568,
+    "id_str": "835912941543149568",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Fri Feb 24 22:52:56 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "longbeach"
+            }
+        ],
+        "id": 835261256579735552,
+        "id_str": "835261256579735552",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Check out the two #longbeach spots featured in the film: Where ‘La La Land’ was shot in L.A., scene by scene https://t.co/9WXrSed5Vt",
+        "urls": [
+            {
+                "expanded_url": "http://fw.to/yjTutJO",
+                "url": "https://t.co/9WXrSed5Vt"
+            }
+        ],
+        "user": {
+            "created_at": "Thu May 07 00:39:47 +0000 2015",
+            "default_profile": true,
+            "description": "@LongBeachPost asst. editor/bearer of bad news |@CSULB alum | stephanie@lbpost.com",
+            "favourites_count": 2984,
+            "followers_count": 722,
+            "friends_count": 675,
+            "geo_enabled": true,
+            "id": 3187172575,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "Southern California",
+            "name": "Stephanie Rivera",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3187172575/1456379163",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/773619919422312448/HKYHqZbC_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Steph_LBPost",
+            "statuses_count": 3607,
+            "url": "https://t.co/tvC0tIszhD"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Steph_LBPost: Check out the two #longbeach spots featured in the film: Where ‘La La Land’ was shot in L.A., scene by scene https://t.co…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5796,
+        "followers_count": 12408,
+        "friends_count": 2136,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 241,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 9962,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 3187172575,
+            "name": "Stephanie Rivera",
+            "screen_name": "Steph_LBPost"
+        }
+    ]
+}
