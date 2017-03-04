@@ -1,0 +1,148 @@
+{
+    "created_at": "Sat Mar 04 19:43:01 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "healthyadulting"
+        }
+    ],
+    "id": 838112566807150592,
+    "id_str": "838112566807150592",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Mar 04 18:06:39 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "healthyadulting"
+            }
+        ],
+        "id": 838088314628403200,
+        "id_str": "838088314628403200",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BzFHAzKvg4",
+                "expanded_url": "https://twitter.com/Im_Just_Krissy/status/838088314628403200/video/1",
+                "id": 838088200409133056,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/838088200409133056/pu/img/nPszqMRhvQWIhV63.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/838088200409133056/pu/img/nPszqMRhvQWIhV63.jpg",
+                "type": "video",
+                "url": "https://t.co/BzFHAzKvg4"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Enroll in medi-cal today #LongBeach #healthyadulting @YoungInvincible @LACo_DPSS @rexrichardson @Real923LA https://t.co/BzFHAzKvg4",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Mar 24 08:52:10 +0000 2012",
+            "default_profile": true,
+            "description": "Mom. wife. activist. Lover of pop culture and 90s rap. My thoughts are my own and sometimes fall in line with my job :)",
+            "favourites_count": 649,
+            "followers_count": 289,
+            "friends_count": 671,
+            "geo_enabled": true,
+            "id": 535159387,
+            "lang": "en",
+            "listed_count": 10,
+            "location": "California, USA",
+            "name": "Krissy McGuire",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/535159387/1431989760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/707693965689008128/I4P2p9v6_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Im_Just_Krissy",
+            "statuses_count": 826,
+            "time_zone": "Arizona",
+            "url": "http://t.co/cjINFAtVFK",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 67215899,
+                "name": "Young Invincibles",
+                "screen_name": "YoungInvincible"
+            },
+            {
+                "id": 3389872390,
+                "name": "LA County DPSS",
+                "screen_name": "LACo_DPSS"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 3018111009,
+                "name": "REAL 92.3 LA",
+                "screen_name": "Real923LA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Im_Just_Krissy: Enroll in medi-cal today #LongBeach #healthyadulting @YoungInvincible @LACo_DPSS @rexrichardson @Real923LA https://t.co…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1537,
+        "followers_count": 2547,
+        "friends_count": 1286,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2329,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 535159387,
+            "name": "Krissy McGuire",
+            "screen_name": "Im_Just_Krissy"
+        },
+        {
+            "id": 67215899,
+            "name": "Young Invincibles",
+            "screen_name": "YoungInvincible"
+        },
+        {
+            "id": 3389872390,
+            "name": "LA County DPSS",
+            "screen_name": "LACo_DPSS"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 3018111009,
+            "name": "REAL 92.3 LA",
+            "screen_name": "Real923LA"
+        }
+    ]
+}

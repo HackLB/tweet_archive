@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Mar 04 19:43:20 +0000 2017",
+    "hashtags": [
+        {
+            "text": "HealthyAdulting"
+        }
+    ],
+    "id": 838112642661113856,
+    "id_str": "838112642661113856",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat Mar 04 02:27:22 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "HealthyAdulting"
+            }
+        ],
+        "id": 837851933293457413,
+        "id_str": "837851933293457413",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The first 25 Medi-Cal applicants will receive a free haircut at Manny's Barbershop tmrw as part of #HealthyAdulting https://t.co/0mx320vGEU",
+        "urls": [
+            {
+                "expanded_url": "http://lbpo.st/2mleP2S",
+                "url": "https://t.co/0mx320vGEU"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 07:18:30 +0000 2009",
+            "description": "Covering Long Beach news, politics, business, life, sports, food, and LGBT issues online daily. \nhttp://t.co/Vv0AR1vL8f",
+            "favourites_count": 533,
+            "followers_count": 39599,
+            "friends_count": 448,
+            "geo_enabled": true,
+            "id": 20496846,
+            "lang": "en",
+            "listed_count": 491,
+            "location": "Long Beach, California",
+            "name": "Long Beach Post",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827465821/31c1beba2ccaa657384bf9322b2e0916.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20496846/1484351137",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3209512724/7703736e92ce694d2036f1524730546c_normal.png",
+            "profile_link_color": "005689",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachPost",
+            "statuses_count": 15899,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/jDNcL0FZOI",
+            "utc_offset": -28800
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachPost: The first 25 Medi-Cal applicants will receive a free haircut at Manny's Barbershop tmrw as part of #HealthyAdulting http…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1537,
+        "followers_count": 2547,
+        "friends_count": 1286,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2329,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -28800
+    },
+    "user_mentions": [
+        {
+            "id": 20496846,
+            "name": "Long Beach Post",
+            "screen_name": "LongBeachPost"
+        }
+    ]
+}
