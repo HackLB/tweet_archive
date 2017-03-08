@@ -1,0 +1,90 @@
+{
+    "created_at": "Wed Mar 08 15:36:00 +0000 2017",
+    "hashtags": [],
+    "id": 839499950702501888,
+    "id_str": "839499950702501888",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Mar 08 15:29:23 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 839498289112240128,
+        "id_str": "839498289112240128",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "text": "In case anybody doubts importance of voting in local elections, Measure H passed by less than 5,000 votes (needed 2… https://t.co/f4vqRPFUcB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/839498289112240128",
+                "url": "https://t.co/f4vqRPFUcB"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Jul 19 03:42:28 +0000 2009",
+            "description": "Prep sports editor at the Press-Telegram, sports editor for the Gazettes in Long Beach. Follow us at @PTGazetteSports",
+            "favourites_count": 8215,
+            "followers_count": 3453,
+            "friends_count": 1248,
+            "geo_enabled": true,
+            "id": 58113197,
+            "lang": "en",
+            "listed_count": 60,
+            "location": "LONG BEACH, CA",
+            "name": "Mike Guardabascio",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/58113197/1425259896",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000289846689/ec8be2a919c37788060b843b6e1c9a11_normal.jpeg",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "screen_name": "Guardabascio",
+            "statuses_count": 35575,
+            "time_zone": "Arizona",
+            "url": "https://t.co/1R7eb7FoAm",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Guardabascio: In case anybody doubts importance of voting in local elections, Measure H passed by less than 5,000 votes (needed 2/3rd v…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5848,
+        "followers_count": 12714,
+        "friends_count": 2147,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 243,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10018,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -28800,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 58113197,
+            "name": "Mike Guardabascio",
+            "screen_name": "Guardabascio"
+        }
+    ]
+}
