@@ -1,0 +1,153 @@
+{
+    "created_at": "Thu Mar 09 16:20:29 +0000 2017",
+    "hashtags": [],
+    "id": 839873536743264256,
+    "id_str": "839873536743264256",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/3jaidjO44R",
+            "expanded_url": "https://twitter.com/MarySim98679234/status/838142002688503808/photo/1",
+            "id": 838141982404829185,
+            "media_url": "http://pbs.twimg.com/media/C6GtsTyU4AELBze.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C6GtsTyU4AELBze.jpg",
+            "type": "photo",
+            "url": "https://t.co/3jaidjO44R"
+        },
+        {
+            "display_url": "pic.twitter.com/3jaidjO44R",
+            "expanded_url": "https://twitter.com/MarySim98679234/status/838142002688503808/photo/1",
+            "id": 838141995080007680,
+            "media_url": "http://pbs.twimg.com/media/C6GttDAUwAAYgJR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C6GttDAUwAAYgJR.jpg",
+            "type": "photo",
+            "url": "https://t.co/3jaidjO44R"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sat Mar 04 21:40:00 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 838142002688503808,
+        "id_str": "838142002688503808",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3jaidjO44R",
+                "expanded_url": "https://twitter.com/MarySim98679234/status/838142002688503808/photo/1",
+                "id": 838141982404829185,
+                "media_url": "http://pbs.twimg.com/media/C6GtsTyU4AELBze.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C6GtsTyU4AELBze.jpg",
+                "type": "photo",
+                "url": "https://t.co/3jaidjO44R"
+            },
+            {
+                "display_url": "pic.twitter.com/3jaidjO44R",
+                "expanded_url": "https://twitter.com/MarySim98679234/status/838142002688503808/photo/1",
+                "id": 838141995080007680,
+                "media_url": "http://pbs.twimg.com/media/C6GttDAUwAAYgJR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C6GttDAUwAAYgJR.jpg",
+                "type": "photo",
+                "url": "https://t.co/3jaidjO44R"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "AOC7 fighting for homelessness! Vote YES on Measure H. Can we count on your vote? https://t.co/3jaidjO44R",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Mar 03 05:51:31 +0000 2015",
+            "default_profile": true,
+            "description": "AOC7 Neighborhood Association. AOC7 stands for Anaheim, Orange, Cherry & 7th St. We are committed to improving the overall quality of life within our community",
+            "favourites_count": 6341,
+            "followers_count": 425,
+            "friends_count": 1272,
+            "geo_enabled": true,
+            "id": 3059303389,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Long Beach, CA",
+            "name": "AOC7",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3059303389/1486429721",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/737502025047384065/ePc8GjoJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MarySim98679234",
+            "statuses_count": 1405,
+            "url": "https://t.co/YxZtGLi8Ug"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MarySim98679234: AOC7 fighting for homelessness! Vote YES on Measure H. Can we count on your vote? https://t.co/3jaidjO44R",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 281,
+        "followers_count": 475,
+        "friends_count": 766,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 206,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 3059303389,
+            "name": "AOC7",
+            "screen_name": "MarySim98679234"
+        }
+    ]
+}
