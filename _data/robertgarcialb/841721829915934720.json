@@ -1,0 +1,114 @@
+{
+    "created_at": "Tue Mar 14 18:44:57 +0000 2017",
+    "hashtags": [],
+    "id": 841721829915934720,
+    "id_str": "841721829915934720",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Mar 14 15:51:26 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 841678162933235712,
+        "id_str": "841678162933235712",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "My Interview With Long Beach Mayor Robert Garcia @sxsw! https://t.co/T35v6iV5WW via @routefifty",
+        "urls": [
+            {
+                "expanded_url": "http://www.routefifty.com/infrastructure/2017/03/route-fifty-sxsw-long-beach-mayor-robert-garcia/136096/",
+                "url": "https://t.co/T35v6iV5WW"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 18 14:06:35 +0000 2009",
+            "description": "Intergovernmental wonk, political junkie, tech geek, food and hockey freak. @routefifty",
+            "favourites_count": 2712,
+            "followers_count": 602,
+            "friends_count": 1037,
+            "geo_enabled": true,
+            "id": 48359056,
+            "lang": "en",
+            "listed_count": 76,
+            "location": "District of Columbia, USA",
+            "name": "Mitch Herckis",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/48359056/1485797007",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/533324285096370176/0hbsL_aO_normal.jpeg",
+            "profile_link_color": "006EAD",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MHerckis",
+            "statuses_count": 3699,
+            "time_zone": "Quito",
+            "url": "https://t.co/H7Qr2jwDVS",
+            "utc_offset": -18000
+        },
+        "user_mentions": [
+            {
+                "id": 784304,
+                "name": "SXSW",
+                "screen_name": "sxsw"
+            },
+            {
+                "id": 2548616318,
+                "name": "Route Fifty",
+                "screen_name": "routefifty"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MHerckis: My Interview With Long Beach Mayor Robert Garcia @sxsw! https://t.co/T35v6iV5WW via @routefifty",
+    "urls": [
+        {
+            "expanded_url": "http://www.routefifty.com/infrastructure/2017/03/route-fifty-sxsw-long-beach-mayor-robert-garcia/136096/",
+            "url": "https://t.co/T35v6iV5WW"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5878,
+        "followers_count": 12812,
+        "friends_count": 2156,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 244,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10051,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 48359056,
+            "name": "Mitch Herckis",
+            "screen_name": "MHerckis"
+        },
+        {
+            "id": 784304,
+            "name": "SXSW",
+            "screen_name": "sxsw"
+        },
+        {
+            "id": 2548616318,
+            "name": "Route Fifty",
+            "screen_name": "routefifty"
+        }
+    ]
+}
