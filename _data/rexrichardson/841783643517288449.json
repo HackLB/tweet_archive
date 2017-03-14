@@ -1,0 +1,146 @@
+{
+    "created_at": "Tue Mar 14 22:50:34 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 841783643517288449,
+    "id_str": "841783643517288449",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Mar 14 22:44:50 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 841782200123105280,
+        "id_str": "841782200123105280",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "#LongBeach will be the largest city in U.S. that all kids who need glasses will have them! Thx  @LAClippers &amp;… https://t.co/GdZlDG4Z5F",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/841782200123105280",
+                "url": "https://t.co/GdZlDG4Z5F"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 31 21:11:51 +0000 2008",
+            "description": "Partner, parent, education advocate, School Board Member. Feminist. Rescue dog Foster mom. LBC. views very clearly my own. RT≠endorsement",
+            "favourites_count": 9088,
+            "followers_count": 1147,
+            "friends_count": 2771,
+            "geo_enabled": true,
+            "id": 18516432,
+            "lang": "en",
+            "listed_count": 45,
+            "location": "Long Beach",
+            "name": "Megan Kerr",
+            "profile_background_color": "071A29",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/858725935/bfe966dc4068f11ec714b370d9b4c0ae.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18516432/1456703760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798001913820123141/q1dE9vdb_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_fill_color": "448C20",
+            "profile_text_color": "3FA750",
+            "screen_name": "megankerr",
+            "statuses_count": 9654,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/UWIhiBCxIa",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 19564719,
+                "name": "LA Clippers",
+                "screen_name": "LAClippers"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @megankerr: #LongBeach will be the largest city in U.S. that all kids who need glasses will have them! Thx  @LAClippers &amp; @VisionToLearn…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1550,
+        "followers_count": 2567,
+        "friends_count": 1301,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2340,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18516432,
+            "name": "Megan Kerr",
+            "screen_name": "megankerr"
+        },
+        {
+            "id": 19564719,
+            "name": "LA Clippers",
+            "screen_name": "LAClippers"
+        },
+        {
+            "id": 489015646,
+            "name": "Vision To Learn",
+            "screen_name": "VisionToLearn"
+        }
+    ]
+}

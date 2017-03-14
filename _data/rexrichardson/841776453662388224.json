@@ -1,0 +1,149 @@
+{
+    "created_at": "Tue Mar 14 22:22:00 +0000 2017",
+    "hashtags": [
+        {
+            "text": "community"
+        },
+        {
+            "text": "DontWasteLB"
+        },
+        {
+            "text": "EmpowerUptown"
+        }
+    ],
+    "id": 841776453662388224,
+    "id_str": "841776453662388224",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Mar 14 21:03:48 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "community"
+            },
+            {
+                "text": "DontWasteLB"
+            }
+        ],
+        "id": 841756772914221056,
+        "id_str": "841756772914221056",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.668404,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            34.337041
+                        ],
+                        [
+                            -118.668404,
+                            34.337041
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Los Angeles, CA",
+            "id": "3b77caf94bfc81fe",
+            "name": "Los Angeles",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We are proud to partner with @DontWasteLB  to help improve our environment and #community! #DontWasteLB… https://t.co/h3YO8Mssy5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/841756772914221056",
+                "url": "https://t.co/h3YO8Mssy5"
+            }
+        ],
+        "user": {
+            "created_at": "Sun May 10 16:43:34 +0000 2009",
+            "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+            "favourites_count": 1550,
+            "followers_count": 2567,
+            "friends_count": 1301,
+            "geo_enabled": true,
+            "id": 39073462,
+            "lang": "en",
+            "listed_count": 63,
+            "location": "The LBC",
+            "name": "Rex Richardson",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "rexrichardson",
+            "statuses_count": 2340,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/OMw2ZmelIz",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 4749360410,
+                "name": "Don't Waste LB",
+                "screen_name": "DontWasteLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @rexrichardson: We are proud to partner with @DontWasteLB  to help improve our environment and #community! #DontWasteLB #EmpowerUptown #…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1550,
+        "followers_count": 2567,
+        "friends_count": 1301,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 63,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2340,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 4749360410,
+            "name": "Don't Waste LB",
+            "screen_name": "DontWasteLB"
+        }
+    ]
+}
