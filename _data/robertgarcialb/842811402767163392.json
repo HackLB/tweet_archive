@@ -1,0 +1,173 @@
+{
+    "created_at": "Fri Mar 17 18:54:31 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LBUnicornBike"
+        }
+    ],
+    "id": 842811402767163392,
+    "id_str": "842811402767163392",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Fri Mar 17 18:53:56 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LBUnicornBike"
+            }
+        ],
+        "id": 842811252980121600,
+        "id_str": "842811252980121600",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mayor @RobertGarciaLB, @District2LB, @ILoveLolas and @LongBeachBikes unveiling the City's first #LBUnicornBike! 🚴🏻‍… https://t.co/pKgFLiPVUP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/842811252980121600",
+                "url": "https://t.co/pKgFLiPVUP"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 09 05:52:27 +0000 2009",
+            "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+            "favourites_count": 868,
+            "followers_count": 70246,
+            "friends_count": 1276,
+            "geo_enabled": true,
+            "id": 38808088,
+            "lang": "en",
+            "listed_count": 473,
+            "location": "Long Beach, Calif.",
+            "name": "City of Long Beach",
+            "profile_background_color": "00497C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+            "profile_link_color": "00497C",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachCity",
+            "statuses_count": 6885,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/pbU79Tlp",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 814533847010316289,
+                "name": "Jeannine Pearce",
+                "screen_name": "District2LB"
+            },
+            {
+                "id": 47224601,
+                "name": "Lola'sMexicanCuisine",
+                "screen_name": "ILoveLolas"
+            },
+            {
+                "id": 707709812159545344,
+                "name": "LongBeachBikes",
+                "screen_name": "LongBeachBikes"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachCity: Mayor @RobertGarciaLB, @District2LB, @ILoveLolas and @LongBeachBikes unveiling the City's first #LBUnicornBike! 🚴🏻‍♀️🦄 h…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5921,
+        "followers_count": 12890,
+        "friends_count": 2161,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 246,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10086,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 814533847010316289,
+            "name": "Jeannine Pearce",
+            "screen_name": "District2LB"
+        },
+        {
+            "id": 47224601,
+            "name": "Lola'sMexicanCuisine",
+            "screen_name": "ILoveLolas"
+        },
+        {
+            "id": 707709812159545344,
+            "name": "LongBeachBikes",
+            "screen_name": "LongBeachBikes"
+        }
+    ]
+}
