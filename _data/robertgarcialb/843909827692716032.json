@@ -1,0 +1,51 @@
+{
+    "created_at": "Mon Mar 20 19:39:16 +0000 2017",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 843909827692716032,
+    "id_str": "843909827692716032",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The single best investment along the education spectrum is in early childhood education @First5LA https://t.co/w3Fj0shRl0",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/lbmayorsoffice/status/843909293342572544",
+            "url": "https://t.co/w3Fj0shRl0"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5935,
+        "followers_count": 12912,
+        "friends_count": 2164,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 246,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10097,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 85369984,
+            "name": "First 5 LA",
+            "screen_name": "First5LA"
+        }
+    ]
+}
