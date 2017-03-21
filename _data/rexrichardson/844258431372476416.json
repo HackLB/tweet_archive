@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Mar 21 18:44:30 +0000 2017",
+    "hashtags": [
+        {
+            "text": "ZeroWasteNow"
+        },
+        {
+            "text": "GoLongBeach"
+        }
+    ],
+    "id": 844258431372476416,
+    "id_str": "844258431372476416",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/GExZ2DRt5u",
+            "expanded_url": "https://twitter.com/DontWasteLB/status/844255097613926400/photo/1",
+            "id": 844255094535213056,
+            "media_url": "http://pbs.twimg.com/media/C7dliRGV0AAWH3o.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C7dliRGV0AAWH3o.jpg",
+            "type": "photo",
+            "url": "https://t.co/GExZ2DRt5u"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Mar 21 18:31:15 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "ZeroWasteNow"
+            },
+            {
+                "text": "GoLongBeach"
+            }
+        ],
+        "id": 844255097613926400,
+        "id_str": "844255097613926400",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GExZ2DRt5u",
+                "expanded_url": "https://twitter.com/DontWasteLB/status/844255097613926400/photo/1",
+                "id": 844255094535213056,
+                "media_url": "http://pbs.twimg.com/media/C7dliRGV0AAWH3o.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C7dliRGV0AAWH3o.jpg",
+                "type": "photo",
+                "url": "https://t.co/GExZ2DRt5u"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": ".@rexrichardson Our communities need #ZeroWasteNow to protect our natural resources #GoLongBeach https://t.co/GExZ2DRt5u",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jan 12 18:17:26 +0000 2016",
+            "default_profile": true,
+            "description": "Working to Fulfill a Vision For a Clean and Thriving City With Good Jobs and Recycling for All.",
+            "favourites_count": 40,
+            "followers_count": 187,
+            "friends_count": 255,
+            "geo_enabled": true,
+            "id": 4749360410,
+            "lang": "en",
+            "listed_count": 10,
+            "location": "Long Beach, CA",
+            "name": "Don't Waste LB",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4749360410/1472167075",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/687001162504011776/pHUVARfw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "DontWasteLB",
+            "statuses_count": 199,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @DontWasteLB: .@rexrichardson Our communities need #ZeroWasteNow to protect our natural resources #GoLongBeach https://t.co/GExZ2DRt5u",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1557,
+        "followers_count": 2571,
+        "friends_count": 1310,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2346,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 4749360410,
+            "name": "Don't Waste LB",
+            "screen_name": "DontWasteLB"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
