@@ -1,0 +1,120 @@
+{
+    "created_at": "Wed Mar 22 18:16:16 +0000 2017",
+    "hashtags": [
+        {
+            "text": "Power"
+        }
+    ],
+    "id": 844613715181760512,
+    "id_str": "844613715181760512",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Mar 22 02:32:50 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "Power"
+            }
+        ],
+        "id": 844376293432995840,
+        "id_str": "844376293432995840",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Congrats to my good friend @rexrichardson and former boss @bonnielow. #Power ✊🏾 https://t.co/zcmpWY5gVq",
+        "urls": [
+            {
+                "expanded_url": "http://lbpost.com/news/2000010606-long-beach-s-rex-richardson-bonnie-lowenthal-appointed-to-probation-commission-to-act-as-oversight-amidst-departmental-change#.WNHQjw5VDcc.twitter",
+                "url": "https://t.co/zcmpWY5gVq"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Nov 28 19:02:13 +0000 2012",
+            "description": "Communications Consultant to Asm. Democratic Caucus Chair @AsmMikeGipson | @LAYoungDems Regional Board Member | @ITEP Advisory Board Member | Neighborhood Prez",
+            "favourites_count": 6459,
+            "followers_count": 2059,
+            "friends_count": 702,
+            "geo_enabled": true,
+            "id": 976748406,
+            "lang": "en",
+            "listed_count": 50,
+            "name": "Chris Wilson",
+            "profile_background_color": "59472F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/723948493/437b13ec6cf6ad181c3dc4bd2a4ac0c9.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/976748406/1459782353",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/790422806542491648/y1xTFAYr_normal.jpg",
+            "profile_link_color": "52555C",
+            "profile_sidebar_fill_color": "061127",
+            "profile_text_color": "827972",
+            "screen_name": "mr_wilson562",
+            "statuses_count": 20239,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/vVYdIMzYTw",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 21158881,
+                "name": "Bonnie Lowenthal",
+                "screen_name": "bonnielow"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @mr_wilson562: Congrats to my good friend @rexrichardson and former boss @bonnielow. #Power ✊🏾 https://t.co/zcmpWY5gVq",
+    "urls": [
+        {
+            "expanded_url": "http://lbpost.com/news/2000010606-long-beach-s-rex-richardson-bonnie-lowenthal-appointed-to-probation-commission-to-act-as-oversight-amidst-departmental-change#.WNHQjw5VDcc.twitter",
+            "url": "https://t.co/zcmpWY5gVq"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1561,
+        "followers_count": 2573,
+        "friends_count": 1316,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2349,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 976748406,
+            "name": "Chris Wilson",
+            "screen_name": "mr_wilson562"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 21158881,
+            "name": "Bonnie Lowenthal",
+            "screen_name": "bonnielow"
+        }
+    ]
+}
