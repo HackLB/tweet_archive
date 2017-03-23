@@ -1,0 +1,58 @@
+{
+    "created_at": "Thu Mar 23 19:59:04 +0000 2017",
+    "hashtags": [],
+    "id": 845001972390346752,
+    "id_str": "845001972390346752",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 844994448031465474,
+    "in_reply_to_user_id": 51241574,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/ovwnlkrPWt",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/845001972390346752/photo/1",
+            "id": 845001954350673920,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/C7oMzOuVMAAF20z.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7oMzOuVMAAF20z.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/ovwnlkrPWt"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AP https://t.co/ovwnlkrPWt",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 5973,
+        "followers_count": 13004,
+        "friends_count": 2167,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 246,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10118,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 51241574,
+            "name": "The Associated Press",
+            "screen_name": "AP"
+        }
+    ]
+}
