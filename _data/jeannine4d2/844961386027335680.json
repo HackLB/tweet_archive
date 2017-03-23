@@ -1,0 +1,95 @@
+{
+    "created_at": "Thu Mar 23 17:17:47 +0000 2017",
+    "hashtags": [],
+    "id": 844961386027335680,
+    "id_str": "844961386027335680",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu Mar 23 17:17:04 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [],
+        "id": 844961202795044864,
+        "id_str": "844961202795044864",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Yup, we have renderings galore of the proposed $250M @TheQueenMary Island complex in case you missed it yesterday: https://t.co/qIAsoY3GS0",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2nn5YhX",
+                "url": "https://t.co/qIAsoY3GS0"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 04 06:10:56 +0000 2010",
+            "favourites_count": 1092,
+            "followers_count": 865,
+            "friends_count": 364,
+            "id": 186724210,
+            "lang": "en",
+            "listed_count": 34,
+            "location": "Long Beach,ca",
+            "name": "LONGBEACHIZE",
+            "profile_background_color": "3899C2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/144199332/x2a9be54c93e153fce9cd54a5e05163d.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/186724210/1483565854",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/816760298577104896/qZ3hkAfi_normal.jpg",
+            "profile_link_color": "06894B",
+            "profile_sidebar_fill_color": "FDE349",
+            "profile_text_color": "75685D",
+            "screen_name": "LONGBEACHIZE",
+            "statuses_count": 1449,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/77pUyc0Xn5",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 19261737,
+                "name": "Queen Mary",
+                "screen_name": "TheQueenMary"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LONGBEACHIZE: Yup, we have renderings galore of the proposed $250M @TheQueenMary Island complex in case you missed it yesterday: https:…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 294,
+        "followers_count": 482,
+        "friends_count": 769,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 212,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 186724210,
+            "name": "LONGBEACHIZE",
+            "screen_name": "LONGBEACHIZE"
+        },
+        {
+            "id": 19261737,
+            "name": "Queen Mary",
+            "screen_name": "TheQueenMary"
+        }
+    ]
+}
