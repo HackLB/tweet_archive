@@ -1,0 +1,110 @@
+{
+    "created_at": "Fri Mar 24 06:10:21 +0000 2017",
+    "hashtags": [
+        {
+            "text": "PSOTC2017"
+        }
+    ],
+    "id": 845155807993868288,
+    "id_str": "845155807993868288",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/JR5FIKKFcw",
+            "expanded_url": "https://twitter.com/DontWasteLB/status/845049326359396352/photo/1",
+            "id": 845048816394878976,
+            "media_url": "http://pbs.twimg.com/media/C7o3a9cUwAA0CKs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C7o3a9cUwAA0CKs.jpg",
+            "type": "photo",
+            "url": "https://t.co/JR5FIKKFcw"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Mar 23 23:07:14 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "PSOTC2017"
+            }
+        ],
+        "id": 845049326359396352,
+        "id_str": "845049326359396352",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JR5FIKKFcw",
+                "expanded_url": "https://twitter.com/DontWasteLB/status/845049326359396352/photo/1",
+                "id": 845048816394878976,
+                "media_url": "http://pbs.twimg.com/media/C7o3a9cUwAA0CKs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C7o3a9cUwAA0CKs.jpg",
+                "type": "photo",
+                "url": "https://t.co/JR5FIKKFcw"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Join us April 5th at the #PSOTC2017 https://t.co/JR5FIKKFcw",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Jan 12 18:17:26 +0000 2016",
+            "default_profile": true,
+            "description": "Working to Fulfill a Vision For a Clean and Thriving City With Good Jobs and Recycling for All.",
+            "favourites_count": 41,
+            "followers_count": 191,
+            "friends_count": 263,
+            "geo_enabled": true,
+            "id": 4749360410,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "Long Beach, CA",
+            "name": "Don't Waste LB",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4749360410/1472167075",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/687001162504011776/pHUVARfw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "DontWasteLB",
+            "statuses_count": 203,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @DontWasteLB: Join us April 5th at the #PSOTC2017 https://t.co/JR5FIKKFcw",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1566,
+        "followers_count": 2575,
+        "friends_count": 1318,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2353,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 4749360410,
+            "name": "Don't Waste LB",
+            "screen_name": "DontWasteLB"
+        }
+    ]
+}
