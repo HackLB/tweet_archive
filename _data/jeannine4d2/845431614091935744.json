@@ -1,0 +1,51 @@
+{
+    "created_at": "Sat Mar 25 00:26:18 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "CityLove"
+        }
+    ],
+    "id": 845431614091935744,
+    "id_str": "845431614091935744",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/QtScSUaRnz",
+            "expanded_url": "https://twitter.com/Jeannine4D2/status/845431614091935744/photo/1",
+            "id": 845431611801812992,
+            "media_url": "http://pbs.twimg.com/media/C7uTkldVQAAjdGp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C7uTkldVQAAjdGp.jpg",
+            "type": "photo",
+            "url": "https://t.co/QtScSUaRnz"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#CityLove rocked their ribbon cutting today https://t.co/QtScSUaRnz",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 295,
+        "followers_count": 482,
+        "friends_count": 769,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 213,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": []
+}
