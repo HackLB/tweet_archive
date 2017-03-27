@@ -1,0 +1,64 @@
+{
+    "created_at": "Mon Mar 27 04:01:14 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 846210479873679360,
+    "id_str": "846210479873679360",
+    "in_reply_to_screen_name": "AndrewBerkshire",
+    "in_reply_to_status_id": 846196836322988032,
+    "in_reply_to_user_id": 121224595,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/oStvj35yGR",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/846210479873679360/photo/1",
+            "id": 846210447279734784,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/C75X6xtVQAAvghL.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C75X6xtVQAAvghL.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/oStvj35yGR"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AndrewBerkshire @asmith83 https://t.co/oStvj35yGR",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6023,
+        "followers_count": 13097,
+        "friends_count": 2168,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 246,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10137,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 121224595,
+            "name": "Andrew Berkshire",
+            "screen_name": "AndrewBerkshire"
+        },
+        {
+            "id": 7591572,
+            "name": "Adam Smith",
+            "screen_name": "asmith83"
+        }
+    ]
+}
