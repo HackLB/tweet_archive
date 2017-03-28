@@ -1,0 +1,141 @@
+{
+    "created_at": "Tue Mar 28 22:11:26 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        },
+        {
+            "text": "CommunityEngagement"
+        },
+        {
+            "text": "VeteransAppreciation"
+        }
+    ],
+    "id": 846847222927015936,
+    "id_str": "846847222927015936",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Tue Mar 28 21:18:20 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "CommunityEngagement"
+            },
+            {
+                "text": "VeteransAppreciation"
+            }
+        ],
+        "id": 846833859215843328,
+        "id_str": "846833859215843328",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#LongBeach Lens w/ #CommunityEngagement and #VeteransAppreciation TONIGHT at 7pm on Spectrum 32, Frontier 41, and… https://t.co/zzYaI30Rfx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/846833859215843328",
+                "url": "https://t.co/zzYaI30Rfx"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 25 20:53:38 +0000 2012",
+            "description": "Long Beach Public Access Digital Network - Your shows, your community, your station! Spectrum 32 & Frontier 41.",
+            "favourites_count": 488,
+            "followers_count": 670,
+            "friends_count": 483,
+            "geo_enabled": true,
+            "id": 563185388,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "Long Beach, CA",
+            "name": "PADNET TV",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/687858237/6591bfd82febc714b1ff226d87379f13.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/563185388/1489094375",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/472093566085263360/ndoOvjY3_normal.png",
+            "profile_link_color": "D40000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "padnet_tv",
+            "statuses_count": 780,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/VNgmSnZP5u",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @padnet_tv: #LongBeach Lens w/ #CommunityEngagement and #VeteransAppreciation TONIGHT at 7pm on Spectrum 32, Frontier 41, and https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1579,
+        "followers_count": 2583,
+        "friends_count": 1327,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2359,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 563185388,
+            "name": "PADNET TV",
+            "screen_name": "padnet_tv"
+        }
+    ]
+}

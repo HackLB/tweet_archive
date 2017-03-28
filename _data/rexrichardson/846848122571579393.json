@@ -1,0 +1,137 @@
+{
+    "created_at": "Tue Mar 28 22:15:00 +0000 2017",
+    "hashtags": [],
+    "id": 846848122571579393,
+    "id_str": "846848122571579393",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Mar 28 16:11:11 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 846756564862091264,
+        "id_str": "846756564862091264",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2VsGFbdhbq",
+                "expanded_url": "https://twitter.com/Navae4_5/status/846756564862091264/photo/1",
+                "id": 846756455508168704,
+                "media_url": "http://pbs.twimg.com/media/C8BIgo3VUAAZ4kq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C8BIgo3VUAAZ4kq.jpg",
+                "type": "photo",
+                "url": "https://t.co/2VsGFbdhbq"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Spending time with my GoodFriend @JackBox 9th NLBC @lbpd @LBPDNorth @Disney @rexrichardson Everyone stay safe🤗 https://t.co/2VsGFbdhbq",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Mar 03 01:02:22 +0000 2017",
+            "default_profile": true,
+            "description": "A strong Grandmother who will do anything for her BabyGirl!! And a New Grandson!!",
+            "followers_count": 15,
+            "friends_count": 67,
+            "id": 837468155932860416,
+            "lang": "en",
+            "location": "California, USA LongBeach",
+            "name": "Tam Rose",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/837468155932860416/1488524908",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/837560123664957442/q3bplXGE_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Navae4_5",
+            "statuses_count": 42
+        },
+        "user_mentions": [
+            {
+                "id": 18956020,
+                "name": "Jack Box",
+                "screen_name": "JackBox"
+            },
+            {
+                "id": 50097116,
+                "name": "Long Beach PD (CA)",
+                "screen_name": "LBPD"
+            },
+            {
+                "id": 773241105718521857,
+                "name": "LBPD North Division",
+                "screen_name": "LBPDNorth"
+            },
+            {
+                "id": 67418441,
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @Navae4_5: Spending time with my GoodFriend @JackBox 9th NLBC @lbpd @LBPDNorth @Disney @rexrichardson Everyone stay safe🤗 https://t.co/2…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1579,
+        "followers_count": 2583,
+        "friends_count": 1327,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2359,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 837468155932860416,
+            "name": "Tam Rose",
+            "screen_name": "Navae4_5"
+        },
+        {
+            "id": 18956020,
+            "name": "Jack Box",
+            "screen_name": "JackBox"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        },
+        {
+            "id": 773241105718521857,
+            "name": "LBPD North Division",
+            "screen_name": "LBPDNorth"
+        },
+        {
+            "id": 67418441,
+            "name": "Disney",
+            "screen_name": "Disney"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
