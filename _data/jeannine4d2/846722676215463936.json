@@ -1,0 +1,140 @@
+{
+    "created_at": "Tue Mar 28 13:56:32 +0000 2017",
+    "hashtags": [
+        {
+            "text": "NationalLibraryMonth"
+        }
+    ],
+    "id": 846722676215463936,
+    "id_str": "846722676215463936",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Mar 28 00:55:51 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [
+            {
+                "text": "NationalLibraryMonth"
+            }
+        ],
+        "id": 846526212788899841,
+        "id_str": "846526212788899841",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "April is #NationalLibraryMonth and @LBCityLibrary is offering an Overdue Fines Amnesty Program and more!… https://t.co/f6pZrLMzSL",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/846526212788899841",
+                "url": "https://t.co/f6pZrLMzSL"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 09 05:52:27 +0000 2009",
+            "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+            "favourites_count": 956,
+            "followers_count": 70845,
+            "friends_count": 1281,
+            "geo_enabled": true,
+            "id": 38808088,
+            "lang": "en",
+            "listed_count": 472,
+            "location": "Long Beach, Calif.",
+            "name": "City of Long Beach",
+            "profile_background_color": "00497C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+            "profile_link_color": "00497C",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachCity",
+            "statuses_count": 6930,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/pbU79Tlp",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 130570597,
+                "name": "LB Public Library",
+                "screen_name": "LBCityLibrary"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachCity: April is #NationalLibraryMonth and @LBCityLibrary is offering an Overdue Fines Amnesty Program and more! https://t.co/9a…",
+    "urls": [],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 302,
+        "followers_count": 481,
+        "friends_count": 769,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 219,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 130570597,
+            "name": "LB Public Library",
+            "screen_name": "LBCityLibrary"
+        }
+    ]
+}
