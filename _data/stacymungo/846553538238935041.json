@@ -1,0 +1,104 @@
+{
+    "created_at": "Tue Mar 28 02:44:26 +0000 2017",
+    "hashtags": [
+        {
+            "text": "ScamAlert"
+        }
+    ],
+    "id": 846553538238935041,
+    "id_str": "846553538238935041",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Mar 28 02:43:45 +0000 2017",
+        "hashtags": [
+            {
+                "text": "ScamAlert"
+            }
+        ],
+        "id": 846553366486405120,
+        "id_str": "846553366486405120",
+        "in_reply_to_screen_name": "SCE",
+        "in_reply_to_user_id": 16002973,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@SCE never asks for credit card or electricity usage info over phone. Never give bill to stranger. #ScamAlert… https://t.co/HUp3nwhPFj",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/846553366486405120",
+                "url": "https://t.co/HUp3nwhPFj"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 12 00:05:54 +0000 2016",
+            "description": "@SCE Local Public Affairs serving @AvalonGov, @CityofCerritos, and @LongBeachCity.",
+            "favourites_count": 130,
+            "followers_count": 154,
+            "friends_count": 233,
+            "id": 4745598937,
+            "lang": "en",
+            "listed_count": 10,
+            "name": "Adeline Yoong",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/686714696049668097/ICBlocKd.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4745598937/1472167601",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/686704316128690177/HJr5CMMC_normal.jpg",
+            "profile_link_color": "94D487",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "SCE_AdelineY",
+            "statuses_count": 300,
+            "url": "https://t.co/wro7FRLNct"
+        },
+        "user_mentions": [
+            {
+                "id": 16002973,
+                "name": "SCE",
+                "screen_name": "SCE"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @SCE_AdelineY: @SCE never asks for credit card or electricity usage info over phone. Never give bill to stranger. #ScamAlert https://t.c…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 553,
+        "followers_count": 4095,
+        "friends_count": 1077,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2036,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 4745598937,
+            "name": "Adeline Yoong",
+            "screen_name": "SCE_AdelineY"
+        },
+        {
+            "id": 16002973,
+            "name": "SCE",
+            "screen_name": "SCE"
+        }
+    ]
+}
