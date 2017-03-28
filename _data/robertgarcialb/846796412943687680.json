@@ -1,0 +1,47 @@
+{
+    "created_at": "Tue Mar 28 18:49:32 +0000 2017",
+    "hashtags": [],
+    "id": 846796412943687680,
+    "id_str": "846796412943687680",
+    "in_reply_to_screen_name": "oyousif",
+    "in_reply_to_status_id": 846793102102712320,
+    "in_reply_to_user_id": 27280964,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@oyousif nope. Democrats should be working with and taking cues from how they organize and support causes.",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6031,
+        "followers_count": 13126,
+        "friends_count": 2171,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10144,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 27280964,
+            "name": "Oday Yousif",
+            "screen_name": "oyousif"
+        }
+    ]
+}
