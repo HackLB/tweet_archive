@@ -1,0 +1,92 @@
+{
+    "created_at": "Sun Apr 02 13:30:48 +0000 2017",
+    "hashtags": [],
+    "id": 848528143082176513,
+    "id_str": "848528143082176513",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sun Apr 02 00:14:59 +0000 2017",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 848327869616971776,
+        "id_str": "848327869616971776",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Grand Prix time 🏁 https://t.co/2xXPhL8ZUd",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/lbmayorsoffice/status/848318251238957056",
+                "url": "https://t.co/2xXPhL8ZUd"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+            "default_profile": true,
+            "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+            "favourites_count": 6077,
+            "followers_count": 13319,
+            "friends_count": 2177,
+            "geo_enabled": true,
+            "id": 18120497,
+            "lang": "en",
+            "listed_count": 246,
+            "location": "Long Beach",
+            "name": "Robert Garcia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RobertGarciaLB",
+            "statuses_count": 10166,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FYG8w5WQQa",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RobertGarciaLB: Grand Prix time 🏁 https://t.co/2xXPhL8ZUd",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/lbmayorsoffice/status/848318251238957056",
+            "url": "https://t.co/2xXPhL8ZUd"
+        }
+    ],
+    "user": {
+        "created_at": "Wed Nov 04 20:22:55 +0000 2015",
+        "default_profile": true,
+        "description": "Jeannine Pearce, Candidate for Long Beach City Council - 2nd District #Pearce2016 FPPC ID #1378735",
+        "favourites_count": 309,
+        "followers_count": 487,
+        "friends_count": 769,
+        "geo_enabled": true,
+        "id": 4127559133,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Long Beach, CA",
+        "name": "Jeannine Pearce",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127559133/1457446052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708426726653579264/VypdL9gO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "Jeannine4D2",
+        "statuses_count": 220,
+        "url": "https://t.co/oSDH0i0qSs"
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
