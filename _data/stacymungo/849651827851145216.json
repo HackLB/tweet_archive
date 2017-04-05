@@ -1,0 +1,101 @@
+{
+    "created_at": "Wed Apr 05 15:55:56 +0000 2017",
+    "hashtags": [],
+    "id": 849651827851145216,
+    "id_str": "849651827851145216",
+    "lang": "en",
+    "retweet_count": 69,
+    "retweeted_status": {
+        "created_at": "Mon Apr 03 20:54:25 +0000 2017",
+        "favorite_count": 185,
+        "hashtags": [],
+        "id": 849002168212373504,
+        "id_str": "849002168212373504",
+        "lang": "en",
+        "retweet_count": 69,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We just launched our new all electric buses on our @LongBeachCity streets. These zero emissions buses are cleanest… https://t.co/RFMWFwYLC9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/849002168212373504",
+                "url": "https://t.co/RFMWFwYLC9"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+            "default_profile": true,
+            "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+            "favourites_count": 6102,
+            "followers_count": 13373,
+            "friends_count": 2177,
+            "geo_enabled": true,
+            "id": 18120497,
+            "lang": "en",
+            "listed_count": 249,
+            "location": "Long Beach",
+            "name": "Robert Garcia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RobertGarciaLB",
+            "statuses_count": 10178,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FYG8w5WQQa",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RobertGarciaLB: We just launched our new all electric buses on our @LongBeachCity streets. These zero emissions buses are cleanest in t…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 556,
+        "followers_count": 4121,
+        "friends_count": 1401,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2040,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
