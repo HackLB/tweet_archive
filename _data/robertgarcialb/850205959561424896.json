@@ -1,0 +1,109 @@
+{
+    "created_at": "Fri Apr 07 04:37:51 +0000 2017",
+    "hashtags": [],
+    "id": 850205959561424896,
+    "id_str": "850205959561424896",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Apr 07 01:05:15 +0000 2017",
+        "hashtags": [],
+        "id": 850152455757209600,
+        "id_str": "850152455757209600",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Long Beach mayor @RobertGarciaLB questions health impacts of @TesoroCorp's $460 million refinery project https://t.co/GPZRqS4r9V",
+        "urls": [
+            {
+                "expanded_url": "http://www.presstelegram.com/environment-and-nature/20170406/long-beach-mayor-questions-health-impacts-of-tesoros-460-million-refinery-project",
+                "url": "https://t.co/GPZRqS4r9V"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Mar 01 20:13:30 +0000 2011",
+            "description": "Building Healthy Communities: Long Beach takes action for health equity by supporting community organizing and collaboration in Central & West Long Beach",
+            "favourites_count": 786,
+            "followers_count": 1348,
+            "friends_count": 452,
+            "geo_enabled": true,
+            "id": 259381632,
+            "lang": "en",
+            "listed_count": 56,
+            "location": "Long Beach, CA",
+            "name": "BHC Long Beach",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262916400/LOGO--BHCLB-Youth_Logo_Design_Final_HI_RES.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/259381632/1455315296",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/705070701938511872/_77QqpoQ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "BHCLongBeach",
+            "statuses_count": 2768,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/22AQrtzLJ8",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 1566547009,
+                "name": "Tesoro Corporation",
+                "screen_name": "TesoroCorp"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BHCLongBeach: Long Beach mayor @RobertGarciaLB questions health impacts of @TesoroCorp's $460 million refinery project https://t.co/GPZ…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6120,
+        "followers_count": 13548,
+        "friends_count": 2178,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 247,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10186,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 259381632,
+            "name": "BHC Long Beach",
+            "screen_name": "BHCLongBeach"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 1566547009,
+            "name": "Tesoro Corporation",
+            "screen_name": "TesoroCorp"
+        }
+    ]
+}
