@@ -1,0 +1,133 @@
+{
+    "created_at": "Mon Apr 10 20:53:07 +0000 2017",
+    "hashtags": [
+        {
+            "text": "POLB"
+        }
+    ],
+    "id": 851538556430434304,
+    "id_str": "851538556430434304",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Apr 10 20:17:33 +0000 2017",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "POLB"
+            }
+        ],
+        "id": 851529606125375488,
+        "id_str": "851529606125375488",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.19540945955231,
+                            33.740010282722615
+                        ],
+                        [
+                            -118.19540945955231,
+                            33.740010282722615
+                        ],
+                        [
+                            -118.19540945955231,
+                            33.740010282722615
+                        ],
+                        [
+                            -118.19540945955231,
+                            33.740010282722615
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Port Of Long Beach",
+            "id": "07d9e56326883000",
+            "name": "Port Of Long Beach",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9e56326883000.json"
+        },
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Discussing #POLB updates - developing green plans while making the port competitive. Benefits not only California a… https://t.co/zfDodTapNT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/851529606125375488",
+                "url": "https://t.co/zfDodTapNT"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 13 05:37:44 +0000 2009",
+            "description": "Leader of the California Senate @CAproTem. Proudly representing the diverse people of Los Angeles & California!",
+            "favourites_count": 10371,
+            "followers_count": 41006,
+            "friends_count": 455,
+            "geo_enabled": true,
+            "id": 30815935,
+            "lang": "en",
+            "listed_count": 822,
+            "location": "California, USA",
+            "name": "Kevin de Leόn",
+            "profile_background_color": "DD2E44",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656593176451399680/s13wBBaS.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30815935/1482015772",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808764619447668738/BPoQshWD_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "kdeleon",
+            "statuses_count": 5520,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/doxTOO5DBt",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @kdeleon: Discussing #POLB updates - developing green plans while making the port competitive. Benefits not only California and region b…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6133,
+        "followers_count": 13585,
+        "friends_count": 2166,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 247,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10195,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 30815935,
+            "name": "Kevin de Leόn",
+            "screen_name": "kdeleon"
+        }
+    ]
+}
