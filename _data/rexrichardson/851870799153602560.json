@@ -1,0 +1,151 @@
+{
+    "created_at": "Tue Apr 11 18:53:20 +0000 2017",
+    "hashtags": [
+        {
+            "text": "YouthSpark"
+        },
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 851870799153602560,
+    "id_str": "851870799153602560",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Apr 10 16:28:38 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "YouthSpark"
+            },
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 851471998941188097,
+        "id_str": "851471998941188097",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YZ4i2pgjQI",
+                "expanded_url": "https://twitter.com/mailemae/status/851471998941188097/photo/1",
+                "id": 851471993245323264,
+                "media_url": "http://pbs.twimg.com/media/C9EJRD2U0AAO5i8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C9EJRD2U0AAO5i8.jpg",
+                "type": "photo",
+                "url": "https://t.co/YZ4i2pgjQI"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Michelle Obama neighborhood library",
+            "id": "0ae1743d83d68000",
+            "name": "Michelle Obama neighborhood library",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/0ae1743d83d68000.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Vice Mayor @rexrichardson kicking off #YouthSpark Live #LongBeach! \"This event is a window into the future.\" https://t.co/YZ4i2pgjQI",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Sep 08 15:09:45 +0000 2008",
+            "description": "A bike-riding, chihuahua-walking, feminist tech educator in the world's best city (sorry, other cities). I tweet #SEAbikes #fem2 #YouthSpark #STEM + #Seattle",
+            "favourites_count": 3367,
+            "followers_count": 1276,
+            "friends_count": 1307,
+            "geo_enabled": true,
+            "id": 16185559,
+            "lang": "en",
+            "listed_count": 75,
+            "location": "Seattle",
+            "name": "mailemae",
+            "profile_background_color": "CFC772",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/723873647/d13110b4aeecf93f982459b2209db31b.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16185559/1405441516",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1349291874/5710872840_632e3d79e1_m_normal.jpg",
+            "profile_link_color": "FF0066",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "screen_name": "mailemae",
+            "statuses_count": 5597,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/ywNFJSOrCQ",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @mailemae: Vice Mayor @rexrichardson kicking off #YouthSpark Live #LongBeach! \"This event is a window into the future.\" https://t.co/YZ4…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1603,
+        "followers_count": 2628,
+        "friends_count": 1358,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2374,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 16185559,
+            "name": "mailemae",
+            "screen_name": "mailemae"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
