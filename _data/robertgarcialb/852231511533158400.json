@@ -1,0 +1,149 @@
+{
+    "created_at": "Wed Apr 12 18:46:40 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LBC"
+        }
+    ],
+    "id": 852231511533158400,
+    "id_str": "852231511533158400",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/iXNHhYTwvS",
+            "expanded_url": "https://twitter.com/kdeleon/status/852226416888365056/photo/1",
+            "id": 852226408633913344,
+            "media_url": "http://pbs.twimg.com/media/C9O3Z0LU0AANzoX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9O3Z0LU0AANzoX.jpg",
+            "type": "photo",
+            "url": "https://t.co/iXNHhYTwvS"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Wed Apr 12 18:26:26 +0000 2017",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "LBC"
+            }
+        ],
+        "id": 852226416888365056,
+        "id_str": "852226416888365056",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iXNHhYTwvS",
+                "expanded_url": "https://twitter.com/kdeleon/status/852226416888365056/photo/1",
+                "id": 852226408633913344,
+                "media_url": "http://pbs.twimg.com/media/C9O3Z0LU0AANzoX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C9O3Z0LU0AANzoX.jpg",
+                "type": "photo",
+                "url": "https://t.co/iXNHhYTwvS"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.668404,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            34.337041
+                        ],
+                        [
+                            -118.668404,
+                            34.337041
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Los Angeles, CA",
+            "id": "3b77caf94bfc81fe",
+            "name": "Los Angeles",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Had fun spending time in the beautiful #LBC! Mayor Garcia represente https://t.co/iXNHhYTwvS",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Apr 13 05:37:44 +0000 2009",
+            "description": "Leader of the California Senate @CAproTem. Proudly representing the diverse people of Los Angeles & California!",
+            "favourites_count": 10372,
+            "followers_count": 41042,
+            "friends_count": 456,
+            "geo_enabled": true,
+            "id": 30815935,
+            "lang": "en",
+            "listed_count": 822,
+            "location": "California, USA",
+            "name": "Kevin de Leόn",
+            "profile_background_color": "DD2E44",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656593176451399680/s13wBBaS.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30815935/1482015772",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808764619447668738/BPoQshWD_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "kdeleon",
+            "statuses_count": 5533,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/doxTOO5DBt",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @kdeleon: Had fun spending time in the beautiful #LBC! Mayor Garcia represente https://t.co/iXNHhYTwvS",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6154,
+        "followers_count": 13615,
+        "friends_count": 2166,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 247,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10220,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 30815935,
+            "name": "Kevin de Leόn",
+            "screen_name": "kdeleon"
+        }
+    ]
+}
