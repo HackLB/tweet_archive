@@ -1,0 +1,160 @@
+{
+    "created_at": "Wed Apr 12 23:51:47 +0000 2017",
+    "hashtags": [],
+    "id": 852308296417411072,
+    "id_str": "852308296417411072",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Apr 12 20:23:40 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 852255923158384640,
+        "id_str": "852255923158384640",
+        "in_reply_to_screen_name": "padnet_tv",
+        "in_reply_to_status_id": 846889907775725568,
+        "in_reply_to_user_id": 563185388,
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@padnet_tv @rexrichardson @adv_project @AP_California @PacGateway @LongBeachCAP @CityFabrick Thank you for featurin… https://t.co/dPHq3SHOi1",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/852255923158384640",
+                "url": "https://t.co/dPHq3SHOi1"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Mar 12 23:24:03 +0000 2010",
+            "description": "U.S.VETS is the nation’s largest nonprofit service provider for veterans facing challenges in their transition to civilian life. We serve those who have served.",
+            "favourites_count": 447,
+            "followers_count": 1567,
+            "friends_count": 570,
+            "id": 122504657,
+            "lang": "en",
+            "listed_count": 65,
+            "location": "Los Angeles, CA",
+            "name": "U.S.VETS",
+            "profile_background_color": "0A0000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/85269227/TwitterVertc.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/122504657/1461103236",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2207701854/twitter_avi_normal.JPG",
+            "profile_link_color": "064394",
+            "profile_sidebar_fill_color": "FFBD08",
+            "profile_text_color": "333333",
+            "screen_name": "usvetsinc",
+            "statuses_count": 1017,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/saHt8wvb9X",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 563185388,
+                "name": "PADNET TV",
+                "screen_name": "padnet_tv"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 37011248,
+                "name": "Advancement Project",
+                "screen_name": "adv_project"
+            },
+            {
+                "id": 2670137323,
+                "name": "Advancement Project",
+                "screen_name": "AP_California"
+            },
+            {
+                "id": 1355040294,
+                "name": "Pacific Gateway",
+                "screen_name": "PacGateway"
+            },
+            {
+                "id": 41684826,
+                "name": "Long Beach CAP",
+                "screen_name": "LongBeachCAP"
+            },
+            {
+                "id": 717691350,
+                "name": "City Fabrick",
+                "screen_name": "CityFabrick"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @usvetsinc: @padnet_tv @rexrichardson @adv_project @AP_California @PacGateway @LongBeachCAP @CityFabrick Thank you for featuring U.S.VET…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1610,
+        "followers_count": 2634,
+        "friends_count": 1361,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2384,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 122504657,
+            "name": "U.S.VETS",
+            "screen_name": "usvetsinc"
+        },
+        {
+            "id": 563185388,
+            "name": "PADNET TV",
+            "screen_name": "padnet_tv"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 37011248,
+            "name": "Advancement Project",
+            "screen_name": "adv_project"
+        },
+        {
+            "id": 2670137323,
+            "name": "Advancement Project",
+            "screen_name": "AP_California"
+        },
+        {
+            "id": 1355040294,
+            "name": "Pacific Gateway",
+            "screen_name": "PacGateway"
+        },
+        {
+            "id": 41684826,
+            "name": "Long Beach CAP",
+            "screen_name": "LongBeachCAP"
+        },
+        {
+            "id": 717691350,
+            "name": "City Fabrick",
+            "screen_name": "CityFabrick"
+        }
+    ]
+}

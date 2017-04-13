@@ -1,0 +1,87 @@
+{
+    "created_at": "Wed Apr 12 23:51:26 +0000 2017",
+    "hashtags": [],
+    "id": 852308208450387968,
+    "id_str": "852308208450387968",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Apr 12 23:38:18 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 852304900868325377,
+        "id_str": "852304900868325377",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Road Repair &amp; Accountability Act will earmark 78,000 jobs, allocate new infrastructure investments &amp; create sma… https://t.co/XJWafVBKov",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/852304900868325377",
+                "url": "https://t.co/XJWafVBKov"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jun 18 06:11:52 +0000 2015",
+            "default_profile": true,
+            "description": "Father. Husband. Assembly Democratic Caucus Chair and 64th District Assemblymember, representing portions of South Los Angeles and South Bay. #AD64",
+            "favourites_count": 189,
+            "followers_count": 1418,
+            "friends_count": 1530,
+            "geo_enabled": true,
+            "id": 3248493157,
+            "lang": "en",
+            "listed_count": 78,
+            "name": "Asm. Mike A. Gipson",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3248493157/1446097707",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/792588463300161536/buU1Zl8B_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "AsmMikeGipson",
+            "statuses_count": 2036,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/YgqkdSgj1r",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AsmMikeGipson: The Road Repair &amp; Accountability Act will earmark 78,000 jobs, allocate new infrastructure investments &amp; create smarter…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1610,
+        "followers_count": 2634,
+        "friends_count": 1361,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2384,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 3248493157,
+            "name": "Asm. Mike A. Gipson",
+            "screen_name": "AsmMikeGipson"
+        }
+    ]
+}
