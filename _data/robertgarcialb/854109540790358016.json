@@ -1,0 +1,157 @@
+{
+    "created_at": "Mon Apr 17 23:09:17 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 854109540790358016,
+    "id_str": "854109540790358016",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/qBKbV1FFrz",
+            "expanded_url": "https://twitter.com/LongBeachWater/status/854107771418984448/photo/1",
+            "id": 854107757997211648,
+            "media_url": "http://pbs.twimg.com/media/C9pmewtUQAAQ8zJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9pmewtUQAAQ8zJ.jpg",
+            "type": "photo",
+            "url": "https://t.co/qBKbV1FFrz"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Apr 17 23:02:15 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 854107771418984448,
+        "id_str": "854107771418984448",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qBKbV1FFrz",
+                "expanded_url": "https://twitter.com/LongBeachWater/status/854107771418984448/photo/1",
+                "id": 854107757997211648,
+                "media_url": "http://pbs.twimg.com/media/C9pmewtUQAAQ8zJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C9pmewtUQAAQ8zJ.jpg",
+                "type": "photo",
+                "url": "https://t.co/qBKbV1FFrz"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -117.740002,
+                            33.487223
+                        ],
+                        [
+                            -117.672617,
+                            33.487223
+                        ],
+                        [
+                            -117.672617,
+                            33.571675
+                        ],
+                        [
+                            -117.740002,
+                            33.571675
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Laguna Niguel, CA",
+            "id": "ef28da43cdf17b3f",
+            "name": "Laguna Niguel",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/ef28da43cdf17b3f.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Join Mayor Garcia in making #LongBeach the most water wise U.S. city: https://t.co/wZSpgpaoG0 https://t.co/qBKbV1FFrz",
+        "urls": [
+            {
+                "expanded_url": "http://mywaterpledge.com",
+                "url": "https://t.co/wZSpgpaoG0"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Sep 12 20:24:04 +0000 2008",
+            "description": "The standard in water conservation and environmental stewardship",
+            "favourites_count": 116,
+            "followers_count": 7044,
+            "friends_count": 2407,
+            "geo_enabled": true,
+            "id": 16262993,
+            "lang": "en",
+            "listed_count": 250,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Water",
+            "profile_background_color": "455D85",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491123151/304754026240907.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16262993/1465925760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/765693924681711617/j0lA2DjY_normal.jpg",
+            "profile_link_color": "0D0701",
+            "profile_sidebar_fill_color": "061127",
+            "profile_text_color": "52555C",
+            "screen_name": "LongBeachWater",
+            "statuses_count": 2509,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/21QJiCRYzt",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachWater: Join Mayor Garcia in making #LongBeach the most water wise U.S. city: https://t.co/wZSpgpaoG0 https://t.co/qBKbV1FFrz",
+    "urls": [
+        {
+            "expanded_url": "http://mywaterpledge.com",
+            "url": "https://t.co/wZSpgpaoG0"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6197,
+        "followers_count": 13675,
+        "friends_count": 2170,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 247,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10253,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16262993,
+            "name": "Long Beach Water",
+            "screen_name": "LongBeachWater"
+        }
+    ]
+}
