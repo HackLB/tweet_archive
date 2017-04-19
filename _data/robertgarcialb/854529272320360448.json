@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Apr 19 02:57:09 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 854529272320360448,
+    "id_str": "854529272320360448",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Apr 19 01:37:44 +0000 2017",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 854509284435963905,
+        "id_str": "854509284435963905",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "As her family watches, 3-time Olympic gold medalist @MistyMayTreanor receives key to city from #LongBeach Mayor… https://t.co/bHwm5ugjje",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/854509284435963905",
+                "url": "https://t.co/bHwm5ugjje"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jan 21 03:28:33 +0000 2012",
+            "description": "Staff photographer for the Southern California News Group primarily providing content for the Daily Breeze and Press-Telegram. Instagram: @VarleyPhoto",
+            "favourites_count": 44,
+            "followers_count": 658,
+            "friends_count": 287,
+            "geo_enabled": true,
+            "id": 469896364,
+            "lang": "en",
+            "listed_count": 39,
+            "location": "Los Angeles",
+            "name": "Scott Varley",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/469896364/1392352234",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1769984565/image_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "VarleyPhoto",
+            "statuses_count": 2829,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/iGwU5FRv6w",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 72509949,
+                "name": "Misty May-Treanor",
+                "screen_name": "MistyMayTreanor"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @VarleyPhoto: As her family watches, 3-time Olympic gold medalist @MistyMayTreanor receives key to city from #LongBeach Mayor @RobertGar…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6205,
+        "followers_count": 13702,
+        "friends_count": 2170,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 247,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10256,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 469896364,
+            "name": "Scott Varley",
+            "screen_name": "VarleyPhoto"
+        },
+        {
+            "id": 72509949,
+            "name": "Misty May-Treanor",
+            "screen_name": "MistyMayTreanor"
+        }
+    ]
+}
