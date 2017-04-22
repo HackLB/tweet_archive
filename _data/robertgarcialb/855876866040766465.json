@@ -1,0 +1,136 @@
+{
+    "created_at": "Sat Apr 22 20:12:00 +0000 2017",
+    "hashtags": [
+        {
+            "text": "earthday"
+        }
+    ],
+    "id": 855876866040766465,
+    "id_str": "855876866040766465",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Sat Apr 22 20:10:07 +0000 2017",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "earthday"
+            }
+        ],
+        "id": 855876391056920578,
+        "id_str": "855876391056920578",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -90.5706573,
+                            38.737756
+                        ],
+                        [
+                            -90.464711,
+                            38.737756
+                        ],
+                        [
+                            -90.464711,
+                            38.848337
+                        ],
+                        [
+                            -90.5706573,
+                            38.848337
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "St Charles, MO",
+            "id": "13eb8d7f6e12a684",
+            "name": "St Charles",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/13eb8d7f6e12a684.json"
+        },
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Our mayor on #earthday! 🙌🏼 https://t.co/WGdDVJpMel",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/robertgarcialb/status/855866442503159808",
+                "url": "https://t.co/WGdDVJpMel"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 09 05:52:27 +0000 2009",
+            "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+            "favourites_count": 1206,
+            "followers_count": 72985,
+            "friends_count": 1300,
+            "geo_enabled": true,
+            "id": 38808088,
+            "lang": "en",
+            "listed_count": 478,
+            "location": "Long Beach, Calif.",
+            "name": "City of Long Beach",
+            "profile_background_color": "00497C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1448398575",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669259435622006785/6WQH0Bg0_normal.jpg",
+            "profile_link_color": "00497C",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachCity",
+            "statuses_count": 7099,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/pbU79Tlp",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachCity: Our mayor on #earthday! 🙌🏼 https://t.co/WGdDVJpMel",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/robertgarcialb/status/855866442503159808",
+            "url": "https://t.co/WGdDVJpMel"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6238,
+        "followers_count": 13786,
+        "friends_count": 2172,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 249,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10270,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
