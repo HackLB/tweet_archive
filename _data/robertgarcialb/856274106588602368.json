@@ -1,0 +1,57 @@
+{
+    "created_at": "Sun Apr 23 22:30:30 +0000 2017",
+    "favorite_count": 10,
+    "hashtags": [],
+    "id": 856274106588602368,
+    "id_str": "856274106588602368",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/VfVHIJD2vY",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/856274106588602368/photo/1",
+            "id": 856274053497147392,
+            "media_url": "http://pbs.twimg.com/media/C-IYtwUU0AAXXWO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-IYtwUU0AAXXWO.jpg",
+            "type": "photo",
+            "url": "https://t.co/VfVHIJD2vY"
+        }
+    ],
+    "retweet_count": 5,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Hope you check out our newest park at Alamitos and 7th across from @molaa https://t.co/VfVHIJD2vY",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6248,
+        "followers_count": 13799,
+        "friends_count": 2171,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 250,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10273,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 31276580,
+            "name": "MOLAA",
+            "screen_name": "molaa"
+        }
+    ]
+}
