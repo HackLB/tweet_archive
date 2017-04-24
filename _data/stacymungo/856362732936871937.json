@@ -1,0 +1,163 @@
+{
+    "created_at": "Mon Apr 24 04:22:40 +0000 2017",
+    "hashtags": [
+        {
+            "text": "SealBeachPier"
+        },
+        {
+            "text": "CoffeeCoffeeCoffee"
+        }
+    ],
+    "id": 856362732936871937,
+    "id_str": "856362732936871937",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/UlFbcPla4t",
+            "expanded_url": "https://twitter.com/bogartscoffee/status/856331232669351936/photo/1",
+            "id": 856331226176643072,
+            "media_url": "http://pbs.twimg.com/media/C-JMtpJVYAAaVJt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-JMtpJVYAAaVJt.jpg",
+            "type": "photo",
+            "url": "https://t.co/UlFbcPla4t"
+        }
+    ],
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon Apr 24 02:17:30 +0000 2017",
+        "favorite_count": 15,
+        "hashtags": [
+            {
+                "text": "SealBeachPier"
+            },
+            {
+                "text": "CoffeeCoffeeCoffee"
+            }
+        ],
+        "id": 856331232669351936,
+        "id_str": "856331232669351936",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/UlFbcPla4t",
+                "expanded_url": "https://twitter.com/bogartscoffee/status/856331232669351936/photo/1",
+                "id": 856331226176643072,
+                "media_url": "http://pbs.twimg.com/media/C-JMtpJVYAAaVJt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C-JMtpJVYAAaVJt.jpg",
+                "type": "photo",
+                "url": "https://t.co/UlFbcPla4t"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.117365,
+                            33.723095
+                        ],
+                        [
+                            -118.041655,
+                            33.723095
+                        ],
+                        [
+                            -118.041655,
+                            33.787561
+                        ],
+                        [
+                            -118.117365,
+                            33.787561
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Seal Beach, CA",
+            "id": "d35feae19d268b09",
+            "name": "Seal Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/d35feae19d268b09.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Blame it on Buffett\n\n#SealBeachPier #CoffeeCoffeeCoffee\nhttps://t.co/mnygjdT8XM https://t.co/UlFbcPla4t",
+        "urls": [
+            {
+                "expanded_url": "https://youtu.be/D8rhM_4p8hA",
+                "url": "https://t.co/mnygjdT8XM"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Apr 19 20:25:51 +0000 2009",
+            "description": "Organic Coffee and Espresso drinks, fresh pastries, crepes, Hawaiian shave ice, free WiFi and an unobstructed view of the Pacific",
+            "favourites_count": 872,
+            "followers_count": 4475,
+            "friends_count": 4303,
+            "geo_enabled": true,
+            "id": 33303376,
+            "lang": "en",
+            "listed_count": 49,
+            "location": "Seal Beach, CA",
+            "name": "Bogart's Coffee☕️",
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/9178803/coffee.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33303376/1472256952",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/147060609/BogartsLogo_normal.gif",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "screen_name": "bogartscoffee",
+            "statuses_count": 1628,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/lO8ZDu8Kcn",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @bogartscoffee: Blame it on Buffett\n\n#SealBeachPier #CoffeeCoffeeCoffee\nhttps://t.co/mnygjdT8XM https://t.co/UlFbcPla4t",
+    "urls": [
+        {
+            "expanded_url": "https://youtu.be/D8rhM_4p8hA",
+            "url": "https://t.co/mnygjdT8XM"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 561,
+        "followers_count": 4268,
+        "friends_count": 1838,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2050,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 33303376,
+            "name": "Bogart's Coffee☕️",
+            "screen_name": "bogartscoffee"
+        }
+    ]
+}
