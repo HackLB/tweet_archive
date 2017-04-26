@@ -1,0 +1,88 @@
+{
+    "created_at": "Wed Apr 26 03:12:42 +0000 2017",
+    "hashtags": [],
+    "id": 857069899947974656,
+    "id_str": "857069899947974656",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Apr 25 17:55:54 +0000 2017",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 856929776031776768,
+        "id_str": "856929776031776768",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "A thriving arts and music scene isn't just a beautiful thing to behold—it's an essential part of the urban fabric. https://t.co/jpvRva8Sk7",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/856925926516441088",
+                "url": "https://t.co/jpvRva8Sk7"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Sep 04 06:10:56 +0000 2010",
+            "description": "Blog of @BrianAddisonLB: all things transit, biking, history, food, Long Beach.",
+            "favourites_count": 1239,
+            "followers_count": 910,
+            "friends_count": 382,
+            "id": 186724210,
+            "lang": "en",
+            "listed_count": 35,
+            "location": "Long Beach, CA",
+            "name": "LONGBEACHIZE",
+            "profile_background_color": "3899C2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/144199332/x2a9be54c93e153fce9cd54a5e05163d.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/186724210/1483565854",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/816760298577104896/qZ3hkAfi_normal.jpg",
+            "profile_link_color": "06894B",
+            "profile_sidebar_fill_color": "FDE349",
+            "profile_text_color": "75685D",
+            "screen_name": "LONGBEACHIZE",
+            "statuses_count": 1558,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/77pUyc0Xn5",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LONGBEACHIZE: A thriving arts and music scene isn't just a beautiful thing to behold—it's an essential part of the urban fabric. https:…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6262,
+        "followers_count": 13822,
+        "friends_count": 2174,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 250,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10289,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 186724210,
+            "name": "LONGBEACHIZE",
+            "screen_name": "LONGBEACHIZE"
+        }
+    ]
+}
