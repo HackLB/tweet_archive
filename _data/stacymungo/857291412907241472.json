@@ -1,0 +1,115 @@
+{
+    "created_at": "Wed Apr 26 17:52:55 +0000 2017",
+    "hashtags": [
+        {
+            "text": "HealthyPetExpo"
+        }
+    ],
+    "id": 857291412907241472,
+    "id_str": "857291412907241472",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Apr 26 16:40:15 +0000 2017",
+        "hashtags": [
+            {
+                "text": "HealthyPetExpo"
+            }
+        ],
+        "id": 857273125674897408,
+        "id_str": "857273125674897408",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "text": "It's that time of year! #HealthyPetExpo is May 6! It's free &amp; fun for the whole family @LACoAnimalCare @LACoParks… https://t.co/HM0QnxIIpC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/857273125674897408",
+                "url": "https://t.co/HM0QnxIIpC"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 11 22:02:11 +0000 2016",
+            "default_profile": true,
+            "description": "Los Angeles County Health Officer",
+            "favourites_count": 3,
+            "followers_count": 95,
+            "friends_count": 101,
+            "id": 4894338198,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Los Angeles, CA",
+            "name": "LACo Health Officer",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4894338198/1475087733",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/697906719674888192/l1bI-AeJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LAHealthOfficer",
+            "statuses_count": 56,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/wfDPBTiaKh",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 172419793,
+                "name": "LA Co Animal Care",
+                "screen_name": "LACoAnimalCare"
+            },
+            {
+                "id": 280662204,
+                "name": "LACounty Parks",
+                "screen_name": "LACoParks"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @LAHealthOfficer: It's that time of year! #HealthyPetExpo is May 6! It's free &amp; fun for the whole family @LACoAnimalCare @LACoParks http…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 563,
+        "followers_count": 4318,
+        "friends_count": 2302,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2054,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 4894338198,
+            "name": "LACo Health Officer",
+            "screen_name": "LAHealthOfficer"
+        },
+        {
+            "id": 172419793,
+            "name": "LA Co Animal Care",
+            "screen_name": "LACoAnimalCare"
+        },
+        {
+            "id": 280662204,
+            "name": "LACounty Parks",
+            "screen_name": "LACoParks"
+        }
+    ]
+}
