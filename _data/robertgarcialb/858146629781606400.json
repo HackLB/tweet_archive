@@ -1,0 +1,113 @@
+{
+    "created_at": "Sat Apr 29 02:31:14 +0000 2017",
+    "hashtags": [
+        {
+            "text": "GoLongBeachAwards"
+        }
+    ],
+    "id": 858146629781606400,
+    "id_str": "858146629781606400",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/eHhKRN9eiR",
+            "expanded_url": "https://twitter.com/LBMayorsOffice/status/858146566787309569/photo/1",
+            "id": 858146559157874688,
+            "media_url": "http://pbs.twimg.com/media/C-i_v7fUMAACPJO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-i_v7fUMAACPJO.jpg",
+            "type": "photo",
+            "url": "https://t.co/eHhKRN9eiR"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Apr 29 02:30:59 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "GoLongBeachAwards"
+            }
+        ],
+        "id": 858146566787309569,
+        "id_str": "858146566787309569",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eHhKRN9eiR",
+                "expanded_url": "https://twitter.com/LBMayorsOffice/status/858146566787309569/photo/1",
+                "id": 858146559157874688,
+                "media_url": "http://pbs.twimg.com/media/C-i_v7fUMAACPJO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C-i_v7fUMAACPJO.jpg",
+                "type": "photo",
+                "url": "https://t.co/eHhKRN9eiR"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Honored to award some amazing Long Beach leaders tonight with #GoLongBeachAwards https://t.co/eHhKRN9eiR",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "description": "Mayor Robert Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development. https://t.co/Ckx1LfyzDc",
+            "favourites_count": 3848,
+            "followers_count": 4917,
+            "friends_count": 1610,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 105,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1486422375",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824325489368055809/9Fa0EGnL_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 2900,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: Honored to award some amazing Long Beach leaders tonight with #GoLongBeachAwards https://t.co/eHhKRN9eiR",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6282,
+        "followers_count": 13854,
+        "friends_count": 2178,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 251,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10306,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
