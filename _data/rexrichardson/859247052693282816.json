@@ -1,0 +1,109 @@
+{
+    "created_at": "Tue May 02 03:23:56 +0000 2017",
+    "favorited": true,
+    "hashtags": [],
+    "id": 859247052693282816,
+    "id_str": "859247052693282816",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Tue May 02 02:48:11 +0000 2017",
+        "favorite_count": 9,
+        "favorited": true,
+        "hashtags": [],
+        "id": 859238055844077568,
+        "id_str": "859238055844077568",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "What a concept: @rexrichardson &amp; @CityFabrick look to residents over experts on how to better North Long Beach.  https://t.co/VcT7OKsWg0",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2qmFj6t",
+                "url": "https://t.co/VcT7OKsWg0"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 08 00:57:12 +0000 2009",
+            "description": "Grab life by the Brian. Writer. Questioner. Eater. Photographer. Bicyclist. Long Beach-er. Blog: @longbeachize Contact: brian.addison@gmail.com",
+            "favourites_count": 2420,
+            "followers_count": 1660,
+            "friends_count": 798,
+            "geo_enabled": true,
+            "id": 18747184,
+            "lang": "en",
+            "listed_count": 45,
+            "location": "Long Beach, CA",
+            "name": "Brian Addison",
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21648551/Banksy2.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18747184/1483654215",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643833503700811777/nmZ1u8yP_normal.png",
+            "profile_link_color": "51C91E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "screen_name": "BrianAddisonLB",
+            "statuses_count": 3854,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 717691350,
+                "name": "City Fabrick",
+                "screen_name": "CityFabrick"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BrianAddisonLB: What a concept: @rexrichardson &amp; @CityFabrick look to residents over experts on how to better North Long Beach.  https:…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1625,
+        "followers_count": 2680,
+        "friends_count": 1393,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2398,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18747184,
+            "name": "Brian Addison",
+            "screen_name": "BrianAddisonLB"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 717691350,
+            "name": "City Fabrick",
+            "screen_name": "CityFabrick"
+        }
+    ]
+}
