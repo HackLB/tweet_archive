@@ -1,0 +1,110 @@
+{
+    "created_at": "Fri May 05 20:31:24 +0000 2017",
+    "hashtags": [],
+    "id": 860592788127105024,
+    "id_str": "860592788127105024",
+    "lang": "en",
+    "retweet_count": 7,
+    "retweeted_status": {
+        "created_at": "Fri May 05 20:06:51 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [],
+        "id": 860586608713756676,
+        "id_str": "860586608713756676",
+        "lang": "en",
+        "retweet_count": 7,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thanks to mayor @RobertGarciaLB and councilman Dee Andrews @VIPLONGBEACH is moving forward to make the VIP Sign a H… https://t.co/HcTu2fwn6V",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/860586608713756676",
+                "url": "https://t.co/HcTu2fwn6V"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Apr 04 21:33:42 +0000 2011",
+            "description": "The World Famous V.I.P. RECORDS in Long Beach California. Over 30 Years in business.  FOLLOW US ON INSTAGRAM @VIPLONGBEACH",
+            "favourites_count": 114,
+            "followers_count": 1553,
+            "friends_count": 1877,
+            "geo_enabled": true,
+            "id": 277185106,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "LIKE US ON FACEBOOK ",
+            "name": "V.I.P. RECORDS",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/277185106/1488645276",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1300041932/vip_logo_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "VIPLONGBEACH",
+            "statuses_count": 1745,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/KjlsBlHnWq",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 277185106,
+                "name": "V.I.P. RECORDS",
+                "screen_name": "VIPLONGBEACH"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @VIPLONGBEACH: Thanks to mayor @RobertGarciaLB and councilman Dee Andrews @VIPLONGBEACH is moving forward to make the VIP Sign a Histori…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6325,
+        "followers_count": 13943,
+        "friends_count": 2186,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 254,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10340,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 277185106,
+            "name": "V.I.P. RECORDS",
+            "screen_name": "VIPLONGBEACH"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 277185106,
+            "name": "V.I.P. RECORDS",
+            "screen_name": "VIPLONGBEACH"
+        }
+    ]
+}
