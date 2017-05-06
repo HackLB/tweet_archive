@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat May 06 20:49:01 +0000 2017",
+    "hashtags": [
+        {
+            "text": "northlongbeach"
+        }
+    ],
+    "id": 860959609942532096,
+    "id_str": "860959609942532096",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/xIw1JdMiRM",
+            "expanded_url": "https://twitter.com/TheAsiaMorris/status/860914334356054016/video/1",
+            "id": 860914282162028545,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/860914282162028545/pu/img/lAbAytCuAqSqyVH1.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/860914282162028545/pu/img/lAbAytCuAqSqyVH1.jpg",
+            "type": "video",
+            "url": "https://t.co/xIw1JdMiRM"
+        }
+    ],
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat May 06 17:49:06 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "northlongbeach"
+            }
+        ],
+        "id": 860914334356054016,
+        "id_str": "860914334356054016",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xIw1JdMiRM",
+                "expanded_url": "https://twitter.com/TheAsiaMorris/status/860914334356054016/video/1",
+                "id": 860914282162028545,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/860914282162028545/pu/img/lAbAytCuAqSqyVH1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/860914282162028545/pu/img/lAbAytCuAqSqyVH1.jpg",
+                "type": "video",
+                "url": "https://t.co/xIw1JdMiRM"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Talking open public space with @rexrichardson. #northlongbeach @LongBeachPost https://t.co/xIw1JdMiRM",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 23 23:34:53 +0000 2014",
+            "description": "@longbeachpost culture editor; competitive cyclist; slothful artist; feminist.",
+            "favourites_count": 846,
+            "followers_count": 523,
+            "friends_count": 446,
+            "id": 2584767691,
+            "lang": "en",
+            "listed_count": 22,
+            "location": "Long Beach, CA",
+            "name": "Asia Morris",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824013373356421120/nQaLQ0gy_normal.jpg",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "TheAsiaMorris",
+            "statuses_count": 1144,
+            "time_zone": "Arizona",
+            "url": "https://t.co/VohsEGOnKJ",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 20496846,
+                "name": "Long Beach Post",
+                "screen_name": "LongBeachPost"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TheAsiaMorris: Talking open public space with @rexrichardson. #northlongbeach @LongBeachPost https://t.co/xIw1JdMiRM",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1630,
+        "followers_count": 2683,
+        "friends_count": 1370,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2404,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2584767691,
+            "name": "Asia Morris",
+            "screen_name": "TheAsiaMorris"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 20496846,
+            "name": "Long Beach Post",
+            "screen_name": "LongBeachPost"
+        }
+    ]
+}
