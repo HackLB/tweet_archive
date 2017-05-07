@@ -1,0 +1,104 @@
+{
+    "created_at": "Sun May 07 06:54:57 +0000 2017",
+    "hashtags": [],
+    "id": 861112098373357571,
+    "id_str": "861112098373357571",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Sun May 07 00:28:58 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 861014962155667460,
+        "id_str": "861014962155667460",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/U3nHMEGs8i",
+                "expanded_url": "https://twitter.com/YEOnetwork/status/861014962155667460/photo/1",
+                "id": 861014953825755136,
+                "media_url": "http://pbs.twimg.com/media/C_LwieUVYAAceqh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C_LwieUVYAAceqh.jpg",
+                "type": "photo",
+                "url": "https://t.co/U3nHMEGs8i"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you for speaking with our FLLA  fellows at the Michelle Obama Neighborhood Library today, @rexrichardson! https://t.co/U3nHMEGs8i",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Aug 27 18:41:14 +0000 2009",
+            "description": "LinkedIn: https://t.co/ZKie4KjuMx | \nWe work w/ young elected leaders around the country as they change communities & build a stronger progressive movement.",
+            "favourites_count": 638,
+            "followers_count": 1529,
+            "friends_count": 823,
+            "geo_enabled": true,
+            "id": 69368313,
+            "lang": "en",
+            "listed_count": 46,
+            "location": "Washington, DC",
+            "name": "YEO Network",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/879856852/ddf452b3998b29aff813da19549485c7.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/69368313/1465408062",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/686578803200684032/n56nqITU_normal.jpg",
+            "profile_link_color": "5090AB",
+            "profile_sidebar_fill_color": "CCEBFF",
+            "profile_text_color": "333333",
+            "screen_name": "YEOnetwork",
+            "statuses_count": 1770,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/yGUYNc7Jqk",
+            "utc_offset": -14400
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @YEOnetwork: Thank you for speaking with our FLLA  fellows at the Michelle Obama Neighborhood Library today, @rexrichardson! https://t.c…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1631,
+        "followers_count": 2684,
+        "friends_count": 1375,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2405,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 69368313,
+            "name": "YEO Network",
+            "screen_name": "YEOnetwork"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
