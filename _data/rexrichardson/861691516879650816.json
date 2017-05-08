@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon May 08 21:17:21 +0000 2017",
+    "favorite_count": 3,
+    "hashtags": [
+        {
+            "text": "PopUPTown"
+        }
+    ],
+    "id": 861691516879650816,
+    "id_str": "861691516879650816",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#PopUPTown... Local Artists. Local food. Local folks. @LongBeachCity @uptownbizlb @roxanneslounge  https://t.co/hYs1ByOp9b",
+    "urls": [
+        {
+            "expanded_url": "http://lbpost.com/place/design/2000010868-how-the-north-atlantic-corridor-will-become-an-arts-district-one-popuptown-at-a-time#.WRDcb8EVJxI.twitter",
+            "url": "https://t.co/hYs1ByOp9b"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1635,
+        "followers_count": 2682,
+        "friends_count": 1374,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2408,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 2804325241,
+            "name": "Uptown Business Dist",
+            "screen_name": "uptownbizlb"
+        },
+        {
+            "id": 187595395,
+            "name": "Roxanne's Lounge",
+            "screen_name": "roxanneslounge"
+        }
+    ]
+}

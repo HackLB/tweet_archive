@@ -1,0 +1,85 @@
+{
+    "created_at": "Mon May 08 21:18:28 +0000 2017",
+    "hashtags": [],
+    "id": 861691794819432448,
+    "id_str": "861691794819432448",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Mon May 08 21:06:05 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 861688681437945856,
+        "id_str": "861688681437945856",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "These \"micro-socials\" will activate the corridor, essentially creating a dynamic arts scene while developments are… https://t.co/xHu0dMxumI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/861688681437945856",
+                "url": "https://t.co/xHu0dMxumI"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 23 23:34:53 +0000 2014",
+            "description": "@longbeachpost culture editor; competitive cyclist; slothful artist; feminist.",
+            "favourites_count": 851,
+            "followers_count": 523,
+            "friends_count": 446,
+            "id": 2584767691,
+            "lang": "en",
+            "listed_count": 22,
+            "location": "Long Beach, CA",
+            "name": "Asia Morris",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824013373356421120/nQaLQ0gy_normal.jpg",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "TheAsiaMorris",
+            "statuses_count": 1148,
+            "time_zone": "Arizona",
+            "url": "https://t.co/VohsEGOnKJ",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TheAsiaMorris: These \"micro-socials\" will activate the corridor, essentially creating a dynamic arts scene while developments are compl…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1635,
+        "followers_count": 2682,
+        "friends_count": 1374,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2408,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2584767691,
+            "name": "Asia Morris",
+            "screen_name": "TheAsiaMorris"
+        }
+    ]
+}
