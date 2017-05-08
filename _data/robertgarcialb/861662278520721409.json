@@ -1,0 +1,94 @@
+{
+    "created_at": "Mon May 08 19:21:10 +0000 2017",
+    "hashtags": [],
+    "id": 861662278520721409,
+    "id_str": "861662278520721409",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon May 08 19:20:16 +0000 2017",
+        "favorite_count": 12,
+        "hashtags": [],
+        "id": 861662049109016576,
+        "id_str": "861662049109016576",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "I'm going to move to Long Beach just so I can re-elect Mayor Garcia. https://t.co/2udBsXanY8",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/RobertGarciaLB/status/861619243107799040",
+                "url": "https://t.co/2udBsXanY8"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 21 07:49:36 +0000 2010",
+            "description": "Geek culture blog covering comic books, cosplay, TV, movies and more.\nIG: @spartantown",
+            "favourites_count": 69838,
+            "followers_count": 1452,
+            "friends_count": 1132,
+            "geo_enabled": true,
+            "id": 106986036,
+            "lang": "en",
+            "listed_count": 93,
+            "location": "Los Angeles",
+            "name": "Spartantown",
+            "profile_background_color": "F0580E",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671070959/c52572b91eef61ce83e51d822b76f6ed.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/106986036/1492792519",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/443842975341088768/jhADEjEh_normal.png",
+            "profile_link_color": "FE6D04",
+            "profile_sidebar_fill_color": "FEFAE9",
+            "profile_text_color": "DDCF94",
+            "screen_name": "spartantown",
+            "statuses_count": 79787,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/Plx1JWKcIG",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @spartantown: I'm going to move to Long Beach just so I can re-elect Mayor Garcia. https://t.co/2udBsXanY8",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/861619243107799040",
+            "url": "https://t.co/2udBsXanY8"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6356,
+        "followers_count": 14067,
+        "friends_count": 2188,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 253,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1484442414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627305449428094976/phRHd0lx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10359,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 106986036,
+            "name": "Spartantown",
+            "screen_name": "spartantown"
+        }
+    ]
+}
