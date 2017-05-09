@@ -1,0 +1,103 @@
+{
+    "created_at": "Tue May 09 01:50:17 +0000 2017",
+    "hashtags": [],
+    "id": 861760201027866625,
+    "id_str": "861760201027866625",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sun May 07 02:29:10 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 861045209517379584,
+        "id_str": "861045209517379584",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mnd3UCdAnc",
+                "expanded_url": "https://twitter.com/presstelegram/status/861045209517379584/photo/1",
+                "id": 861045205746696192,
+                "media_url": "http://pbs.twimg.com/media/C_MMDXgVwAA9CVu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C_MMDXgVwAA9CVu.jpg",
+                "type": "photo",
+                "url": "https://t.co/mnd3UCdAnc"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "Color Block Walk allows North Long Beach residents to explore open space options https://t.co/Br8AwWCpbD https://t.co/mnd3UCdAnc",
+        "urls": [
+            {
+                "expanded_url": "http://dlvr.it/P4l6kl",
+                "url": "https://t.co/Br8AwWCpbD"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jul 06 22:41:41 +0000 2010",
+            "description": "Local. News. Matters. We cover the Greater Long Beach area. #LocalNewsMatters",
+            "favourites_count": 131,
+            "followers_count": 13787,
+            "friends_count": 619,
+            "id": 163633469,
+            "lang": "en",
+            "listed_count": 402,
+            "location": "Long Beach, CA",
+            "name": "LB Press-Telegram",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/163633469/1439745837",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/817476054671466496/qJeni-qM_normal.jpg",
+            "profile_link_color": "C91616",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "presstelegram",
+            "statuses_count": 48711,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/xTzKLXIZnH",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @presstelegram: Color Block Walk allows North Long Beach residents to explore open space options https://t.co/Br8AwWCpbD https://t.co/mn…",
+    "urls": [
+        {
+            "expanded_url": "http://dlvr.it/P4l6kl",
+            "url": "https://t.co/Br8AwWCpbD"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1636,
+        "followers_count": 2683,
+        "friends_count": 1374,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2410,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 163633469,
+            "name": "LB Press-Telegram",
+            "screen_name": "presstelegram"
+        }
+    ]
+}

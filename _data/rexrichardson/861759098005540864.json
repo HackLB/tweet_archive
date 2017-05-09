@@ -1,0 +1,122 @@
+{
+    "created_at": "Tue May 09 01:45:54 +0000 2017",
+    "hashtags": [
+        {
+            "text": "AAAELGB"
+        }
+    ],
+    "id": 861759098005540864,
+    "id_str": "861759098005540864",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon May 08 17:01:53 +0000 2017",
+        "favorite_count": 11,
+        "hashtags": [
+            {
+                "text": "AAAELGB"
+            }
+        ],
+        "id": 861627227145764864,
+        "id_str": "861627227145764864",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Spa8OvzH2W",
+                "expanded_url": "https://twitter.com/LBAirport/status/861627227145764864/photo/1",
+                "id": 861627225346424832,
+                "media_url": "http://pbs.twimg.com/media/C_UdZXeUQAAEqn6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C_UdZXeUQAAEqn6.jpg",
+                "type": "photo",
+                "url": "https://t.co/Spa8OvzH2W"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Absolutely honored Vice Mayor @rexrichardson is here to help us get the show started! @AAAEDelivers #AAAELGB https://t.co/Spa8OvzH2W",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Jan 20 23:27:50 +0000 2010",
+            "description": "The official Twitter account for Long Beach Airport (LGB). We do our best to respond Mon. - Fri., 9am - 5pm PDT. For immediate help, please call (562) 570-2678.",
+            "favourites_count": 3309,
+            "followers_count": 10389,
+            "friends_count": 638,
+            "geo_enabled": true,
+            "id": 106872943,
+            "lang": "en",
+            "listed_count": 390,
+            "location": "Long Beach, California",
+            "name": "Long Beach Airport",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086718674/68175c0e3f006253146fa7f3a681f205.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/106872943/1483471422",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649933620988084224/CbNpGYU6_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "LBAirport",
+            "statuses_count": 6482,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/aduW8lJXUf",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 40543269,
+                "name": "AAAE",
+                "screen_name": "AAAEDelivers"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBAirport: Absolutely honored Vice Mayor @rexrichardson is here to help us get the show started! @AAAEDelivers #AAAELGB https://t.co/Sp…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1636,
+        "followers_count": 2683,
+        "friends_count": 1374,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2410,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 106872943,
+            "name": "Long Beach Airport",
+            "screen_name": "LBAirport"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 40543269,
+            "name": "AAAE",
+            "screen_name": "AAAEDelivers"
+        }
+    ]
+}
