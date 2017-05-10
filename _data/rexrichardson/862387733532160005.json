@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed May 10 19:23:52 +0000 2017",
+    "hashtags": [],
+    "id": 862387733532160005,
+    "id_str": "862387733532160005",
+    "lang": "en",
+    "retweet_count": 15,
+    "retweeted_status": {
+        "created_at": "Wed May 10 18:15:25 +0000 2017",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 862370507030536192,
+        "id_str": "862370507030536192",
+        "lang": "en",
+        "retweet_count": 15,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "The city council voted to grant @VIPLONGBEACH $80,000 to help with restoration and finding permanent home for sign. https://t.co/AN7b6YjhvK",
+        "urls": [
+            {
+                "expanded_url": "http://lbpost.com/news/2000010878-world-famous-vip-records-sign-to-be-restored-relocated-with-help-from-city-infrastructure-funds",
+                "url": "https://t.co/AN7b6YjhvK"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 10 07:18:30 +0000 2009",
+            "description": "Covering Long Beach news, politics, business, life, sports, food, and LGBT issues online daily. \nhttp://t.co/Vv0AR1vL8f",
+            "favourites_count": 615,
+            "followers_count": 42452,
+            "friends_count": 452,
+            "geo_enabled": true,
+            "id": 20496846,
+            "lang": "en",
+            "listed_count": 496,
+            "location": "Long Beach, California",
+            "name": "Long Beach Post",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/827465821/31c1beba2ccaa657384bf9322b2e0916.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20496846/1494287452",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3209512724/7703736e92ce694d2036f1524730546c_normal.png",
+            "profile_link_color": "005689",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachPost",
+            "statuses_count": 16431,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/jDNcL0FZOI",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 277185106,
+                "name": "V.I.P. RECORDS",
+                "screen_name": "VIPLONGBEACH"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachPost: The city council voted to grant @VIPLONGBEACH $80,000 to help with restoration and finding permanent home for sign. http…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1638,
+        "followers_count": 2686,
+        "friends_count": 1374,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2413,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 20496846,
+            "name": "Long Beach Post",
+            "screen_name": "LongBeachPost"
+        },
+        {
+            "id": 277185106,
+            "name": "V.I.P. RECORDS",
+            "screen_name": "VIPLONGBEACH"
+        }
+    ]
+}
