@@ -1,0 +1,150 @@
+{
+    "created_at": "Fri May 12 07:57:01 +0000 2017",
+    "hashtags": [
+        {
+            "text": "NorthLongBeach"
+        }
+    ],
+    "id": 862939656374984704,
+    "id_str": "862939656374984704",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Thu May 11 22:52:56 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "NorthLongBeach"
+            }
+        ],
+        "id": 862802733086031872,
+        "id_str": "862802733086031872",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Great things are happening Uptown. Proud of our Jordan High scholars. @rexrichardson @coachjkane  #NorthLongBeach https://t.co/CWtsLht9zz",
+        "urls": [
+            {
+                "expanded_url": "http://www.lbschools.net/Departments/Newsroom/article.cfm?articleID=2369",
+                "url": "https://t.co/CWtsLht9zz"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 31 21:11:51 +0000 2008",
+            "description": "Partner, parent, education advocate, School Board Member. Feminist. Rescue dog Foster mom. LBC. views very clearly my own. RT≠endorsement",
+            "favourites_count": 10191,
+            "followers_count": 1184,
+            "friends_count": 2825,
+            "geo_enabled": true,
+            "id": 18516432,
+            "lang": "en",
+            "listed_count": 46,
+            "location": "Long Beach",
+            "name": "Megan Kerr",
+            "profile_background_color": "071A29",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/858725935/bfe966dc4068f11ec714b370d9b4c0ae.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18516432/1456703760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798001913820123141/q1dE9vdb_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_fill_color": "448C20",
+            "profile_text_color": "3FA750",
+            "screen_name": "megankerr",
+            "statuses_count": 10112,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/UWIhiBCxIa",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            },
+            {
+                "id": 1392662226,
+                "name": "Jordan HS Football",
+                "screen_name": "coachjkane"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @megankerr: Great things are happening Uptown. Proud of our Jordan High scholars. @rexrichardson @coachjkane  #NorthLongBeach https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1639,
+        "followers_count": 2687,
+        "friends_count": 1376,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2414,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18516432,
+            "name": "Megan Kerr",
+            "screen_name": "megankerr"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        },
+        {
+            "id": 1392662226,
+            "name": "Jordan HS Football",
+            "screen_name": "coachjkane"
+        }
+    ]
+}
