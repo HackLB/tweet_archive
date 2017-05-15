@@ -1,0 +1,100 @@
+{
+    "created_at": "Mon May 15 16:26:34 +0000 2017",
+    "hashtags": [],
+    "id": 864155052197330944,
+    "id_str": "864155052197330944",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon May 15 16:15:38 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 864152303367995392,
+        "id_str": "864152303367995392",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Exploring Some Of The Challenges Faced By Minority-Owned Businesses In Long Beach: https://t.co/zfHNikFeBu @LBBizJourn",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2rikC8R",
+                "url": "https://t.co/zfHNikFeBu"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Mar 02 23:53:41 +0000 2017",
+            "description": "The City of Long Beach’s Office of Equity strives to build a just and inclusive community by analyzing City policies and practices through an equity lens.",
+            "favourites_count": 82,
+            "followers_count": 88,
+            "friends_count": 297,
+            "id": 837450870103035904,
+            "lang": "en",
+            "location": "Long Beach, CA",
+            "name": "LB Office of Equity",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/837450870103035904/1491345194",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/850080043023847424/RUIsyjVQ_normal.jpg",
+            "profile_link_color": "136194",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "EquityLB",
+            "statuses_count": 26,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/KQCwT7vEZs",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 2565667038,
+                "name": "LB Business Journal",
+                "screen_name": "LBBizJourn"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @EquityLB: Exploring Some Of The Challenges Faced By Minority-Owned Businesses In Long Beach: https://t.co/zfHNikFeBu @LBBizJourn",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2rikC8R",
+            "url": "https://t.co/zfHNikFeBu"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1642,
+        "followers_count": 2694,
+        "friends_count": 1379,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2416,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 837450870103035904,
+            "name": "LB Office of Equity",
+            "screen_name": "EquityLB"
+        },
+        {
+            "id": 2565667038,
+            "name": "LB Business Journal",
+            "screen_name": "LBBizJourn"
+        }
+    ]
+}
