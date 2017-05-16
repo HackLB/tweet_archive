@@ -1,0 +1,86 @@
+{
+    "created_at": "Tue May 16 16:42:43 +0000 2017",
+    "hashtags": [],
+    "id": 864521506180575233,
+    "id_str": "864521506180575233",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue May 16 16:41:07 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 864521101044363265,
+        "id_str": "864521101044363265",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "California state Senate advances bill to repeal mandatory sentence enhancements for some drug convictions https://t.co/JO2mwlBGSj",
+        "urls": [
+            {
+                "expanded_url": "http://lat.ms/2pQXWMF",
+                "url": "https://t.co/JO2mwlBGSj"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 19 20:34:04 +0000 2010",
+            "description": "Covering California politics & policy, the 55-member congressional delegation, local officials & Sacramento. Follow @latimespolitics for campaign trail reports.",
+            "favourites_count": 33,
+            "followers_count": 17939,
+            "friends_count": 185,
+            "geo_enabled": true,
+            "id": 106516018,
+            "lang": "en",
+            "listed_count": 873,
+            "location": "Sacramento and Los Angeles",
+            "name": "LA Times CA Politics",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70701488/09AUD140_Twitter_Background.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/106516018/1423014661",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/547151255886258176/YoHMn-YM_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LATpoliticsCA",
+            "statuses_count": 13406,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/8qQeW6ZnXX",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LATpoliticsCA: California state Senate advances bill to repeal mandatory sentence enhancements for some drug convictions https://t.co/J…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1643,
+        "followers_count": 2694,
+        "friends_count": 1380,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2417,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 106516018,
+            "name": "LA Times CA Politics",
+            "screen_name": "LATpoliticsCA"
+        }
+    ]
+}
