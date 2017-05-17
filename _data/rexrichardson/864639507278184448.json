@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed May 17 00:31:37 +0000 2017",
+    "hashtags": [
+        {
+            "text": "PopUpTown"
+        }
+    ],
+    "id": 864639507278184448,
+    "id_str": "864639507278184448",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue May 16 22:30:52 +0000 2017",
+        "favorite_count": 4,
+        "hashtags": [
+            {
+                "text": "PopUpTown"
+            }
+        ],
+        "id": 864609120996835328,
+        "id_str": "864609120996835328",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Don't miss the #PopUpTown Social next week! See you there @uptownbizlb ! https://t.co/BvzDOxcWVl",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/rexrichardson/status/864593191793602560",
+                "url": "https://t.co/BvzDOxcWVl"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 23 22:22:18 +0000 2017",
+            "default_profile": true,
+            "description": "The mission of the Long Beach Economic and Property Development Department is to create economic opportunities for workers, investors, and entrepreneurs.",
+            "favourites_count": 137,
+            "followers_count": 138,
+            "friends_count": 210,
+            "geo_enabled": true,
+            "id": 823657136274096130,
+            "lang": "en",
+            "listed_count": 8,
+            "location": "Long Beach, CA",
+            "name": "LB EconDev",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/823657136274096130/1493232638",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/857311449269403648/rgkPxYIM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBEconDev",
+            "statuses_count": 79
+        },
+        "user_mentions": [
+            {
+                "id": 2804325241,
+                "name": "Uptown Business Dist",
+                "screen_name": "uptownbizlb"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBEconDev: Don't miss the #PopUpTown Social next week! See you there @uptownbizlb ! https://t.co/BvzDOxcWVl",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/rexrichardson/status/864593191793602560",
+            "url": "https://t.co/BvzDOxcWVl"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1647,
+        "followers_count": 2695,
+        "friends_count": 1381,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2423,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 823657136274096130,
+            "name": "LB EconDev",
+            "screen_name": "LBEconDev"
+        },
+        {
+            "id": 2804325241,
+            "name": "Uptown Business Dist",
+            "screen_name": "uptownbizlb"
+        }
+    ]
+}

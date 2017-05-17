@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed May 17 00:31:31 +0000 2017",
+    "hashtags": [
+        {
+            "text": "PopUpTown"
+        }
+    ],
+    "id": 864639482858885120,
+    "id_str": "864639482858885120",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/2O4e2u1TcA",
+            "expanded_url": "https://twitter.com/schumerj/status/864635338781671424/photo/1",
+            "id": 864635336957112321,
+            "media_url": "http://pbs.twimg.com/media/C__NQgeUMAEjShP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C__NQgeUMAEjShP.jpg",
+            "type": "photo",
+            "url": "https://t.co/2O4e2u1TcA"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed May 17 00:15:03 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "PopUpTown"
+            }
+        ],
+        "id": 864635338781671424,
+        "id_str": "864635338781671424",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2O4e2u1TcA",
+                "expanded_url": "https://twitter.com/schumerj/status/864635338781671424/photo/1",
+                "id": 864635336957112321,
+                "media_url": "http://pbs.twimg.com/media/C__NQgeUMAEjShP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C__NQgeUMAEjShP.jpg",
+                "type": "photo",
+                "url": "https://t.co/2O4e2u1TcA"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Looks like a great time! Thanks @rexrichardson for the heads up! #PopUpTown https://t.co/2O4e2u1TcA",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Jan 21 06:35:58 +0000 2011",
+            "description": "Pediatrician, public health advocate, social entrepreneur; passionate about improving community health.",
+            "favourites_count": 381,
+            "followers_count": 470,
+            "friends_count": 83,
+            "geo_enabled": true,
+            "id": 241003795,
+            "lang": "en",
+            "listed_count": 32,
+            "location": "Long Beach, CA",
+            "name": "Jessica Schumer",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/241003795/1397448356",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/737363359197192194/HXi7WUs6_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "schumerj",
+            "statuses_count": 2416,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @schumerj: Looks like a great time! Thanks @rexrichardson for the heads up! #PopUpTown https://t.co/2O4e2u1TcA",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1647,
+        "followers_count": 2695,
+        "friends_count": 1381,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2423,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 241003795,
+            "name": "Jessica Schumer",
+            "screen_name": "schumerj"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
