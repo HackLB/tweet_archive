@@ -1,0 +1,90 @@
+{
+    "created_at": "Wed May 17 22:02:36 +0000 2017",
+    "hashtags": [],
+    "id": 864964392881856512,
+    "id_str": "864964392881856512",
+    "lang": "en",
+    "retweet_count": 877,
+    "retweeted_status": {
+        "created_at": "Wed May 17 22:00:03 +0000 2017",
+        "favorite_count": 926,
+        "hashtags": [],
+        "id": 864963751057006593,
+        "id_str": "864963751057006593",
+        "lang": "en",
+        "retweet_count": 877,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "BREAKING: Former FBI Director Robert Mueller appointed as special counsel to oversee Russia investigation, Deputy A… https://t.co/y3PSsKwoea",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/864963751057006593",
+                "url": "https://t.co/y3PSsKwoea"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "description": "See the whole picture with @ABC News. Join us on Facebook: https://t.co/ewMNZ54axm",
+            "favourites_count": 458,
+            "followers_count": 10394610,
+            "friends_count": 745,
+            "geo_enabled": true,
+            "id": 28785486,
+            "lang": "en",
+            "listed_count": 48594,
+            "location": "New York City / Worldwide",
+            "name": "ABC News",
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441965491024719872/pAv-lzCZ.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1484959774",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/658688193651277824/Kv_cNNub_normal.png",
+            "profile_link_color": "336699",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "ABC",
+            "statuses_count": 168410,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/v7GWW7ho1l",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @ABC: BREAKING: Former FBI Director Robert Mueller appointed as special counsel to oversee Russia investigation, Deputy AG Rosenstein sa…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6580,
+        "followers_count": 14622,
+        "friends_count": 2197,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 258,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1494887232",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10406,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 28785486,
+            "name": "ABC News",
+            "screen_name": "ABC"
+        }
+    ]
+}
