@@ -1,0 +1,91 @@
+{
+    "created_at": "Wed May 17 06:59:37 +0000 2017",
+    "hashtags": [],
+    "id": 864737152520699904,
+    "id_str": "864737152520699904",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed May 17 05:02:49 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 864707756913115136,
+        "id_str": "864707756913115136",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Okay I see you @rexrichardson walking the walk with that equity lens. Keep it 💯 great comments on keeping in mind the bigger needs",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Mar 03 02:19:45 +0000 2009",
+            "description": "Tweeting for the movement one hashtag at a time. Gay, brown, #urbanerd, @CSULB alum, @BHCLongBeach comms, @DSALongBeach organizer. Tweets = own opinions.",
+            "favourites_count": 2085,
+            "followers_count": 789,
+            "friends_count": 1288,
+            "geo_enabled": true,
+            "id": 22571037,
+            "lang": "en",
+            "listed_count": 19,
+            "location": "Long Beach, CA",
+            "name": "James Suazo 🌹",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/418281337/Limuw.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22571037/1440365762",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/861984372152426497/uNMvcwow_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "jaisuazo",
+            "statuses_count": 3575,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "rexrichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @jaisuazo: Okay I see you @rexrichardson walking the walk with that equity lens. Keep it 💯 great comments on keeping in mind the bigger…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1648,
+        "followers_count": 2698,
+        "friends_count": 1383,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2424,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 22571037,
+            "name": "James Suazo 🌹",
+            "screen_name": "jaisuazo"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "rexrichardson"
+        }
+    ]
+}
