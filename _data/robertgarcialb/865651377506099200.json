@@ -1,0 +1,87 @@
+{
+    "created_at": "Fri May 19 19:32:26 +0000 2017",
+    "favorite_count": 68,
+    "hashtags": [],
+    "id": 865651377506099200,
+    "id_str": "865651377506099200",
+    "in_reply_to_screen_name": "RobertGarciaLB",
+    "in_reply_to_status_id": 865620527762690049,
+    "in_reply_to_user_id": 18120497,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/5Ld5OEnHOl",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/865651377506099200/photo/1",
+            "id": 865651373882212353,
+            "media_url": "http://pbs.twimg.com/media/DANpVo-UAAEOJ8Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANpVo-UAAEOJ8Y.jpg",
+            "type": "photo",
+            "url": "https://t.co/5Ld5OEnHOl"
+        },
+        {
+            "display_url": "pic.twitter.com/5Ld5OEnHOl",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/865651377506099200/photo/1",
+            "id": 865651373878067200,
+            "media_url": "http://pbs.twimg.com/media/DANpVo9UwAAfu2P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANpVo9UwAAfu2P.jpg",
+            "type": "photo",
+            "url": "https://t.co/5Ld5OEnHOl"
+        },
+        {
+            "display_url": "pic.twitter.com/5Ld5OEnHOl",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/865651377506099200/photo/1",
+            "id": 865651373882212352,
+            "media_url": "http://pbs.twimg.com/media/DANpVo-UAAATEcc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANpVo-UAAATEcc.jpg",
+            "type": "photo",
+            "url": "https://t.co/5Ld5OEnHOl"
+        },
+        {
+            "display_url": "pic.twitter.com/5Ld5OEnHOl",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/865651377506099200/photo/1",
+            "id": 865651373878132736,
+            "media_url": "http://pbs.twimg.com/media/DANpVo9VwAAowge.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANpVo9VwAAowge.jpg",
+            "type": "photo",
+            "url": "https://t.co/5Ld5OEnHOl"
+        }
+    ],
+    "retweet_count": 30,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RobertGarciaLB Marvel Who? (part 3) 🔥🔥🔥 https://t.co/5Ld5OEnHOl",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6637,
+        "followers_count": 14629,
+        "friends_count": 2200,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 261,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495168885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10424,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
