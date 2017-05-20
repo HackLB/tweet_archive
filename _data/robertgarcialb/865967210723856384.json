@@ -1,0 +1,65 @@
+{
+    "created_at": "Sat May 20 16:27:26 +0000 2017",
+    "favorite_count": 14,
+    "hashtags": [
+        {
+            "text": "LBPride"
+        }
+    ],
+    "id": 865967210723856384,
+    "id_str": "865967210723856384",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "You can thank @lukehklipp &amp; @metrolosangeles for getting this done for @LongBeachPride #LBPride https://t.co/d7ls0wF0P1",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/brianaddisonlb/status/865961669767319552",
+            "url": "https://t.co/d7ls0wF0P1"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6668,
+        "followers_count": 14641,
+        "friends_count": 2200,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 265,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495168885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10436,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 23835717,
+            "name": "Luke Klipp",
+            "screen_name": "lukehklipp"
+        },
+        {
+            "id": 14631598,
+            "name": "Metro",
+            "screen_name": "metrolosangeles"
+        },
+        {
+            "id": 22186965,
+            "name": "Long Beach Pride",
+            "screen_name": "LongBeachPride"
+        }
+    ]
+}
