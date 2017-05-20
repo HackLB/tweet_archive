@@ -1,0 +1,44 @@
+{
+    "created_at": "Sat May 20 03:24:08 +0000 2017",
+    "favorite_count": 4,
+    "hashtags": [],
+    "id": 865770086295977985,
+    "id_str": "865770086295977985",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Appreciate your support Kenny 👍🏽 https://t.co/cgp6PITFH6",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/kennydavidallen/status/865759057914642432",
+            "url": "https://t.co/cgp6PITFH6"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6653,
+        "followers_count": 14640,
+        "friends_count": 2200,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 261,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495168885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10429,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
