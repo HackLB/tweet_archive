@@ -1,0 +1,60 @@
+{
+    "created_at": "Sat May 20 15:15:44 +0000 2017",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "SB562"
+        }
+    ],
+    "id": 865949166593122304,
+    "id_str": "865949166593122304",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "All @CA_Dem's at convention should support #SB562 - let's expand medicare for all. Thank you @RicardoLara4CA &amp; @toniatkins",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6666,
+        "followers_count": 14638,
+        "friends_count": 2200,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 262,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495168885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10435,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 110899711,
+            "name": "CA Democratic Party",
+            "screen_name": "CA_Dem"
+        },
+        {
+            "id": 701652134408753152,
+            "name": "Senator Ricardo Lara",
+            "screen_name": "RicardoLara4CA"
+        },
+        {
+            "id": 38707559,
+            "name": "Toni G. Atkins",
+            "screen_name": "toniatkins"
+        }
+    ]
+}
