@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat May 20 17:52:02 +0000 2017",
+    "hashtags": [],
+    "id": 865988501753352192,
+    "id_str": "865988501753352192",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat May 20 17:34:55 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 865984194966454272,
+        "id_str": "865984194966454272",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mayor Garcia joins @RepLowenthal &amp; @suziepriceLB3 today reopening the Colorado Lagoon. Thx to community and city te… https://t.co/2msnhPqKCI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/865984194966454272",
+                "url": "https://t.co/2msnhPqKCI"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "description": "Mayor Robert Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development. https://t.co/Ckx1LfyzDc",
+            "favourites_count": 4337,
+            "followers_count": 5040,
+            "friends_count": 1646,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 105,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1486422375",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824325489368055809/9Fa0EGnL_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 3023,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 1055730738,
+                "name": "Rep. Alan Lowenthal",
+                "screen_name": "RepLowenthal"
+            },
+            {
+                "id": 2317854206,
+                "name": "Suzie Price",
+                "screen_name": "suziepriceLB3"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: Mayor Garcia joins @RepLowenthal &amp; @suziepriceLB3 today reopening the Colorado Lagoon. Thx to community and city team!…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6672,
+        "followers_count": 14643,
+        "friends_count": 2201,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 262,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495168885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10438,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 1055730738,
+            "name": "Rep. Alan Lowenthal",
+            "screen_name": "RepLowenthal"
+        },
+        {
+            "id": 2317854206,
+            "name": "Suzie Price",
+            "screen_name": "suziepriceLB3"
+        }
+    ]
+}
