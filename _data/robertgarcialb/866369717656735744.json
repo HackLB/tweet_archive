@@ -1,0 +1,57 @@
+{
+    "created_at": "Sun May 21 19:06:51 +0000 2017",
+    "favorite_count": 114,
+    "hashtags": [],
+    "id": 866369717656735744,
+    "id_str": "866369717656735744",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/jXMuH5HPvx",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/866369717656735744/photo/1",
+            "id": 866369685125701632,
+            "media_url": "http://pbs.twimg.com/media/DAX2o24VoAAGUwQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAX2o24VoAAGUwQ.jpg",
+            "type": "photo",
+            "url": "https://t.co/jXMuH5HPvx"
+        }
+    ],
+    "retweet_count": 21,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Happy Pride from me and my honey @MattyMendez 💖 https://t.co/jXMuH5HPvx",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6683,
+        "followers_count": 14658,
+        "friends_count": 2202,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 262,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495168885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10442,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 339434241,
+            "name": "Matthew Mendez",
+            "screen_name": "MattyMendez"
+        }
+    ]
+}
