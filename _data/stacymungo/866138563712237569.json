@@ -1,0 +1,73 @@
+{
+    "created_at": "Sun May 21 03:48:20 +0000 2017",
+    "favorite_count": 5,
+    "hashtags": [
+        {
+            "text": "longbeach"
+        },
+        {
+            "text": "boysandgirlsclub"
+        }
+    ],
+    "id": 866138563712237569,
+    "id_str": "866138563712237569",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/E0rhqntxr9",
+            "expanded_url": "https://twitter.com/StacyMungo/status/866138563712237569/photo/1",
+            "id": 866138555147362305,
+            "media_url": "http://pbs.twimg.com/media/DAUkbUnUIAEiwBG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAUkbUnUIAEiwBG.jpg",
+            "type": "photo",
+            "url": "https://t.co/E0rhqntxr9"
+        }
+    ],
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Supporting charity on a Saturday night @lenagonzalezlb @krztaco @BrysonFinancial #longbeach  #boysandgirlsclub https://t.co/E0rhqntxr9",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 577,
+        "followers_count": 4411,
+        "friends_count": 2450,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2065,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 55487106,
+            "name": "Lena A. Gonzalez",
+            "screen_name": "lenagonzalezlb"
+        },
+        {
+            "id": 26651731,
+            "name": "Adam Carrillo",
+            "screen_name": "krztaco"
+        },
+        {
+            "id": 231610720,
+            "name": "Bryson Financial",
+            "screen_name": "BrysonFinancial"
+        }
+    ]
+}
