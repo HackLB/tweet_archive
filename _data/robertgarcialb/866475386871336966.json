@@ -1,0 +1,45 @@
+{
+    "created_at": "Mon May 22 02:06:45 +0000 2017",
+    "favorite_count": 16,
+    "hashtags": [],
+    "id": 866475386871336966,
+    "id_str": "866475386871336966",
+    "lang": "en",
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Love riding bikes in parades. Great way to promote sustainability and multimodal transit 🚲 🚲 https://t.co/aCLdkeEsKV",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/longbeachbikes/status/866360357555535872",
+            "url": "https://t.co/aCLdkeEsKV"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6702,
+        "followers_count": 14668,
+        "friends_count": 2204,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 262,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495168885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10444,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
