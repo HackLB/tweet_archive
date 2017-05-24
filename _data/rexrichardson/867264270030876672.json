@@ -1,0 +1,89 @@
+{
+    "created_at": "Wed May 24 06:21:29 +0000 2017",
+    "hashtags": [],
+    "id": 867264270030876672,
+    "id_str": "867264270030876672",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed May 24 03:49:52 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 867226115148046336,
+        "id_str": "867226115148046336",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "I love what's happening in uptown, and this just reinforces it. Ozo! https://t.co/LZ31XbrrkF",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/rexrichardson/status/867185302414082048",
+                "url": "https://t.co/LZ31XbrrkF"
+            }
+        ],
+        "user": {
+            "created_at": "Sun Apr 13 02:46:12 +0000 2008",
+            "description": "Hacker for hire, currently looking. 😍 museums, Python, open (data|source), motorcycles, photography. Proud father. Former Getty, Blizzard, Playboy, etc.",
+            "favourites_count": 2090,
+            "followers_count": 939,
+            "friends_count": 1583,
+            "id": 14372508,
+            "lang": "en",
+            "listed_count": 167,
+            "location": "37.391197,-121.977639",
+            "name": "(((Roger Howard)))",
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12898711/gnome.jpg",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/649748124240494592/hEYqdDZL_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "screen_name": "rogerhoward",
+            "statuses_count": 8604,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/4uGN5iDoV3",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @rogerhoward: I love what's happening in uptown, and this just reinforces it. Ozo! https://t.co/LZ31XbrrkF",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/rexrichardson/status/867185302414082048",
+            "url": "https://t.co/LZ31XbrrkF"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1660,
+        "followers_count": 2718,
+        "friends_count": 1405,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2433,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 14372508,
+            "name": "(((Roger Howard)))",
+            "screen_name": "rogerhoward"
+        }
+    ]
+}
