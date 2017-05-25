@@ -1,0 +1,98 @@
+{
+    "created_at": "Thu May 25 20:47:58 +0000 2017",
+    "hashtags": [],
+    "id": 867844713855860744,
+    "id_str": "867844713855860744",
+    "lang": "en",
+    "retweet_count": 126,
+    "retweeted_status": {
+        "created_at": "Thu May 25 05:18:35 +0000 2017",
+        "favorite_count": 523,
+        "hashtags": [],
+        "id": 867610827011964929,
+        "id_str": "867610827011964929",
+        "in_reply_to_screen_name": "RobertGarciaLB",
+        "in_reply_to_status_id": 867587496254644224,
+        "in_reply_to_user_id": 18120497,
+        "lang": "en",
+        "retweet_count": 126,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@RobertGarciaLB You should be Mayor of everything.",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Apr 11 13:36:12 +0000 2009",
+            "description": "Dog owner",
+            "favourites_count": 10321,
+            "followers_count": 257345,
+            "friends_count": 2493,
+            "id": 30447805,
+            "lang": "en",
+            "listed_count": 4345,
+            "location": "Earth-Prime",
+            "name": "Geoff Johns",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595004675591536641/c7VhfiZ_.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30447805/1494024923",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/840739352237883392/DzvD9JPD_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "geoffjohns",
+            "statuses_count": 7157,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/nvXCTXrYtg",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @geoffjohns: @RobertGarciaLB You should be Mayor of everything.",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6741,
+        "followers_count": 14740,
+        "friends_count": 2210,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 266,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10476,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 30447805,
+            "name": "Geoff Johns",
+            "screen_name": "geoffjohns"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
