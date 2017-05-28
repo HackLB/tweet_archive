@@ -1,0 +1,74 @@
+{
+    "created_at": "Sun May 28 19:22:20 +0000 2017",
+    "favorite_count": 6,
+    "hashtags": [
+        {
+            "text": "TeamGarcia"
+        }
+    ],
+    "id": 868910328842657792,
+    "id_str": "868910328842657792",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thinking about the awesome team I have at @LBMayorsOffice - @mwtaylor, @JustinLBC, @curleyt13, @marisolssamayoa, @pattontrek &amp; #TeamGarcia",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6775,
+        "followers_count": 14783,
+        "friends_count": 2214,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 262,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10490,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        },
+        {
+            "id": 15947712,
+            "name": "Mark W. Taylor",
+            "screen_name": "mwtaylor"
+        },
+        {
+            "id": 23988884,
+            "name": "Justin Ramirez",
+            "screen_name": "JustinLBC"
+        },
+        {
+            "id": 3270395184,
+            "name": "Tyler Bonanno-Curley",
+            "screen_name": "curleyt13"
+        },
+        {
+            "id": 1355325698,
+            "name": "Marisol Samayoa",
+            "screen_name": "marisolssamayoa"
+        },
+        {
+            "id": 388384033,
+            "name": "Tim",
+            "screen_name": "pattontrek"
+        }
+    ]
+}
