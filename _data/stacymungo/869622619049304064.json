@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue May 30 18:32:43 +0000 2017",
+    "hashtags": [
+        {
+            "text": "energy"
+        },
+        {
+            "text": "money"
+        },
+        {
+            "text": "EnergyEfficiency"
+        },
+        {
+            "text": "energysaving"
+        }
+    ],
+    "id": 869622619049304064,
+    "id_str": "869622619049304064",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue May 30 18:31:58 +0000 2017",
+        "hashtags": [
+            {
+                "text": "energy"
+            },
+            {
+                "text": "money"
+            },
+            {
+                "text": "EnergyEfficiency"
+            },
+            {
+                "text": "energysaving"
+            }
+        ],
+        "id": 869622429772951552,
+        "id_str": "869622429772951552",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Save #energy and #money during the hot season with @SCE rebates and incentives #EnergyEfficiency #energysaving… https://t.co/KooiVc0JGc",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/869622429772951552",
+                "url": "https://t.co/KooiVc0JGc"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Jan 12 00:05:54 +0000 2016",
+            "description": "@SCE #GovernmentAffairs serving @AvalonGov @LongBeachCity. Report outages at https://t.co/NdqYlK9EWH or call 800-611-1911.",
+            "favourites_count": 150,
+            "followers_count": 167,
+            "friends_count": 237,
+            "id": 4745598937,
+            "lang": "en",
+            "listed_count": 9,
+            "name": "Adeline Yoong",
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/686714696049668097/ICBlocKd.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4745598937/1472167601",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/686704316128690177/HJr5CMMC_normal.jpg",
+            "profile_link_color": "94D487",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "SCE_AdelineY",
+            "statuses_count": 341,
+            "url": "https://t.co/wro7FRLNct"
+        },
+        "user_mentions": [
+            {
+                "id": 16002973,
+                "name": "SCE",
+                "screen_name": "SCE"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SCE_AdelineY: Save #energy and #money during the hot season with @SCE rebates and incentives #EnergyEfficiency #energysaving https://t.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 585,
+        "followers_count": 4418,
+        "friends_count": 2090,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2068,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 4745598937,
+            "name": "Adeline Yoong",
+            "screen_name": "SCE_AdelineY"
+        },
+        {
+            "id": 16002973,
+            "name": "SCE",
+            "screen_name": "SCE"
+        }
+    ]
+}
