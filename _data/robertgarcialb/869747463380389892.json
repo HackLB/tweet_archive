@@ -1,0 +1,123 @@
+{
+    "created_at": "Wed May 31 02:48:49 +0000 2017",
+    "hashtags": [],
+    "id": 869747463380389892,
+    "id_str": "869747463380389892",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed May 31 02:43:40 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 869746168791572481,
+        "id_str": "869746168791572481",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.16529,
+                            33.782859
+                        ],
+                        [
+                            -118.16529,
+                            33.782859
+                        ],
+                        [
+                            -118.16529,
+                            33.782859
+                        ],
+                        [
+                            -118.16529,
+                            33.782859
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "United Cambodian Community",
+            "id": "07d9d7052d888000",
+            "name": "United Cambodian Community",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d7052d888000.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Upgrades to the Anaheim Corridor in Cambodia Town will improve public safety &amp; boost economic growth. Thanks to all… https://t.co/HFx3MqzQmT",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/869746168791572481",
+                "url": "https://t.co/HFx3MqzQmT"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "description": "Mayor Robert Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development. https://t.co/Ckx1LfyzDc",
+            "favourites_count": 4646,
+            "followers_count": 5082,
+            "friends_count": 1664,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 106,
+            "location": "Long Beach, CA",
+            "name": "LB Mayor's Office",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1495490907",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824325489368055809/9Fa0EGnL_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LBMayorsOffice",
+            "statuses_count": 3093,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBMayorsOffice: Upgrades to the Anaheim Corridor in Cambodia Town will improve public safety &amp; boost economic growth. Thanks to all who…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6800,
+        "followers_count": 14843,
+        "friends_count": 2214,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 267,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10520,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "LB Mayor's Office",
+            "screen_name": "LBMayorsOffice"
+        }
+    ]
+}
