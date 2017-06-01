@@ -1,0 +1,50 @@
+{
+    "created_at": "Thu Jun 01 19:20:17 +0000 2017",
+    "favorite_count": 20,
+    "hashtags": [
+        {
+            "text": "DTLB"
+        }
+    ],
+    "id": 870359362354651136,
+    "id_str": "870359362354651136",
+    "lang": "en",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "We broke ground on 3 developments today in #DTLB - projects include market rate &amp; affordable housing, green tech. T… https://t.co/UA7mWDgyak",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/870359362354651136",
+            "url": "https://t.co/UA7mWDgyak"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6815,
+        "followers_count": 14872,
+        "friends_count": 2216,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 264,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10535,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
