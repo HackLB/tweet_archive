@@ -1,0 +1,154 @@
+{
+    "created_at": "Fri Jun 02 14:37:43 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LACDMH"
+        },
+        {
+            "text": "MentalHealth"
+        }
+    ],
+    "id": 870650642024599554,
+    "id_str": "870650642024599554",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Jun 01 23:45:44 +0000 2017",
+        "favorite_count": 12,
+        "hashtags": [
+            {
+                "text": "LACDMH"
+            },
+            {
+                "text": "MentalHealth"
+            }
+        ],
+        "id": 870426168339464193,
+        "id_str": "870426168339464193",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks for supporting the #LACDMH #MentalHealth efforts in Long Beach! @SupJaniceHahn @211LACounty https://t.co/897IjKsS2x",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/supjanicehahn/status/870053787779481601",
+                "url": "https://t.co/897IjKsS2x"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Apr 25 21:57:00 +0000 2017",
+            "default_profile": true,
+            "description": "Official Account for the Director of the Los Angeles County Department of Mental Health @lacdmh",
+            "favourites_count": 381,
+            "followers_count": 232,
+            "friends_count": 565,
+            "geo_enabled": true,
+            "id": 856990453194825728,
+            "lang": "en",
+            "listed_count": 4,
+            "location": "Los Angeles, CA",
+            "name": "Dr. Jonathan Sherin",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/856990453194825728/1493224067",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/857270327172145152/LYAi_x50_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "directorLACDMH",
+            "statuses_count": 66,
+            "url": "https://t.co/0C0yhlSQeb"
+        },
+        "user_mentions": [
+            {
+                "id": 339852137,
+                "name": "Janice Hahn",
+                "screen_name": "SupJaniceHahn"
+            },
+            {
+                "id": 37046857,
+                "name": "211 LA County",
+                "screen_name": "211LACounty"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @directorLACDMH: Thanks for supporting the #LACDMH #MentalHealth efforts in Long Beach! @SupJaniceHahn @211LACounty https://t.co/897IjKs…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 587,
+        "followers_count": 4416,
+        "friends_count": 2091,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2069,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXvO5A",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 856990453194825728,
+            "name": "Dr. Jonathan Sherin",
+            "screen_name": "directorLACDMH"
+        },
+        {
+            "id": 339852137,
+            "name": "Janice Hahn",
+            "screen_name": "SupJaniceHahn"
+        },
+        {
+            "id": 37046857,
+            "name": "211 LA County",
+            "screen_name": "211LACounty"
+        }
+    ]
+}
