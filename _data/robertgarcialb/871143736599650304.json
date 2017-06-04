@@ -1,0 +1,52 @@
+{
+    "created_at": "Sat Jun 03 23:17:06 +0000 2017",
+    "hashtags": [],
+    "id": 871143736599650304,
+    "id_str": "871143736599650304",
+    "in_reply_to_screen_name": "catieisgreat",
+    "in_reply_to_status_id": 870859018436132865,
+    "in_reply_to_user_id": 1370583084,
+    "lang": "und",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@catieisgreat https://t.co/4dmsyTuiEi 👍🏼",
+    "urls": [
+        {
+            "expanded_url": "http://Robertgarcia.com",
+            "url": "https://t.co/4dmsyTuiEi"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6865,
+        "followers_count": 14980,
+        "friends_count": 2216,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 267,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10555,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1370583084,
+            "name": "catie butler",
+            "screen_name": "catieisgreat"
+        }
+    ]
+}
