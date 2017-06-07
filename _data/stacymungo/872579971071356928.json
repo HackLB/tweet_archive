@@ -1,0 +1,90 @@
+{
+    "coordinates": {
+        "coordinates": [
+            -79.0173,
+            43.0943
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Jun 07 22:24:11 +0000 2017",
+    "geo": {
+        "coordinates": [
+            43.0943,
+            -79.0173
+        ],
+        "type": "Point"
+    },
+    "hashtags": [],
+    "id": 872579971071356928,
+    "id_str": "872579971071356928",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.075086,
+                        43.07079
+                    ],
+                    [
+                        -78.942516,
+                        43.07079
+                    ],
+                    [
+                        -78.942516,
+                        43.132798
+                    ],
+                    [
+                        -79.075086,
+                        43.132798
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Niagara Falls, NY",
+        "id": "eec8e86da985fc44",
+        "name": "Niagara Falls",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/eec8e86da985fc44.json"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "Beautiful, dangerous waters. @ Niagara Falls, New York https://t.co/hYd7rRWGiw",
+    "urls": [
+        {
+            "expanded_url": "https://www.instagram.com/p/BVDhSHIhoXapbbi2c985dVpJ_g1WH-Oy_PTEJI0/",
+            "url": "https://t.co/hYd7rRWGiw"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 590,
+        "followers_count": 4416,
+        "friends_count": 2098,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2075,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
