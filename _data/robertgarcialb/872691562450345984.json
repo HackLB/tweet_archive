@@ -1,0 +1,113 @@
+{
+    "created_at": "Thu Jun 08 05:47:36 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 872691562450345984,
+    "id_str": "872691562450345984",
+    "lang": "en",
+    "retweet_count": 11,
+    "retweeted_status": {
+        "created_at": "Tue Jun 06 20:46:21 +0000 2017",
+        "favorite_count": 21,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 872192963685658624,
+        "id_str": "872192963685658624",
+        "lang": "en",
+        "retweet_count": 11,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@RobertGarciaLB announces new student village in Downtown #LongBeach, including a 21-story tower… https://t.co/ebGZoc3Vg5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/872192963685658624",
+                "url": "https://t.co/ebGZoc3Vg5"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Oct 04 16:39:28 +0000 2014",
+            "default_profile": true,
+            "description": "Covering real estate development, architecture and urban planning in the Greater Los Angeles Area.",
+            "favourites_count": 2412,
+            "followers_count": 3726,
+            "friends_count": 459,
+            "id": 2805696365,
+            "lang": "en",
+            "listed_count": 184,
+            "location": "Los Angeles",
+            "name": "Urbanize.LA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2805696365/1425857901",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/616304802029375488/cKsuaqJC_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "UrbanizeLA",
+            "statuses_count": 8037,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/LmNt4EMOdz",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @UrbanizeLA: .@RobertGarciaLB announces new student village in Downtown #LongBeach, including a 21-story tower https://t.co/JPgnCjAP00 h…",
+    "urls": [
+        {
+            "expanded_url": "https://urbanize.la/post/csulb-plans-student-village-downtown-long-beach",
+            "url": "https://t.co/JPgnCjAP00"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6927,
+        "followers_count": 15057,
+        "friends_count": 2219,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 264,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10577,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2805696365,
+            "name": "Urbanize.LA",
+            "screen_name": "UrbanizeLA"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
