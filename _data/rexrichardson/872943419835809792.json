@@ -1,0 +1,70 @@
+{
+    "created_at": "Thu Jun 08 22:28:24 +0000 2017",
+    "hashtags": [],
+    "id": 872943419835809792,
+    "id_str": "872943419835809792",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.243514,
+                        34.227224
+                    ],
+                    [
+                        -117.138867,
+                        34.227224
+                    ],
+                    [
+                        -117.138867,
+                        34.287832
+                    ],
+                    [
+                        -117.243514,
+                        34.287832
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lake Arrowhead, CA",
+        "id": "ba3324dacc8689fd",
+        "name": "Lake Arrowhead",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ba3324dacc8689fd.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\"If you don't cannibalize yourself, someone else will.\"\n-Steve Jobs\n\nEmbrace change. Think different.",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1668,
+        "followers_count": 2754,
+        "friends_count": 1441,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2442,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
