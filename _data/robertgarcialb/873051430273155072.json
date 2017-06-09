@@ -1,0 +1,55 @@
+{
+    "created_at": "Fri Jun 09 05:37:36 +0000 2017",
+    "favorite_count": 34,
+    "hashtags": [
+        {
+            "text": "WonderWoman"
+        }
+    ],
+    "id": 873051430273155072,
+    "id_str": "873051430273155072",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/NQt5AJj2vX",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/873051430273155072/photo/1",
+            "id": 873051416243298312,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DB2zoy_VYAgx-FB.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DB2zoy_VYAgx-FB.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/NQt5AJj2vX"
+        }
+    ],
+    "retweet_count": 11,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Me checking those #WonderWoman box office numbers and news stories like https://t.co/NQt5AJj2vX",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6932,
+        "followers_count": 15068,
+        "friends_count": 2219,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 266,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10586,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
