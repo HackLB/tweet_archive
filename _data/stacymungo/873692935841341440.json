@@ -1,0 +1,51 @@
+{
+    "created_at": "Sun Jun 11 00:06:42 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "Yelp"
+        },
+        {
+            "text": "Yelfie"
+        }
+    ],
+    "id": 873692935841341440,
+    "id_str": "873692935841341440",
+    "lang": "en",
+    "source": "<a href=\"http://www.yelp.com/\" rel=\"nofollow\">Yelp</a>",
+    "text": "Love Nick on 2nd. Beautiful afternoon to share with my hubby and friends! (@ Nick's on 2nd) #Yelp #Yelfie… https://t.co/zGGaNay8HL",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/873692935841341440",
+            "url": "https://t.co/zGGaNay8HL"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 604,
+        "followers_count": 4407,
+        "friends_count": 2112,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2077,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
