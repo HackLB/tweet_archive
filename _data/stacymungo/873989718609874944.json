@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun Jun 11 19:46:01 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [
+        {
+            "text": "gobeach"
+        },
+        {
+            "text": "csufalumni"
+        }
+    ],
+    "id": 873989718609874944,
+    "id_str": "873989718609874944",
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.13905477523804,
+                        33.77829568978398
+                    ],
+                    [
+                        -118.13905477523804,
+                        33.77829568978398
+                    ],
+                    [
+                        -118.13905477523804,
+                        33.77829568978398
+                    ],
+                    [
+                        -118.13905477523804,
+                        33.77829568978398
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Blair Field",
+        "id": "07d9e3eb53c82000",
+        "name": "Blair Field",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e3eb53c82000.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Hanging with the girls on the 3rd base line. No matter which team wins, My Team Wins! #gobeach #csufalumni @csuf… https://t.co/rKa91H0q7i",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/873989718609874944",
+            "url": "https://t.co/rKa91H0q7i"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 605,
+        "followers_count": 4410,
+        "friends_count": 2112,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2079,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 15225105,
+            "name": "Cal State Fullerton",
+            "screen_name": "csuf"
+        }
+    ]
+}
