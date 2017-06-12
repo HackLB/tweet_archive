@@ -1,0 +1,227 @@
+{
+    "created_at": "Mon Jun 12 15:55:05 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LBUSD"
+        },
+        {
+            "text": "Gradwalk2017"
+        }
+    ],
+    "id": 874293990706642945,
+    "id_str": "874293990706642945",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/j1gDx47mjO",
+            "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+            "id": 874286623424258048,
+            "media_url": "http://pbs.twimg.com/media/DCIXDUUUIAAULGc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCIXDUUUIAAULGc.jpg",
+            "type": "photo",
+            "url": "https://t.co/j1gDx47mjO"
+        },
+        {
+            "display_url": "pic.twitter.com/j1gDx47mjO",
+            "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+            "id": 874286638532132865,
+            "media_url": "http://pbs.twimg.com/media/DCIXEMmUAAE1Aqe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCIXEMmUAAE1Aqe.jpg",
+            "type": "photo",
+            "url": "https://t.co/j1gDx47mjO"
+        },
+        {
+            "display_url": "pic.twitter.com/j1gDx47mjO",
+            "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+            "id": 874286657293307904,
+            "media_url": "http://pbs.twimg.com/media/DCIXFSfU0AAaGI-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCIXFSfU0AAaGI-.jpg",
+            "type": "photo",
+            "url": "https://t.co/j1gDx47mjO"
+        },
+        {
+            "display_url": "pic.twitter.com/j1gDx47mjO",
+            "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+            "id": 874286680986931206,
+            "media_url": "http://pbs.twimg.com/media/DCIXGqwU0AYKwZC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCIXGqwU0AYKwZC.jpg",
+            "type": "photo",
+            "url": "https://t.co/j1gDx47mjO"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Mon Jun 12 15:26:06 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "LBUSD"
+            },
+            {
+                "text": "Gradwalk2017"
+            }
+        ],
+        "id": 874286696937906176,
+        "id_str": "874286696937906176",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/j1gDx47mjO",
+                "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+                "id": 874286623424258048,
+                "media_url": "http://pbs.twimg.com/media/DCIXDUUUIAAULGc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DCIXDUUUIAAULGc.jpg",
+                "type": "photo",
+                "url": "https://t.co/j1gDx47mjO"
+            },
+            {
+                "display_url": "pic.twitter.com/j1gDx47mjO",
+                "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+                "id": 874286638532132865,
+                "media_url": "http://pbs.twimg.com/media/DCIXEMmUAAE1Aqe.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DCIXEMmUAAE1Aqe.jpg",
+                "type": "photo",
+                "url": "https://t.co/j1gDx47mjO"
+            },
+            {
+                "display_url": "pic.twitter.com/j1gDx47mjO",
+                "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+                "id": 874286657293307904,
+                "media_url": "http://pbs.twimg.com/media/DCIXFSfU0AAaGI-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DCIXFSfU0AAaGI-.jpg",
+                "type": "photo",
+                "url": "https://t.co/j1gDx47mjO"
+            },
+            {
+                "display_url": "pic.twitter.com/j1gDx47mjO",
+                "expanded_url": "https://twitter.com/megankerr/status/874286696937906176/photo/1",
+                "id": 874286680986931206,
+                "media_url": "http://pbs.twimg.com/media/DCIXGqwU0AYKwZC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DCIXGqwU0AYKwZC.jpg",
+                "type": "photo",
+                "url": "https://t.co/j1gDx47mjO"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "So proud of our #LBUSD Jordan High grade! #Gradwalk2017 @lbpost @presstelegram https://t.co/j1gDx47mjO",
+        "urls": [],
+        "user": {
+            "created_at": "Wed Dec 31 21:11:51 +0000 2008",
+            "description": "Partner, parent, education advocate, School Board Member. Feminist. Rescue dog Foster mom. LBC. views very clearly my own. RT≠endorsement",
+            "favourites_count": 11079,
+            "followers_count": 1203,
+            "friends_count": 2875,
+            "geo_enabled": true,
+            "id": 18516432,
+            "lang": "en",
+            "listed_count": 47,
+            "location": "Long Beach",
+            "name": "Megan Kerr",
+            "profile_background_color": "071A29",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/858725935/bfe966dc4068f11ec714b370d9b4c0ae.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18516432/1456703760",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798001913820123141/q1dE9vdb_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_fill_color": "448C20",
+            "profile_text_color": "3FA750",
+            "screen_name": "megankerr",
+            "statuses_count": 10399,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/UWIhiBCxIa",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 17244156,
+                "name": "lbpost",
+                "screen_name": "lbpost"
+            },
+            {
+                "id": 163633469,
+                "name": "LB Press-Telegram",
+                "screen_name": "presstelegram"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @megankerr: So proud of our #LBUSD Jordan High grade! #Gradwalk2017 @lbpost @presstelegram https://t.co/j1gDx47mjO",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #UrbanRevitalization.",
+        "favourites_count": 1671,
+        "followers_count": 2761,
+        "friends_count": 1447,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "rexrichardson",
+        "statuses_count": 2445,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18516432,
+            "name": "Megan Kerr",
+            "screen_name": "megankerr"
+        },
+        {
+            "id": 17244156,
+            "name": "lbpost",
+            "screen_name": "lbpost"
+        },
+        {
+            "id": 163633469,
+            "name": "LB Press-Telegram",
+            "screen_name": "presstelegram"
+        }
+    ]
+}
