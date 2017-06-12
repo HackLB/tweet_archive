@@ -1,0 +1,108 @@
+{
+    "created_at": "Mon Jun 12 18:02:05 +0000 2017",
+    "hashtags": [],
+    "id": 874325949105414144,
+    "id_str": "874325949105414144",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Mon Jun 12 17:43:29 +0000 2017",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 874321270971572224,
+        "id_str": "874321270971572224",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Mayors @RobertGarciaLB and @MayorOfLA sign an updated Clean Air Action Plan moving the ports of LA and LB closer to… https://t.co/LlB4I08AMm",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/874321270971572224",
+                "url": "https://t.co/LlB4I08AMm"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Oct 23 18:53:39 +0000 2012",
+            "description": "Reporter @KFIAM640 in Los Angeles. Former DC Bureau Chief & Transportation Reporter @WNEW Newsradio 99.1 FM @cbsradio @penn_state grad",
+            "favourites_count": 648,
+            "followers_count": 1115,
+            "friends_count": 1658,
+            "geo_enabled": true,
+            "id": 900395971,
+            "lang": "en",
+            "listed_count": 53,
+            "location": "Los Angeles, CA",
+            "name": "Kris Ankarlo",
+            "profile_background_color": "030103",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691801096/530305ee54dcd37a33244a09f7f62844.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/900395971/1471146381",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2755665476/1a38ff94f8393fb412393b2d5033e2d6_normal.png",
+            "profile_link_color": "947974",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "FA8459",
+            "screen_name": "KrisAnkarlo",
+            "statuses_count": 6732,
+            "url": "https://t.co/98n9Fo5VvR"
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 17070113,
+                "name": "Mayor Eric Garcetti",
+                "screen_name": "MayorOfLA"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @KrisAnkarlo: Mayors @RobertGarciaLB and @MayorOfLA sign an updated Clean Air Action Plan moving the ports of LA and LB closer to goal o…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6968,
+        "followers_count": 15119,
+        "friends_count": 2221,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 267,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10609,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 900395971,
+            "name": "Kris Ankarlo",
+            "screen_name": "KrisAnkarlo"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 17070113,
+            "name": "Mayor Eric Garcetti",
+            "screen_name": "MayorOfLA"
+        }
+    ]
+}
