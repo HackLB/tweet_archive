@@ -1,0 +1,53 @@
+{
+    "created_at": "Thu Jun 15 22:45:45 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 875484500867690496,
+    "id_str": "875484500867690496",
+    "in_reply_to_screen_name": "BeatrizVNews",
+    "in_reply_to_status_id": 875470019290742785,
+    "in_reply_to_user_id": 123639712,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BeatrizVNews @grobaty U guys are killing me",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6993,
+        "followers_count": 15130,
+        "friends_count": 2224,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 267,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10643,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 123639712,
+            "name": "Beatriz Valenzuela",
+            "screen_name": "BeatrizVNews"
+        },
+        {
+            "id": 39250553,
+            "name": "tim grobaty",
+            "screen_name": "grobaty"
+        }
+    ]
+}
