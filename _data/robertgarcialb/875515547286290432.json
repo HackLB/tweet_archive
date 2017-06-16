@@ -1,0 +1,93 @@
+{
+    "created_at": "Fri Jun 16 00:49:07 +0000 2017",
+    "hashtags": [],
+    "id": 875515547286290432,
+    "id_str": "875515547286290432",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Jun 16 00:48:00 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 875515267249393664,
+        "id_str": "875515267249393664",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\"Our cities know we can’t fight climate change alone...\" https://t.co/IBs0TDiIc0",
+        "urls": [
+            {
+                "expanded_url": "https://nextcity.org/daily/entry/los-angeles-long-beach-mayors-zero-emissions-pact-ports",
+                "url": "https://t.co/IBs0TDiIc0"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Sep 16 16:50:26 +0000 2008",
+            "description": "We are a nonprofit organization with a mission to inspire social, economic and environmental change in cities through journalism and events around the world.",
+            "favourites_count": 7855,
+            "followers_count": 95430,
+            "friends_count": 3240,
+            "geo_enabled": true,
+            "id": 16313140,
+            "lang": "en",
+            "listed_count": 3781,
+            "name": "Next City",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/424950979/4544739144_82c537ef33_z.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16313140/1476115319",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3153648093/594cd263fd7c3d95dd2e32ec1ee307ea_normal.jpeg",
+            "profile_link_color": "14ADFF",
+            "profile_sidebar_fill_color": "F5F2F2",
+            "profile_text_color": "000000",
+            "screen_name": "NextCityOrg",
+            "statuses_count": 37351,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/yYcItrdM5T",
+            "utc_offset": -14400
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @NextCityOrg: \"Our cities know we can’t fight climate change alone...\" https://t.co/IBs0TDiIc0",
+    "urls": [
+        {
+            "expanded_url": "https://nextcity.org/daily/entry/los-angeles-long-beach-mayors-zero-emissions-pact-ports",
+            "url": "https://t.co/IBs0TDiIc0"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LBMayorsOffice.",
+        "favourites_count": 6992,
+        "followers_count": 15118,
+        "friends_count": 2224,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 265,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10644,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16313140,
+            "name": "Next City",
+            "screen_name": "NextCityOrg"
+        }
+    ]
+}
