@@ -1,0 +1,51 @@
+{
+    "created_at": "Thu Jun 22 04:19:14 +0000 2017",
+    "favorite_count": 41,
+    "hashtags": [],
+    "id": 877742754251407362,
+    "id_str": "877742754251407362",
+    "lang": "en",
+    "retweet_count": 9,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "ICYMI: My visit to @DCComics Entertainment today:\n\nhttps://t.co/ksdhywOQ4I",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/moments/877739106331090944",
+            "url": "https://t.co/ksdhywOQ4I"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7073,
+        "followers_count": 15410,
+        "friends_count": 2236,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 269,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10691,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18173624,
+            "name": "DC",
+            "screen_name": "DCComics"
+        }
+    ]
+}
