@@ -1,0 +1,91 @@
+{
+    "created_at": "Thu Jun 22 19:44:29 +0000 2017",
+    "hashtags": [],
+    "id": 877975599238725633,
+    "id_str": "877975599238725633",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Jun 22 19:43:33 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 877975363195781121,
+        "id_str": "877975363195781121",
+        "lang": "en",
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thank you for your leadership 👊🏽 https://t.co/dWUuTxB2M4",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/robertgarcialb/status/877974463777718272",
+                "url": "https://t.co/dWUuTxB2M4"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jan 10 23:09:12 +0000 2015",
+            "description": "We advocate for transportation investments that strengthen the lives of our families and neighbors #MetroFundWalkBike #JustGrowth #MeasureM #LASidewalks",
+            "favourites_count": 2080,
+            "followers_count": 1707,
+            "friends_count": 633,
+            "geo_enabled": true,
+            "id": 2973260203,
+            "lang": "en",
+            "listed_count": 71,
+            "location": "Los Angeles County",
+            "name": "Investing in Place",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2973260203/1423598192",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/564200558047666176/_NlUhKED_normal.png",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "InvestinPlace",
+            "statuses_count": 3527,
+            "url": "https://t.co/0zZhN2dxXS"
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @InvestinPlace: Thank you for your leadership 👊🏽 https://t.co/dWUuTxB2M4",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/robertgarcialb/status/877974463777718272",
+            "url": "https://t.co/dWUuTxB2M4"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7080,
+        "followers_count": 15479,
+        "friends_count": 2236,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 268,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10697,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2973260203,
+            "name": "Investing in Place",
+            "screen_name": "InvestinPlace"
+        }
+    ]
+}
