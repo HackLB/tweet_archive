@@ -1,0 +1,152 @@
+{
+    "created_at": "Fri Jun 23 17:23:18 +0000 2017",
+    "hashtags": [],
+    "id": 878302456555356160,
+    "id_str": "878302456555356160",
+    "lang": "en",
+    "retweet_count": 12,
+    "retweeted_status": {
+        "created_at": "Fri Jun 23 17:18:18 +0000 2017",
+        "favorite_count": 29,
+        "hashtags": [
+            {
+                "text": "uscm2017"
+            }
+        ],
+        "id": 878301200424116224,
+        "id_str": "878301200424116224",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -80.147162,
+                            25.7613083
+                        ],
+                        [
+                            -80.1187628,
+                            25.7613083
+                        ],
+                        [
+                            -80.1187628,
+                            25.872623
+                        ],
+                        [
+                            -80.147162,
+                            25.872623
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Miami Beach, FL",
+            "id": "0121b92345f0e2b4",
+            "name": "Miami Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/0121b92345f0e2b4.json"
+        },
+        "retweet_count": 12,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Congratulations to Mayors @RobertGarciaLB, @SteveBenjaminSC, &amp; @NewtonMAMayor on receiving awards for protecting our climate. #uscm2017",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jun 05 00:38:38 +0000 2008",
+            "description": "The United States Conference of Mayors. Official non-partisan organization of cities 30,000 in population and larger, each represented by their mayor.",
+            "favourites_count": 324,
+            "followers_count": 17116,
+            "friends_count": 1246,
+            "geo_enabled": true,
+            "id": 15012352,
+            "lang": "en",
+            "listed_count": 530,
+            "location": "Washington, DC",
+            "name": "U.S. Mayors",
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/283338750/Background-2011-97.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012352/1421613505",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875464044244856832/uEXpLz3h_normal.jpg",
+            "profile_link_color": "D80000",
+            "profile_sidebar_fill_color": "E4868A",
+            "profile_text_color": "000000",
+            "screen_name": "usmayors",
+            "statuses_count": 2906,
+            "time_zone": "America/New_York",
+            "url": "https://t.co/n7ks9mJgYK",
+            "utc_offset": -14400
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 19842742,
+                "name": "Steve Benjamin",
+                "screen_name": "SteveBenjaminSC"
+            },
+            {
+                "id": 40267916,
+                "name": "Mayor Setti Warren",
+                "screen_name": "NewtonMAMayor"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @usmayors: Congratulations to Mayors @RobertGarciaLB, @SteveBenjaminSC, &amp; @NewtonMAMayor on receiving awards for protecting our climate.…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7093,
+        "followers_count": 15513,
+        "friends_count": 2236,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 272,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10701,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 15012352,
+            "name": "U.S. Mayors",
+            "screen_name": "usmayors"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 19842742,
+            "name": "Steve Benjamin",
+            "screen_name": "SteveBenjaminSC"
+        },
+        {
+            "id": 40267916,
+            "name": "Mayor Setti Warren",
+            "screen_name": "NewtonMAMayor"
+        }
+    ]
+}
