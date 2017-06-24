@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Jun 24 17:45:19 +0000 2017",
+    "hashtags": [
+        {
+            "text": "newmascots"
+        },
+        {
+            "text": "RamPride"
+        },
+        {
+            "text": "tastethehorns"
+        }
+    ],
+    "id": 878670387604631552,
+    "id_str": "878670387604631552",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/tggy8n7e9N",
+            "expanded_url": "https://twitter.com/RamHiASB/status/877646053075329024/photo/1",
+            "id": 877646045299097600,
+            "media_url": "http://pbs.twimg.com/media/DC4GbaCUQAADBvq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DC4GbaCUQAADBvq.jpg",
+            "type": "photo",
+            "url": "https://t.co/tggy8n7e9N"
+        }
+    ],
+    "retweet_count": 13,
+    "retweeted_status": {
+        "created_at": "Wed Jun 21 21:54:59 +0000 2017",
+        "favorite_count": 52,
+        "hashtags": [
+            {
+                "text": "newmascots"
+            },
+            {
+                "text": "RamPride"
+            },
+            {
+                "text": "tastethehorns"
+            }
+        ],
+        "id": 877646053075329024,
+        "id_str": "877646053075329024",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tggy8n7e9N",
+                "expanded_url": "https://twitter.com/RamHiASB/status/877646053075329024/photo/1",
+                "id": 877646045299097600,
+                "media_url": "http://pbs.twimg.com/media/DC4GbaCUQAADBvq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DC4GbaCUQAADBvq.jpg",
+                "type": "photo",
+                "url": "https://t.co/tggy8n7e9N"
+            }
+        ],
+        "retweet_count": 13,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This is the start of something good...💙💛💙💛 #newmascots #RamPride #tastethehorns https://t.co/tggy8n7e9N",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Jan 11 22:07:46 +0000 2015",
+            "default_profile": true,
+            "description": "The OFFICIAL Twitter account for Millikan High School ASB. We tweet so you know. Follow us on Instagram too @RAMHIASB",
+            "favourites_count": 3271,
+            "followers_count": 1052,
+            "friends_count": 58,
+            "geo_enabled": true,
+            "id": 2975388774,
+            "lang": "en",
+            "listed_count": 2,
+            "name": "Millikan ASB",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975388774/1476365392",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/759147398731931648/J_dHxGWb_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RamHiASB",
+            "statuses_count": 3407
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RamHiASB: This is the start of something good...💙💛💙💛 #newmascots #RamPride #tastethehorns https://t.co/tggy8n7e9N",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 618,
+        "followers_count": 4444,
+        "friends_count": 2745,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2085,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2975388774,
+            "name": "Millikan ASB",
+            "screen_name": "RamHiASB"
+        }
+    ]
+}
