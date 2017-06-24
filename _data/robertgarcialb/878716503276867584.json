@@ -1,0 +1,63 @@
+{
+    "created_at": "Sat Jun 24 20:48:34 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 878716503276867584,
+    "id_str": "878716503276867584",
+    "in_reply_to_screen_name": "raylancione",
+    "in_reply_to_status_id": 878686663798538240,
+    "in_reply_to_user_id": 624356447,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@raylancione @LongBeachCity @usmayors @ClimateMayors I did 3 sets of bicep curls bro 💪🏼",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7108,
+        "followers_count": 15534,
+        "friends_count": 2239,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 271,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10718,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 624356447,
+            "name": "Raytings 🎮",
+            "screen_name": "raylancione"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 15012352,
+            "name": "U.S. Mayors",
+            "screen_name": "usmayors"
+        },
+        {
+            "id": 3232850910,
+            "name": "The Climate Mayors",
+            "screen_name": "ClimateMayors"
+        }
+    ]
+}
