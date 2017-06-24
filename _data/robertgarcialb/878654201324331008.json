@@ -1,0 +1,133 @@
+{
+    "created_at": "Sat Jun 24 16:41:00 +0000 2017",
+    "hashtags": [
+        {
+            "text": "uscm2017"
+        }
+    ],
+    "id": 878654201324331008,
+    "id_str": "878654201324331008",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Sat Jun 24 15:57:29 +0000 2017",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "uscm2017"
+            }
+        ],
+        "id": 878643249925193728,
+        "id_str": "878643249925193728",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZfTmk8XJus",
+                "expanded_url": "https://twitter.com/QuorumAnalytics/status/878643249925193728/photo/1",
+                "id": 878643242853707776,
+                "media_url": "http://pbs.twimg.com/media/DDGRX8aXsAALHj9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DDGRX8aXsAALHj9.jpg",
+                "type": "photo",
+                "url": "https://t.co/ZfTmk8XJus"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": ".@NYCMayor and @RobertGarciaLB lead @USMayors as most vocal on climate in 2017 thus far. #uscm2017 https://t.co/ZfTmk8XJus",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Jan 24 18:21:59 +0000 2014",
+            "description": "Know before there is a problem in DC, all 50 state capitols, and 6,500 municipalities across the country.",
+            "favourites_count": 816,
+            "followers_count": 3139,
+            "friends_count": 1766,
+            "geo_enabled": true,
+            "id": 2308777051,
+            "lang": "en",
+            "listed_count": 141,
+            "location": "Washington, DC",
+            "name": "Quorum",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2308777051/1421376831",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/869886907001516032/XlLVhuO5_normal.jpg",
+            "profile_link_color": "3D3262",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "QuorumAnalytics",
+            "statuses_count": 1759,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/7it6E20pQt",
+            "utc_offset": -14400
+        },
+        "user_mentions": [
+            {
+                "id": 19834403,
+                "name": "Bill de Blasio",
+                "screen_name": "NYCMayor"
+            },
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 15012352,
+                "name": "U.S. Mayors",
+                "screen_name": "usmayors"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @QuorumAnalytics: .@NYCMayor and @RobertGarciaLB lead @USMayors as most vocal on climate in 2017 thus far. #uscm2017 https://t.co/ZfTmk8…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7102,
+        "followers_count": 15532,
+        "friends_count": 2239,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 270,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10710,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2308777051,
+            "name": "Quorum",
+            "screen_name": "QuorumAnalytics"
+        },
+        {
+            "id": 19834403,
+            "name": "Bill de Blasio",
+            "screen_name": "NYCMayor"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 15012352,
+            "name": "U.S. Mayors",
+            "screen_name": "usmayors"
+        }
+    ]
+}
