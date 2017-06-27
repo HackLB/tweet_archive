@@ -1,0 +1,96 @@
+{
+    "created_at": "Tue Jun 27 04:04:31 +0000 2017",
+    "hashtags": [],
+    "id": 879550986880114688,
+    "id_str": "879550986880114688",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Tue Jun 27 03:39:13 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [],
+        "id": 879544619616288769,
+        "id_str": "879544619616288769",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Another reason to locate your business in @LongBeachCity--we're investing in infrastructure that supports multiple… https://t.co/laf3OpQGau",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/879544619616288769",
+                "url": "https://t.co/laf3OpQGau"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jan 23 22:22:18 +0000 2017",
+            "default_profile": true,
+            "description": "The mission of the Long Beach Economic Development Department is to create economic opportunities for workers, investors, and entrepreneurs.",
+            "favourites_count": 515,
+            "followers_count": 211,
+            "friends_count": 267,
+            "geo_enabled": true,
+            "id": 823657136274096130,
+            "lang": "en",
+            "listed_count": 9,
+            "location": "Long Beach, CA",
+            "name": "LB EconDev",
+            "profile_background_color": "F5F8FA",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/823657136274096130/1493232638",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/857311449269403648/rgkPxYIM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBEconDev",
+            "statuses_count": 186
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBEconDev: Another reason to locate your business in @LongBeachCity--we're investing in infrastructure that supports multiple modes of…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 623,
+        "followers_count": 4520,
+        "friends_count": 3054,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2091,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 823657136274096130,
+            "name": "LB EconDev",
+            "screen_name": "LBEconDev"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
