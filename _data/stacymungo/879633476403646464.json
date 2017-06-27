@@ -1,0 +1,103 @@
+{
+    "created_at": "Tue Jun 27 09:32:18 +0000 2017",
+    "hashtags": [
+        {
+            "text": "ClassAct"
+        },
+        {
+            "text": "NBAAwards"
+        },
+        {
+            "text": "MVP"
+        }
+    ],
+    "id": 879633476403646464,
+    "id_str": "879633476403646464",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/4zKF6Pj9yc",
+            "expanded_url": "https://twitter.com/StacyMungo/status/879633476403646464/photo/1",
+            "id": 879633467843108865,
+            "media_url": "http://pbs.twimg.com/media/DDUV-n9VYAEDZ0q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DDUV-n9VYAEDZ0q.jpg",
+            "type": "photo",
+            "url": "https://t.co/4zKF6Pj9yc"
+        }
+    ],
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Proud of @LongBeachCity born @russwest44 -- #ClassAct #NBAAwards #MVP acceptance speech. https://t.co/4zKF6Pj9yc",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 624,
+        "followers_count": 4527,
+        "friends_count": 3150,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2092,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 35982046,
+            "name": "Russell Westbrook",
+            "screen_name": "russwest44"
+        }
+    ]
+}
