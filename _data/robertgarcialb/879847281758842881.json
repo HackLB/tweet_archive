@@ -1,0 +1,144 @@
+{
+    "created_at": "Tue Jun 27 23:41:53 +0000 2017",
+    "hashtags": [],
+    "id": 879847281758842881,
+    "id_str": "879847281758842881",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Jun 27 23:41:34 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 879847201400160256,
+        "id_str": "879847201400160256",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.1395461553979,
+                            33.81472207594719
+                        ],
+                        [
+                            -118.1395461553979,
+                            33.81472207594719
+                        ],
+                        [
+                            -118.1395461553979,
+                            33.81472207594719
+                        ],
+                        [
+                            -118.1395461553979,
+                            33.81472207594719
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "LBFD Headquarters",
+            "id": "07d9d30db7085000",
+            "name": "LBFD Headquarters",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d30db7085000.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Thanks to the hard work of @lbfd &amp; @LBPD, about 5,000 lbs of illegal fireworks were confiscated. Fireworks pose a d… https://t.co/f1zlm2iXHH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/879847201400160256",
+                "url": "https://t.co/f1zlm2iXHH"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "description": "Mayor Robert Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development. https://t.co/S8aVqpqXiB",
+            "favourites_count": 5301,
+            "followers_count": 5316,
+            "friends_count": 1707,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 109,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Mayor",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1495490907",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824325489368055809/9Fa0EGnL_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachMayor",
+            "statuses_count": 3287,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire (CA)",
+                "screen_name": "lbfd"
+            },
+            {
+                "id": 50097116,
+                "name": "Long Beach PD (CA)",
+                "screen_name": "LBPD"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachMayor: Thanks to the hard work of @lbfd &amp; @LBPD, about 5,000 lbs of illegal fireworks were confiscated. Fireworks pose a dange…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7192,
+        "followers_count": 15799,
+        "friends_count": 2245,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 270,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10749,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "Long Beach Mayor",
+            "screen_name": "LongBeachMayor"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire (CA)",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        }
+    ]
+}
