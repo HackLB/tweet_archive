@@ -1,0 +1,50 @@
+{
+    "created_at": "Wed Jun 28 21:57:13 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 880183328086777857,
+    "id_str": "880183328086777857",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/oPTSVTjzla",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/880183328086777857/photo/1",
+            "id": 880183322160254977,
+            "media_url": "http://pbs.twimg.com/media/DDcKEW6V0AEucwg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DDcKEW6V0AEucwg.jpg",
+            "type": "photo",
+            "url": "https://t.co/oPTSVTjzla"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "In front of my favorite mural in Long Beach, located in DTLB 👇🏽 https://t.co/oPTSVTjzla",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7200,
+        "followers_count": 15824,
+        "friends_count": 2245,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 277,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10752,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
