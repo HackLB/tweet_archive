@@ -1,0 +1,149 @@
+{
+    "created_at": "Thu Jun 29 18:28:22 +0000 2017",
+    "hashtags": [],
+    "id": 880493160371060736,
+    "id_str": "880493160371060736",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Thu Jun 29 18:27:39 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 880492978564849664,
+        "id_str": "880492978564849664",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/WSIF8V0lsE",
+                "expanded_url": "https://twitter.com/LongBeachMayor/status/880492978564849664/photo/1",
+                "id": 880492974055882752,
+                "media_url": "http://pbs.twimg.com/media/DDgjseHUAAADRCX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DDgjseHUAAADRCX.jpg",
+                "type": "photo",
+                "url": "https://t.co/WSIF8V0lsE"
+            }
+        ],
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Proud that our @LBPD will begin taking over the safety and security of the @metrolosangeles Blue Line https://t.co/WSIF8V0lsE",
+        "urls": [],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "description": "Mayor Robert Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development. https://t.co/S8aVqpqXiB",
+            "favourites_count": 5338,
+            "followers_count": 5333,
+            "friends_count": 1710,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 109,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Mayor",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1495490907",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824325489368055809/9Fa0EGnL_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachMayor",
+            "statuses_count": 3293,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 50097116,
+                "name": "Long Beach PD (CA)",
+                "screen_name": "LBPD"
+            },
+            {
+                "id": 14631598,
+                "name": "Metro",
+                "screen_name": "metrolosangeles"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachMayor: Proud that our @LBPD will begin taking over the safety and security of the @metrolosangeles Blue Line https://t.co/WSIF…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7202,
+        "followers_count": 15848,
+        "friends_count": 2246,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 270,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10756,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "Long Beach Mayor",
+            "screen_name": "LongBeachMayor"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        },
+        {
+            "id": 14631598,
+            "name": "Metro",
+            "screen_name": "metrolosangeles"
+        }
+    ]
+}
