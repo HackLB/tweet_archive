@@ -1,0 +1,75 @@
+{
+    "created_at": "Sat Jul 01 05:34:04 +0000 2017",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 881023077403967488,
+    "id_str": "881023077403967488",
+    "in_reply_to_screen_name": "StacyMungo",
+    "in_reply_to_status_id": 881022156326531072,
+    "in_reply_to_user_id": 189649184,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Just under 90 minutes and still working it.",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 624,
+        "followers_count": 4547,
+        "friends_count": 3168,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2097,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
