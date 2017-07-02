@@ -1,0 +1,103 @@
+{
+    "created_at": "Sun Jul 02 07:12:34 +0000 2017",
+    "hashtags": [],
+    "id": 881410250158387200,
+    "id_str": "881410250158387200",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Fri Jun 30 22:51:11 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [],
+        "id": 880921685490151424,
+        "id_str": "880921685490151424",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Remember ALL fireworks are ILLEGAL in @LongBeachCity! 🚫 Stay safe this Fourth of July Weekend! https://t.co/P4hvSQtoy5",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/lbfd/status/880892289781911552",
+                "url": "https://t.co/P4hvSQtoy5"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Dec 17 17:45:17 +0000 2008",
+            "description": "The official Twitter for Long Beach Development Services - building a dynamic City that honors its past and embraces the future. https://t.co/wis2kPIewC",
+            "favourites_count": 416,
+            "followers_count": 1851,
+            "friends_count": 235,
+            "geo_enabled": true,
+            "id": 18194366,
+            "lang": "en",
+            "listed_count": 61,
+            "location": "Long Beach, CA",
+            "name": "LB Development",
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/26246927/twitter_image2.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18194366/1441225324",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/730318245756952576/EZFGFfel_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "0F0C0B",
+            "screen_name": "LongBeachBuilds",
+            "statuses_count": 1433,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/mqtwwUMkA4",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachBuilds: Remember ALL fireworks are ILLEGAL in @LongBeachCity! 🚫 Stay safe this Fourth of July Weekend! https://t.co/P4hvSQtoy5",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/lbfd/status/880892289781911552",
+            "url": "https://t.co/P4hvSQtoy5"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 626,
+        "followers_count": 4553,
+        "friends_count": 3192,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2100,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 18194366,
+            "name": "LB Development",
+            "screen_name": "LongBeachBuilds"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
