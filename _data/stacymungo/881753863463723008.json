@@ -1,0 +1,100 @@
+{
+    "created_at": "Mon Jul 03 05:57:57 +0000 2017",
+    "hashtags": [
+        {
+            "text": "4thofjulyweekend"
+        },
+        {
+            "text": "FireworkFreeLB"
+        }
+    ],
+    "id": 881753863463723008,
+    "id_str": "881753863463723008",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Fri Jun 30 22:12:52 +0000 2017",
+        "favorite_count": 7,
+        "hashtags": [
+            {
+                "text": "4thofjulyweekend"
+            }
+        ],
+        "id": 880912043489894400,
+        "id_str": "880912043489894400",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Think about your pets 🐱🐶 this #4thofjulyweekend and remember all fireworks are illegal in Long Beach.… https://t.co/Qx8rYxZDng",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/880912043489894400",
+                "url": "https://t.co/Qx8rYxZDng"
+            }
+        ],
+        "user": {
+            "created_at": "Sat May 09 05:52:27 +0000 2009",
+            "description": "The official Twitter for the City of Long Beach - an innovative, walkable, diverse, business-friendly, award-winning coastal City. https://t.co/cahGxgDjPQ",
+            "favourites_count": 1773,
+            "followers_count": 76968,
+            "friends_count": 1351,
+            "geo_enabled": true,
+            "id": 38808088,
+            "lang": "en",
+            "listed_count": 487,
+            "location": "Long Beach, Calif.",
+            "name": "City of Long Beach",
+            "profile_background_color": "00497C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555515958/twitte_bg.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808088/1498859161",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/880902356086304768/nnxUErIm_normal.jpg",
+            "profile_link_color": "00497C",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "LongBeachCity",
+            "statuses_count": 7524,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/pbU79Tlp",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachCity: Think about your pets 🐱🐶 this #4thofjulyweekend and remember all fireworks are illegal in Long Beach. #FireworkFreeLB 💥🚫…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 626,
+        "followers_count": 4554,
+        "friends_count": 3197,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2104,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
