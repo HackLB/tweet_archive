@@ -1,0 +1,100 @@
+{
+    "created_at": "Wed Jul 05 21:15:18 +0000 2017",
+    "hashtags": [],
+    "id": 882709494970564608,
+    "id_str": "882709494970564608",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Wed Jul 05 19:20:10 +0000 2017",
+        "favorite_count": 28,
+        "hashtags": [],
+        "id": 882680520030785539,
+        "id_str": "882680520030785539",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Long Beach Mayor .@RobertGarciaLB engaged to longtime partner on 4th of July. Congratulations, you two. https://t.co/rC7fRAHvPb",
+        "urls": [
+            {
+                "expanded_url": "http://www.presstelegram.com/government-and-politics/20170705/mayor-robert-garcia-engaged-to-longtime-partner-on-4th-of-july",
+                "url": "https://t.co/rC7fRAHvPb"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Aug 21 22:08:25 +0000 2014",
+            "description": "@presstelegram reporter covering Long Beach city hall / local politics. Formerly @PasStarNews @SGVTribune. \nEmail tips to ctompkins@scng.com",
+            "favourites_count": 336,
+            "followers_count": 894,
+            "friends_count": 840,
+            "geo_enabled": true,
+            "id": 2753175774,
+            "lang": "en",
+            "listed_count": 41,
+            "location": "Long Beach, CA ",
+            "name": "Courtney Tompkins",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2753175774/1420495649",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/613486938520055809/FniaPnVT_normal.jpg",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "CTompkinsTweets",
+            "statuses_count": 2996,
+            "time_zone": "Tijuana",
+            "url": "https://t.co/xTzKLXrnZ7",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CTompkinsTweets: Long Beach Mayor .@RobertGarciaLB engaged to longtime partner on 4th of July. Congratulations, you two. https://t.co/r…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7303,
+        "followers_count": 16061,
+        "friends_count": 2249,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 273,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10797,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2753175774,
+            "name": "Courtney Tompkins",
+            "screen_name": "CTompkinsTweets"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}

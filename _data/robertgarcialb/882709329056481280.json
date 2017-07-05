@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Jul 05 21:14:38 +0000 2017",
+    "hashtags": [],
+    "id": 882709329056481280,
+    "id_str": "882709329056481280",
+    "lang": "pt",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jul 05 21:05:05 +0000 2017",
+        "favorite_count": 13,
+        "hashtags": [],
+        "id": 882706926844366849,
+        "id_str": "882706926844366849",
+        "lang": "pt",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Felicidades @RobertGarciaLB! https://t.co/6P3wXVxQWr",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/robertgarcialb/status/882669810345140228",
+                "url": "https://t.co/6P3wXVxQWr"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Feb 20 08:12:33 +0000 2013",
+            "default_profile": true,
+            "description": "California Assembly Speaker. Proud to represent 63rd Assembly District & Southeast L.A. County. Underdog soccer fan.",
+            "favourites_count": 2072,
+            "followers_count": 10706,
+            "friends_count": 1221,
+            "id": 1200043633,
+            "lang": "en",
+            "listed_count": 289,
+            "location": "Lakewood, CA",
+            "name": "Anthony Rendon",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200043633/1481132296",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/625820568319717376/jMcCMfXK_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Rendon63rd",
+            "statuses_count": 2954,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/5bntMYeWvw",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Rendon63rd: Felicidades @RobertGarciaLB! https://t.co/6P3wXVxQWr",
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/robertgarcialb/status/882669810345140228",
+            "url": "https://t.co/6P3wXVxQWr"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7303,
+        "followers_count": 16061,
+        "friends_count": 2249,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 273,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10797,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 1200043633,
+            "name": "Anthony Rendon",
+            "screen_name": "Rendon63rd"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
