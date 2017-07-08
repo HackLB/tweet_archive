@@ -1,0 +1,105 @@
+{
+    "created_at": "Sat Jul 08 01:06:25 +0000 2017",
+    "hashtags": [],
+    "id": 883492434700754944,
+    "id_str": "883492434700754944",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Sat Jul 08 01:02:13 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 883491378206056448,
+        "id_str": "883491378206056448",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": ".@FreedomCaucus leader warns McConnell to not give up on ObamaCare repeal https://t.co/eeSRAc66aR",
+        "urls": [
+            {
+                "expanded_url": "http://thehill.com/homenews/senate/341068-conservative-warns-mcconnell-to-not-give-up-on-obamacare-repeal#.WWAu-Pt2kNs.twitter",
+                "url": "https://t.co/eeSRAc66aR"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Apr 24 07:31:45 +0000 2010",
+            "description": "Senior staff writer @TheHill covering @HouseGOP, @Politico & @AZCentral alum, UCLA Bruin, Bay Area born and raised. swong@thehill.com",
+            "favourites_count": 1602,
+            "followers_count": 19168,
+            "friends_count": 2755,
+            "geo_enabled": true,
+            "id": 136550204,
+            "lang": "en",
+            "listed_count": 833,
+            "location": "Washington, D.C.",
+            "name": "Scott Wong",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/136550204/1410112982",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/516993627642286081/h7ydcKia_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "scottwongDC",
+            "statuses_count": 22037,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/SnRLO1TtlT",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 2990729241,
+                "name": "House Freedom Caucus",
+                "screen_name": "freedomcaucus"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @scottwongDC: .@FreedomCaucus leader warns McConnell to not give up on ObamaCare repeal https://t.co/eeSRAc66aR",
+    "urls": [
+        {
+            "expanded_url": "http://thehill.com/homenews/senate/341068-conservative-warns-mcconnell-to-not-give-up-on-obamacare-repeal#.WWAu-Pt2kNs.twitter",
+            "url": "https://t.co/eeSRAc66aR"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7491,
+        "followers_count": 16250,
+        "friends_count": 2252,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 270,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10824,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 136550204,
+            "name": "Scott Wong",
+            "screen_name": "scottwongDC"
+        },
+        {
+            "id": 2990729241,
+            "name": "House Freedom Caucus",
+            "screen_name": "freedomcaucus"
+        }
+    ]
+}
