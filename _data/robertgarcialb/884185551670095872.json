@@ -1,0 +1,129 @@
+{
+    "created_at": "Sun Jul 09 23:00:37 +0000 2017",
+    "hashtags": [],
+    "id": 884185551670095872,
+    "id_str": "884185551670095872",
+    "lang": "und",
+    "retweet_count": 273,
+    "retweeted_status": {
+        "created_at": "Sun Jul 09 20:34:38 +0000 2017",
+        "favorite_count": 461,
+        "hashtags": [],
+        "id": 884148812897558528,
+        "id_str": "884148812897558528",
+        "lang": "und",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Washington, DC",
+            "id": "01fbe706f872cb32",
+            "name": "Washington",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+        },
+        "retweet_count": 273,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Wow https://t.co/YzNQjGNmwl",
+        "urls": [
+            {
+                "expanded_url": "https://www.nytimes.com/2017/07/09/us/politics/trump-russia-kushner-manafort.html?action=Click&contentCollection=BreakingNews&contentID=65549760&pgtype=Homepage",
+                "url": "https://t.co/YzNQjGNmwl"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Jan 14 13:09:57 +0000 2012",
+            "default_profile": true,
+            "description": "I write for The New York Times at @UpshotNYT. I cover elections, polling, and demographics. Northwest expat.",
+            "favourites_count": 4681,
+            "followers_count": 138554,
+            "friends_count": 1001,
+            "geo_enabled": true,
+            "id": 463765807,
+            "lang": "en",
+            "listed_count": 3882,
+            "location": "Washington, DC",
+            "name": "Nate Cohn",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/463765807/1474561644",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/801910537219088384/5j_VZ84y_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Nate_Cohn",
+            "statuses_count": 35330,
+            "time_zone": "Atlantic Time (Canada)",
+            "url": "http://t.co/Asw8udCulx",
+            "utc_offset": -10800,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Nate_Cohn: Wow https://t.co/YzNQjGNmwl",
+    "urls": [
+        {
+            "expanded_url": "https://www.nytimes.com/2017/07/09/us/politics/trump-russia-kushner-manafort.html?action=Click&contentCollection=BreakingNews&contentID=65549760&pgtype=Homepage",
+            "url": "https://t.co/YzNQjGNmwl"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7511,
+        "followers_count": 16318,
+        "friends_count": 2254,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 269,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10834,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 463765807,
+            "name": "Nate Cohn",
+            "screen_name": "Nate_Cohn"
+        }
+    ]
+}
