@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 11 16:27:50 +0000 2017",
+    "hashtags": [],
+    "id": 884811481249796096,
+    "id_str": "884811481249796096",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/0wvIJM2hIz",
+            "expanded_url": "https://twitter.com/CurbedLA/status/884641837557960704/photo/1",
+            "id": 884641834747691008,
+            "media_url": "http://pbs.twimg.com/media/DEbhD8mWAAAOeeF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DEbhD8mWAAAOeeF.jpg",
+            "type": "photo",
+            "url": "https://t.co/0wvIJM2hIz"
+        }
+    ],
+    "retweet_count": 14,
+    "retweeted_status": {
+        "created_at": "Tue Jul 11 05:13:44 +0000 2017",
+        "favorite_count": 25,
+        "hashtags": [],
+        "id": 884641837557960704,
+        "id_str": "884641837557960704",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0wvIJM2hIz",
+                "expanded_url": "https://twitter.com/CurbedLA/status/884641837557960704/photo/1",
+                "id": 884641834747691008,
+                "media_url": "http://pbs.twimg.com/media/DEbhD8mWAAAOeeF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DEbhD8mWAAAOeeF.jpg",
+                "type": "photo",
+                "url": "https://t.co/0wvIJM2hIz"
+            }
+        ],
+        "retweet_count": 14,
+        "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+        "text": ".@TheQueenMary is being repainted in the ocean liner’s original color scheme. https://t.co/sfYGRHtiY4 https://t.co/0wvIJM2hIz",
+        "urls": [
+            {
+                "expanded_url": "https://la.curbed.com/2017/7/10/15950884/queen-mary-paint-colors-long-beach-repairs?utm_campaign=la.curbed&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                "url": "https://t.co/sfYGRHtiY4"
+            }
+        ],
+        "user": {
+            "created_at": "Fri May 23 06:27:45 +0000 2008",
+            "description": "Every aspect of living in Los Angeles, for people who care about their city, their streets, and their homes.",
+            "favourites_count": 69,
+            "followers_count": 96339,
+            "friends_count": 139,
+            "geo_enabled": true,
+            "id": 14878485,
+            "lang": "en",
+            "listed_count": 1593,
+            "location": "Los Angeles",
+            "name": "Curbed LA",
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045051673/28882e135e32026b5a5b3943281466eb.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14878485/1494616360",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/823572034496110592/ar7NF3Qs_normal.jpg",
+            "profile_link_color": "FF604A",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "CurbedLA",
+            "statuses_count": 22374,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZnGxfwWkq5",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 19261737,
+                "name": "Queen Mary",
+                "screen_name": "TheQueenMary"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @CurbedLA: .@TheQueenMary is being repainted in the ocean liner’s original color scheme. https://t.co/sfYGRHtiY4 https://t.co/0wvIJM2hIz",
+    "urls": [
+        {
+            "expanded_url": "https://la.curbed.com/2017/7/10/15950884/queen-mary-paint-colors-long-beach-repairs?utm_campaign=la.curbed&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "url": "https://t.co/sfYGRHtiY4"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7541,
+        "followers_count": 16392,
+        "friends_count": 2257,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 269,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10854,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 14878485,
+            "name": "Curbed LA",
+            "screen_name": "CurbedLA"
+        },
+        {
+            "id": 19261737,
+            "name": "Queen Mary",
+            "screen_name": "TheQueenMary"
+        }
+    ]
+}
