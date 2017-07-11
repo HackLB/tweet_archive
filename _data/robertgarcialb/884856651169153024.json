@@ -1,0 +1,59 @@
+{
+    "created_at": "Tue Jul 11 19:27:20 +0000 2017",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 884856651169153024,
+    "id_str": "884856651169153024",
+    "in_reply_to_screen_name": "MattyMendez",
+    "in_reply_to_status_id": 884846980215656449,
+    "in_reply_to_user_id": 339434241,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/SYBwGC1yZe",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/884856651169153024/photo/1",
+            "id": 884856643434893312,
+            "media_url": "http://pbs.twimg.com/media/DEekbdUU0AAtl1d.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DEekbdUU0AAtl1d.jpg",
+            "type": "photo",
+            "url": "https://t.co/SYBwGC1yZe"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MattyMendez  https://t.co/SYBwGC1yZe",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7542,
+        "followers_count": 16401,
+        "friends_count": 2257,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 270,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10856,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 339434241,
+            "name": "Matthew Mendez",
+            "screen_name": "MattyMendez"
+        }
+    ]
+}
