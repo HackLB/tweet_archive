@@ -1,0 +1,92 @@
+{
+    "created_at": "Wed Jul 12 19:19:31 +0000 2017",
+    "hashtags": [],
+    "id": 885217071772049408,
+    "id_str": "885217071772049408",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jul 12 19:06:08 +0000 2017",
+        "hashtags": [],
+        "id": 885213703532146689,
+        "id_str": "885213703532146689",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://bloxcms.com/\" rel=\"nofollow\">BLOX CMS</a>",
+        "text": "Mayor Garcia Pleased, Optimistic After First Three Years As Long Beach Mayor https://t.co/2D2a9jWUF5",
+        "urls": [
+            {
+                "expanded_url": "http://www.gazettes.com/news/mayor-garcia-pleased-optimistic-after-first-three-years-as-long/article_4464d8ee-667c-11e7-94c2-db99b84a5de8.html",
+                "url": "https://t.co/2D2a9jWUF5"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Aug 09 18:45:54 +0000 2010",
+            "description": "Gazettes Newspapers is the favorite community news source for #LongBeach. We have daily coverage online. Also, see @PTGazettesSports.",
+            "favourites_count": 534,
+            "followers_count": 6992,
+            "friends_count": 431,
+            "geo_enabled": true,
+            "id": 176509198,
+            "lang": "en",
+            "listed_count": 159,
+            "location": "Long Beach, CA",
+            "name": "Gazette Newspapers",
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753875098/137be037fd3a43e0dc57e11d956b8b16.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/176509198/1358447800",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/451485553288957952/tCryBR0C_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "screen_name": "GrunionGazette",
+            "statuses_count": 11662,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/aPeOY9XzD9",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GrunionGazette: Mayor Garcia Pleased, Optimistic After First Three Years As Long Beach Mayor https://t.co/2D2a9jWUF5",
+    "urls": [
+        {
+            "expanded_url": "http://www.gazettes.com/news/mayor-garcia-pleased-optimistic-after-first-three-years-as-long/article_4464d8ee-667c-11e7-94c2-db99b84a5de8.html",
+            "url": "https://t.co/2D2a9jWUF5"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7558,
+        "followers_count": 16428,
+        "friends_count": 2258,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 271,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10867,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 176509198,
+            "name": "Gazette Newspapers",
+            "screen_name": "GrunionGazette"
+        }
+    ]
+}
