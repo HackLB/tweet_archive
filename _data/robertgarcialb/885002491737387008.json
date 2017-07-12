@@ -1,0 +1,60 @@
+{
+    "created_at": "Wed Jul 12 05:06:51 +0000 2017",
+    "favorite_count": 32,
+    "hashtags": [],
+    "id": 885002491737387008,
+    "id_str": "885002491737387008",
+    "in_reply_to_screen_name": "RobertGarciaLB",
+    "in_reply_to_status_id": 884997883082276865,
+    "in_reply_to_user_id": 18120497,
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/V6EuchMbks",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/885002491737387008/photo/1",
+            "id": 885002463622909953,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DEgpDT2W0AERkeq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEgpDT2W0AERkeq.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/V6EuchMbks"
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@wbpictures And MORE Waller please. Hope she makes a JL cameo. https://t.co/V6EuchMbks",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7553,
+        "followers_count": 16413,
+        "friends_count": 2257,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 271,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10864,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 20255162,
+            "name": "Warner Bros Pictures",
+            "screen_name": "wbpictures"
+        }
+    ]
+}
