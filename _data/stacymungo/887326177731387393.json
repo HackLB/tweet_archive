@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Jul 18 15:00:21 +0000 2017",
+    "hashtags": [],
+    "id": 887326177731387393,
+    "id_str": "887326177731387393",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Jul 18 13:24:02 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [],
+        "id": 887301941276983298,
+        "id_str": "887301941276983298",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Long Beach Job Fair Thursday: Major employers set for Long Beach job fair @LBEconDev @PacGateway @StacyMungo  https://t.co/mZzOlHlyqr",
+        "urls": [
+            {
+                "expanded_url": "http://www.presstelegram.com/business/20170717/major-employers-set-for-long-beach-job-fair",
+                "url": "https://t.co/mZzOlHlyqr"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Mar 28 18:19:11 +0000 2011",
+            "default_profile": true,
+            "description": "Innovation Team Director @iteam_LongBeach | USC CMF @USCCMF | GPAC Price @G_P_A_C | Bloomberg @BloombergCities | Teach For America @TeachForAmerica",
+            "favourites_count": 610,
+            "followers_count": 670,
+            "friends_count": 211,
+            "geo_enabled": true,
+            "id": 273552066,
+            "lang": "en",
+            "listed_count": 41,
+            "location": "Long Beach, CA",
+            "name": "John Keisler",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/273552066/1450241143",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/773571481615814657/NSH-oMeZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "jpkeisler",
+            "statuses_count": 757,
+            "url": "https://t.co/wuJDFP6bY2"
+        },
+        "user_mentions": [
+            {
+                "id": 823657136274096130,
+                "name": "LB EconDev",
+                "screen_name": "LBEconDev"
+            },
+            {
+                "id": 1355040294,
+                "name": "Pacific Gateway",
+                "screen_name": "PacGateway"
+            },
+            {
+                "id": 189649184,
+                "name": "Councilwoman Mungo",
+                "screen_name": "StacyMungo"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @jpkeisler: Long Beach Job Fair Thursday: Major employers set for Long Beach job fair @LBEconDev @PacGateway @StacyMungo  https://t.co/m…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 634,
+        "followers_count": 4567,
+        "friends_count": 3112,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2115,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 273552066,
+            "name": "John Keisler",
+            "screen_name": "jpkeisler"
+        },
+        {
+            "id": 823657136274096130,
+            "name": "LB EconDev",
+            "screen_name": "LBEconDev"
+        },
+        {
+            "id": 1355040294,
+            "name": "Pacific Gateway",
+            "screen_name": "PacGateway"
+        },
+        {
+            "id": 189649184,
+            "name": "Councilwoman Mungo",
+            "screen_name": "StacyMungo"
+        }
+    ]
+}
