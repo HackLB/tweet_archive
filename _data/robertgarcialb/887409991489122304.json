@@ -1,0 +1,146 @@
+{
+    "created_at": "Tue Jul 18 20:33:23 +0000 2017",
+    "hashtags": [
+        {
+            "text": "Respect"
+        },
+        {
+            "text": "SunSoaked"
+        }
+    ],
+    "id": 887409991489122304,
+    "id_str": "887409991489122304",
+    "lang": "en",
+    "retweet_count": 184,
+    "retweeted_status": {
+        "created_at": "Mon Jul 17 22:31:49 +0000 2017",
+        "favorite_count": 511,
+        "hashtags": [
+            {
+                "text": "Respect"
+            },
+            {
+                "text": "SunSoaked"
+            }
+        ],
+        "id": 887077405520801793,
+        "id_str": "887077405520801793",
+        "lang": "en",
+        "retweet_count": 184,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#Respect to @LongBeachCity, Mayor @RobertGarciaLB + the @LBFD @LBPD for hosting #SunSoaked. THANK YOU for welcoming… https://t.co/z69MUXFOJa",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/887077405520801793",
+                "url": "https://t.co/z69MUXFOJa"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jan 08 02:32:42 +0000 2009",
+            "description": "Let the Music Speak",
+            "favourites_count": 1532,
+            "followers_count": 1406828,
+            "friends_count": 723,
+            "geo_enabled": true,
+            "id": 18750157,
+            "lang": "en",
+            "listed_count": 5500,
+            "location": "West Coast",
+            "name": "Kaskade",
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18750157/1498182567",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/588903783607832577/MJLxrszx_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "screen_name": "kaskade",
+            "statuses_count": 32326,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/N3bjNvxkzB",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            },
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            },
+            {
+                "id": 18952042,
+                "name": "Long Beach Fire (CA)",
+                "screen_name": "lbfd"
+            },
+            {
+                "id": 50097116,
+                "name": "Long Beach PD (CA)",
+                "screen_name": "LBPD"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @kaskade: #Respect to @LongBeachCity, Mayor @RobertGarciaLB + the @LBFD @LBPD for hosting #SunSoaked. THANK YOU for welcoming us! https:…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7610,
+        "followers_count": 16635,
+        "friends_count": 2261,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 273,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10912,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18750157,
+            "name": "Kaskade",
+            "screen_name": "kaskade"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 18952042,
+            "name": "Long Beach Fire (CA)",
+            "screen_name": "lbfd"
+        },
+        {
+            "id": 50097116,
+            "name": "Long Beach PD (CA)",
+            "screen_name": "LBPD"
+        }
+    ]
+}
