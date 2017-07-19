@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 19 17:37:21 +0000 2017",
+    "hashtags": [],
+    "id": 887728075391348736,
+    "id_str": "887728075391348736",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Jul 19 17:29:15 +0000 2017",
+        "favorite_count": 14,
+        "hashtags": [],
+        "id": 887726039090184193,
+        "id_str": "887726039090184193",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "We appreciate @RobertGarciaLB for his leadership and support of public safety. We proudly endorse his candidacy for… https://t.co/mqNWLxUthW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/887726039090184193",
+                "url": "https://t.co/mqNWLxUthW"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 21 15:09:46 +0000 2010",
+            "description": "The Long Beach Police Officers Association proudly represents the men and women who serve and protect the City of Long Beach, California.",
+            "favourites_count": 254,
+            "followers_count": 1543,
+            "friends_count": 796,
+            "id": 135527723,
+            "lang": "en",
+            "listed_count": 30,
+            "location": "Long Beach, CA",
+            "name": "Long Beach POA",
+            "profile_background_color": "081937",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494132809489862658/z0IIDPus.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/135527723/1483584810",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/462256275540025344/LPLaY2yC_normal.png",
+            "profile_link_color": "003366",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "LBPOA",
+            "statuses_count": 1665,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/oIASDDNW7J",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBPOA: We appreciate @RobertGarciaLB for his leadership and support of public safety. We proudly endorse his candidacy for another term…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7610,
+        "followers_count": 16651,
+        "friends_count": 2261,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 273,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10917,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 135527723,
+            "name": "Long Beach POA",
+            "screen_name": "LBPOA"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}

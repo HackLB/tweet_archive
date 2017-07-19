@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 19 17:45:52 +0000 2017",
+    "hashtags": [
+        {
+            "text": "GoLongBeach"
+        }
+    ],
+    "id": 887730221713162242,
+    "id_str": "887730221713162242",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Jul 19 17:45:07 +0000 2017",
+        "hashtags": [
+            {
+                "text": "GoLongBeach"
+            }
+        ],
+        "id": 887730031711145985,
+        "id_str": "887730031711145985",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "The Chamber's PAC is excited to announce its endorsement of @RobertGarciaLB for reelection #GoLongBeach https://t.co/xHIcFQ1C5Y",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2u94CZo",
+                "url": "https://t.co/xHIcFQ1C5Y"
+            }
+        ],
+        "user": {
+            "created_at": "Fri Nov 06 22:58:31 +0000 2009",
+            "description": "The Chamber is the platform for business to provide leadership, education and advocacy so that the Long Beach area thrives in the 21st century.",
+            "favourites_count": 139,
+            "followers_count": 3225,
+            "friends_count": 538,
+            "geo_enabled": true,
+            "id": 88055372,
+            "lang": "en",
+            "listed_count": 101,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Chamber",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/88055372/1376356805",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/531404996/Chamber_Swish_Black_JPEG_RSS_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "TheLBChamber",
+            "statuses_count": 1122,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/E6Mjd0yIPf",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @TheLBChamber: The Chamber's PAC is excited to announce its endorsement of @RobertGarciaLB for reelection #GoLongBeach https://t.co/xHIc…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7610,
+        "followers_count": 16651,
+        "friends_count": 2261,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 273,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10917,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 88055372,
+            "name": "Long Beach Chamber",
+            "screen_name": "TheLBChamber"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
