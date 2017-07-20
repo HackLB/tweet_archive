@@ -1,0 +1,104 @@
+{
+    "created_at": "Thu Jul 20 19:16:14 +0000 2017",
+    "hashtags": [],
+    "id": 888115348553072640,
+    "id_str": "888115348553072640",
+    "lang": "en",
+    "retweet_count": 5,
+    "retweeted_status": {
+        "created_at": "Thu Jul 20 19:05:26 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 888112630891634693,
+        "id_str": "888112630891634693",
+        "lang": "en",
+        "retweet_count": 5,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "We’re proud to endorse @RobertGarciaLB for reelection as Long Beach’s mayor! https://t.co/dUj2l2GSPi",
+        "urls": [
+            {
+                "expanded_url": "http://www.eqca.org/garciaendorse/",
+                "url": "https://t.co/dUj2l2GSPi"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 10 17:50:34 +0000 2008",
+            "description": "Equality California is the nation’s largest statewide lesbian, gay, bisexual and transgender civil rights organization https://t.co/eBmQI2LjMZ",
+            "favourites_count": 534,
+            "followers_count": 29872,
+            "friends_count": 3993,
+            "geo_enabled": true,
+            "id": 16224459,
+            "lang": "en",
+            "listed_count": 887,
+            "location": "California",
+            "name": "Equality California",
+            "profile_background_color": "9AC5E2",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130658459/twitter8.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16224459/1415388990",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2863099006/d63b51df7f45566374668f65174c704a_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "screen_name": "eqca",
+            "statuses_count": 11015,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/z13piZCISr",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @eqca: We’re proud to endorse @RobertGarciaLB for reelection as Long Beach’s mayor! https://t.co/dUj2l2GSPi",
+    "urls": [
+        {
+            "expanded_url": "http://www.eqca.org/garciaendorse/",
+            "url": "https://t.co/dUj2l2GSPi"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7623,
+        "followers_count": 16679,
+        "friends_count": 2262,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 272,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10943,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16224459,
+            "name": "Equality California",
+            "screen_name": "eqca"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
