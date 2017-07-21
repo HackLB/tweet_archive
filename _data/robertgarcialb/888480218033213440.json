@@ -1,0 +1,51 @@
+{
+    "created_at": "Fri Jul 21 19:26:05 +0000 2017",
+    "favorite_count": 73,
+    "hashtags": [],
+    "id": 888480218033213440,
+    "id_str": "888480218033213440",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/gJXMgFbfag",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/888480218033213440/video/1",
+            "id": 888480126102523905,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/888480126102523905/pu/img/DlP4o8CQiW73X7XX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/888480126102523905/pu/img/DlP4o8CQiW73X7XX.jpg",
+            "type": "video",
+            "url": "https://t.co/gJXMgFbfag"
+        }
+    ],
+    "retweet_count": 29,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "DCEU merchandise is literally everywhere. All types of great toys and stuff. ✌🏽😎 https://t.co/gJXMgFbfag",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7638,
+        "followers_count": 16743,
+        "friends_count": 2264,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 271,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10954,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
