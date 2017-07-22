@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Jul 22 22:38:57 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LBZIKACASPER"
+        }
+    ],
+    "id": 888891140304388100,
+    "id_str": "888891140304388100",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sat Jul 22 22:02:01 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "LBZIKACASPER"
+            }
+        ],
+        "id": 888881847022649344,
+        "id_str": "888881847022649344",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.184987,
+                            33.789789
+                        ],
+                        [
+                            -118.149557,
+                            33.789789
+                        ],
+                        [
+                            -118.149557,
+                            33.818734
+                        ],
+                        [
+                            -118.184987,
+                            33.818734
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Signal Hill, CA",
+            "id": "97290292acb29ff8",
+            "name": "Signal Hill",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/97290292acb29ff8.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "A message from Ninth District, Vice Mayor Rex Richardson --&gt; #LBZIKACASPER! @RexRichardson @LBHealthDept… https://t.co/ZbYhEzC2u1",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/888881847022649344",
+                "url": "https://t.co/ZbYhEzC2u1"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Sep 07 17:36:48 +0000 2011",
+            "description": "The Long Beach Health Department strives to create a safe and healthy community for all to live, work, and play.",
+            "favourites_count": 979,
+            "followers_count": 2373,
+            "friends_count": 1537,
+            "geo_enabled": true,
+            "id": 369627243,
+            "lang": "en",
+            "listed_count": 76,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Health",
+            "profile_background_color": "54B8D0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651345444/7owhsy0pbczquj7iz31a.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/369627243/1470779941",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/763132583496384512/cruy-NWC_normal.jpg",
+            "profile_link_color": "13539E",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "screen_name": "LBHealthDept",
+            "statuses_count": 3524,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/ZAG5SpCHal",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Hon. Rex Richardson",
+                "screen_name": "RexRichardson"
+            },
+            {
+                "id": 369627243,
+                "name": "Long Beach Health",
+                "screen_name": "LBHealthDept"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBHealthDept: A message from Ninth District, Vice Mayor Rex Richardson --&gt; #LBZIKACASPER! @RexRichardson @LBHealthDept @LongBeachCity @…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1696,
+        "followers_count": 2853,
+        "friends_count": 1492,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2462,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LBHealthDept"
+        },
+        {
+            "id": 39073462,
+            "name": "Hon. Rex Richardson",
+            "screen_name": "RexRichardson"
+        },
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LBHealthDept"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
