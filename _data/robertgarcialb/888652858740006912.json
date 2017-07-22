@@ -1,0 +1,58 @@
+{
+    "created_at": "Sat Jul 22 06:52:06 +0000 2017",
+    "favorite_count": 26,
+    "hashtags": [
+        {
+            "text": "SDCC"
+        },
+        {
+            "text": "JusticeLeague"
+        }
+    ],
+    "id": 888652858740006912,
+    "id_str": "888652858740006912",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/LEzubT2R9n",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/888652858740006912/photo/1",
+            "id": 888652838334640129,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DFUhDFWUMAEUgcE.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DFUhDFWUMAEUgcE.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/LEzubT2R9n"
+        }
+    ],
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Day 1 of #SDCC is complete. Time to hit the hotel and get ready for Day 2. #JusticeLeague https://t.co/LEzubT2R9n",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7646,
+        "followers_count": 16773,
+        "friends_count": 2264,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 268,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1495691648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 10962,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
