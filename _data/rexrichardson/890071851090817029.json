@@ -1,0 +1,105 @@
+{
+    "created_at": "Wed Jul 26 04:50:40 +0000 2017",
+    "hashtags": [
+        {
+            "text": "MBKARegionalSummit"
+        },
+        {
+            "text": "WeAreMBK"
+        }
+    ],
+    "id": 890071851090817029,
+    "id_str": "890071851090817029",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Jul 26 04:31:36 +0000 2017",
+        "favorite_count": 3,
+        "hashtags": [
+            {
+                "text": "MBKARegionalSummit"
+            },
+            {
+                "text": "WeAreMBK"
+            }
+        ],
+        "id": 890067051297087492,
+        "id_str": "890067051297087492",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Big things happening tomorrow in Long Beach at the #MBKARegionalSummit. Follow @MBK_Alliance to learn more! #WeAreMBK",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Mar 02 23:53:41 +0000 2017",
+            "description": "The City of Long Beach’s Office of Equity strives to build a just and inclusive community by analyzing City policies and practices through an equity lens.",
+            "favourites_count": 176,
+            "followers_count": 135,
+            "friends_count": 375,
+            "id": 837450870103035904,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Long Beach, CA",
+            "name": "LB Office of Equity",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/837450870103035904/1491345194",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/850080043023847424/RUIsyjVQ_normal.jpg",
+            "profile_link_color": "136194",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "EquityLB",
+            "statuses_count": 53,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/KQCwT7vEZs",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 3157910605,
+                "name": "MBK Alliance",
+                "screen_name": "MBK_Alliance"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @EquityLB: Big things happening tomorrow in Long Beach at the #MBKARegionalSummit. Follow @MBK_Alliance to learn more! #WeAreMBK",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1697,
+        "followers_count": 2859,
+        "friends_count": 1500,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2463,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 837450870103035904,
+            "name": "LB Office of Equity",
+            "screen_name": "EquityLB"
+        },
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        }
+    ]
+}
