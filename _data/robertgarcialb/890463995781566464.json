@@ -1,0 +1,60 @@
+{
+    "created_at": "Thu Jul 27 06:48:55 +0000 2017",
+    "favorite_count": 34,
+    "hashtags": [],
+    "id": 890463995781566464,
+    "id_str": "890463995781566464",
+    "in_reply_to_screen_name": "DavidAyerMovies",
+    "in_reply_to_status_id": 890462803160473601,
+    "in_reply_to_user_id": 894552380,
+    "lang": "und",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/qIUpC73rlS",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/890463995781566464/photo/1",
+            "id": 890463951347081216,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DFuQPvFVYAAwdAr.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DFuQPvFVYAAwdAr.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/qIUpC73rlS"
+        }
+    ],
+    "retweet_count": 6,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DavidAyerMovies  https://t.co/qIUpC73rlS",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7751,
+        "followers_count": 17001,
+        "friends_count": 2267,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 268,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1500741047",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11005,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 894552380,
+            "name": "David Ayer",
+            "screen_name": "DavidAyerMovies"
+        }
+    ]
+}
