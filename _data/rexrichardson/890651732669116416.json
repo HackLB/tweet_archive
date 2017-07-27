@@ -1,0 +1,140 @@
+{
+    "created_at": "Thu Jul 27 19:14:55 +0000 2017",
+    "hashtags": [
+        {
+            "text": "WeAreMBK"
+        },
+        {
+            "text": "MBKARegional"
+        }
+    ],
+    "id": 890651732669116416,
+    "id_str": "890651732669116416",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jul 27 16:23:44 +0000 2017",
+        "favorite_count": 1,
+        "hashtags": [
+            {
+                "text": "WeAreMBK"
+            },
+            {
+                "text": "MBKARegional"
+            }
+        ],
+        "id": 890608653501251584,
+        "id_str": "890608653501251584",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\"MBKA means changing the paradigm for boys and men of color.\" @RexRichardson #WeAreMBK #MBKARegional",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Jul 03 19:10:38 +0000 2014",
+            "description": "Senior Program Officer @IrvineFdn. Capacity Builder. Facilitator. Encourager. Mentor. Radical believer that ALL things are possible for our children!",
+            "favourites_count": 1445,
+            "followers_count": 402,
+            "friends_count": 491,
+            "geo_enabled": true,
+            "id": 2602140685,
+            "lang": "en",
+            "listed_count": 26,
+            "location": "Oakland, CA",
+            "name": "Kelley D. Gulley",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2602140685/1494911215",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/484781073662889984/WMvZleyn_normal.jpeg",
+            "profile_link_color": "0024B3",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "Kelley_D_Gulley",
+            "statuses_count": 1200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/pzoqhdqqvj",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Hon. Rex Richardson",
+                "screen_name": "RexRichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Kelley_D_Gulley: \"MBKA means changing the paradigm for boys and men of color.\" @RexRichardson #WeAreMBK #MBKARegional",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1702,
+        "followers_count": 2863,
+        "friends_count": 1507,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2467,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2602140685,
+            "name": "Kelley D. Gulley",
+            "screen_name": "Kelley_D_Gulley"
+        },
+        {
+            "id": 39073462,
+            "name": "Hon. Rex Richardson",
+            "screen_name": "RexRichardson"
+        }
+    ]
+}

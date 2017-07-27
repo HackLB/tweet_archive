@@ -1,0 +1,163 @@
+{
+    "created_at": "Thu Jul 27 19:14:17 +0000 2017",
+    "hashtags": [],
+    "id": 890651572614569984,
+    "id_str": "890651572614569984",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Thu Jul 27 18:37:38 +0000 2017",
+        "favorite_count": 5,
+        "hashtags": [],
+        "id": 890642349784678400,
+        "id_str": "890642349784678400",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.250227,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.732905
+                        ],
+                        [
+                            -118.0631938,
+                            33.885438
+                        ],
+                        [
+                            -118.250227,
+                            33.885438
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Long Beach, CA",
+            "id": "01c060cf466c6ce3",
+            "name": "Long Beach",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+        },
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Sat on a panel @MBK_Alliance with @AjaLBrown @LibbySchaaf @RexRichardson \"What's working &amp; What's needed\" for our y… https://t.co/ZsvzyaVW9S",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/890642349784678400",
+                "url": "https://t.co/ZsvzyaVW9S"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Feb 04 06:51:13 +0000 2012",
+            "description": "Just a man of the people, not above but equal. Servant-Leader and Mayor of my hometown Stockton, CA. #ReInventStockton",
+            "favourites_count": 9425,
+            "followers_count": 13401,
+            "friends_count": 3182,
+            "geo_enabled": true,
+            "id": 482708367,
+            "lang": "en",
+            "listed_count": 148,
+            "location": "Stockton, California ",
+            "name": "Michael Tubbs",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180224194/6B2_84ke.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/482708367/1494792588",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/863850380014125057/tjUXI86T_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MichaelDTubbs",
+            "statuses_count": 28991,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/q6y6fDLGz6",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 3157910605,
+                "name": "MBK Alliance",
+                "screen_name": "MBK_Alliance"
+            },
+            {
+                "id": 1173297636,
+                "name": "Aja Brown",
+                "screen_name": "AjaLBrown"
+            },
+            {
+                "id": 2227281840,
+                "name": "Libby Schaaf",
+                "screen_name": "LibbySchaaf"
+            },
+            {
+                "id": 39073462,
+                "name": "Hon. Rex Richardson",
+                "screen_name": "RexRichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MichaelDTubbs: Sat on a panel @MBK_Alliance with @AjaLBrown @LibbySchaaf @RexRichardson \"What's working &amp; What's needed\" for our young…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1702,
+        "followers_count": 2863,
+        "friends_count": 1507,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2467,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 482708367,
+            "name": "Michael Tubbs",
+            "screen_name": "MichaelDTubbs"
+        },
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        },
+        {
+            "id": 1173297636,
+            "name": "Aja Brown",
+            "screen_name": "AjaLBrown"
+        },
+        {
+            "id": 2227281840,
+            "name": "Libby Schaaf",
+            "screen_name": "LibbySchaaf"
+        },
+        {
+            "id": 39073462,
+            "name": "Hon. Rex Richardson",
+            "screen_name": "RexRichardson"
+        }
+    ]
+}

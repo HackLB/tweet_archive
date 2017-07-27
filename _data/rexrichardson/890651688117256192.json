@@ -1,0 +1,86 @@
+{
+    "created_at": "Thu Jul 27 19:14:44 +0000 2017",
+    "hashtags": [],
+    "id": 890651688117256192,
+    "id_str": "890651688117256192",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Thu Jul 27 16:30:24 +0000 2017",
+        "favorite_count": 8,
+        "hashtags": [],
+        "id": 890610333449986048,
+        "id_str": "890610333449986048",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\"I want to make sure our young men have the chance rewrite, change course, &amp; lead the lives they're destined to lea… https://t.co/Ed2InldBjg",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/890610333449986048",
+                "url": "https://t.co/Ed2InldBjg"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 15 16:31:14 +0000 2015",
+            "description": "My Brother's Keeper Alliance seeks to improve outcomes for boys and young men of color by igniting efforts on national and local levels.",
+            "favourites_count": 1752,
+            "followers_count": 5628,
+            "friends_count": 202,
+            "geo_enabled": true,
+            "id": 3157910605,
+            "lang": "en",
+            "listed_count": 88,
+            "name": "MBK Alliance",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3157910605/1498486795",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798926117864374272/CFUztZhh_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MBK_Alliance",
+            "statuses_count": 1928,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/lMLz2Vr7jM",
+            "utc_offset": -14400
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MBK_Alliance: \"I want to make sure our young men have the chance rewrite, change course, &amp; lead the lives they're destined to lead.\"  @…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1702,
+        "followers_count": 2863,
+        "friends_count": 1507,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2467,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        }
+    ]
+}
