@@ -1,0 +1,122 @@
+{
+    "created_at": "Mon Jul 31 19:27:59 +0000 2017",
+    "hashtags": [],
+    "id": 892104572822405120,
+    "id_str": "892104572822405120",
+    "lang": "en",
+    "retweet_count": 3,
+    "retweeted_status": {
+        "created_at": "Mon Jul 31 17:54:15 +0000 2017",
+        "favorite_count": 6,
+        "hashtags": [],
+        "id": 892080985084485637,
+        "id_str": "892080985084485637",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/R13sn0t7yU",
+                "expanded_url": "https://twitter.com/MBK_Alliance/status/892080985084485637/photo/1",
+                "id": 892080780238893056,
+                "media_url": "http://pbs.twimg.com/media/DGFOvkEXsAACY8R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DGFOvkEXsAACY8R.jpg",
+                "type": "photo",
+                "url": "https://t.co/R13sn0t7yU"
+            }
+        ],
+        "retweet_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "PRESS RELEASE: @MBK_Alliance convenes mayors and community leaders in @LongBeachCity : https://t.co/Qkvfsjy5vO https://t.co/R13sn0t7yU",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2tRL5vq",
+                "url": "https://t.co/Qkvfsjy5vO"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Apr 15 16:31:14 +0000 2015",
+            "description": "My Brother's Keeper Alliance seeks to improve outcomes for boys and young men of color by igniting efforts on national and local levels.",
+            "favourites_count": 1765,
+            "followers_count": 5653,
+            "friends_count": 203,
+            "geo_enabled": true,
+            "id": 3157910605,
+            "lang": "en",
+            "listed_count": 88,
+            "name": "MBK Alliance",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3157910605/1498486795",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/798926117864374272/CFUztZhh_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "MBK_Alliance",
+            "statuses_count": 1953,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/lMLz2Vr7jM",
+            "utc_offset": -14400
+        },
+        "user_mentions": [
+            {
+                "id": 3157910605,
+                "name": "MBK Alliance",
+                "screen_name": "MBK_Alliance"
+            },
+            {
+                "id": 38808088,
+                "name": "City of Long Beach",
+                "screen_name": "LongBeachCity"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MBK_Alliance: PRESS RELEASE: @MBK_Alliance convenes mayors and community leaders in @LongBeachCity : https://t.co/Qkvfsjy5vO https://t.…",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2tRL5vq",
+            "url": "https://t.co/Qkvfsjy5vO"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1705,
+        "followers_count": 2883,
+        "friends_count": 1527,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2471,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        },
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        },
+        {
+            "id": 38808088,
+            "name": "City of Long Beach",
+            "screen_name": "LongBeachCity"
+        }
+    ]
+}
