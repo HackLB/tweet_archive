@@ -1,0 +1,106 @@
+{
+    "coordinates": {
+        "coordinates": [
+            -118.34210273,
+            33.95829001
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Jul 31 04:04:47 +0000 2017",
+    "favorite_count": 2,
+    "geo": {
+        "coordinates": [
+            33.95829001,
+            -118.34210273
+        ],
+        "type": "Point"
+    },
+    "hashtags": [
+        {
+            "text": "sundayfunday"
+        }
+    ],
+    "id": 891872241184522240,
+    "id_str": "891872241184522240",
+    "lang": "sv",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.378887,
+                        33.9253169
+                    ],
+                    [
+                        -118.3134177,
+                        33.9253169
+                    ],
+                    [
+                        -118.3134177,
+                        33.9819502
+                    ],
+                    [
+                        -118.378887,
+                        33.9819502
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Inglewood, CA",
+        "id": "97e336e1e3ed9e1e",
+        "name": "Inglewood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/97e336e1e3ed9e1e.json"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "#sundayfunday @theforum with markymarkblo @johnmayer… https://t.co/xmrOlLuKxP",
+    "urls": [
+        {
+            "expanded_url": "https://www.instagram.com/p/BXMmZSdhTX3ITXDwJ_BabgG3Ybx80l44qMzJ5k0/",
+            "url": "https://t.co/xmrOlLuKxP"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 640,
+        "followers_count": 4633,
+        "friends_count": 3175,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2122,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 1286167610,
+            "name": "The Forum",
+            "screen_name": "theforum"
+        },
+        {
+            "id": 335534204,
+            "name": "John Mayer",
+            "screen_name": "JohnMayer"
+        }
+    ]
+}
