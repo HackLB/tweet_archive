@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Aug 02 16:54:10 +0000 2017",
+    "hashtags": [
+        {
+            "text": "GoBeach"
+        },
+        {
+            "text": "GoLongBeach"
+        },
+        {
+            "text": "CSUsuccess"
+        }
+    ],
+    "id": 892790640139829248,
+    "id_str": "892790640139829248",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Aug 02 01:15:28 +0000 2017",
+        "favorite_count": 9,
+        "hashtags": [
+            {
+                "text": "GoBeach"
+            },
+            {
+                "text": "GoLongBeach"
+            },
+            {
+                "text": "CSUsuccess"
+            }
+        ],
+        "id": 892554408294141953,
+        "id_str": "892554408294141953",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "#GoBeach and #GoLongBeach! Our campus/city partnerships lead to #CSUsuccess. @TheLBPromise @LongBeachMayor… https://t.co/rVQw68P2gx",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/892554408294141953",
+                "url": "https://t.co/rVQw68P2gx"
+            }
+        ],
+        "user": {
+            "created_at": "Tue May 06 21:19:34 +0000 2014",
+            "description": "CSULB President",
+            "favourites_count": 3392,
+            "followers_count": 2855,
+            "friends_count": 410,
+            "geo_enabled": true,
+            "id": 2480417754,
+            "lang": "en",
+            "listed_count": 104,
+            "location": "Long Beach, California",
+            "name": "Jane Close Conoley",
+            "profile_background_color": "B3B3B3",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2480417754/1401833782",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/876869116602089472/wvH0yt7G_normal.jpg",
+            "profile_link_color": "A89031",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "PresConoley",
+            "statuses_count": 6583,
+            "url": "https://t.co/Hpirk7ldFh"
+        },
+        "user_mentions": [
+            {
+                "id": 704166277107953664,
+                "name": "LB College Promise",
+                "screen_name": "TheLBPromise"
+            },
+            {
+                "id": 43925013,
+                "name": "Long Beach Mayor",
+                "screen_name": "LongBeachMayor"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @PresConoley: #GoBeach and #GoLongBeach! Our campus/city partnerships lead to #CSUsuccess. @TheLBPromise @LongBeachMayor #LBCollegePromi…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7823,
+        "followers_count": 17195,
+        "friends_count": 2269,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 272,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11071,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2480417754,
+            "name": "Jane Close Conoley",
+            "screen_name": "PresConoley"
+        },
+        {
+            "id": 704166277107953664,
+            "name": "LB College Promise",
+            "screen_name": "TheLBPromise"
+        },
+        {
+            "id": 43925013,
+            "name": "Long Beach Mayor",
+            "screen_name": "LongBeachMayor"
+        }
+    ]
+}
