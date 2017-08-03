@@ -1,0 +1,55 @@
+{
+    "created_at": "Thu Aug 03 02:14:18 +0000 2017",
+    "favorite_count": 6,
+    "hashtags": [],
+    "id": 892931600446504960,
+    "id_str": "892931600446504960",
+    "in_reply_to_screen_name": "RobertGarciaLB",
+    "in_reply_to_status_id": 892930313747222528,
+    "in_reply_to_user_id": 18120497,
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@portoflongbeach - LED street light conversion\n- Planting 6k trees\n- EV mandates on development\n- Support urban far… https://t.co/GvWg9AKNOF",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/892931600446504960",
+            "url": "https://t.co/GvWg9AKNOF"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7824,
+        "followers_count": 17213,
+        "friends_count": 2268,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 269,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11076,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 16188231,
+            "name": "Port of Long Beach",
+            "screen_name": "portoflongbeach"
+        }
+    ]
+}
