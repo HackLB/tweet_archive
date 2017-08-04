@@ -1,0 +1,99 @@
+{
+    "created_at": "Fri Aug 04 17:53:49 +0000 2017",
+    "hashtags": [
+        {
+            "text": "FBF"
+        }
+    ],
+    "id": 893530425905127424,
+    "id_str": "893530425905127424",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Aug 04 17:24:10 +0000 2017",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "FBF"
+            }
+        ],
+        "id": 893522965853122561,
+        "id_str": "893522965853122561",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/4PIIk9jSBh",
+                "expanded_url": "https://twitter.com/EquityLB/status/893522965853122561/photo/1",
+                "id": 893521862138802176,
+                "media_url": "http://pbs.twimg.com/media/DGZtZkfUMAAW6AM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DGZtZkfUMAAW6AM.jpg",
+                "type": "photo",
+                "url": "https://t.co/4PIIk9jSBh"
+            }
+        ],
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#FBF to last week's MBK Summit &amp; these amazing leaders talking about uplifting young men and boys of color https://t.co/4PIIk9jSBh",
+        "urls": [],
+        "user": {
+            "created_at": "Thu Mar 02 23:53:41 +0000 2017",
+            "description": "The City of Long Beach’s Office of Equity strives to build a just and inclusive community by analyzing City policies and practices through an equity lens.",
+            "favourites_count": 187,
+            "followers_count": 157,
+            "friends_count": 379,
+            "id": 837450870103035904,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Long Beach, CA",
+            "name": "LB Office of Equity",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/837450870103035904/1491345194",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/850080043023847424/RUIsyjVQ_normal.jpg",
+            "profile_link_color": "136194",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "EquityLB",
+            "statuses_count": 76,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/KQCwT7vEZs",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @EquityLB: #FBF to last week's MBK Summit &amp; these amazing leaders talking about uplifting young men and boys of color https://t.co/4PIIk…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1712,
+        "followers_count": 2894,
+        "friends_count": 1538,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2476,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 837450870103035904,
+            "name": "LB Office of Equity",
+            "screen_name": "EquityLB"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "created_at": "Fri Aug 04 17:56:58 +0000 2017",
+    "hashtags": [],
+    "id": 893531221090721792,
+    "id_str": "893531221090721792",
+    "lang": "en",
+    "retweet_count": 57321,
+    "retweeted_status": {
+        "created_at": "Fri Aug 04 14:42:38 +0000 2017",
+        "favorite_count": 202191,
+        "hashtags": [],
+        "id": 893482315787247616,
+        "id_str": "893482315787247616",
+        "lang": "en",
+        "retweet_count": 57321,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Another year older, but the same phenomenal guy I married nearly 25 years ago. Happy birthday, @BarackObama -- we l… https://t.co/R12lLDiX1t",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/893482315787247616",
+                "url": "https://t.co/R12lLDiX1t"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Nov 10 20:13:01 +0000 2011",
+            "description": "Girl from the South Side and former First Lady. Wife, mother, dog lover. Always hugger-in-chief.",
+            "favourites_count": 3,
+            "followers_count": 8385699,
+            "friends_count": 15,
+            "id": 409486555,
+            "lang": "en",
+            "listed_count": 20410,
+            "location": "Washington, DC",
+            "name": "Michelle Obama",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/783347584/565f71840f4539c4f5bf308c1436d9f8.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/409486555/1484946002",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/822549020006551552/2M_tBm-q_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "MichelleObama",
+            "statuses_count": 808,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/0UVvR5L6vm",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 813286,
+                "name": "Barack Obama",
+                "screen_name": "BarackObama"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MichelleObama: Another year older, but the same phenomenal guy I married nearly 25 years ago. Happy birthday, @BarackObama -- we love y…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7833,
+        "followers_count": 17241,
+        "friends_count": 2269,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 276,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11094,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 409486555,
+            "name": "Michelle Obama",
+            "screen_name": "MichelleObama"
+        },
+        {
+            "id": 813286,
+            "name": "Barack Obama",
+            "screen_name": "BarackObama"
+        }
+    ]
+}
