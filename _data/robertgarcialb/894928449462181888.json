@@ -1,0 +1,45 @@
+{
+    "created_at": "Tue Aug 08 14:29:03 +0000 2017",
+    "favorite_count": 2,
+    "hashtags": [],
+    "id": 894928449462181888,
+    "id_str": "894928449462181888",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I encourage any community members that want to come out to discuss the budget to attend a hearing or a council foru… https://t.co/X3DbNET06y",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/894928449462181888",
+            "url": "https://t.co/X3DbNET06y"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7872,
+        "followers_count": 17309,
+        "friends_count": 2270,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 271,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11128,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
