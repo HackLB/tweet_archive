@@ -1,0 +1,48 @@
+{
+    "created_at": "Sat Aug 12 15:46:23 +0000 2017",
+    "favorite_count": 2,
+    "hashtags": [
+        {
+            "text": "QueenMary"
+        }
+    ],
+    "id": 896397458468593668,
+    "id_str": "896397458468593668",
+    "lang": "en",
+    "retweet_count": 1,
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "text": "The #QueenMary served America and deserves the restoration that is included in this comprehensive proposal.... https://t.co/h4qNWhTpjc",
+    "urls": [
+        {
+            "expanded_url": "http://fb.me/8nR4twBol",
+            "url": "https://t.co/h4qNWhTpjc"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 646,
+        "followers_count": 4680,
+        "friends_count": 3214,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2129,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
