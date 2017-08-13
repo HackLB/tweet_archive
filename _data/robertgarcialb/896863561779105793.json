@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Aug 13 22:38:30 +0000 2017",
+    "hashtags": [],
+    "id": 896863561779105793,
+    "id_str": "896863561779105793",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/vwhgJq25Ha",
+            "expanded_url": "https://twitter.com/kylegriffin1/status/896578523061604352/video/1",
+            "id": 896574897383714816,
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896574897383714816/pu/img/WuxgmsXA-u2IMfQ7.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896574897383714816/pu/img/WuxgmsXA-u2IMfQ7.jpg",
+            "type": "video",
+            "url": "https://t.co/vwhgJq25Ha"
+        }
+    ],
+    "retweet_count": 29946,
+    "retweeted_status": {
+        "created_at": "Sun Aug 13 03:45:52 +0000 2017",
+        "favorite_count": 66832,
+        "hashtags": [],
+        "id": 896578523061604352,
+        "id_str": "896578523061604352",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vwhgJq25Ha",
+                "expanded_url": "https://twitter.com/kylegriffin1/status/896578523061604352/video/1",
+                "id": 896574897383714816,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896574897383714816/pu/img/WuxgmsXA-u2IMfQ7.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896574897383714816/pu/img/WuxgmsXA-u2IMfQ7.jpg",
+                "type": "video",
+                "url": "https://t.co/vwhgJq25Ha"
+            }
+        ],
+        "retweet_count": 29946,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Michelle Obama: \"The presidency doesn't change who you are. It reveals who you are.\" https://t.co/vwhgJq25Ha",
+        "urls": [],
+        "user": {
+            "created_at": "Sat Apr 18 12:45:48 +0000 2009",
+            "description": "Producer. MSNBC's @TheLastWord. Honorary Aussie. Opinions mine. Please clap.",
+            "favourites_count": 39511,
+            "followers_count": 220841,
+            "friends_count": 1178,
+            "geo_enabled": true,
+            "id": 32871086,
+            "lang": "en",
+            "listed_count": 3383,
+            "location": "Manhattan, NY",
+            "name": "Kyle Griffin",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238292858/Twitter_background.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32871086/1455243585",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/658832379130200064/YUk99vQB_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "kylegriffin1",
+            "statuses_count": 34659,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/a3chkjZj4w",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @kylegriffin1: Michelle Obama: \"The presidency doesn't change who you are. It reveals who you are.\" https://t.co/vwhgJq25Ha",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7901,
+        "followers_count": 17468,
+        "friends_count": 2278,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 270,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11184,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 32871086,
+            "name": "Kyle Griffin",
+            "screen_name": "kylegriffin1"
+        }
+    ]
+}
