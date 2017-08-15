@@ -1,0 +1,102 @@
+{
+    "created_at": "Tue Aug 15 16:54:10 +0000 2017",
+    "hashtags": [
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 897501682010947584,
+    "id_str": "897501682010947584",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Tue Aug 15 15:59:41 +0000 2017",
+        "favorite_count": 8,
+        "hashtags": [
+            {
+                "text": "LongBeach"
+            }
+        ],
+        "id": 897487972508901376,
+        "id_str": "897487972508901376",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "160-unit development for low income seniors and veterans breaks ground tomorrow in #LongBeach… https://t.co/vFPOQxKPbk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/897487972508901376",
+                "url": "https://t.co/vFPOQxKPbk"
+            }
+        ],
+        "user": {
+            "created_at": "Sat Oct 04 16:39:28 +0000 2014",
+            "default_profile": true,
+            "description": "Covering real estate development, architecture and urban planning in the Greater Los Angeles Area.",
+            "favourites_count": 2595,
+            "followers_count": 4081,
+            "friends_count": 466,
+            "id": 2805696365,
+            "lang": "en",
+            "listed_count": 190,
+            "location": "Los Angeles",
+            "name": "Urbanize.LA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2805696365/1497916522",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/616304802029375488/cKsuaqJC_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "UrbanizeLA",
+            "statuses_count": 9324,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/LmNt4EMOdz",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @UrbanizeLA: 160-unit development for low income seniors and veterans breaks ground tomorrow in #LongBeach https://t.co/cqz0NRIsFe https…",
+    "urls": [
+        {
+            "expanded_url": "https://urbanize.la/post/downtown-long-beach-affordable-housing-break-ground-wednesday",
+            "url": "https://t.co/cqz0NRIsFe"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7904,
+        "followers_count": 17486,
+        "friends_count": 2280,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 269,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11207,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 2805696365,
+            "name": "Urbanize.LA",
+            "screen_name": "UrbanizeLA"
+        }
+    ]
+}
