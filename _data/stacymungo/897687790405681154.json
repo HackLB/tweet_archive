@@ -1,0 +1,53 @@
+{
+    "created_at": "Wed Aug 16 05:13:42 +0000 2017",
+    "favorite_count": 3,
+    "hashtags": [],
+    "id": 897687790405681154,
+    "id_str": "897687790405681154",
+    "in_reply_to_screen_name": "jaisuazo",
+    "in_reply_to_status_id": 897603703544455168,
+    "in_reply_to_user_id": 22571037,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@jaisuazo Still no address but he did provide a PO Box after it was again brought to his attention that his stateme… https://t.co/fWaII5r0AG",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/897687790405681154",
+            "url": "https://t.co/fWaII5r0AG"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 647,
+        "followers_count": 4681,
+        "friends_count": 3214,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2130,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 22571037,
+            "name": "James Suazo 🌹",
+            "screen_name": "jaisuazo"
+        }
+    ]
+}
