@@ -1,0 +1,89 @@
+{
+    "created_at": "Fri Aug 18 00:45:03 +0000 2017",
+    "hashtags": [],
+    "id": 898344961669595137,
+    "id_str": "898344961669595137",
+    "lang": "en",
+    "retweet_count": 5663,
+    "retweeted_status": {
+        "created_at": "Thu Aug 17 13:11:27 +0000 2017",
+        "favorite_count": 14205,
+        "hashtags": [],
+        "id": 898170410545577985,
+        "id_str": "898170410545577985",
+        "lang": "en",
+        "retweet_count": 5663,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "No. The civil war was abt slavery and permanence of the union. But hey I'm only a US history phd. Let's go with 'Jo… https://t.co/drhFMYfRMC",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/898170410545577985",
+                "url": "https://t.co/drhFMYfRMC"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Feb 19 02:41:22 +0000 2009",
+            "description": "Editor and Publisher of TPM. Lapsed historian. Polk Award winner.",
+            "favourites_count": 3091,
+            "followers_count": 216081,
+            "friends_count": 663,
+            "id": 21268897,
+            "lang": "en",
+            "listed_count": 6525,
+            "location": "New York City",
+            "name": "Josh Marshall",
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/686379810034204672/gzkBWaew.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21268897/1497108945",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/898332591698448384/0Y_CNn1P_normal.jpg",
+            "profile_link_color": "088253",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "screen_name": "joshtpm",
+            "statuses_count": 132788,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/PwdfPkQfTw",
+            "utc_offset": -14400,
+            "verified": true
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @joshtpm: No. The civil war was abt slavery and permanence of the union. But hey I'm only a US history phd. Let's go with 'Jon The Deplo…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7913,
+        "followers_count": 17553,
+        "friends_count": 2283,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 267,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11225,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 21268897,
+            "name": "Josh Marshall",
+            "screen_name": "joshtpm"
+        }
+    ]
+}
