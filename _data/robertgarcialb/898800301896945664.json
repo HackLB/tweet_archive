@@ -1,0 +1,51 @@
+{
+    "created_at": "Sat Aug 19 06:54:25 +0000 2017",
+    "favorite_count": 12,
+    "hashtags": [],
+    "id": 898800301896945664,
+    "id_str": "898800301896945664",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/7sHWUpy0Nh",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/898800301896945664/photo/1",
+            "id": 898800259014381569,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DHkuEtKU0AEeooF.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DHkuEtKU0AEeooF.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/7sHWUpy0Nh"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Going to take on the weekend like https://t.co/7sHWUpy0Nh",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7923,
+        "followers_count": 17583,
+        "friends_count": 2285,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 270,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11245,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
