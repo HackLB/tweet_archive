@@ -1,0 +1,89 @@
+{
+    "created_at": "Fri Aug 18 23:15:25 +0000 2017",
+    "hashtags": [],
+    "id": 898684791435911169,
+    "id_str": "898684791435911169",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Fri Aug 18 21:36:32 +0000 2017",
+        "favorite_count": 17,
+        "hashtags": [],
+        "id": 898659904235331584,
+        "id_str": "898659904235331584",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Tonight’s 2017 Long Beach Business Awards honor nearly 40 local business leaders for their contributions to the Cit… https://t.co/r6j2vs1yCZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/898659904235331584",
+                "url": "https://t.co/r6j2vs1yCZ"
+            }
+        ],
+        "user": {
+            "created_at": "Mon Jun 01 17:20:17 +0000 2009",
+            "description": "Dr. Robert Garcia is the 28th Mayor of @LongBeachCity, a leading city for innovation, education, and economic development. https://t.co/S8aVqpqXiB",
+            "favourites_count": 6543,
+            "followers_count": 5869,
+            "friends_count": 1793,
+            "geo_enabled": true,
+            "id": 43925013,
+            "lang": "en",
+            "listed_count": 115,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Mayor",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/43925013/1495490907",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/881742642681323520/hRzeGlNZ_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LongBeachMayor",
+            "statuses_count": 3550,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/NgPFoiTHcz",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LongBeachMayor: Tonight’s 2017 Long Beach Business Awards honor nearly 40 local business leaders for their contributions to the City of…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7915,
+        "followers_count": 17575,
+        "friends_count": 2283,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 275,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11240,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 43925013,
+            "name": "Long Beach Mayor",
+            "screen_name": "LongBeachMayor"
+        }
+    ]
+}
