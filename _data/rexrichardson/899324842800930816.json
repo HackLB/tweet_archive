@@ -1,0 +1,120 @@
+{
+    "created_at": "Sun Aug 20 17:38:45 +0000 2017",
+    "hashtags": [
+        {
+            "text": "RexFest"
+        }
+    ],
+    "id": 899324842800930816,
+    "id_str": "899324842800930816",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/Avjv1A7ZjD",
+            "expanded_url": "https://twitter.com/SabrinaKSanders/status/899067544979423232/photo/1",
+            "id": 899067522862927872,
+            "media_url": "http://pbs.twimg.com/media/DHohJglV0AALttL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DHohJglV0AALttL.jpg",
+            "type": "photo",
+            "url": "https://t.co/Avjv1A7ZjD"
+        }
+    ],
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sun Aug 20 00:36:21 +0000 2017",
+        "favorite_count": 5,
+        "hashtags": [
+            {
+                "text": "RexFest"
+            }
+        ],
+        "id": 899067544979423232,
+        "id_str": "899067544979423232",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Avjv1A7ZjD",
+                "expanded_url": "https://twitter.com/SabrinaKSanders/status/899067544979423232/photo/1",
+                "id": 899067522862927872,
+                "media_url": "http://pbs.twimg.com/media/DHohJglV0AALttL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DHohJglV0AALttL.jpg",
+                "type": "photo",
+                "url": "https://t.co/Avjv1A7ZjD"
+            }
+        ],
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Happy birthday my friend! #RexFest @RexRichardson https://t.co/Avjv1A7ZjD",
+        "urls": [],
+        "user": {
+            "created_at": "Tue Dec 06 20:47:38 +0000 2011",
+            "description": "Educator. Advocate. Leader. Problem Solver. ENTJ. Life-long Democrat. NLB Neighborhood Rebel Rouser. Sister-friend. Sugar-coated idealist.",
+            "favourites_count": 2460,
+            "followers_count": 356,
+            "friends_count": 507,
+            "geo_enabled": true,
+            "id": 430158095,
+            "lang": "en",
+            "listed_count": 16,
+            "name": "Sabrina Sanders",
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/676153031352651778/G5FF7khT_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "screen_name": "SabrinaKSanders",
+            "statuses_count": 1405,
+            "time_zone": "Alaska",
+            "url": "https://t.co/6ArawPtxZa",
+            "utc_offset": -28800
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Hon. Rex Richardson",
+                "screen_name": "RexRichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @SabrinaKSanders: Happy birthday my friend! #RexFest @RexRichardson https://t.co/Avjv1A7ZjD",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1724,
+        "followers_count": 2916,
+        "friends_count": 1478,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2485,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 430158095,
+            "name": "Sabrina Sanders",
+            "screen_name": "SabrinaKSanders"
+        },
+        {
+            "id": 39073462,
+            "name": "Hon. Rex Richardson",
+            "screen_name": "RexRichardson"
+        }
+    ]
+}
