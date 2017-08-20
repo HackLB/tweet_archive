@@ -1,0 +1,54 @@
+{
+    "created_at": "Sat Aug 19 23:35:17 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 899052177599078400,
+    "id_str": "899052177599078400",
+    "in_reply_to_screen_name": "DCeu_Fan",
+    "in_reply_to_status_id": 899043822901932032,
+    "in_reply_to_user_id": 879149739782135808,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DCeu_Fan I don't think FP will be direct adaptation. It could mean that we see multiple timelines and or earths in… https://t.co/Spc2SNXd9A",
+    "truncated": true,
+    "urls": [
+        {
+            "expanded_url": "https://twitter.com/i/web/status/899052177599078400",
+            "url": "https://t.co/Spc2SNXd9A"
+        }
+    ],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7933,
+        "followers_count": 17593,
+        "friends_count": 2286,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 273,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11254,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 879149739782135808,
+            "name": "DCeuFan",
+            "screen_name": "DCeu_Fan"
+        }
+    ]
+}
