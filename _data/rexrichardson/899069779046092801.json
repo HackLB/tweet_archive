@@ -1,0 +1,50 @@
+{
+    "created_at": "Sun Aug 20 00:45:13 +0000 2017",
+    "hashtags": [],
+    "id": 899069779046092801,
+    "id_str": "899069779046092801",
+    "in_reply_to_screen_name": "familiastevens",
+    "in_reply_to_status_id": 899069388887740416,
+    "in_reply_to_user_id": 65566023,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@familiastevens @ShawnaLBC Thank you! Much appreciated it!",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1722,
+        "followers_count": 2917,
+        "friends_count": 1477,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Hon. Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2483,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 65566023,
+            "name": "Mike Stevens",
+            "screen_name": "familiastevens"
+        },
+        {
+            "id": 2586265490,
+            "name": "Shawna S.",
+            "screen_name": "ShawnaLBC"
+        }
+    ]
+}
