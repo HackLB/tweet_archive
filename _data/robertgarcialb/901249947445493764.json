@@ -1,0 +1,88 @@
+{
+    "created_at": "Sat Aug 26 01:08:26 +0000 2017",
+    "hashtags": [],
+    "id": 901249947445493764,
+    "id_str": "901249947445493764",
+    "lang": "en",
+    "retweet_count": 4,
+    "retweeted_status": {
+        "created_at": "Sat Aug 26 01:07:13 +0000 2017",
+        "favorite_count": 9,
+        "hashtags": [],
+        "id": 901249643127775232,
+        "id_str": "901249643127775232",
+        "lang": "en",
+        "retweet_count": 4,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Ted Cruz would not have done this. Nor John Kasich, Marco Rubio, or Jeb Bush. This isn't party, but one man's sick… https://t.co/1uxKpZI43f",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/901249643127775232",
+                "url": "https://t.co/1uxKpZI43f"
+            }
+        ],
+        "user": {
+            "created_at": "Thu Jul 21 03:05:28 +0000 2011",
+            "description": "Political Science Ph.D. Teacher scholar. Mostly tweet about pop culture, politics, and Long Beach.",
+            "favourites_count": 1803,
+            "followers_count": 894,
+            "friends_count": 926,
+            "geo_enabled": true,
+            "id": 339434241,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Long Beach, California",
+            "name": "Matthew Mendez",
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/339434241/1469476919",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/882826919443668992/Uf2Ue2H8_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "screen_name": "MattyMendez",
+            "statuses_count": 5110,
+            "time_zone": "Pacific Time (US & Canada)",
+            "utc_offset": -25200
+        },
+        "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MattyMendez: Ted Cruz would not have done this. Nor John Kasich, Marco Rubio, or Jeb Bush. This isn't party, but one man's sick need fo…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 7994,
+        "followers_count": 17740,
+        "friends_count": 2287,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 276,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11305,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 339434241,
+            "name": "Matthew Mendez",
+            "screen_name": "MattyMendez"
+        }
+    ]
+}
