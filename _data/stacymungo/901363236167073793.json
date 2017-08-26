@@ -1,0 +1,42 @@
+{
+    "created_at": "Sat Aug 26 08:38:36 +0000 2017",
+    "hashtags": [],
+    "id": 901363236167073793,
+    "id_str": "901363236167073793",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Saving 2 percent now protects Long Beach's future: Rex Richardson and Stacy Mungo https://t.co/PHUGsZnSzI",
+    "urls": [
+        {
+            "expanded_url": "http://www.presstelegram.com/opinion/20170825/saving-2-percent-now-protects-long-beachs-future-rex-richardson-and-stacy-mungo",
+            "url": "https://t.co/PHUGsZnSzI"
+        }
+    ],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 649,
+        "followers_count": 4698,
+        "friends_count": 3380,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2133,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
