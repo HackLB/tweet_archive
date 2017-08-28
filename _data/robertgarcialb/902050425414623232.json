@@ -1,0 +1,55 @@
+{
+    "created_at": "Mon Aug 28 06:09:15 +0000 2017",
+    "favorite_count": 15,
+    "hashtags": [
+        {
+            "text": "GameofThrones"
+        }
+    ],
+    "id": 902050425414623232,
+    "id_str": "902050425414623232",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/RxyStUca2q",
+            "expanded_url": "https://twitter.com/RobertGarciaLB/status/902050425414623232/photo/1",
+            "id": 902050411716108288,
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DIS6EffVYAAuKW2.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIS6EffVYAAuKW2.jpg",
+            "type": "animated_gif",
+            "url": "https://t.co/RxyStUca2q"
+        }
+    ],
+    "retweet_count": 3,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Literally Sam and Bran to each other in #GameofThrones tonight https://t.co/RxyStUca2q",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 8018,
+        "followers_count": 17786,
+        "friends_count": 2290,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 271,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11325,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": []
+}
