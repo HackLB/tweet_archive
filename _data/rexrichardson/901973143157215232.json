@@ -1,0 +1,103 @@
+{
+    "created_at": "Mon Aug 28 01:02:09 +0000 2017",
+    "hashtags": [
+        {
+            "text": "UptownRenaissance"
+        }
+    ],
+    "id": 901973143157215232,
+    "id_str": "901973143157215232",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Sun Aug 27 23:18:40 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "UptownRenaissance"
+            },
+            {
+                "text": "EquityLB"
+            }
+        ],
+        "id": 901947100362973184,
+        "id_str": "901947100362973184",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://www.cloudhopper.com/\" rel=\"nofollow\">Cloudhopper</a>",
+        "text": "Appreciate @RexRichardson &amp; staff for dedication to local constituents. An #UptownRenaissance is coming with a better environment! #EquityLB",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Apr 11 16:39:43 +0000 2014",
+            "description": "Increasing access to solar power in our communities today while training the solar workforce of tomorrow. We're GRID Alternatives Greater Los Angeles.",
+            "favourites_count": 441,
+            "followers_count": 543,
+            "friends_count": 489,
+            "geo_enabled": true,
+            "id": 2438772390,
+            "lang": "en",
+            "listed_count": 29,
+            "location": "☼Los Angeles/OC/Ventura County",
+            "name": "GRID GLA",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2438772390/1495049060",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/457206473919959042/ZDIcGXRy_normal.jpeg",
+            "profile_link_color": "26AD4A",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "GRID_GLA",
+            "statuses_count": 1128,
+            "time_zone": "Tijuana",
+            "url": "https://t.co/v7iwyRYTZe",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "RexRichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @GRID_GLA: Appreciate @RexRichardson &amp; staff for dedication to local constituents. An #UptownRenaissance is coming with a better environ…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1726,
+        "followers_count": 2927,
+        "friends_count": 1497,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2493,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2438772390,
+            "name": "GRID GLA",
+            "screen_name": "GRID_GLA"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "RexRichardson"
+        }
+    ]
+}
