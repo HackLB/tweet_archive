@@ -1,0 +1,102 @@
+{
+    "created_at": "Wed Aug 30 06:43:21 +0000 2017",
+    "hashtags": [
+        {
+            "text": "votingexperience"
+        }
+    ],
+    "id": 902783781697753089,
+    "id_str": "902783781697753089",
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted_status": {
+        "created_at": "Wed Aug 30 06:40:17 +0000 2017",
+        "hashtags": [
+            {
+                "text": "votingexperience"
+            }
+        ],
+        "id": 902783009463480320,
+        "id_str": "902783009463480320",
+        "lang": "en",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Opinion sample here is specific to one change, not the full #votingexperience to be introduced in 2018-20. https://t.co/km8QPkDXHb via @kpcc",
+        "urls": [
+            {
+                "expanded_url": "http://www.scpr.org/news/2017/08/29/75135/voters-don-t-like-california-s-move-to-voting-cent/",
+                "url": "https://t.co/km8QPkDXHb"
+            }
+        ],
+        "user": {
+            "created_at": "Tue Feb 24 22:40:37 +0000 2009",
+            "description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them.\nRecords? We have those.\nGetting Married? We do that too.\nhttps://t.co/yo9p8vsY6o",
+            "favourites_count": 2648,
+            "followers_count": 4963,
+            "friends_count": 1288,
+            "geo_enabled": true,
+            "id": 21807663,
+            "lang": "en",
+            "listed_count": 226,
+            "location": "Los Angeles County",
+            "name": "Dean Logan, RR/CC",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615915864903192576/eNQyb4a3.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1489003451",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796462172524023808/YICLOhkc_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "LACountyRRCC",
+            "statuses_count": 8048,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/VkLKHVYxBl",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 12804312,
+                "name": "89.3 KPCC",
+                "screen_name": "KPCC"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LACountyRRCC: Opinion sample here is specific to one change, not the full #votingexperience to be introduced in 2018-20. https://t.co/k…",
+    "urls": [],
+    "user": {
+        "created_at": "Sat Sep 11 21:09:53 +0000 2010",
+        "default_profile": true,
+        "description": "Improving Communities one Neighborhood at a Time #LongBeach #LHS #CSUFalumni #USCPriceAlumni -proud of 10+yrs wLA County",
+        "favourites_count": 652,
+        "followers_count": 4720,
+        "friends_count": 3480,
+        "geo_enabled": true,
+        "id": 189649184,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "Long Beach, CA",
+        "name": "Councilwoman Mungo",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189649184/1401366857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436581017013350400/94Saq4SK_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "StacyMungo",
+        "statuses_count": 2136,
+        "time_zone": "Arizona",
+        "url": "https://t.co/0uKlcXede2",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 21807663,
+            "name": "Dean Logan, RR/CC",
+            "screen_name": "LACountyRRCC"
+        }
+    ]
+}
