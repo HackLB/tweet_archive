@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Aug 30 07:12:24 +0000 2017",
+    "hashtags": [
+        {
+            "text": "StandWithWomen"
+        }
+    ],
+    "id": 902791094076792833,
+    "id_str": "902791094076792833",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Tue Aug 29 22:04:41 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "StandWithWomen"
+            }
+        ],
+        "id": 902653258337984513,
+        "id_str": "902653258337984513",
+        "lang": "en",
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Thank you for your support @RexRichardson and for your commitment to #StandWithWomen https://t.co/ffTmDOchLp",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2wQLmnR",
+                "url": "https://t.co/ffTmDOchLp"
+            }
+        ],
+        "user": {
+            "created_at": "Wed Jul 01 00:07:16 +0000 2009",
+            "description": "Our vision is to create a fair and sustainable economy in Long Beach that works for everyone!",
+            "favourites_count": 112,
+            "followers_count": 1517,
+            "friends_count": 252,
+            "geo_enabled": true,
+            "id": 52568921,
+            "lang": "en",
+            "listed_count": 44,
+            "location": "Long Beach, CA",
+            "name": "Long Beach Coalition",
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52568921/1501179113",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/910812192/LACC-Logo-Final-LoRes_normal.jpg",
+            "profile_link_color": "088253",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "screen_name": "LBCoalition",
+            "statuses_count": 516,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/DzXV4bc2J4",
+            "utc_offset": -25200
+        },
+        "user_mentions": [
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "RexRichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LBCoalition: Thank you for your support @RexRichardson and for your commitment to #StandWithWomen https://t.co/ffTmDOchLp",
+    "urls": [
+        {
+            "expanded_url": "http://bit.ly/2wQLmnR",
+            "url": "https://t.co/ffTmDOchLp"
+        }
+    ],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1727,
+        "followers_count": 2927,
+        "friends_count": 1499,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2495,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 52568921,
+            "name": "Long Beach Coalition",
+            "screen_name": "LBCoalition"
+        },
+        {
+            "id": 39073462,
+            "name": "Rex Richardson",
+            "screen_name": "RexRichardson"
+        }
+    ]
+}
