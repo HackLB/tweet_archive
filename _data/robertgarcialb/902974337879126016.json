@@ -1,0 +1,53 @@
+{
+    "created_at": "Wed Aug 30 19:20:33 +0000 2017",
+    "favorite_count": 1,
+    "hashtags": [],
+    "id": 902974337879126016,
+    "id_str": "902974337879126016",
+    "in_reply_to_screen_name": "jeremiahdobruck",
+    "in_reply_to_status_id": 902958342946955264,
+    "in_reply_to_user_id": 151295556,
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@jeremiahdobruck @SenKamalaHarris Not sure yet, but I'm going to ask the city council to look into. Important topic.",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 8042,
+        "followers_count": 17815,
+        "friends_count": 2291,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 274,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11354,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 151295556,
+            "name": "Jeremiah Dobruck",
+            "screen_name": "jeremiahdobruck"
+        },
+        {
+            "id": 803694179079458816,
+            "name": "Kamala Harris",
+            "screen_name": "SenKamalaHarris"
+        }
+    ]
+}
