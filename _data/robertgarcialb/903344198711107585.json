@@ -1,0 +1,96 @@
+{
+    "created_at": "Thu Aug 31 19:50:14 +0000 2017",
+    "hashtags": [],
+    "id": 903344198711107585,
+    "id_str": "903344198711107585",
+    "lang": "en",
+    "retweet_count": 6,
+    "retweeted_status": {
+        "created_at": "Thu Aug 31 19:01:36 +0000 2017",
+        "favorite_count": 10,
+        "hashtags": [],
+        "id": 903331959744512000,
+        "id_str": "903331959744512000",
+        "lang": "en",
+        "retweet_count": 6,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "My twitter \"Ask me Anything\" starts at 1pm PST. Make sure to tag @RobertGarciaLB with your question.",
+        "urls": [],
+        "user": {
+            "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+            "default_profile": true,
+            "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+            "favourites_count": 8043,
+            "followers_count": 17843,
+            "friends_count": 2291,
+            "geo_enabled": true,
+            "id": 18120497,
+            "lang": "en",
+            "listed_count": 275,
+            "location": "Long Beach",
+            "name": "Robert Garcia",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "screen_name": "RobertGarciaLB",
+            "statuses_count": 11366,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FYG8w5WQQa",
+            "utc_offset": -25200,
+            "verified": true
+        },
+        "user_mentions": [
+            {
+                "id": 18120497,
+                "name": "Robert Garcia",
+                "screen_name": "RobertGarciaLB"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RobertGarciaLB: My twitter \"Ask me Anything\" starts at 1pm PST. Make sure to tag @RobertGarciaLB with your question.",
+    "urls": [],
+    "user": {
+        "created_at": "Sun Dec 14 18:45:09 +0000 2008",
+        "default_profile": true,
+        "description": "Mayor of @LongBeachCity. Educator. Geek. Follow official mayoral office tweets @LongBeachMayor.",
+        "favourites_count": 8043,
+        "followers_count": 17843,
+        "friends_count": 2291,
+        "geo_enabled": true,
+        "id": 18120497,
+        "lang": "en",
+        "listed_count": 275,
+        "location": "Long Beach",
+        "name": "Robert Garcia",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18120497/1501201381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864246183853563904/4nTFbfrN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "screen_name": "RobertGarciaLB",
+        "statuses_count": 11366,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FYG8w5WQQa",
+        "utc_offset": -25200,
+        "verified": true
+    },
+    "user_mentions": [
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        },
+        {
+            "id": 18120497,
+            "name": "Robert Garcia",
+            "screen_name": "RobertGarciaLB"
+        }
+    ]
+}
