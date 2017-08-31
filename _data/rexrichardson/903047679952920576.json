@@ -1,0 +1,166 @@
+{
+    "created_at": "Thu Aug 31 00:11:59 +0000 2017",
+    "hashtags": [
+        {
+            "text": "MBK"
+        },
+        {
+            "text": "LongBeach"
+        }
+    ],
+    "id": 903047679952920576,
+    "id_str": "903047679952920576",
+    "lang": "en",
+    "retweet_count": 2,
+    "retweeted_status": {
+        "created_at": "Wed Aug 30 22:46:20 +0000 2017",
+        "favorite_count": 2,
+        "hashtags": [
+            {
+                "text": "MBK"
+            },
+            {
+                "text": "LongBeach"
+            },
+            {
+                "text": "weareMBK"
+            }
+        ],
+        "id": 903026126284402688,
+        "id_str": "903026126284402688",
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ],
+                        [
+                            -118.184449,
+                            33.8602
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Michelle Obama neighborhood library",
+            "id": "0ae1743d83d68000",
+            "name": "Michelle Obama neighborhood library",
+            "place_type": "poi",
+            "url": "https://api.twitter.com/1.1/geo/id/0ae1743d83d68000.json"
+        },
+        "retweet_count": 2,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "At the #MBK #LongBeach stakeholder mtg today keeping up to date with @SafeLongBeach @LBHealthDept @MBK_Alliance &amp; @RexRichardson #weareMBK",
+        "urls": [],
+        "user": {
+            "created_at": "Fri Oct 17 16:06:56 +0000 2014",
+            "description": "A nonprofit working to empower the next generation to engage with their city so their neighborhoods can thrive.",
+            "favourites_count": 1080,
+            "followers_count": 297,
+            "friends_count": 518,
+            "geo_enabled": true,
+            "id": 2860681616,
+            "lang": "en",
+            "listed_count": 13,
+            "location": "Long Beach, CA",
+            "name": "We Are the Next",
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2860681616/1479400378",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799289227049582593/RLKlZ2CR_normal.jpg",
+            "profile_link_color": "3CC0D5",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "screen_name": "next_nonprofit",
+            "statuses_count": 549,
+            "url": "https://t.co/ImvSRZBgvL"
+        },
+        "user_mentions": [
+            {
+                "id": 851881851572469760,
+                "name": "Safe Long Beach",
+                "screen_name": "SafeLongBeach"
+            },
+            {
+                "id": 369627243,
+                "name": "Long Beach Health",
+                "screen_name": "LBHealthDept"
+            },
+            {
+                "id": 3157910605,
+                "name": "MBK Alliance",
+                "screen_name": "MBK_Alliance"
+            },
+            {
+                "id": 39073462,
+                "name": "Rex Richardson",
+                "screen_name": "RexRichardson"
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @next_nonprofit: At the #MBK #LongBeach stakeholder mtg today keeping up to date with @SafeLongBeach @LBHealthDept @MBK_Alliance &amp; @RexR…",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1729,
+        "followers_count": 2930,
+        "friends_count": 1502,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2497,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": [
+        {
+            "id": 2860681616,
+            "name": "We Are the Next",
+            "screen_name": "next_nonprofit"
+        },
+        {
+            "id": 851881851572469760,
+            "name": "Safe Long Beach",
+            "screen_name": "SafeLongBeach"
+        },
+        {
+            "id": 369627243,
+            "name": "Long Beach Health",
+            "screen_name": "LBHealthDept"
+        },
+        {
+            "id": 3157910605,
+            "name": "MBK Alliance",
+            "screen_name": "MBK_Alliance"
+        }
+    ]
+}
