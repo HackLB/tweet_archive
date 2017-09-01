@@ -1,0 +1,60 @@
+{
+    "created_at": "Fri Sep 01 22:29:27 +0000 2017",
+    "hashtags": [
+        {
+            "text": "northisnow"
+        }
+    ],
+    "id": 903746651533205504,
+    "id_str": "903746651533205504",
+    "lang": "en",
+    "media": [
+        {
+            "display_url": "pic.twitter.com/KgUZEaNt7J",
+            "expanded_url": "https://twitter.com/RexRichardson/status/903746651533205504/photo/1",
+            "id": 903746647326208000,
+            "media_url": "http://pbs.twimg.com/media/DIrAyZjUMAAMwy_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIrAyZjUMAAMwy_.jpg",
+            "type": "photo",
+            "url": "https://t.co/KgUZEaNt7J"
+        },
+        {
+            "display_url": "pic.twitter.com/KgUZEaNt7J",
+            "expanded_url": "https://twitter.com/RexRichardson/status/903746651533205504/photo/1",
+            "id": 903746647317872640,
+            "media_url": "http://pbs.twimg.com/media/DIrAyZhVAAADZjm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIrAyZhVAAADZjm.jpg",
+            "type": "photo",
+            "url": "https://t.co/KgUZEaNt7J"
+        }
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Another productive staff meeting! \n\nWe are on the right track for our upcoming projects! #northisnow https://t.co/KgUZEaNt7J",
+    "urls": [],
+    "user": {
+        "created_at": "Sun May 10 16:43:34 +0000 2009",
+        "description": "Vice Mayor, Long Beach City Councilmember, Husband, Dadx2, Millennial. Advocate for #NorthLongBeach + #UptownRenaissance + #EquityLB + #EconomicInclusion",
+        "favourites_count": 1729,
+        "followers_count": 2938,
+        "friends_count": 1500,
+        "geo_enabled": true,
+        "id": 39073462,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "The LBC",
+        "name": "Rex Richardson",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39073462/1484025897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766761875174404096/xQa4bAWA_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "screen_name": "RexRichardson",
+        "statuses_count": 2498,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/OMw2ZmelIz",
+        "utc_offset": -25200
+    },
+    "user_mentions": []
+}
